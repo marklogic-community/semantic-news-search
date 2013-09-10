@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/education-23270715">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/education-23270715"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">An official review of school food suggests schools in England should ban packed lunches and lower the price of cooked dinners to promote healthy eating.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-12T06:40:39</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68687000/jpg/_68687905_lunch.jpg"/>
+         <rnews:headline xml:lang="en-GB">Ban packed lunches, schools urged</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Education</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68687000/jpg/_68687904_lunch.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/education-23270715"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">School dinners</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68688000/jpg/_68688136_68688135.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/education-23270715"/>
+         <rnews:description xml:lang="en-GB">Bramley Sunnyside headteacher Helen Headleand</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="20d8916b-d1bc-e76f-13fd-210381c6d861"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/LIwSTxPTu89vBgGdjwnw0g"
+                    rdf:about="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-12</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/education-23270715"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-12 04:47:25.740"
+                    rdf:about="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|Zjp4UGt9gT5QHB97TyuRNX4dEhs=|AaB5TAf0le8qOy/MaCK7mP1vfSeTPphWaBNMGVNGrCDt3wvq0MSGXw==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Education"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Education</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.000</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983/cat/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Hospitality_Recreation"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Hospitality_Recreation</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.734</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0cc0afd0-fcc1-3cba-b41e-12d3b0879e05">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>College Leaders</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0cc0afd0-fcc1-3cba-b41e-12d3b0879e05"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.146</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/24375a71-c265-3a9d-ad32-c9734d847e2d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/RadioStation"/>
+         <c:name>BBC Radio 4</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/24375a71-c265-3a9d-ad32-c9734d847e2d"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.276</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/8f1892f3-5591-3919-9330-737465606cd4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Department for Education</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/8f1892f3-5591-3919-9330-737465606cd4"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.365</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/1ebeca0a-d00a-3727-b755-5ff2d56809d5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCommunication"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/46cb21f6-c32b-3c01-a553-0496bfe4c00a"/>
+         <c:organizationorcompany rdf:resource="http://d.opencalais.com/comphash-1/6c946baf-069d-33e1-aa51-414178ac8513"/>
+         <c:status>announced</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e72880d7-219a-3132-a36a-c384756b16e3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>National Association</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e72880d7-219a-3132-a36a-c384756b16e3"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.194</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6228610e-980b-343d-b068-25efd80f0b97">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>school food</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/6228610e-980b-343d-b068-25efd80f0b97"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.105</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/521e2c33-86df-3042-8e97-5470594da7ed">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>General secretary</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/521e2c33-86df-3042-8e97-5470594da7ed"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.222</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/6c946baf-069d-33e1-aa51-414178ac8513">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>BBC Radio</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/6c946baf-069d-33e1-aa51-414178ac8513"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.276</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/2789a48b-acc6-392b-8e75-de107765dbb0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Association of School and College Leaders</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/2789a48b-acc6-392b-8e75-de107765dbb0"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.146</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0203a218-9e49-3783-924a-1b70bf11a58b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>government-commissioned school food review</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0203a218-9e49-3783-924a-1b70bf11a58b"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.312</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/145c2073-e1ba-3b85-bdae-e28b97d4b5a8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/80f68640-74e2-3978-991a-468e7cd02e34"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>Leon Frenkel(Acatos,Princes)</c:name>
+         <c:shortname>Leon</c:shortname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/c1126ab2-2fb4-35ec-a31b-37f5e9a4df74">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Michael Gove</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Michael Gove</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/c1126ab2-2fb4-35ec-a31b-37f5e9a4df74"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.110</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e20de102-6312-3e6e-a07c-d20fdbe29ccb">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>chairman</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e20de102-6312-3e6e-a07c-d20fdbe29ccb"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.064</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ac78a5de-3890-38e3-8a01-d60aaefdafa4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>food standards</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/ac78a5de-3890-38e3-8a01-d60aaefdafa4"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.144</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/872bc417-12ee-30bf-afb9-730c376131b3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>restaurant chain</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/872bc417-12ee-30bf-afb9-730c376131b3"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.312</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/ab28e62f-7f19-3630-a7e7-2b0827195615">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Russell Hobby</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Russell Hobby</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/ab28e62f-7f19-3630-a7e7-2b0827195615"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.194</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/46cb21f6-c32b-3c01-a553-0496bfe4c00a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Henry Dimbleby</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Henry Dimbleby</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/46cb21f6-c32b-3c01-a553-0496bfe4c00a"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.556</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/44e48518-a955-3092-80cb-c57f4cb495fd">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Jamie Oliver</c:name>
+         <c:persontype>entertainment</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Jamie Oliver</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/44e48518-a955-3092-80cb-c57f4cb495fd"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.464</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/247c81ed-e2c0-3163-8c0f-3c231430768e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Brian Lightman</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Brian Lightman</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983/Relevance/17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/247c81ed-e2c0-3163-8c0f-3c231430768e"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.137</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/64f92f66-b444-30e6-97f6-bc63777d1755">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>minister</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983/Relevance/18">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/64f92f66-b444-30e6-97f6-bc63777d1755"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.112</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c14241b6-5f57-315c-9d5e-aa617f57bfc1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>Head</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983/Relevance/19">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c14241b6-5f57-315c-9d5e-aa617f57bfc1"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.194</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ae35e9f6-79ab-3c12-97cf-e3d1ae08dc30">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/028fbaf8-2d9e-3402-9b9a-97348a78bed7"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/e20de102-6312-3e6e-a07c-d20fdbe29ccb"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/e3df7df5-58c9-3de3-af4a-c7250561825c"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/e3df7df5-58c9-3de3-af4a-c7250561825c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Children's Food Trust</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983/Relevance/20">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/e3df7df5-58c9-3de3-af4a-c7250561825c"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.064</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/d9d14907-d86c-34ef-836a-433a36448fb2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>John Vincent</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>John Vincent</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983/Relevance/21">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/d9d14907-d86c-34ef-836a-433a36448fb2"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.316</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/80f68640-74e2-3978-991a-468e7cd02e34">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Leon</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983/Relevance/22">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/80f68640-74e2-3978-991a-468e7cd02e34"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.312</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/aac91dcb-e010-39a4-a477-2fd2733edb40">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/247c81ed-e2c0-3163-8c0f-3c231430768e"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/521e2c33-86df-3042-8e97-5470594da7ed"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/028fbaf8-2d9e-3402-9b9a-97348a78bed7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Rob Rees</c:name>
+         <c:persontype>economic</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Rob Rees</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983/Relevance/23">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/028fbaf8-2d9e-3402-9b9a-97348a78bed7"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.070</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/6f43059b-9e25-36e5-9d35-5dff01e1caac">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Sharon Hodgson</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Sharon Hodgson</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983/Relevance/24">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/6f43059b-9e25-36e5-9d35-5dff01e1caac"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.112</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/61f3a3df-59d2-3c1d-9f06-153c630008a1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>David Cameron</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>David Cameron</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983/Relevance/25">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/61f3a3df-59d2-3c1d-9f06-153c630008a1"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.098</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/02661dee-a162-3cbd-a61c-5839a61d3a71">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>processed food</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983/Relevance/26">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/02661dee-a162-3cbd-a61c-5839a61d3a71"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.296</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3f29b97d-f62d-3b55-af76-338212d1213a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>junk food</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983/Relevance/27">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3f29b97d-f62d-3b55-af76-338212d1213a"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.136</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/7a6a4835-2d42-388a-97e8-ef689d5745f0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/6c946baf-069d-33e1-aa51-414178ac8513"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.90000004</c:score>
+         <c:name>BRITISH BROADCASTING CORPORATION</c:name>
+         <c:shortname>BBC</c:shortname>
+         <c:ticker>BBC</c:ticker>
+         <c:symbol>TBBC.UL</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6fe84367-8928-39d6-9ec7-412abe4f822f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/6f43059b-9e25-36e5-9d35-5dff01e1caac"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/64f92f66-b444-30e6-97f6-bc63777d1755"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5f596899-3145-3448-b4db-f3eb5fc1dbf7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>chef</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983/Relevance/28">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/5f596899-3145-3448-b4db-f3eb5fc1dbf7"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.296</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c16d75d3-6824-32a7-82c2-b8c266572ee5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>food</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983/Relevance/29">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fbf3960c-68ee-30dc-97d7-6ea7d945d983"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c16d75d3-6824-32a7-82c2-b8c266572ee5"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.595</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

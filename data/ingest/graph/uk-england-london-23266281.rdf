@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/uk-england-london-23266281">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/uk-england-london-23266281"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Six protesters from Greenpeace are attempting to scale the tallest building in western Europe, The Shard in London.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-11T11:36:16</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68665000/jpg/_68665217_68664171.jpg"/>
+         <rnews:headline xml:lang="en-GB">Protesters attempt to scale Shard</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">England/London</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68665000/jpg/_68665783_68665782.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/uk-england-london-23266281"/>
+         <rnews:description xml:lang="en-GB">Climbers on side of Shard</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68664000/jpg/_68664164_68664163.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/uk-england-london-23266281"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Greenpeace protesters</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68665000/jpg/_68665235_68665234.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/uk-england-london-23266281"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">People looking up at the Shard</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68666000/jpg/_68666915_68664167.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/uk-england-london-23266281"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">226</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">282</rnews:height>
+         <rnews:description xml:lang="en-GB">Protesters scaling the Shard</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="346897c7-96d9-1c5d-13fc-d89ff1697348"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/uK-pMiOTDVG9zUdRp5H*GQ"
+                    rdf:about="http://d.opencalais.com/dochash-1/ca11f3f0-43b2-3c12-8bfc-64968323d0ab">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-11</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/uk-england-london-23266281"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-11 06:42:20.454"
+                    rdf:about="http://d.opencalais.com/dochash-1/ca11f3f0-43b2-3c12-8bfc-64968323d0ab/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ca11f3f0-43b2-3c12-8bfc-64968323d0ab"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|HuKCgas4iCj2aoy0soAlKjJd3Ws=|bPTSGtMY6iJfYmzsYGV2zVMmE+F+zZ/OmYn4Ve635wpxTF28nLr8EQ==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ca11f3f0-43b2-3c12-8bfc-64968323d0ab/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ca11f3f0-43b2-3c12-8bfc-64968323d0ab"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0fad6f8b-69b6-3008-9afd-7ff5fcb2f60a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>produce oil</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ca11f3f0-43b2-3c12-8bfc-64968323d0ab/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ca11f3f0-43b2-3c12-8bfc-64968323d0ab"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0fad6f8b-69b6-3008-9afd-7ff5fcb2f60a"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.085</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/026bd490-3d3b-3a54-bc24-6498a2f9713e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonAttributes"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/6b5cceff-b946-3cec-a225-b094b7216f5f"/>
+         <c:age>32</c:age>
+         <c:gender>F</c:gender>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/31ec6404-85fe-33f5-af02-cb37fec6b170">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>oil</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ca11f3f0-43b2-3c12-8bfc-64968323d0ab/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ca11f3f0-43b2-3c12-8bfc-64968323d0ab"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/31ec6404-85fe-33f5-af02-cb37fec6b170"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.628</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>BBC</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ca11f3f0-43b2-3c12-8bfc-64968323d0ab/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ca11f3f0-43b2-3c12-8bfc-64968323d0ab"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.499</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7cd2b526-ce81-3ffe-abaa-850703e1fff0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>climber</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ca11f3f0-43b2-3c12-8bfc-64968323d0ab/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ca11f3f0-43b2-3c12-8bfc-64968323d0ab"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7cd2b526-ce81-3ffe-abaa-850703e1fff0"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.205</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7549cccb-aa7d-3b01-82b9-31be9fa7dad9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>reporter</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ca11f3f0-43b2-3c12-8bfc-64968323d0ab/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ca11f3f0-43b2-3c12-8bfc-64968323d0ab"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7549cccb-aa7d-3b01-82b9-31be9fa7dad9"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.499</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/f08025f6-8e95-c3ff-2909-0a5219ed3bfa">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ca11f3f0-43b2-3c12-8bfc-64968323d0ab"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/6fda72fd-105c-39ba-bb79-da95785a249f"/>
+         <c:name>London,Greater London,United Kingdom</c:name>
+         <c:shortname>London</c:shortname>
+         <c:containedbystate>Greater London</c:containedbystate>
+         <c:containedbycountry>United Kingdom</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">51.517124</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-0.106196</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/07bd784b-2501-3b08-b30e-40cfc880e1ce">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Greenpeace</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ca11f3f0-43b2-3c12-8bfc-64968323d0ab/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ca11f3f0-43b2-3c12-8bfc-64968323d0ab"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/07bd784b-2501-3b08-b30e-40cfc880e1ce"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.590</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/acf9f9b1-6551-33ee-956b-745e23d6d0a3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>energy resources</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ca11f3f0-43b2-3c12-8bfc-64968323d0ab/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ca11f3f0-43b2-3c12-8bfc-64968323d0ab"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/acf9f9b1-6551-33ee-956b-745e23d6d0a3"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.093</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/2cef6865-989d-373f-b391-72cb2fcdfeac">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>energy security</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ca11f3f0-43b2-3c12-8bfc-64968323d0ab/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ca11f3f0-43b2-3c12-8bfc-64968323d0ab"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/2cef6865-989d-373f-b391-72cb2fcdfeac"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.093</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/91fa7fd0-5352-3705-9614-36f22458e893">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>London Bridge Station</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ca11f3f0-43b2-3c12-8bfc-64968323d0ab/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ca11f3f0-43b2-3c12-8bfc-64968323d0ab"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/91fa7fd0-5352-3705-9614-36f22458e893"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.318</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/224b4fca-14c4-394b-b902-01fabfd8b129">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Jonathan Savage</c:name>
+         <c:persontype>economic</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Jonathan Savage</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ca11f3f0-43b2-3c12-8bfc-64968323d0ab/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ca11f3f0-43b2-3c12-8bfc-64968323d0ab"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/224b4fca-14c4-394b-b902-01fabfd8b129"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.311</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/9a24871e-0191-39e1-add7-4c7c15e013fd">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/6b5cceff-b946-3cec-a225-b094b7216f5f"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/7cd2b526-ce81-3ffe-abaa-850703e1fff0"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/df0b3037-1884-361a-b0a7-fdea1e6966fc">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/224b4fca-14c4-394b-b902-01fabfd8b129"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/7549cccb-aa7d-3b01-82b9-31be9fa7dad9"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/17126376-4538-3f7d-b31d-bcb2c6472493">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>spokesman</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ca11f3f0-43b2-3c12-8bfc-64968323d0ab/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ca11f3f0-43b2-3c12-8bfc-64968323d0ab"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/17126376-4538-3f7d-b31d-bcb2c6472493"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.261</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/7a6a4835-2d42-388a-97e8-ef689d5745f0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ca11f3f0-43b2-3c12-8bfc-64968323d0ab"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>BRITISH BROADCASTING CORPORATION</c:name>
+         <c:shortname>BBC</c:shortname>
+         <c:ticker>BBC</c:ticker>
+         <c:symbol>TBBC.UL</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/574f0f22-d4be-349d-a7ac-283f41d072d4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>oil and gas production</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ca11f3f0-43b2-3c12-8bfc-64968323d0ab/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ca11f3f0-43b2-3c12-8bfc-64968323d0ab"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/574f0f22-d4be-349d-a7ac-283f41d072d4"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.113</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/6b5cceff-b946-3cec-a225-b094b7216f5f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Victoria Henry</c:name>
+         <c:persontype>sports</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Victoria Henry</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ca11f3f0-43b2-3c12-8bfc-64968323d0ab/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ca11f3f0-43b2-3c12-8bfc-64968323d0ab"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/6b5cceff-b946-3cec-a225-b094b7216f5f"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.205</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6fda72fd-105c-39ba-bb79-da95785a249f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>London</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ca11f3f0-43b2-3c12-8bfc-64968323d0ab/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ca11f3f0-43b2-3c12-8bfc-64968323d0ab"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/6fda72fd-105c-39ba-bb79-da95785a249f"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.585</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/2f785ffe-9494-3979-8724-2ffbf46195c3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>Shard spokesman</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ca11f3f0-43b2-3c12-8bfc-64968323d0ab/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ca11f3f0-43b2-3c12-8bfc-64968323d0ab"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/2f785ffe-9494-3979-8724-2ffbf46195c3"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.070</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

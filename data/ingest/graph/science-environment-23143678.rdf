@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/science-environment-23143678">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/science-environment-23143678"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Footage from high-speed cameras shows how hummingbirds' main flight feathers shift, changing the shape of the wing to fine-tune the birds' lift.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-04T07:43:08</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68530000/jpg/_68530645_d7k_0170.jpg"/>
+         <rnews:headline xml:lang="en-GB">Hummingbirds' wings 'shape-shift'</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Science and Environment</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68496000/jpg/_68496755_68496754.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/science-environment-23143678"/>
+         <rnews:description xml:lang="en-GB">Slow motion hummingbird footage (c) Masateru Maeda and Prof Hiroto Tanaka</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68534000/jpg/_68534013_d7k_0068.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/science-environment-23143678"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</rnews:height>
+         <rnews:description xml:lang="en-GB">Tama Zoological Park glass house</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="9327f402-e1b9-7911-13fb-dca8d5237274"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/GRDiQ-IMR*7GW6UTbyGzXQ"
+                    rdf:about="http://d.opencalais.com/dochash-1/69e30d66-0d5f-3edd-89df-490d0ac70bec">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-04</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/science-environment-23143678"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 06:18:55.698"
+                    rdf:about="http://d.opencalais.com/dochash-1/69e30d66-0d5f-3edd-89df-490d0ac70bec/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/69e30d66-0d5f-3edd-89df-490d0ac70bec"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|HMMWB/xCTJlDOMvwy+kMYS7uF0c=|SKZKlWkTxCdNcneDmiVgnwoDtYZ4SY03mzRbbrWOzM9GnvL+o3glug==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/69e30d66-0d5f-3edd-89df-490d0ac70bec/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/69e30d66-0d5f-3edd-89df-490d0ac70bec"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a5d9e6b4-d01b-35e1-805b-2e19b6a6fce4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Tokyo</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/69e30d66-0d5f-3edd-89df-490d0ac70bec/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/69e30d66-0d5f-3edd-89df-490d0ac70bec"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a5d9e6b4-d01b-35e1-805b-2e19b6a6fce4"/>
+         <c:relevance>0.292</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/837e7c6d-2b34-cffb-8ae8-957305307f46">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/69e30d66-0d5f-3edd-89df-490d0ac70bec"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/2066bf14-6c3d-3869-a22f-0ac1f61cbc1b"/>
+         <c:name>Valencia,Valencia,Spain</c:name>
+         <c:shortname>Valencia</c:shortname>
+         <c:containedbystate>Valencia</c:containedbystate>
+         <c:containedbycountry>Spain</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">39.4766666667</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-0.374444444444</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/1747d4b2-dd4b-cd66-6e2d-f31563d22dbe">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/69e30d66-0d5f-3edd-89df-490d0ac70bec"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/4629bb98-2174-34d0-9db3-27c1522d6426"/>
+         <c:name>Spain</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.6985822539</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-3.29494619839</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/4629bb98-2174-34d0-9db3-27c1522d6426">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Spain</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/69e30d66-0d5f-3edd-89df-490d0ac70bec/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/69e30d66-0d5f-3edd-89df-490d0ac70bec"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/4629bb98-2174-34d0-9db3-27c1522d6426"/>
+         <c:relevance>0.304</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5c608b58-9d07-3d5c-94f9-e5b0e217f705">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Chiba University in Japan</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>Japanese</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/69e30d66-0d5f-3edd-89df-490d0ac70bec/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/69e30d66-0d5f-3edd-89df-490d0ac70bec"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/5c608b58-9d07-3d5c-94f9-e5b0e217f705"/>
+         <c:relevance>0.531</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ae2d7555-9777-32b3-8082-7c9b7035a09d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Society for Experimental Biology</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/69e30d66-0d5f-3edd-89df-490d0ac70bec/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/69e30d66-0d5f-3edd-89df-490d0ac70bec"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/ae2d7555-9777-32b3-8082-7c9b7035a09d"/>
+         <c:relevance>0.304</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/2066bf14-6c3d-3869-a22f-0ac1f61cbc1b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Valencia</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/69e30d66-0d5f-3edd-89df-490d0ac70bec/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/69e30d66-0d5f-3edd-89df-490d0ac70bec"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/2066bf14-6c3d-3869-a22f-0ac1f61cbc1b"/>
+         <c:relevance>0.304</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/0121608c-57b3-3435-98af-985330af19e2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Masateru Maeda</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Masateru Maeda</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/69e30d66-0d5f-3edd-89df-490d0ac70bec/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/69e30d66-0d5f-3edd-89df-490d0ac70bec"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/0121608c-57b3-3435-98af-985330af19e2"/>
+         <c:relevance>0.855</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e87139c8-5250-3365-a63a-29ace2b82436">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Chiba University</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/69e30d66-0d5f-3edd-89df-490d0ac70bec/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/69e30d66-0d5f-3edd-89df-490d0ac70bec"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e87139c8-5250-3365-a63a-29ace2b82436"/>
+         <c:relevance>0.531</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/33d20acf-9f02-3410-98ed-eedc9165cc7d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>BBC News</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/69e30d66-0d5f-3edd-89df-490d0ac70bec/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/69e30d66-0d5f-3edd-89df-490d0ac70bec"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/33d20acf-9f02-3410-98ed-eedc9165cc7d"/>
+         <c:relevance>0.179</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/9f90dab5-472c-9bab-f71f-b90151213d67">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/69e30d66-0d5f-3edd-89df-490d0ac70bec"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a5d9e6b4-d01b-35e1-805b-2e19b6a6fce4"/>
+         <c:name>Tokyo,Japan</c:name>
+         <c:shortname>Tokyo</c:shortname>
+         <c:containedbycountry>Japan</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">35.6833</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">139.7667</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/11b7747d-da0c-369d-ab9a-5b5825b421c9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>scientist</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/69e30d66-0d5f-3edd-89df-490d0ac70bec/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/69e30d66-0d5f-3edd-89df-490d0ac70bec"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/11b7747d-da0c-369d-ab9a-5b5825b421c9"/>
+         <c:relevance>0.304</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/465fbd14-80db-3b14-b08b-0abc9aa35536">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCommunication"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/0121608c-57b3-3435-98af-985330af19e2"/>
+         <c:organizationorcompany rdf:resource="http://d.opencalais.com/comphash-1/33d20acf-9f02-3410-98ed-eedc9165cc7d"/>
+         <c:status>announced</c:status>
+      </rdf:Description>
+   </rdf:RDF>

@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/business-23237004">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/business-23237004"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Shares of Japanese camera and medical equipment maker Olympus fall after it unveils plans to raise 118bn yen ($1.2bn; Ã‚Â£780m) in fresh capital.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-09T06:25:11</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68621000/jpg/_68621085_51803937.jpg"/>
+         <rnews:headline xml:lang="en-GB">Olympus shares fall on funding plans</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Business</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68621000/jpg/_68621081_51803937.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/business-23237004"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">An Olympus employee holding a capsule type endoscope</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="bd3fc9ad-691e-34a8-13fc-2276f7c37274"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/jM94fxOgJ56lPyiIPLdTVg"
+                    rdf:about="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-09</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/business-23237004"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-09 02:38:51.772"
+                    rdf:about="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|H0eBH7SnRev7Qv4ezsebQ0hPIac=|WA9sNhQkyN6LGEqk5T99pOamMewHCG0lwDaNh0FM4i9JqVS51+FIbA==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Business_Finance"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Business_Finance</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.000</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/b57d0ac8-b826-3b7f-9196-50bbfc01bc2b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Tsuyoshi Kikukawa</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Tsuyoshi Kikukawa</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/b57d0ac8-b826-3b7f-9196-50bbfc01bc2b"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.210</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ed1c9b63-4b8e-311f-b8db-0f90ea812660">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Japan</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/ed1c9b63-4b8e-311f-b8db-0f90ea812660"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.168</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a5d9e6b4-d01b-35e1-805b-2e19b6a6fce4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Tokyo</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a5d9e6b4-d01b-35e1-805b-2e19b6a6fce4"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.287</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c0200ca4-d784-316d-8dd5-fbe1b525477e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/Conviction"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/6ad750c5-3c05-332f-9fc8-a42c26bef5d6"/>
+         <c:charge>falsifying accounts to cover up losses of $1.7bn</c:charge>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/0040f98c-2818-3fbc-a497-532cb1e452a4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Michael Woodford</c:name>
+         <c:persontype>economic</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Michael Woodford</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/0040f98c-2818-3fbc-a497-532cb1e452a4"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.182</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3a1d91d5-155c-3395-8a60-0e25a17584e7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/Conviction"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/7fa774af-46f0-30de-b720-3bd39d4a5f27"/>
+         <c:charge>falsifying accounts to cover up losses of $1.7bn</c:charge>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/7fa774af-46f0-30de-b720-3bd39d4a5f27">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Hisashi Mori</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Hisashi Mori</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/7fa774af-46f0-30de-b720-3bd39d4a5f27"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.116</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/4a1512f5-827b-3148-ae97-6704812248fc">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>recent accounting scandal</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/4a1512f5-827b-3148-ae97-6704812248fc"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.308</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/736a403d-157b-3e80-86a7-acc404607cb2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>USD</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/736a403d-157b-3e80-86a7-acc404607cb2"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.559</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7fa40713-3d29-3e45-bddb-e5b3dc78138d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/b57d0ac8-b826-3b7f-9196-50bbfc01bc2b"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/22f70ac6-3590-3e73-9b8f-3637e4a370ef"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/578ed5a4-eecf-5a15-803a-bdc49f6152d6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/ed1c9b63-4b8e-311f-b8db-0f90ea812660"/>
+         <c:name>Japan</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">35.4111749285</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">135.833685568</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/733463e3-3782-3e88-991b-97ab93d3393a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Olympus</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/733463e3-3782-3e88-991b-97ab93d3393a"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.755</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/22f70ac6-3590-3e73-9b8f-3637e4a370ef">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>challenging chairman</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/22f70ac6-3590-3e73-9b8f-3637e4a370ef"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.168</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/f2805b9a-be6e-3281-806c-91ff02668e10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Japanese court</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>Japanese</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/f2805b9a-be6e-3281-806c-91ff02668e10"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.096</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7217246c-28f8-3e8c-8a13-372b472c6d8d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/0040f98c-2818-3fbc-a497-532cb1e452a4"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/2d67e2d7-fdad-3e4c-a84e-825badc0aa0c"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/733463e3-3782-3e88-991b-97ab93d3393a"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>past</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/84dccb60-5afd-30dd-9d2d-5fcc1af70d0c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>GBP</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/84dccb60-5afd-30dd-9d2d-5fcc1af70d0c"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.116</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a17b6480-7590-3fab-8273-775c000ba09a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/SecondaryIssuance"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/733463e3-3782-3e88-991b-97ab93d3393a"/>
+         <c:status>announced</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/00e0e7c6-ca4d-30db-b99c-189cb066e8e1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/EmploymentRelation"/>
+         <c:person_employer rdf:resource="http://d.opencalais.com/pershash-1/0040f98c-2818-3fbc-a497-532cb1e452a4"/>
+         <c:person_employee rdf:resource="http://d.opencalais.com/pershash-1/b57d0ac8-b826-3b7f-9196-50bbfc01bc2b"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/22f70ac6-3590-3e73-9b8f-3637e4a370ef"/>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/95fbcdbf-f90a-31cb-b5bc-9541d729e371">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>JPY</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/95fbcdbf-f90a-31cb-b5bc-9541d729e371"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.493</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/6ad750c5-3c05-332f-9fc8-a42c26bef5d6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Hideo Yamada</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Hideo Yamada</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/6ad750c5-3c05-332f-9fc8-a42c26bef5d6"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.116</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/9f90dab5-472c-9bab-f71f-b90151213d67">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a5d9e6b4-d01b-35e1-805b-2e19b6a6fce4"/>
+         <c:name>Tokyo,Japan</c:name>
+         <c:shortname>Tokyo</c:shortname>
+         <c:containedbycountry>Japan</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">35.6833</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">139.7667</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/a139f9f6-6e65-365e-a156-9f32e2baa9db">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/733463e3-3782-3e88-991b-97ab93d3393a"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>OLYMPUS CORPORATION</c:name>
+         <c:shortname>Olympus</c:shortname>
+         <c:ticker>OLYMP</c:ticker>
+         <c:symbol>7733.T</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/2d67e2d7-fdad-3e4c-a84e-825badc0aa0c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>chief executive</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ceea13f1-8db6-31b1-bf9e-2ef49a8f2fb5"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/2d67e2d7-fdad-3e4c-a84e-825badc0aa0c"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.168</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-asia-china-23193420">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-asia-china-23193420"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">A court in Hong Kong sentences a Feng Shui master and alleged lover of billionaire tycoon Nina Wang to 12 years in jail for forging her will.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-05T06:25:57</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68560000/jpg/_68560761_68551148.jpg"/>
+         <rnews:headline xml:lang="en-GB">Man jailed for faking Nina Wang will</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68551000/jpg/_68551153_68551148.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-asia-china-23193420"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</rnews:height>
+         <rnews:description xml:lang="en-GB"> Former Feng shui practitioner Peter Chan Chun-chuen enters the High Court on July 4, 2013 in Hong Kong, China.</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="c6ce81ab-51d8-e586-13fb-dd582831b944"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/oZVpbhzO1qNRSOAwia4uPw"
+                    rdf:about="http://d.opencalais.com/dochash-1/dfb2922b-2f84-3537-80da-e744eb4f6252">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-05</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-asia-china-23193420"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 06:30:53.843"
+                    rdf:about="http://d.opencalais.com/dochash-1/dfb2922b-2f84-3537-80da-e744eb4f6252/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dfb2922b-2f84-3537-80da-e744eb4f6252"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|TpquDfBnvlVKTrIoLb2KRP3EwSA=|gSZb3KKGTCjS6rbnspoBgvVHcl9BzQND/OBp4NBFPbXrkUC52hDuXg==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/dfb2922b-2f84-3537-80da-e744eb4f6252/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dfb2922b-2f84-3537-80da-e744eb4f6252"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/dfb2922b-2f84-3537-80da-e744eb4f6252/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dfb2922b-2f84-3537-80da-e744eb4f6252"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/HumanInterest"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Human Interest</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.922</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/dfb2922b-2f84-3537-80da-e744eb4f6252/cat/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dfb2922b-2f84-3537-80da-e744eb4f6252"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Law_Crime"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Law_Crime</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.873</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/cd3511ea-fb08-3ce9-b5ff-52e20e945682">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Juliana Liu</c:name>
+         <c:persontype>economic</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Juliana Liu</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/dfb2922b-2f84-3537-80da-e744eb4f6252/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dfb2922b-2f84-3537-80da-e744eb4f6252"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/cd3511ea-fb08-3ce9-b5ff-52e20e945682"/>
+         <c:relevance>0.268</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/7fa75939-c908-38c4-bc10-a3747f2be1e7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Andrew Macrae</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Andrew Macrae</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/dfb2922b-2f84-3537-80da-e744eb4f6252/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dfb2922b-2f84-3537-80da-e744eb4f6252"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/7fa75939-c908-38c4-bc10-a3747f2be1e7"/>
+         <c:relevance>0.234</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/69542e46-77a3-3575-bcc6-bfb5f53e00e5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Chinachem Charitable Foundation Ltd</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/dfb2922b-2f84-3537-80da-e744eb4f6252/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dfb2922b-2f84-3537-80da-e744eb4f6252"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/69542e46-77a3-3575-bcc6-bfb5f53e00e5"/>
+         <c:relevance>0.097</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>BBC</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/dfb2922b-2f84-3537-80da-e744eb4f6252/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dfb2922b-2f84-3537-80da-e744eb4f6252"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:relevance>0.268</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/4dbfaab6-f8cb-3678-8e0e-bf467e075aa6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Reuters</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/dfb2922b-2f84-3537-80da-e744eb4f6252/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dfb2922b-2f84-3537-80da-e744eb4f6252"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/4dbfaab6-f8cb-3678-8e0e-bf467e075aa6"/>
+         <c:relevance>0.247</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/736a403d-157b-3e80-86a7-acc404607cb2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>USD</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/dfb2922b-2f84-3537-80da-e744eb4f6252/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dfb2922b-2f84-3537-80da-e744eb4f6252"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/736a403d-157b-3e80-86a7-acc404607cb2"/>
+         <c:relevance>0.507</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/a3bd16dd-5fcc-34b3-a00a-f7279a90cd0b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Peter Chan</c:name>
+         <c:persontype>entertainment</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Peter Chan</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/dfb2922b-2f84-3537-80da-e744eb4f6252/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dfb2922b-2f84-3537-80da-e744eb4f6252"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/a3bd16dd-5fcc-34b3-a00a-f7279a90cd0b"/>
+         <c:relevance>0.765</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/4637c9cc-8156-39d9-96d7-8f2040ebf57b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/cd3511ea-fb08-3ce9-b5ff-52e20e945682"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a5359054-758f-3c20-ac97-d90fbc6a170e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Continent"/>
+         <c:name>Asia</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/dfb2922b-2f84-3537-80da-e744eb4f6252/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dfb2922b-2f84-3537-80da-e744eb4f6252"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a5359054-758f-3c20-ac97-d90fbc6a170e"/>
+         <c:relevance>0.243</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/dbea25c4-97f0-30cf-9802-66cdda48876d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dfb2922b-2f84-3537-80da-e744eb4f6252"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/4dbfaab6-f8cb-3678-8e0e-bf467e075aa6"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>THOMSON REUTERS GROUP LIMITED</c:name>
+         <c:shortname>Thmsn Reuters</c:shortname>
+         <c:ticker>TRIGP</c:ticker>
+         <c:symbol>TRIGP.UL</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/84dccb60-5afd-30dd-9d2d-5fcc1af70d0c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>GBP</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/dfb2922b-2f84-3537-80da-e744eb4f6252/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dfb2922b-2f84-3537-80da-e744eb4f6252"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/84dccb60-5afd-30dd-9d2d-5fcc1af70d0c"/>
+         <c:relevance>0.315</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/ea848a8d-ab77-396f-a71c-df9c826326e5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Teddy Wang</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Teddy Wang</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/dfb2922b-2f84-3537-80da-e744eb4f6252/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dfb2922b-2f84-3537-80da-e744eb4f6252"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/ea848a8d-ab77-396f-a71c-df9c826326e5"/>
+         <c:relevance>0.069</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/7a6a4835-2d42-388a-97e8-ef689d5745f0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dfb2922b-2f84-3537-80da-e744eb4f6252"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>BRITISH BROADCASTING CORPORATION</c:name>
+         <c:shortname>BBC</c:shortname>
+         <c:ticker>BBC</c:ticker>
+         <c:symbol>TBBC.UL</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/639608ae-2f1c-31b8-8353-f2dd26647561">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Nina Wang</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Nina Wang</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/dfb2922b-2f84-3537-80da-e744eb4f6252/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dfb2922b-2f84-3537-80da-e744eb4f6252"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/639608ae-2f1c-31b8-8353-f2dd26647561"/>
+         <c:relevance>0.797</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/7fd6b1d2-0ca9-3ed3-ac8c-7745ba927c06">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Tony Chan</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Tony Chan</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/dfb2922b-2f84-3537-80da-e744eb4f6252/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dfb2922b-2f84-3537-80da-e744eb4f6252"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/7fd6b1d2-0ca9-3ed3-ac8c-7745ba927c06"/>
+         <c:relevance>0.488</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

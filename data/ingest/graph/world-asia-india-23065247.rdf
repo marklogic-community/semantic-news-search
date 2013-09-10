@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-asia-india-23065247">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-asia-india-23065247"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">The head of a once powerful royal family in India's Manipur state is on hunger strike, aides say, in protest against moves to evict him from his palace.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-06-27T09:39:47</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68404000/jpg/_68404908_new_img_2464.jpg"/>
+         <rnews:headline xml:lang="en-GB">Manipur king fasts over palace plans</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68404000/jpg/_68404859_new_img_2436.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-asia-india-23065247"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</rnews:height>
+         <rnews:description xml:lang="en-GB">Sana Konung palace in Imphal </rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68406000/jpg/_68406990_91a635e4-107a-42e3-a67e-93f2a4feab63.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-asia-india-23065247"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Map</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68404000/jpg/_68404857_new_img_2464.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-asia-india-23065247"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Titular king of Manipur Leishemba Sanajaoba</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="513c6e0c-4b2f-f8d5-13fb-dca91fc4b751"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/3X3*WcqlWiCfBXVDa6Thew"
+                    rdf:about="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-06-27</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-asia-india-23065247"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 05:18:56.908"
+                    rdf:about="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|KuNg4hJm6OikimOnJVNR4ygnRTA=|j05e8P6YJucQsr1BRsrnaHaXcXFY21tGkzBcbrSHrXdt/LUFkI635A==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Politics"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Politics</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.961</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b/cat/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/HumanInterest"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Human Interest</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.957</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b/cat/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/War_Conflict"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>War_Conflict</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.794</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/dc352829-0857-3a00-b11e-68b2197ce55a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Leishemba Sanajaoba</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Leishemba Sanajaoba</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/dc352829-0857-3a00-b11e-68b2197ce55a"/>
+         <c:relevance>0.758</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7e98c690-8e90-37e5-a84a-ab8b0ab43c5b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Sana Konung</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7e98c690-8e90-37e5-a84a-ab8b0ab43c5b"/>
+         <c:relevance>0.194</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b289b0d6-bd1e-3c87-8b38-4e45820f9e9d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>official</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b289b0d6-bd1e-3c87-8b38-4e45820f9e9d"/>
+         <c:relevance>0.194</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/11a98374-ebec-8e0c-7a54-751d2161804d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/69b2e356-c1e7-3f3b-bab3-676f21d08e4d"/>
+         <c:name>India</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.7678895778</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">78.8717605778</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/provinceorstate/ralg-geo1/2f1dd0e9-9159-8728-55c2-9a8e616c33e4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/ProvinceOrState"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0d2d8821-681b-372a-ac6c-e0057cb8b785"/>
+         <c:name>Tripura,India</c:name>
+         <c:shortname>Tripura</c:shortname>
+         <c:containedbycountry>India</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">24.0</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">92.0</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e98a7d1b-fe92-3409-8082-396602fdc070">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>king</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e98a7d1b-fe92-3409-8082-396602fdc070"/>
+         <c:relevance>0.738</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/04b0e02a-8c83-3afa-816f-db731be2c1b5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Sana Konung palace</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/04b0e02a-8c83-3afa-816f-db731be2c1b5"/>
+         <c:relevance>0.543</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c639d0b1-7c2e-3b7b-8033-b5ceb6abef71">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonLocation"/>
+         <c:persongroup>their counterparts</c:persongroup>
+         <c:locationstring>Manipur</c:locationstring>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/fdd87a3b-2a21-3c45-a8e5-aaf3856fff60">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/EmploymentRelation"/>
+         <c:person_employer rdf:resource="http://d.opencalais.com/pershash-1/dc352829-0857-3a00-b11e-68b2197ce55a"/>
+         <c:person_employee rdf:resource="http://d.opencalais.com/pershash-1/015a7755-af31-394c-8233-4190ea6bae40"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/96c278bb-1a49-3bf4-9110-78e7e0b73456"/>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/62122d19-a36b-3808-a75c-0b4ef04acbc8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/0f9ecf67-f2a4-3281-a11e-d14dfc3a5d63"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/a0acea74-e532-3192-93a0-7f1c53f32e2d"/>
+         <c:careertype>political</c:careertype>
+         <c:status>past</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/17126376-4538-3f7d-b31d-bcb2c6472493">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>spokesman</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/17126376-4538-3f7d-b31d-bcb2c6472493"/>
+         <c:relevance>0.257</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/f5723592-7ac6-33de-b192-8122acf3dc5b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Kangla palace</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/f5723592-7ac6-33de-b192-8122acf3dc5b"/>
+         <c:relevance>0.250</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/0f9ecf67-f2a4-3281-a11e-d14dfc3a5d63">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Okendra</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Okendra</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/0f9ecf67-f2a4-3281-a11e-d14dfc3a5d63"/>
+         <c:relevance>0.215</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/provinceorstate/ralg-geo1/2e85ba4f-e048-95d3-7278-a0845ca08503">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/ProvinceOrState"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/2bec3074-8af4-3242-81ea-472f09ce2c8d"/>
+         <c:name>Manipur,India</c:name>
+         <c:shortname>Manipur</c:shortname>
+         <c:containedbycountry>India</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">25.0</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">94.0</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/2b62ba52-95c2-30c3-8e7d-99d72c64a919">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>heritage site</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/2b62ba52-95c2-30c3-8e7d-99d72c64a919"/>
+         <c:relevance>0.302</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/445c76c8-7f8f-3ae4-8219-55e0c024b54b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Ujjyanta palace</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/445c76c8-7f8f-3ae4-8219-55e0c024b54b"/>
+         <c:relevance>0.132</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/69b2e356-c1e7-3f3b-bab3-676f21d08e4d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>India</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/69b2e356-c1e7-3f3b-bab3-676f21d08e4d"/>
+         <c:relevance>0.181</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0d2d8821-681b-372a-ac6c-e0057cb8b785">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>Tripura</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0d2d8821-681b-372a-ac6c-e0057cb8b785"/>
+         <c:relevance>0.296</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/015a7755-af31-394c-8233-4190ea6bae40">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Puyam Tomcha</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Puyam Tomcha</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/015a7755-af31-394c-8233-4190ea6bae40"/>
+         <c:relevance>0.283</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/96c278bb-1a49-3bf4-9110-78e7e0b73456">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>adviser</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/96c278bb-1a49-3bf4-9110-78e7e0b73456"/>
+         <c:relevance>0.283</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/184b0d04-fe54-365b-ab48-03ec72092b3a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/015a7755-af31-394c-8233-4190ea6bae40"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/96c278bb-1a49-3bf4-9110-78e7e0b73456"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/2bec3074-8af4-3242-81ea-472f09ce2c8d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>Manipur</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/2bec3074-8af4-3242-81ea-472f09ce2c8d"/>
+         <c:relevance>0.731</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d920b2cc-12bc-34e1-be7b-066ed7a7cd95">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>US Federal Reserve</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/d920b2cc-12bc-34e1-be7b-066ed7a7cd95"/>
+         <c:relevance>0.060</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5fc118ec-6832-3f2b-b1a3-70194fa2892c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>state government</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b/Relevance/17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/5fc118ec-6832-3f2b-b1a3-70194fa2892c"/>
+         <c:relevance>0.681</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b4dd947e-b055-32af-b267-c759814a20bf">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/dc352829-0857-3a00-b11e-68b2197ce55a"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/e98a7d1b-fe92-3409-8082-396602fdc070"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/fae1012f-ec42-3c04-9212-7ef112d8c6d2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>state legislative assembly</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b/Relevance/18">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/fae1012f-ec42-3c04-9212-7ef112d8c6d2"/>
+         <c:relevance>0.132</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a0acea74-e532-3192-93a0-7f1c53f32e2d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>former King</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b/Relevance/19">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3c40477e-7144-3aff-bdc7-04d2dadfde2b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a0acea74-e532-3192-93a0-7f1c53f32e2d"/>
+         <c:relevance>0.210</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/magazine-23079447">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/magazine-23079447"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">The aid worker Pierre Borghi spent four months shackled in a hole, a prisoner of the Taliban, until one night he made a daring escape...</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-06-27T23:30:35</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68429000/jpg/_68429953_moi.jpg"/>
+         <rnews:headline xml:lang="en-GB">How I gave the Taliban the slip</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Magazine</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68410000/jpg/_68410946_img_8915.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/magazine-23079447"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">Pierre Borghi</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68413000/jpg/_68413198_97663057.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/magazine-23079447"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</rnews:height>
+         <rnews:description xml:lang="en-GB">Cars driving through Kabul</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68413000/jpg/_68413200_img_1187-002.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/magazine-23079447"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">330</rnews:height>
+         <rnews:description xml:lang="en-GB">A valley covered in snow</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68474000/jpg/_68474597_borgi_304.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/magazine-23079447"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">198</rnews:height>
+         <rnews:description xml:lang="en-GB">Pierre Borghi shortly after his escape</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68413000/jpg/_68413202_kids_edited.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/magazine-23079447"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">400</rnews:height>
+         <rnews:description xml:lang="en-GB">Two boys smiling at the camera</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68413000/jpg/_68413203_fruitseller_edited.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/magazine-23079447"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">400</rnews:height>
+         <rnews:description xml:lang="en-GB">A man selling pomegranates</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68416000/jpg/_68416921_game_edited.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/magazine-23079447"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">400</rnews:height>
+         <rnews:description xml:lang="en-GB">A game of Buzkashi </rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68416000/jpg/_68416927_mountain_edited.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/magazine-23079447"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">400</rnews:height>
+         <rnews:description xml:lang="en-GB">Horses on the mountainside</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68416000/jpg/_68416923_men_edited.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/magazine-23079447"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">400</rnews:height>
+         <rnews:description xml:lang="en-GB">Men sitting cross-legged, sharing a breakfast</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68416000/jpg/_68416922_shoes_edited.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/magazine-23079447"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">400</rnews:height>
+         <rnews:description xml:lang="en-GB">Children looking at their shoes</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68416000/jpg/_68416924_hut_edited.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/magazine-23079447"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">400</rnews:height>
+         <rnews:description xml:lang="en-GB">A baker and grocery store in Kabul at night</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68413000/jpg/_68413204_hills_edited.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/magazine-23079447"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">400</rnews:height>
+         <rnews:description xml:lang="en-GB">Picnicking on the side of a big hill</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68416000/jpg/_68416925_butt_edited.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/magazine-23079447"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">400</rnews:height>
+         <rnews:description xml:lang="en-GB">An empty water tank</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68416000/jpg/_68416920_mountains_edited.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/magazine-23079447"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">400</rnews:height>
+         <rnews:description xml:lang="en-GB">A mountain landscape</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68416000/jpg/_68416926_tank_edited.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/magazine-23079447"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">400</rnews:height>
+         <rnews:description xml:lang="en-GB">Tanks in a schoolyard</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="d968a5d5-5b69-42cd-13fb-dcc95b197348"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/UXkP3uwMmhVz-iy6kShnFQ"
+                    rdf:about="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-06-28</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/magazine-23079447"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 05:21:08.929"
+                    rdf:about="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|+pbncvNMyP/MltHi5cgOSYcAlbo=|jN9xLwMhvFHfxEaQlWvANf5bOCUyxcv7OhBgWuB5qUWrJYaj3bZI9Q==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/028d6588-be66-3384-ab87-66c22dccd61e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Toyota</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/028d6588-be66-3384-ab87-66c22dccd61e"/>
+         <c:relevance>0.305</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/74dc44c6-968b-3693-ad18-138a60ee7773">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>urban planner</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/74dc44c6-968b-3693-ad18-138a60ee7773"/>
+         <c:relevance>0.201</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3b6ebbb3-7f2a-39eb-8c42-09379e291a29">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Product"/>
+         <c:name>Toyota Corolla</c:name>
+         <c:producttype>Car</c:producttype>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3b6ebbb3-7f2a-39eb-8c42-09379e291a29"/>
+         <c:relevance>0.305</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5da5075d-a1f8-3b1a-9a9c-a1db7086e447">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>secret services</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/5da5075d-a1f8-3b1a-9a9c-a1db7086e447"/>
+         <c:relevance>0.140</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b2dffb09-ee9f-3880-8dd1-3b94cd5385bc">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>military policeman</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b2dffb09-ee9f-3880-8dd1-3b94cd5385bc"/>
+         <c:relevance>0.079</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/a8424b7b-aae2-6391-8301-406bdc884e28">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/f8ba5078-388c-39bd-ab5d-d0bcea1a3a3c"/>
+         <c:name>Afghanistan</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">33.9791287582</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">66.4849387488</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/605a8be5-9163-3b04-96b7-608d753a73fa">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>chief surgeon</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/605a8be5-9163-3b04-96b7-608d753a73fa"/>
+         <c:relevance>0.062</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3a950849-354e-3610-9f3c-dbeac8e584cb">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>al-Qaeda</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3a950849-354e-3610-9f3c-dbeac8e584cb"/>
+         <c:relevance>0.284</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/006e579d-6ead-3c58-b609-f7dcabf460cf">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/028d6588-be66-3384-ab87-66c22dccd61e"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>TOYOTA MOTOR CORPORATION</c:name>
+         <c:shortname>Toyota Motor</c:shortname>
+         <c:ticker>TOYOTM</c:ticker>
+         <c:symbol>7203.T</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c1b4fc1d-4f01-3207-93d4-c5c16a579db6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>spy</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c1b4fc1d-4f01-3207-93d4-c5c16a579db6"/>
+         <c:relevance>0.275</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a34df347-e63b-3140-8235-e1f905a885e9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Kabul</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a34df347-e63b-3140-8235-e1f905a885e9"/>
+         <c:relevance>0.588</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/ed54f603-be07-3c39-a55a-64514fdd4668">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/22b46470-b64a-3af3-949a-b461fad44500"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>FACEBOOK, INC.</c:name>
+         <c:shortname>Facebook</c:shortname>
+         <c:ticker>FB</c:ticker>
+         <c:symbol>FB.OQ</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/da849c35-d5ef-da83-b2fa-9bd34447e42d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a34df347-e63b-3140-8235-e1f905a885e9"/>
+         <c:name>Kabul,Afghanistan</c:name>
+         <c:shortname>Kabul</c:shortname>
+         <c:containedbycountry>Afghanistan</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">34.5333333333</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">69.1666666667</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e1fd0a20-f464-39be-a88f-25038cc7f50c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>France</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e1fd0a20-f464-39be-a88f-25038cc7f50c"/>
+         <c:relevance>0.143</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/181ddcfa-0e5b-396b-8002-1d749cbab211">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>guard</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/181ddcfa-0e5b-396b-8002-1d749cbab211"/>
+         <c:relevance>0.248</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5e60f517-59f7-3f0d-92fa-c1d062a000db">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Taliban</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/5e60f517-59f7-3f0d-92fa-c1d062a000db"/>
+         <c:relevance>0.674</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/4e937a12-262d-3411-add4-7d7035fb1b4a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>executioner</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/4e937a12-262d-3411-add4-7d7035fb1b4a"/>
+         <c:relevance>0.127</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/8cf981f3-0695-3f77-9258-bb4f79dc51d2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>farmer</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/8cf981f3-0695-3f77-9258-bb4f79dc51d2"/>
+         <c:relevance>0.213</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/751c4e8c-6236-31a7-b357-6523c2b294eb">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>diplomat</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/751c4e8c-6236-31a7-b357-6523c2b294eb"/>
+         <c:relevance>0.275</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/8fb0ec4f-d5fa-372d-8eee-c95f5dc1bd62">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/RadioStation"/>
+         <c:name>BBC World Service</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/8fb0ec4f-d5fa-372d-8eee-c95f5dc1bd62"/>
+         <c:relevance>0.045</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7e89aa60-ed18-32e8-85bd-78f8d52d550f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>army</c:name>
+         <c:organizationtype>governmental military</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036/Relevance/17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7e89aa60-ed18-32e8-85bd-78f8d52d550f"/>
+         <c:relevance>0.090</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/14e71b12-020e-31de-9ed6-051a83c42430">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Pierre Borghi</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Pierre Borghi</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036/Relevance/18">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/14e71b12-020e-31de-9ed6-051a83c42430"/>
+         <c:relevance>0.619</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/e165d4f2-174b-66a7-d1a9-5cb204d296eb">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e1fd0a20-f464-39be-a88f-25038cc7f50c"/>
+         <c:name>France</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">46.0</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.0</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/22b46470-b64a-3af3-949a-b461fad44500">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Facebook</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036/Relevance/19">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/22b46470-b64a-3af3-949a-b461fad44500"/>
+         <c:relevance>0.043</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/f8ba5078-388c-39bd-ab5d-d0bcea1a3a3c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Afghanistan</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036/Relevance/20">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/f8ba5078-388c-39bd-ab5d-d0bcea1a3a3c"/>
+         <c:relevance>0.595</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c2f06b04-34cd-332e-9b75-9f50e0053a01">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>photographer</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036/Relevance/21">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c2f06b04-34cd-332e-9b75-9f50e0053a01"/>
+         <c:relevance>0.309</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/09bebb87-1ef5-373d-bd01-263e77470c65">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Continent"/>
+         <c:name>Europe</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036/Relevance/22">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/09bebb87-1ef5-373d-bd01-263e77470c65"/>
+         <c:relevance>0.049</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/649d82fb-f720-367d-8e8f-8af09496c186">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/PublishedMedium"/>
+         <c:name>the Outlook</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036/Relevance/23">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/649d82fb-f720-367d-8e8f-8af09496c186"/>
+         <c:relevance>0.044</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c16d75d3-6824-32a7-82c2-b8c266572ee5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>food</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036/Relevance/24">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c16d75d3-6824-32a7-82c2-b8c266572ee5"/>
+         <c:relevance>0.242</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/80f49b5e-baa3-30bb-bd72-0fdd590a8b30">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Product"/>
+         <c:name>Kalashnikov</c:name>
+         <c:producttype>Weapon</c:producttype>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036/Relevance/25">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/bb24fbc8-1ec2-3053-bb5c-3894a4eb1036"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/80f49b5e-baa3-30bb-bd72-0fdd590a8b30"/>
+         <c:relevance>0.072</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

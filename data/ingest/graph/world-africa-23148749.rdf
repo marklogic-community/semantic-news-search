@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-africa-23148749">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-africa-23148749"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">The Mandela family seeks criminal charges against the former South African leader's grandson for alleged grave tampering.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-02T16:21:32</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68510000/jpg/_68510506_68508916.jpg"/>
+         <rnews:headline xml:lang="en-GB">Mandela grandson accused over graves</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68511000/jpg/_68511596_68511595.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-africa-23148749"/>
+         <rnews:description xml:lang="en-GB">Mandla Mandela</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68508000/jpg/_68508245_sa_624_v2.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-africa-23148749"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">474</rnews:height>
+         <rnews:description xml:lang="en-GB">Map</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="787fd56a-9454-3b5c-13fb-dd2887f33e3f"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/LzS6zi5yi6qIzBPetBSOQg"
+                    rdf:about="http://d.opencalais.com/dochash-1/8f017d3f-816d-31fc-85ee-8bf899e7fff2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-02</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-africa-23148749"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 06:27:38.751"
+                    rdf:about="http://d.opencalais.com/dochash-1/8f017d3f-816d-31fc-85ee-8bf899e7fff2/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8f017d3f-816d-31fc-85ee-8bf899e7fff2"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|LWJXuvr9Qwt4J3HT0I1z3rHDEJc=|h/UXQ5jOrdEKMqnq1V976xPThLE3LupITsqop5yN3kmIHmAjgHPoRQ==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/8f017d3f-816d-31fc-85ee-8bf899e7fff2/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8f017d3f-816d-31fc-85ee-8bf899e7fff2"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a98229c1-73c5-3e1f-85ec-28be26a2ecfe">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Mthatha High Court</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/8f017d3f-816d-31fc-85ee-8bf899e7fff2/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8f017d3f-816d-31fc-85ee-8bf899e7fff2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a98229c1-73c5-3e1f-85ec-28be26a2ecfe"/>
+         <c:relevance>0.212</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6aa99b66-fada-382f-80aa-449f5cff881f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCommunication"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/ae82dd99-5ab4-3713-a76a-1b3a266a6f02"/>
+         <c:persondescription>BBC officers</c:persondescription>
+         <c:status>announced</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5dbe876a-5b58-36fe-b6b8-87948119a837">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/ae82dd99-5ab4-3713-a76a-1b3a266a6f02"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/992c55e5-b5f7-3866-b334-0d65db9e62b0"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/72db2af5-6ec2-3e82-8efb-4526778b05cb">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Mandla Mandela</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Mandla Mandela</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/8f017d3f-816d-31fc-85ee-8bf899e7fff2/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8f017d3f-816d-31fc-85ee-8bf899e7fff2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/72db2af5-6ec2-3e82-8efb-4526778b05cb"/>
+         <c:relevance>0.797</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/31559587-6701-3c1a-845b-2d6ea817eb80">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Johannesburg</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/8f017d3f-816d-31fc-85ee-8bf899e7fff2/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8f017d3f-816d-31fc-85ee-8bf899e7fff2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/31559587-6701-3c1a-845b-2d6ea817eb80"/>
+         <c:relevance>0.089</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/ae82dd99-5ab4-3713-a76a-1b3a266a6f02">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Mzukisi Fatyela</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Mzukisi Fatyela</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/8f017d3f-816d-31fc-85ee-8bf899e7fff2/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8f017d3f-816d-31fc-85ee-8bf899e7fff2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/ae82dd99-5ab4-3713-a76a-1b3a266a6f02"/>
+         <c:relevance>0.347</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/36c8e271-c749-3f79-99ec-d2d6ab34caec">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/EmploymentChange"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/72db2af5-6ec2-3e82-8efb-4526778b05cb"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/dfba6002-ef9b-3da4-918b-6fcc774da615"/>
+         <c:changetype>enters</c:changetype>
+         <c:employmentchangestatus>announced</c:employmentchangestatus>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c1bc43b7-73ff-3c61-836c-76ff156fcf0f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Qunu</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/8f017d3f-816d-31fc-85ee-8bf899e7fff2/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8f017d3f-816d-31fc-85ee-8bf899e7fff2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c1bc43b7-73ff-3c61-836c-76ff156fcf0f"/>
+         <c:relevance>0.277</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>president</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/8f017d3f-816d-31fc-85ee-8bf899e7fff2/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8f017d3f-816d-31fc-85ee-8bf899e7fff2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e"/>
+         <c:relevance>0.263</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/52927195-b800-3443-9daf-5d62ef06f44e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/DiplomaticRelations"/>
+         <c:diplomaticentity1 rdf:resource="http://d.opencalais.com/pershash-1/72db2af5-6ec2-3e82-8efb-4526778b05cb"/>
+         <c:diplomaticaction>accusation</c:diplomaticaction>
+         <c:diplomaticentity2 rdf:resource="http://d.opencalais.com/genericHasher-1/0695df78-4db2-3374-a80b-786bb3c9bcf9"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/781abb38-0fd9-36aa-84e6-9a8c09a01cfc">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/72db2af5-6ec2-3e82-8efb-4526778b05cb"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/dfba6002-ef9b-3da4-918b-6fcc774da615"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>BBC</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/8f017d3f-816d-31fc-85ee-8bf899e7fff2/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8f017d3f-816d-31fc-85ee-8bf899e7fff2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:relevance>0.554</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ff9dd463-e097-38fa-87a9-d6a7eeb87115">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Mvezo</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/8f017d3f-816d-31fc-85ee-8bf899e7fff2/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8f017d3f-816d-31fc-85ee-8bf899e7fff2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/ff9dd463-e097-38fa-87a9-d6a7eeb87115"/>
+         <c:relevance>0.352</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/27a3d503-a2cf-f7d6-9c5f-51fb3e32ce0c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8f017d3f-816d-31fc-85ee-8bf899e7fff2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/ff9dd463-e097-38fa-87a9-d6a7eeb87115"/>
+         <c:name>Mvezo,South Africa</c:name>
+         <c:shortname>Mvezo</c:shortname>
+         <c:containedbycountry>South Africa</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-31.95</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.5167</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0695df78-4db2-3374-a80b-786bb3c9bcf9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>South Africa</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/8f017d3f-816d-31fc-85ee-8bf899e7fff2/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8f017d3f-816d-31fc-85ee-8bf899e7fff2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0695df78-4db2-3374-a80b-786bb3c9bcf9"/>
+         <c:relevance>0.336</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/dfba6002-ef9b-3da4-918b-6fcc774da615">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>chief</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/8f017d3f-816d-31fc-85ee-8bf899e7fff2/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8f017d3f-816d-31fc-85ee-8bf899e7fff2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/dfba6002-ef9b-3da4-918b-6fcc774da615"/>
+         <c:relevance>0.114</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/39246a14-9416-375f-b11d-3b7e17b53f4a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Mthatha High Court</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/8f017d3f-816d-31fc-85ee-8bf899e7fff2/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8f017d3f-816d-31fc-85ee-8bf899e7fff2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/39246a14-9416-375f-b11d-3b7e17b53f4a"/>
+         <c:relevance>0.183</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/992c55e5-b5f7-3866-b334-0d65db9e62b0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>Police spokesman</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/8f017d3f-816d-31fc-85ee-8bf899e7fff2/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8f017d3f-816d-31fc-85ee-8bf899e7fff2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/992c55e5-b5f7-3866-b334-0d65db9e62b0"/>
+         <c:relevance>0.318</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/24ab5ca8-3581-3a81-b4f4-4a9d7beb0a53">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonLocation"/>
+         <c:persongroup>his grandfather</c:persongroup>
+         <c:locationstring>Mvezo</c:locationstring>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/3d7ed876-a27-df3-9b8-7d1d73a90e5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8f017d3f-816d-31fc-85ee-8bf899e7fff2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/31559587-6701-3c1a-845b-2d6ea817eb80"/>
+         <c:name>Johannesburg, Gauteng,South Africa</c:name>
+         <c:shortname>Johannesburg, Gauteng</c:shortname>
+         <c:containedbycountry>South Africa</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-26.2</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.0666666667</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c60473e7-5fb5-322a-833c-642904e6666b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>public prosecutor</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/8f017d3f-816d-31fc-85ee-8bf899e7fff2/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8f017d3f-816d-31fc-85ee-8bf899e7fff2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c60473e7-5fb5-322a-833c-642904e6666b"/>
+         <c:relevance>0.296</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/7a6a4835-2d42-388a-97e8-ef689d5745f0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8f017d3f-816d-31fc-85ee-8bf899e7fff2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>BRITISH BROADCASTING CORPORATION</c:name>
+         <c:shortname>BBC</c:shortname>
+         <c:ticker>BBC</c:ticker>
+         <c:symbol>TBBC.UL</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/c814068b-bc92-07ac-d130-de362b2d6ddc">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8f017d3f-816d-31fc-85ee-8bf899e7fff2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0695df78-4db2-3374-a80b-786bb3c9bcf9"/>
+         <c:name>South Africa</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-29.8191423168</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">25.3498974783</c:longitude>
+      </rdf:Description>
+   </rdf:RDF>

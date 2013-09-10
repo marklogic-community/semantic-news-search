@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/science-environment-23143430">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/science-environment-23143430"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">The world's largest rat eradication campaign has now laid toxic bait on a further 580 sq km of South Georgia, reaching its target.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-04T00:01:26</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68530000/png/_68530915_brownratonsouthgeorgia2_creditpaulaosullivan.png"/>
+         <rnews:headline xml:lang="en-GB">South Georgia rat removal hits mark</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Science and Environment</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68530000/png/_68530992_brownratonsouthgeorgia2_creditpaulaosullivan.png">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/science-environment-23143430"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">Brown rat on South Georgia</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68534000/jpg/_68534315_southgeorgiapintailstonymartin(15).jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/science-environment-23143430"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">South Georgia pintails</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68534000/jpg/_68534293_southgeorgiapipit_creditewanedwards.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/science-environment-23143430"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">South Georgia pipit</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68534000/jpg/_68534318_rateatingabaitpellet_creditrolandgockel.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/science-environment-23143430"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">Rat eating a toxic bait pellet</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68534000/jpg/_68534292_nordenskjoldglacier_credittonymartin.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/science-environment-23143430"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">Nordenskjold glacier</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68534000/jpg/_68534319_helicopterinflightovervalley_creditrolandgockel.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/science-environment-23143430"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">Helicopter in fight over valley</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68534000/jpg/_68534289_handbaitingwhalingstationamongstelephantseals_creditrolandgockel.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/science-environment-23143430"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">Handbaiting a whaling station amongst resting elephant seals</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68534000/jpg/_68534287_helicopterlasheddowninsnowstorm_creditrolandgockel.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/science-environment-23143430"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">Helicopter in snowstorm</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68534000/jpg/_68534290_kingpenguins_creditgeorgelemann.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/science-environment-23143430"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">King penguins</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="76dea4b2-1dab-d7e7-13fb-dd41a2c45cd1"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/bf5aH*CYOQDVq*R4avJeRw"
+                    rdf:about="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-04</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/science-environment-23143430"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 05:29:21.580"
+                    rdf:about="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|j+L2L7FiZ98Rdmltx+zrAuXtlcc=|ThgNy17+2CdDg+Y8vuneT83ofD9CexKXQ17vFRmw5OF5kI3G3VUTgA==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Environment"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Environment</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.923</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/427b38b8-c279-399f-836e-25b9ff21898b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>South Georgia</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/427b38b8-c279-399f-836e-25b9ff21898b"/>
+         <c:relevance>0.708</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ad199b26-09c5-3320-b321-5d3f1cd2653f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>Captain</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/ad199b26-09c5-3320-b321-5d3f1cd2653f"/>
+         <c:relevance>0.255</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/93d0ffc3-f5b9-32ea-94d7-f544502ce0f8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Cook</c:name>
+         <c:persontype>military</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Cook</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/93d0ffc3-f5b9-32ea-94d7-f544502ce0f8"/>
+         <c:relevance>0.268</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/2f06e7ee-8448-3118-800e-67e3796cef10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Tony Martin</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Tony Martin</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/2f06e7ee-8448-3118-800e-67e3796cef10"/>
+         <c:relevance>0.643</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/4f8bb308-197e-3df3-8b34-2e6d190de59a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>George Phillips</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>George Phillips</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/4f8bb308-197e-3df3-8b34-2e6d190de59a"/>
+         <c:relevance>0.139</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/84dccb60-5afd-30dd-9d2d-5fcc1af70d0c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>GBP</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/84dccb60-5afd-30dd-9d2d-5fcc1af70d0c"/>
+         <c:relevance>0.067</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5d2a59ba-62b3-37bc-910d-cc4d11eee875">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Technology"/>
+         <c:name>prions</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/5d2a59ba-62b3-37bc-910d-cc4d11eee875"/>
+         <c:relevance>0.303</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>United Kingdom</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16"/>
+         <c:relevance>0.083</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/f5d7ad57-17a0-31a2-b2e3-7762d2189b50">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/4f8bb308-197e-3df3-8b34-2e6d190de59a"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/8c26ad05-7f7a-3e74-a43b-e20bca26fb06"/>
+         <c:organization rdf:resource="http://d.opencalais.com/genericHasher-1/e16b5d94-0139-34e8-aa95-ccb0eab45f5c"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/33d20acf-9f02-3410-98ed-eedc9165cc7d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>BBC News</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/33d20acf-9f02-3410-98ed-eedc9165cc7d"/>
+         <c:relevance>0.104</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/90557c09-4cc3-3fae-9209-f00fe2c6e7bf">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCommunication"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/4f8bb308-197e-3df3-8b34-2e6d190de59a"/>
+         <c:organizationorcompany rdf:resource="http://d.opencalais.com/comphash-1/33d20acf-9f02-3410-98ed-eedc9165cc7d"/>
+         <c:status>announced</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e16b5d94-0139-34e8-aa95-ccb0eab45f5c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>University of Dundee</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e16b5d94-0139-34e8-aa95-ccb0eab45f5c"/>
+         <c:relevance>0.264</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/8c26ad05-7f7a-3e74-a43b-e20bca26fb06">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>helicopter pilot</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/8c26ad05-7f7a-3e74-a43b-e20bca26fb06"/>
+         <c:relevance>0.104</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/68cbfc21-4f67-3079-a374-e5621d7f15a5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>director</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/68cbfc21-4f67-3079-a374-e5621d7f15a5"/>
+         <c:relevance>0.274</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ac4803c7-3b4e-3d62-9ace-4fe7036e9acd">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Region"/>
+         <c:name>South Georgia</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/ac4803c7-3b4e-3d62-9ace-4fe7036e9acd"/>
+         <c:relevance>0.307</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/dd4a8103-c930-35ab-9b44-4dc2b67240e8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>University of Dundee</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/dd4a8103-c930-35ab-9b44-4dc2b67240e8"/>
+         <c:relevance>0.264</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/9cdc126f-6826-0cbd-df3a-00a4032f0e7e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16"/>
+         <c:name>United Kingdom</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">53.1142456495</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-2.57711368423</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/42b04ee7-39ee-3fe2-bbdb-ff3f7120f145">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/Extinction"/>
+         <c:species>many local birds</c:species>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/54010e4e-5595-3bdd-993d-465a589b1c19">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/2f06e7ee-8448-3118-800e-67e3796cef10"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/68cbfc21-4f67-3079-a374-e5621d7f15a5"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/8587e99b-8ef8-3628-8925-19bda02d6a0d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/93d0ffc3-f5b9-32ea-94d7-f544502ce0f8"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/ad199b26-09c5-3320-b321-5d3f1cd2653f"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/d9c2983d-e01a-3a13-b003-fa1b1847cfe5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Wilson Storm Petrel</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Wilson Storm Petrel</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/b42e6af5-927d-3534-a40c-f3204f30043f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/d9c2983d-e01a-3a13-b003-fa1b1847cfe5"/>
+         <c:relevance>0.244</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

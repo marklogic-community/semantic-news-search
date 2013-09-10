@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/business-23029251">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/business-23029251"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">The recent wobble on the Shanghai Stock Exchange is just an early tremor of a tectonic shift in China's economy that will affect us all.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-02T23:24:11</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68431000/jpg/_68431986_68431791.jpg"/>
+         <rnews:headline xml:lang="en-GB">Why China's financial jitters matter</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Business</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68431000/jpg/_68431982_89784818.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/business-23029251"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">Worker climbs out of an underground construction site in Hefei, China</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="/news/business/market_data/chart?chart_primary_ticker=SSE:I:000001&amp;chart_time_period=3_month&amp;canvas_colour=000000&amp;primary_chart_colour=CC0000&amp;use_transparency=0&amp;plot_colour=ffffff&amp;cp_line_colour=1F4F82&amp;margin_left=35&amp;margin_bottom=20&amp;margin_right=20&amp;time_24hr=1&amp;tiny_chart=1&amp;tiny_month_view=1&amp;logo_strength=light&amp;y_axis_left=1&amp;x_axis_plain=1&amp;cp_line=1&amp;cp_line_style=dotline&amp;charting_freq=1_minute&amp;co_dimension^width=271&amp;co_dimension^height=170&amp;small_chart_x_label_format=1&amp;date_label_spacing=30">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/business-23029251"/>
+         <rnews:description xml:lang="en-GB">SSE Composite three month chart</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/65359000/jpg/_65359142_65359141.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/business-23029251"/>
+         <rnews:description xml:lang="en-GB">Factory in Wuhan, China</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/65724000/jpg/_65724093_de27-1.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/business-23029251"/>
+         <rnews:description xml:lang="en-GB">A plate of food in a restaurant kitchen</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68432000/jpg/_68432016_2172930-2.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/business-23029251"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">228</rnews:height>
+         <rnews:description xml:lang="en-GB">People in Hong Kong wear face masks to protect against SARS</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="7b8b8af2-bed6-460a-13fb-dcb6c8174539"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/VxeK2coKoZO5oTAGffSQAA"
+                    rdf:about="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-03</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/business-23029251"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 05:19:52.849"
+                    rdf:about="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|tHOFCx+fs5Pm7N7fP2/GRv5Rw9s=|NtmL0UvWFAvW2CSeWCYQuezY+oAnGOPLxBy/kqgPS1wnzNIoBnZZ+A==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Business_Finance"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Business_Finance</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.907</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/8a7d7ba2-88ca-0f0e-a1ec-f975b026e8e1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3d1db47c-b851-32ab-af0b-0bffa4dad5d1"/>
+         <c:name>China</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">32.9042932784</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">110.467708512</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/cbdd3a03-765a-36ae-a7e2-cba7081db609">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>People's Bank of China</c:name>
+         <c:organizationtype>central bank</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/cbdd3a03-765a-36ae-a7e2-cba7081db609"/>
+         <c:relevance>0.313</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/aa26c94e-7db4-31e7-8962-8068679feb27">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>private businessmen</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/aa26c94e-7db4-31e7-8962-8068679feb27"/>
+         <c:relevance>0.131</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/5f103752-a722-3b84-bf8a-f48bda5ca692">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/9f0aeee0-50c2-31ee-ab7a-70a7e543eccc"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>Shanghai Stock Exchange</c:name>
+         <c:shortname>Shanghai SE</c:shortname>
+         <c:ticker>SHGSE</c:ticker>
+         <c:symbol>.SSEA</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/028cb65f-4709-3631-75ef-c7a06c317eb7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/74ece01a-7ee9-36a2-9732-ffab82e7eb9a"/>
+         <c:name>Beijing,China</c:name>
+         <c:shortname>Beijing</c:shortname>
+         <c:containedbycountry>China</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">39.91</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">116.4</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/1fb1ff43-cb7c-3741-8552-6c567eab8df6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Shanghai</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/1fb1ff43-cb7c-3741-8552-6c567eab8df6"/>
+         <c:relevance>0.312</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ca59eea3-0ba6-3392-87c7-dbcbaf4615d1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>state-owned bank</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/ca59eea3-0ba6-3392-87c7-dbcbaf4615d1"/>
+         <c:relevance>0.053</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/67414a91-1e53-363a-bda5-f67266016681">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>bank-to-bank lending market</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/67414a91-1e53-363a-bda5-f67266016681"/>
+         <c:relevance>0.314</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3d1db47c-b851-32ab-af0b-0bffa4dad5d1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>China</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3d1db47c-b851-32ab-af0b-0bffa4dad5d1"/>
+         <c:relevance>0.779</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6731d43a-9f0c-3e27-aa81-f0a460656db2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/3078ad5a-bbde-3eb0-96d6-2229d8ac7af2"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/9f0aeee0-50c2-31ee-ab7a-70a7e543eccc"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b32b2bf5-eb8f-332f-bc87-cf1c62f91cf5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>steel-makers</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b32b2bf5-eb8f-332f-bc87-cf1c62f91cf5"/>
+         <c:relevance>0.239</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/daea36c3-c694-39cd-b92f-26c6e18f8282">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>cement-makers</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/daea36c3-c694-39cd-b92f-26c6e18f8282"/>
+         <c:relevance>0.239</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/3078ad5a-bbde-3eb0-96d6-2229d8ac7af2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Xi Jinping</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Xi Jinping</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/3078ad5a-bbde-3eb0-96d6-2229d8ac7af2"/>
+         <c:relevance>0.318</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5e9f4248-5264-3da0-864e-a4cfcbcbfe2e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/NaturalDisaster"/>
+         <c:location rdf:resource="http://d.opencalais.com/genericHasher-1/3d1db47c-b851-32ab-af0b-0bffa4dad5d1"/>
+         <c:naturaldisaster>ice storm</c:naturaldisaster>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/9f0aeee0-50c2-31ee-ab7a-70a7e543eccc">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Shanghai Stock Exchange</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/9f0aeee0-50c2-31ee-ab7a-70a7e543eccc"/>
+         <c:relevance>0.309</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/0bde90ae-6a9c-3f95-95fd-8444b3d2bd83">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Lehman</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/0bde90ae-6a9c-3f95-95fd-8444b3d2bd83"/>
+         <c:relevance>0.090</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/eae095fe-2544-3eed-9c61-0d0ca09d6dc3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>businessmen</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/eae095fe-2544-3eed-9c61-0d0ca09d6dc3"/>
+         <c:relevance>0.062</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/8a33142e-5253-34ef-bc43-db6a1370f651">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/MarketIndex"/>
+         <c:name>SSE 50</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/8a33142e-5253-34ef-bc43-db6a1370f651"/>
+         <c:relevance>0.312</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>President</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e"/>
+         <c:relevance>0.318</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/152649df-347e-e289-1a9e-acc883e07d17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:name>United States</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.4230003233</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-98.7372244786</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/2bcee782-8a1c-3dd3-b81f-f5635f692c26">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>steel plants</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/2bcee782-8a1c-3dd3-b81f-f5635f692c26"/>
+         <c:relevance>0.291</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d2b9ad73-b5c2-3f72-a05c-b77d1ecaf447">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>wealth management products</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/d2b9ad73-b5c2-3f72-a05c-b77d1ecaf447"/>
+         <c:relevance>0.191</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/12fef8ab-a3a9-31cb-8bf4-4e5a0e8c8eb6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Holiday"/>
+         <c:name>Assumption in China</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c/Relevance/17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/12fef8ab-a3a9-31cb-8bf4-4e5a0e8c8eb6"/>
+         <c:relevance>0.090</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>United States</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c/Relevance/18">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:relevance>0.295</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6c8d4d6b-9026-39f0-8967-42d22a408453">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>bank</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c/Relevance/19">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/6c8d4d6b-9026-39f0-8967-42d22a408453"/>
+         <c:relevance>0.313</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/be31a09f-cd17-3ce3-a8ca-14d1d87fb542">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/0bde90ae-6a9c-3f95-95fd-8444b3d2bd83"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>Lehman Brothers Capital Private Limited</c:name>
+         <c:shortname>Lehman</c:shortname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/42ca3dc3-137a-7030-33f5-f3da75c32d9f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/1fb1ff43-cb7c-3741-8552-6c567eab8df6"/>
+         <c:name>Shanghai,China</c:name>
+         <c:shortname>Shanghai</c:shortname>
+         <c:containedbycountry>China</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">31.2</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">121.5</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/899849b3-0126-3f27-9d13-1bfcce93bcab">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/Extinction"/>
+         <c:species>white elephants</c:species>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/74ece01a-7ee9-36a2-9732-ffab82e7eb9a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Beijing</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c/Relevance/20">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/51d7d30f-832b-346c-91c7-3b90f8bc1f0c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/74ece01a-7ee9-36a2-9732-ffab82e7eb9a"/>
+         <c:relevance>0.470</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

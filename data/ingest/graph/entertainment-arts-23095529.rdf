@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/entertainment-arts-23095529">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/entertainment-arts-23095529"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">The latest film, due to be released in 2015, will be the first in a stand-alone "rebooted" trilogy, the studio announces.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-06-28T09:11:13</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68430000/jpg/_68430146_68429945.jpg"/>
+         <rnews:headline xml:lang="en-GB">New Terminator trilogy in pipeline</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Entertainment and Arts</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68429000/jpg/_68429872_68429866.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/entertainment-arts-23095529"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Arnold Schwarzenegger</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="6210e394-a9e6-01a4-13fb-dcd27251b944"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/hjrjr*XqLDspkB1i0h3hIQ"
+                    rdf:about="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-06-28</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/entertainment-arts-23095529"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 06:21:46.149"
+                    rdf:about="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|xtEvTH8keg//6+c0RJVigZNTZAM=|DYjjwkZaLNfi9BQOcPnkkRLinjp9/vAIDJ6iPb970zgS5wkJp9LUpw==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Entertainment_Culture"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Entertainment_Culture</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.000</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22/cat/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/HumanInterest"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Human Interest</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.000</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b8940192-8c88-37dc-a496-7466fc84c67b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/NaturalFeature"/>
+         <c:name>Shutter Island</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b8940192-8c88-37dc-a496-7466fc84c67b"/>
+         <c:relevance>0.134</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/84a34c48-25ac-327f-a805-7b81fd570f7d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Australia</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/84a34c48-25ac-327f-a805-7b81fd570f7d"/>
+         <c:relevance>0.239</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/1cd2799d-c051-3cf6-97cd-bfa94a01ce2b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Paramount Pictures</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/1cd2799d-c051-3cf6-97cd-bfa94a01ce2b"/>
+         <c:relevance>0.321</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a2e95306-dc8c-3c43-af98-66a13e2cc36d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>actor</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a2e95306-dc8c-3c43-af98-66a13e2cc36d"/>
+         <c:relevance>0.167</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/9679b237-33e8-3478-ba13-d9af3c4b943e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>California</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/9679b237-33e8-3478-ba13-d9af3c4b943e"/>
+         <c:relevance>0.239</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/4a0351dd-de68-3299-9761-602fbfc6db45">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Arnold Schwarzenegger</c:name>
+         <c:persontype>entertainment</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Arnold Schwarzenegger</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/4a0351dd-de68-3299-9761-602fbfc6db45"/>
+         <c:relevance>0.609</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5741759c-59c6-3ce1-8b6f-02b74fdb6022">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonLocation"/>
+         <c:persongroup>the former governor</c:persongroup>
+         <c:locationstring>California</c:locationstring>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/cfda4b1e-8835-3510-95cb-e04a572778d5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Christian Bale</c:name>
+         <c:persontype>entertainment</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Christian Bale</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/cfda4b1e-8835-3510-95cb-e04a572778d5"/>
+         <c:relevance>0.167</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b65c1930-635f-3ebe-83b7-968373d7963e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Movie"/>
+         <c:name>Drive Angry</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b65c1930-635f-3ebe-83b7-968373d7963e"/>
+         <c:relevance>0.134</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/provinceorstate/ralg-geo1/fd9e1e90-96a9-04ff-1397-445c4e93208b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/ProvinceOrState"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/9679b237-33e8-3478-ba13-d9af3c4b943e"/>
+         <c:name>California,United States</c:name>
+         <c:shortname>California</c:shortname>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">36.4885198674</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-119.701379437</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/fb2a54d6-3748-4c4c-a8ad-b2343237b89f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/84a34c48-25ac-327f-a805-7b81fd570f7d"/>
+         <c:name>Australia</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-32.34562</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">141.434598022</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/736a403d-157b-3e80-86a7-acc404607cb2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>USD</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/736a403d-157b-3e80-86a7-acc404607cb2"/>
+         <c:relevance>0.202</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5f1f329f-45b3-3f31-9960-025e996db73c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Region"/>
+         <c:name>Caribbean</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/5f1f329f-45b3-3f31-9960-025e996db73c"/>
+         <c:relevance>0.107</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/bbc41134-7bd7-3616-8079-65ee8fdbe9f7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Sydney</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/bbc41134-7bd7-3616-8079-65ee8fdbe9f7"/>
+         <c:relevance>0.239</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/84dccb60-5afd-30dd-9d2d-5fcc1af70d0c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>GBP</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/84dccb60-5afd-30dd-9d2d-5fcc1af70d0c"/>
+         <c:relevance>0.202</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/ba868a92-d69f-317a-94ce-9d4f7897f29c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/1cd2799d-c051-3cf6-97cd-bfa94a01ce2b"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>Paramount Pictures Corp</c:name>
+         <c:shortname>Paramount Pictures Corp</c:shortname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c0670f31-c7b5-3fce-b4d9-d26cb34236c0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>Governor</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c0670f31-c7b5-3fce-b4d9-d26cb34236c0"/>
+         <c:relevance>0.239</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/89dd67f9-ec0c-338c-ac80-e0d9bcee1494">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Patrick Lussier</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Patrick Lussier</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/89dd67f9-ec0c-338c-ac80-e0d9bcee1494"/>
+         <c:relevance>0.134</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6ef8b4f1-4cab-3caa-a8f2-9b274a4d1735">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Movie"/>
+         <c:name>Shutter Island</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/6ef8b4f1-4cab-3caa-a8f2-9b274a4d1735"/>
+         <c:relevance>0.134</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3acceedf-039c-3423-a7f4-92b2a5627a43">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Movie"/>
+         <c:name>Independence Day 2</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3acceedf-039c-3423-a7f4-92b2a5627a43"/>
+         <c:relevance>0.107</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/84deadf9-940e-31a6-b05c-69c00a20995a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>Shutter Island screenwriter</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22/Relevance/17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/84deadf9-940e-31a6-b05c-69c00a20995a"/>
+         <c:relevance>0.134</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/0752f4a1-9590-316f-9d69-6a85e2b6f172">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Sam Worthington</c:name>
+         <c:persontype>entertainment</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Sam Worthington</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22/Relevance/18">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/0752f4a1-9590-316f-9d69-6a85e2b6f172"/>
+         <c:relevance>0.167</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/edbff3b3-cf30-b1f5-4c65-b10a74d6c8af">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/bbc41134-7bd7-3616-8079-65ee8fdbe9f7"/>
+         <c:name>Sydney,New South Wales,Australia</c:name>
+         <c:shortname>Sydney</c:shortname>
+         <c:containedbystate>New South Wales</c:containedbystate>
+         <c:containedbycountry>Australia</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-33.8683</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">151.2086</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/90fcb57b-05b8-3d6a-a8ef-bae93e34dfa8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Holiday"/>
+         <c:name>Independence Day</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22/Relevance/19">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4a4a64db-7de1-332b-94d4-02b7f4cb1d22"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/90fcb57b-05b8-3d6a-a8ef-bae93e34dfa8"/>
+         <c:relevance>0.107</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

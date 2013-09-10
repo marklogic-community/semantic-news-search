@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-middle-east-23067765">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-middle-east-23067765"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Clashes between the Lebanese army and forces loyal to radical Sunni preacher Sheikh Ahmad al-Assir demonstrate how the war in Syria could re-ignite sectarian conflict in Lebanon, writes the BBC's Kevin Connolly.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-06-27T07:08:34</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68405000/jpg/_68405505_68405503.jpg"/>
+         <rnews:headline xml:lang="en-GB">Syria war exerts growing strain on Lebanon tinderbox</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68415000/jpg/_68415025_018289700.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-middle-east-23067765"/>
+         <rnews:description xml:lang="en-GB">Kevin Connolly</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68400000/jpg/_68400712_68400710.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-middle-east-23067765"/>
+         <rnews:description xml:lang="en-GB"> Ahmad al-Assir</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68392000/jpg/_68392491_68392490.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-middle-east-23067765"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</rnews:height>
+         <rnews:description xml:lang="en-GB">Lebanese soldiers stand by as black smoke rises from a mosque in Sidon where Sunni cleric Sheik Ahmad al-Assir preaches</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="6f27bffb-44c9-aed6-13fb-dcba6804b751"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/mLCoODq6HlHdSmHbPoI0rA"
+                    rdf:about="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-06-27</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-middle-east-23067765"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 05:20:07.680"
+                    rdf:about="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|eXFI+alAkk5FK4/ILGtzM6bZWYk=|i1AQk6uJg9yrZixCaF/BxI5Y6k5W2xoQh0TwHpGLfzq3Ko5Am7u/JQ==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Politics"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Politics</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.985</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc/cat/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/War_Conflict"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>War_Conflict</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.966</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/38dda872-f651-36a7-91cf-318df68b2168">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Lebanese army</c:name>
+         <c:organizationtype>governmental military</c:organizationtype>
+         <c:nationality>Lebanese</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/38dda872-f651-36a7-91cf-318df68b2168"/>
+         <c:relevance>0.299</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5deda061-e1a6-36a9-bf80-3e2e6f903bf5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Hizballah</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/5deda061-e1a6-36a9-bf80-3e2e6f903bf5"/>
+         <c:relevance>0.427</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/50621ce4-365f-34a8-871d-ea92e57958eb">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonTravel"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/810ee5ac-d0a9-3d37-b66e-06001bf81fcd"/>
+         <c:locationdestination rdf:resource="http://d.opencalais.com/genericHasher-1/2a5b86af-0a01-3d73-bdd9-39f71e9558b0"/>
+         <c:status>future</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/f6e96cd4-79a4-3193-9c93-50510518ecad">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ArmedAttack"/>
+         <c:attacktype>skirmish</c:attacktype>
+         <c:locationstring>Sidon</c:locationstring>
+         <c:status>confirmed</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/685db99f-c595-3cc4-9609-32fd5f22e9d4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Tripoli</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/685db99f-c595-3cc4-9609-32fd5f22e9d4"/>
+         <c:relevance>0.193</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/9e2c23eb-1c0e-39a8-887b-59b3b04a13d0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Salem Rafii</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Salem Rafii</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/9e2c23eb-1c0e-39a8-887b-59b3b04a13d0"/>
+         <c:relevance>0.382</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/035361f3-e7f5-3aef-a153-cbbce7ff28e5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>preacher</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/035361f3-e7f5-3aef-a153-cbbce7ff28e5"/>
+         <c:relevance>0.332</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/632761a6-bd77-335c-b2af-77d72cb70a1f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Sidon</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/632761a6-bd77-335c-b2af-77d72cb70a1f"/>
+         <c:relevance>0.484</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/448d3ba6-a11a-3c3b-9f53-5b7d9f555f19">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>militia leader</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/448d3ba6-a11a-3c3b-9f53-5b7d9f555f19"/>
+         <c:relevance>0.292</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/60650246-2c0f-3b1f-8f44-b24011009911">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Shia</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/60650246-2c0f-3b1f-8f44-b24011009911"/>
+         <c:relevance>0.536</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d847f9b9-a154-3145-a339-c6823c3c2464">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Lebanon's army</c:name>
+         <c:organizationtype>governmental military</c:organizationtype>
+         <c:nationality>Lebanese</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/d847f9b9-a154-3145-a339-c6823c3c2464"/>
+         <c:relevance>0.310</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/d920f3e3-fc4c-3dfe-b21c-44b9494957ef">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/60650246-2c0f-3b1f-8f44-b24011009911"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.90000004</c:score>
+         <c:name>Shih Shia Loon</c:name>
+         <c:shortname>Shih Shia Loon</c:shortname>
+         <c:ticker>SHSAO</c:ticker>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/94e5a243-ffca-78a7-5837-78ec2027c69b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/644b6471-0619-397a-a162-55d43ac091ab"/>
+         <c:name>Lebanon</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">33.9270076923</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">35.6951136752</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/8af28d31-d639-3e7f-9092-79737d1b5206">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>fierce critic</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/8af28d31-d639-3e7f-9092-79737d1b5206"/>
+         <c:relevance>0.231</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/aae53924-404b-e2c7-2747-9aeebd3c8f8d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/2a5b86af-0a01-3d73-bdd9-39f71e9558b0"/>
+         <c:name>Syria</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">34.8544688889</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">37.0261150427</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/2b370c2f-0920-3e07-a8c1-64e3a3c03692">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/810ee5ac-d0a9-3d37-b66e-06001bf81fcd"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/035361f3-e7f5-3aef-a153-cbbce7ff28e5"/>
+         <c:organization rdf:resource="http://d.opencalais.com/genericHasher-1/d847f9b9-a154-3145-a339-c6823c3c2464"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/612f1f19-4096-3dce-854f-82ed504bfc7a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>port of Tripoli</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/612f1f19-4096-3dce-854f-82ed504bfc7a"/>
+         <c:relevance>0.193</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7e89aa60-ed18-32e8-85bd-78f8d52d550f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>army</c:name>
+         <c:organizationtype>governmental military</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7e89aa60-ed18-32e8-85bd-78f8d52d550f"/>
+         <c:relevance>0.589</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/644b6471-0619-397a-a162-55d43ac091ab">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Lebanon</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/644b6471-0619-397a-a162-55d43ac091ab"/>
+         <c:relevance>0.718</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/2e002c86-8215-392d-a591-3a2e4d10b610">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>cleric</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/2e002c86-8215-392d-a591-3a2e4d10b610"/>
+         <c:relevance>0.193</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/34fd57db-081c-03a5-06e2-b929c1eececb">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/685db99f-c595-3cc4-9609-32fd5f22e9d4"/>
+         <c:name>Tripoli,Libya</c:name>
+         <c:shortname>Tripoli</c:shortname>
+         <c:containedbycountry>Libya</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">32.9022</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">13.1858</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/2a5b86af-0a01-3d73-bdd9-39f71e9558b0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Syria</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/2a5b86af-0a01-3d73-bdd9-39f71e9558b0"/>
+         <c:relevance>0.771</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/810ee5ac-d0a9-3d37-b66e-06001bf81fcd">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Ahmad al-Assir</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Ahmad al-Assir</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/810ee5ac-d0a9-3d37-b66e-06001bf81fcd"/>
+         <c:relevance>0.789</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/f9a570b9-41ad-3ee0-99fd-da26262a672b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonLocation"/>
+         <c:persongroup>the young sunni men</c:persongroup>
+         <c:locationstring>Lebanon</c:locationstring>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/80f49b5e-baa3-30bb-bd72-0fdd590a8b30">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Product"/>
+         <c:name>Kalashnikov</c:name>
+         <c:producttype>Weapon</c:producttype>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc/Relevance/17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/dd94379c-aa9f-3c62-a1c8-89a813864ebc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/80f49b5e-baa3-30bb-bd72-0fdd590a8b30"/>
+         <c:relevance>0.255</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

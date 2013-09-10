@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-us-canada-23115554">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23115554"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">The US vice-president talks to Ecuador's president by phone about ex-CIA analyst Edward Snowden's asylum bid as a new bugging allegation emerges.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-06-29T19:22:37</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68460000/jpg/_68460029_68343867.jpg"/>
+         <rnews:headline xml:lang="en-GB">US and Ecuador discuss Snowden</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68460000/jpg/_68460047_018487963-1.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23115554"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">301</rnews:height>
+         <rnews:description xml:lang="en-GB">Ecuadorean President Rafael Correa speaks on a TV programme in El Aromo, Manabi, in front of giant screens showing Edward Snowden, 29 June</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68404000/jpg/_68404434_68404433.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23115554"/>
+         <rnews:description xml:lang="en-GB">Interior of capsule hotel</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="/news/special/panels/13/jun/snowden_flight/img/graphic_1372074456.gif">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23115554"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">625</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">376</rnews:height>
+         <rnews:description xml:lang="en-GB"/>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="963ed5ab-228b-1978-13fb-dc8bbbd6d861"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/s01Rq7EHh4CjPM-1-5SAeQ"
+                    rdf:about="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-06-29</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23115554"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 06:16:56.525"
+                    rdf:about="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|Ife8CKKUYYULFeRjEQtCMOd58uQ=|hzRoIFf79fbOlmYMiFMagliNIHAvWcPPSn+aqikwY3wN3UshQh62ow==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/2b84cd5d-a64a-828b-d859-b18535c9345e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/399cb2f9-6add-307e-86bb-50828354a46c"/>
+         <c:name>Cuba</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">22.0289262222</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-79.936985037</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/edb4b5b6-c397-31e7-810c-47b954104c47">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Bernadette Meehan</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Bernadette Meehan</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/edb4b5b6-c397-31e7-810c-47b954104c47"/>
+         <c:relevance>0.172</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/399cb2f9-6add-307e-86bb-50828354a46c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Cuba</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/399cb2f9-6add-307e-86bb-50828354a46c"/>
+         <c:relevance>0.081</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/9f2933bf-2978-3aa5-8b8b-a598cecd809d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonTravel"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/ca2ad71b-ba52-3ecd-b7a7-7ddce004d557"/>
+         <c:locationorigin rdf:resource="http://d.opencalais.com/genericHasher-1/70cea31d-90d7-3401-8e30-d5611ecf753f"/>
+         <c:locationdestination rdf:resource="http://d.opencalais.com/genericHasher-1/86c5aeb3-d4ce-3a85-944e-29835dd95f8a"/>
+         <c:status>future</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/9b70fc6f-4867-3ff1-8c6a-ff3239c264e6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonTravel"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/ca2ad71b-ba52-3ecd-b7a7-7ddce004d557"/>
+         <c:locationorigin rdf:resource="http://d.opencalais.com/genericHasher-1/86c5aeb3-d4ce-3a85-944e-29835dd95f8a"/>
+         <c:locationdestination rdf:resource="http://d.opencalais.com/genericHasher-1/0c44e300-49f5-39ab-84ac-fbdced5c31ec"/>
+         <c:status>future</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/d23aa5ff-57c7-3858-9a05-11be34fdc902">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Spiegel</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/d23aa5ff-57c7-3858-9a05-11be34fdc902"/>
+         <c:relevance>0.299</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d6cc1774-1a58-3aec-b55b-f59d324ed4ae">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>internal computer networks</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/d6cc1774-1a58-3aec-b55b-f59d324ed4ae"/>
+         <c:relevance>0.299</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7064f71a-3434-36a6-b71c-da39e80c37fe">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonTravel"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/ca2ad71b-ba52-3ecd-b7a7-7ddce004d557"/>
+         <c:locationdestination rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:status>future</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/provinceorstate/ralg-geo1/d67f3d64-5ae3-f7c0-c34a-30f1ff7c1ad3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/ProvinceOrState"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/70cea31d-90d7-3401-8e30-d5611ecf753f"/>
+         <c:name>Hawaii,United States</c:name>
+         <c:shortname>Hawaii</c:shortname>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.3114</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-157.7964</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/8c9705ec-344a-388d-b297-c42935af7cc2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>London embassy</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>British</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/8c9705ec-344a-388d-b297-c42935af7cc2"/>
+         <c:relevance>0.048</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/fcbc4e93-351c-3839-a0bb-6adc1cdac186">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Ecuador</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/fcbc4e93-351c-3839-a0bb-6adc1cdac186"/>
+         <c:relevance>0.673</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/f497898f-2b9b-7cda-ec7b-85d896acbe3e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/1d1529b7-da5f-3884-8de0-c765b3b7d3a3"/>
+         <c:name>Washington,United States</c:name>
+         <c:shortname>Washington</c:shortname>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">38.89</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-77.03</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3569c96d-92df-3dd6-9213-a97df69cc3fa">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>White House</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3569c96d-92df-3dd6-9213-a97df69cc3fa"/>
+         <c:relevance>0.172</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/cedadbe5-0f20-301d-bbc9-9d8fa3665051">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCommunication"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/81ee140c-ac08-3144-9cb1-8075ba6c5227"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/ce38e618-6b58-3bdf-bc02-dbe9912a2d15"/>
+         <c:status>announced</c:status>
+         <c:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-06-28</c:date>
+         <c:datestring>Friday</c:datestring>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0c44e300-49f5-39ab-84ac-fbdced5c31ec">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Moscow</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0c44e300-49f5-39ab-84ac-fbdced5c31ec"/>
+         <c:relevance>0.256</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/522e9192-71ec-3d3e-8e68-847606cb547f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>vice-president</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/522e9192-71ec-3d3e-8e68-847606cb547f"/>
+         <c:relevance>0.244</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>President</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e"/>
+         <c:relevance>0.309</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/06ada685-2c73-31a2-b64b-70c4ec85c8db">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>US National Security Agency</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>American</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/06ada685-2c73-31a2-b64b-70c4ec85c8db"/>
+         <c:relevance>0.302</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/e65a612a-ab88-46b1-1334-1efa15bba910">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/36daa760-d1f8-30fe-8879-608d6e85d260"/>
+         <c:name>Venezuela</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9.39275359477</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-66.3562091503</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/fa36ccaa-3402-3be8-993a-00a6a8fbfb2e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>United Nations</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/fa36ccaa-3402-3be8-993a-00a6a8fbfb2e"/>
+         <c:relevance>0.299</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>BBC</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:relevance>0.150</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/887e8a97-60d1-392f-ae48-845353042fb9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>classified communications intelligence</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/887e8a97-60d1-392f-ae48-845353042fb9"/>
+         <c:relevance>0.279</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>United States</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:relevance>0.691</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/36daa760-d1f8-30fe-8879-608d6e85d260">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Venezuela</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/36daa760-d1f8-30fe-8879-608d6e85d260"/>
+         <c:relevance>0.067</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/bd9b00d2-2793-3925-a209-7c905d5766ee">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonTravel"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/ca2ad71b-ba52-3ecd-b7a7-7ddce004d557"/>
+         <c:locationorigin rdf:resource="http://d.opencalais.com/genericHasher-1/86c5aeb3-d4ce-3a85-944e-29835dd95f8a"/>
+         <c:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-06-22</c:date>
+         <c:datestring>a week ago</c:datestring>
+         <c:status>past</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/9cdc126f-6826-0cbd-df3a-00a4032f0e7e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16"/>
+         <c:name>United Kingdom</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">53.1142456495</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-2.57711368423</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b2200772-ec09-3222-a08f-39fa3dbe9cb1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>media outlets</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564/Relevance/17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b2200772-ec09-3222-a08f-39fa3dbe9cb1"/>
+         <c:relevance>0.207</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/2b4a1835-a0aa-73f5-d536-50771710fe43">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/fcbc4e93-351c-3839-a0bb-6adc1cdac186"/>
+         <c:name>Ecuador</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-0.15</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-78.35</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/797eec7c-d966-31ff-ab83-fff4cc2626dd">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/Trial"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/ca2ad71b-ba52-3ecd-b7a7-7ddce004d557"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/8bc32019-01fd-3b73-b672-41cf7bc32c73">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/DiplomaticRelations"/>
+         <c:diplomaticentity1 rdf:resource="http://d.opencalais.com/pershash-1/81ee140c-ac08-3144-9cb1-8075ba6c5227"/>
+         <c:diplomaticaction>rejection</c:diplomaticaction>
+         <c:diplomaticentity2 rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/ca2ad71b-ba52-3ecd-b7a7-7ddce004d557">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Lon Snowden</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Lon Snowden</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564/Relevance/18">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/ca2ad71b-ba52-3ecd-b7a7-7ddce004d557"/>
+         <c:relevance>0.799</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/1d1529b7-da5f-3884-8de0-c765b3b7d3a3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Washington</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564/Relevance/19">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/1d1529b7-da5f-3884-8de0-c765b3b7d3a3"/>
+         <c:relevance>0.317</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e785d408-7c95-3c8a-8377-d514c294e0fe">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonLocation"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/ca2ad71b-ba52-3ecd-b7a7-7ddce004d557"/>
+         <c:locationstring>Moscow</c:locationstring>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>United Kingdom</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564/Relevance/20">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16"/>
+         <c:relevance>0.101</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0da5739b-511b-3ed8-abe0-7ce27eea639b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/CandidatePosition"/>
+         <c:candidate rdf:resource="http://d.opencalais.com/pershash-1/ca2ad71b-ba52-3ecd-b7a7-7ddce004d557"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7560898d-6e4f-3007-95e5-7d2f00cea4ba">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Sheremetyevo airport</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564/Relevance/21">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7560898d-6e4f-3007-95e5-7d2f00cea4ba"/>
+         <c:relevance>0.078</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b6266543-b3c0-362e-a7f1-4dddf0ba792f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>European Union</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564/Relevance/22">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b6266543-b3c0-362e-a7f1-4dddf0ba792f"/>
+         <c:relevance>0.459</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/39125fd5-8f98-3169-8ade-f387fcfd4186">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>Attorney General</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564/Relevance/23">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/39125fd5-8f98-3169-8ade-f387fcfd4186"/>
+         <c:relevance>0.150</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/453449c7-e4cc-3331-bb9e-ee865ff9c21f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/ce38e618-6b58-3bdf-bc02-dbe9912a2d15"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/353f1115-a702-3a33-bb44-6ece1ea0b01c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Eric Holder</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Eric Holder</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564/Relevance/24">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/353f1115-a702-3a33-bb44-6ece1ea0b01c"/>
+         <c:relevance>0.150</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/70cea31d-90d7-3401-8e30-d5611ecf753f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>Hawaii</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564/Relevance/25">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/70cea31d-90d7-3401-8e30-d5611ecf753f"/>
+         <c:relevance>0.135</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/ce38e618-6b58-3bdf-bc02-dbe9912a2d15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Rafael Correa</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Rafael Correa</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564/Relevance/26">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/ce38e618-6b58-3bdf-bc02-dbe9912a2d15"/>
+         <c:relevance>0.566</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/080f9805-675c-3a92-87d2-b33580c7aec4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/353f1115-a702-3a33-bb44-6ece1ea0b01c"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/39125fd5-8f98-3169-8ade-f387fcfd4186"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/152649df-347e-e289-1a9e-acc883e07d17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:name>United States</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.4230003233</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-98.7372244786</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5085d145-70dd-32d4-a136-3915117cbb6b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>president , a leftist economist</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564/Relevance/27">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/5085d145-70dd-32d4-a136-3915117cbb6b"/>
+         <c:relevance>0.184</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/26fd3b56-bcc1-3819-8c44-24e8b9d1201e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonTravel"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/ca2ad71b-ba52-3ecd-b7a7-7ddce004d557"/>
+         <c:locationdestination rdf:resource="http://d.opencalais.com/genericHasher-1/399cb2f9-6add-307e-86bb-50828354a46c"/>
+         <c:status>possible_future</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/3a13db3d-93dc-3f04-917f-79ffe48aa61e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/d23aa5ff-57c7-3858-9a05-11be34fdc902"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>SPIEGEL-Verlag Rudolf Augstein GmbH &amp; Co. KG</c:name>
+         <c:shortname>Spiegel</c:shortname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/806197a9-3e7b-33ec-9fa8-103f45fb6649">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>spokeswoman</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564/Relevance/28">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/806197a9-3e7b-33ec-9fa8-103f45fb6649"/>
+         <c:relevance>0.172</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/1a7bcaf4-d828-3f27-bd9b-2fc6a4227b33">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonTravel"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/ca2ad71b-ba52-3ecd-b7a7-7ddce004d557"/>
+         <c:locationdestination rdf:resource="http://d.opencalais.com/genericHasher-1/fcbc4e93-351c-3839-a0bb-6adc1cdac186"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/9e7f6925-7272-c6a2-0457-405c242cb0cb">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0c44e300-49f5-39ab-84ac-fbdced5c31ec"/>
+         <c:name>Moscow,Russia</c:name>
+         <c:shortname>Moscow</c:shortname>
+         <c:containedbycountry>Russia</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">55.75</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">37.583333</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/8e641c51-f78b-360a-89a9-9edeae5b59ad">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/edb4b5b6-c397-31e7-810c-47b954104c47"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/806197a9-3e7b-33ec-9fa8-103f45fb6649"/>
+         <c:organization rdf:resource="http://d.opencalais.com/genericHasher-1/3569c96d-92df-3dd6-9213-a97df69cc3fa"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/0734e359-8b60-3b0f-b6f7-cfbf129a8df3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Julian Assange</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Julian Assange</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564/Relevance/29">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/0734e359-8b60-3b0f-b6f7-cfbf129a8df3"/>
+         <c:relevance>0.048</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/7a6a4835-2d42-388a-97e8-ef689d5745f0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>BRITISH BROADCASTING CORPORATION</c:name>
+         <c:shortname>BBC</c:shortname>
+         <c:ticker>BBC</c:ticker>
+         <c:symbol>TBBC.UL</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/81ee140c-ac08-3144-9cb1-8075ba6c5227">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Joe Biden</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Joe Biden</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564/Relevance/30">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/81ee140c-ac08-3144-9cb1-8075ba6c5227"/>
+         <c:relevance>0.569</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/23f86b22-5e9b-3e41-b880-95c54e579021">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonLocation"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/ca2ad71b-ba52-3ecd-b7a7-7ddce004d557"/>
+         <c:locationstring>Latin America</c:locationstring>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7e3dbc8f-53e0-3107-837a-1ea968dcea69">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>London embassy</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564/Relevance/31">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7e3dbc8f-53e0-3107-837a-1ea968dcea69"/>
+         <c:relevance>0.048</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c88d884d-445d-37f4-a556-3b4fec6e80ba">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>internet surveillance programme</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564/Relevance/32">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c88d884d-445d-37f4-a556-3b4fec6e80ba"/>
+         <c:relevance>0.101</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/86c5aeb3-d4ce-3a85-944e-29835dd95f8a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Hong Kong</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564/Relevance/33">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/13c334fe-eec2-3bd0-8d3d-914d14fe6564"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/86c5aeb3-d4ce-3a85-944e-29835dd95f8a"/>
+         <c:relevance>0.555</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

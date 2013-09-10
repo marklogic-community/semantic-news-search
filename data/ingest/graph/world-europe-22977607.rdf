@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-europe-22977607">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-europe-22977607"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">The BBC's Daniel Sandford travels with Marina Khodorkovskaya to the prison where her son Mikhail - once Russia's richest man - is being held on what he says are politically-motivated charges.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-02T01:04:20</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68267000/jpg/_68267319_012125645-1.jpg"/>
+         <rnews:headline xml:lang="en-GB">Khodorkovsky's mother: 'Contempt' for Kremlin</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68487000/jpg/_68487516_68487515.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-europe-22977607"/>
+         <rnews:description xml:lang="en-GB">Marina Khodorkovskaya</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/53410000/jpg/_53410387_012125645-1.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-europe-22977607"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Mikhail Khodorkovsky (right). File photo</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68268000/jpg/_68268360_outsideprison2.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-europe-22977607"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Prison where Mikhail Khodorkovsky is held</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="c6f22b73-b995-e797-13fb-dd16efb45124"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/dcM7uDFgiUciSQzkf3NeCQ"
+                    rdf:about="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-02</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-europe-22977607"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 06:26:26.683"
+                    rdf:about="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|6EZn6EzwAjYB2q0Ngx/Vv+W+Lnc=|KjykIY7xKUti9dq6W/hxVZQEDRuBLU6FfQFBQfMvJlJgCLzuzU/zHA==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/f38d06ac-bb5d-3692-8aa1-a063759f64e0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Yukos</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/f38d06ac-bb5d-3692-8aa1-a063759f64e0"/>
+         <c:relevance>0.199</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e766afc5-4f1d-3ce8-86de-ca3976901c7b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Region"/>
+         <c:name>northern Russia</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e766afc5-4f1d-3ce8-86de-ca3976901c7b"/>
+         <c:relevance>0.129</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/53567efe-d989-327f-a7dc-d7de32fe1f33">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Mikhail Khodorkovsky</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Mikhail Khodorkovsky</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/53567efe-d989-327f-a7dc-d7de32fe1f33"/>
+         <c:relevance>0.798</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/83a6bc4f-e698-3f6a-8f4e-b0b6ec6325d2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/f38d06ac-bb5d-3692-8aa1-a063759f64e0"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>Yukos Oil Company OJSC</c:name>
+         <c:shortname>NK Yukos</c:shortname>
+         <c:ticker>YUKO</c:ticker>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/0ac5f909-9e7a-39ff-b0f8-b4a8eccb99d6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Leo Tolstoy</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Leo Tolstoy</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/0ac5f909-9e7a-39ff-b0f8-b4a8eccb99d6"/>
+         <c:relevance>0.317</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/420eee5e-d6b2-3f7d-8032-11943b2c6af0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Vyacheslav Nikonov</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Vyacheslav Nikonov</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/420eee5e-d6b2-3f7d-8032-11943b2c6af0"/>
+         <c:relevance>0.170</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/25dab614-1787-3a79-a8c1-480e0789c7b5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>punk protest</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/25dab614-1787-3a79-a8c1-480e0789c7b5"/>
+         <c:relevance>0.072</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c0670f31-c7b5-3fce-b4d9-d26cb34236c0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>Governor</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c0670f31-c7b5-3fce-b4d9-d26cb34236c0"/>
+         <c:relevance>0.094</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b6266543-b3c0-362e-a7f1-4dddf0ba792f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>European Union</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b6266543-b3c0-362e-a7f1-4dddf0ba792f"/>
+         <c:relevance>0.142</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a810e477-24be-3f3d-b3ac-fc131e02d418">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/37f8d566-97b9-342b-a8bb-733a54e9e429"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0b925002-e2db-3580-a078-2b0182aa07ef">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>high-tech prison</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0b925002-e2db-3580-a078-2b0182aa07ef"/>
+         <c:relevance>0.080</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/1ac7dfb8-44ed-3004-b8a3-228432a99792">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/Trial"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/53567efe-d989-327f-a7dc-d7de32fe1f33"/>
+         <c:charge>tax evasion</c:charge>
+         <c:charge>fraud</c:charge>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/181ddcfa-0e5b-396b-8002-1d749cbab211">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>guard</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/181ddcfa-0e5b-396b-8002-1d749cbab211"/>
+         <c:relevance>0.089</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/13442e51-2037-3e7a-88af-fcccaf914eaf">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/Arrest"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/53567efe-d989-327f-a7dc-d7de32fe1f33"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/52809086-1e06-3c25-ac2d-ceaf8cfd68fe">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/FamilyRelation"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/37f8d566-97b9-342b-a8bb-733a54e9e429"/>
+         <c:familyrelationtype>mother</c:familyrelationtype>
+         <c:person_relative rdf:resource="http://d.opencalais.com/pershash-1/53567efe-d989-327f-a7dc-d7de32fe1f33"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7fc4cc77-02b1-39d4-9927-766549990341">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/Indictment"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/37f8d566-97b9-342b-a8bb-733a54e9e429"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>president</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e"/>
+         <c:relevance>0.281</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/3f46d465-15ae-3ff5-a6e6-049792e1f6d2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Pussy Riot</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/3f46d465-15ae-3ff5-a6e6-049792e1f6d2"/>
+         <c:relevance>0.072</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/31ec6404-85fe-33f5-af02-cb37fec6b170">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>oil</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/31ec6404-85fe-33f5-af02-cb37fec6b170"/>
+         <c:relevance>0.199</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7f0fc81a-494e-3124-a634-6a8a13e9dd46">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Russia</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7f0fc81a-494e-3124-a634-6a8a13e9dd46"/>
+         <c:relevance>0.547</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7d575f8a-8824-3028-a514-c4b4274971f2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Region"/>
+         <c:name>Arctic Circle</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7d575f8a-8824-3028-a514-c4b4274971f2"/>
+         <c:relevance>0.300</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/152649df-347e-e289-1a9e-acc883e07d17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:name>United States</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.4230003233</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-98.7372244786</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>BBC</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:relevance>0.094</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/993372a5-ba38-30d9-8ca9-8f61e4a9e15e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/Trial"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/53567efe-d989-327f-a7dc-d7de32fe1f33"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6d974d29-100d-3251-b2bf-6275399b946b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Duma</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c/Relevance/17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/6d974d29-100d-3251-b2bf-6275399b946b"/>
+         <c:relevance>0.202</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/cca14142-d602-3f7b-b112-de8af958051a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Marina Khodorkovskaya</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Marina Khodorkovskaya</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c/Relevance/18">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/cca14142-d602-3f7b-b112-de8af958051a"/>
+         <c:relevance>0.717</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/1c625cc8-6f82-4660-a320-d185916e3c55">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7f0fc81a-494e-3124-a634-6a8a13e9dd46"/>
+         <c:name>Russia</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">54.8270488441</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">55.0423189997</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>United States</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c/Relevance/19">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:relevance>0.142</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/198ca7d9-2e21-3137-bbcf-1d13d6368ec8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/37f8d566-97b9-342b-a8bb-733a54e9e429"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e"/>
+         <c:careertype>political</c:careertype>
+         <c:status>past</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/fbad4b27-4fa6-3c5a-87d5-600395bb3664">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/420eee5e-d6b2-3f7d-8032-11943b2c6af0"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/4fba57e3-c218-3ca2-8ec0-f2c350cbdb34"/>
+         <c:organization rdf:resource="http://d.opencalais.com/genericHasher-1/6d974d29-100d-3251-b2bf-6275399b946b"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/efa85b75-f2ae-36ee-b826-04b668bee757">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/FamilyRelation"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/cca14142-d602-3f7b-b112-de8af958051a"/>
+         <c:familyrelationtype>son</c:familyrelationtype>
+         <c:person_relative rdf:resource="http://d.opencalais.com/pershash-1/53567efe-d989-327f-a7dc-d7de32fe1f33"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/37f8d566-97b9-342b-a8bb-733a54e9e429">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Vladimir Putin</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Vladimir Putin</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c/Relevance/20">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/37f8d566-97b9-342b-a8bb-733a54e9e429"/>
+         <c:relevance>0.413</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/8a279b90-2170-3e5f-a909-c3b49316d0df">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>St Petersburg</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c/Relevance/21">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/8a279b90-2170-3e5f-a909-c3b49316d0df"/>
+         <c:relevance>0.308</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/7a6a4835-2d42-388a-97e8-ef689d5745f0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>BRITISH BROADCASTING CORPORATION</c:name>
+         <c:shortname>BBC</c:shortname>
+         <c:ticker>BBC</c:ticker>
+         <c:symbol>TBBC.UL</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/984a7b74-2ba3-3184-b753-6aaba5893b68">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/MusicGroup"/>
+         <c:name>Pussy Riot</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c/Relevance/22">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/984a7b74-2ba3-3184-b753-6aaba5893b68"/>
+         <c:relevance>0.072</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/4fba57e3-c218-3ca2-8ec0-f2c350cbdb34">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>deputy</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c/Relevance/23">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d82f7dfe-5401-31d1-9ebd-7c01bd33771c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/4fba57e3-c218-3ca2-8ec0-f2c350cbdb34"/>
+         <c:relevance>0.170</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

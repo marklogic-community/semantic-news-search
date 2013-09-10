@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-latin-america-23238613">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-latin-america-23238613"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Mexican election officials admit technical errors in last Sunday's vote count in Baja California, after both sides claim victory.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-09T09:59:29</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68625000/jpg/_68625451_68622792.jpg"/>
+         <rnews:headline xml:lang="en-GB">Mexico baffled by botched vote count</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68622000/jpg/_68622795_68622792.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-latin-america-23238613"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Supporters of governor candidate Francisco Vega of the National Action Party (PAN) waves flags in Tijuana, 3 July</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="f436adac-57fa-bef7-13fc-7d35bb71c9e5"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/HK-AqFRsKQpDLu-g5FNhyw"
+                    rdf:about="http://d.opencalais.com/dochash-1/c4ce3c58-739a-3a0a-b162-b2ec3c16e8c8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-09</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-latin-america-23238613"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-10 04:04:44.999"
+                    rdf:about="http://d.opencalais.com/dochash-1/c4ce3c58-739a-3a0a-b162-b2ec3c16e8c8/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c4ce3c58-739a-3a0a-b162-b2ec3c16e8c8"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|PZKytZhmzd56pUVZmka+0eTGlYE=|KAzgq1jMX2zDAbG3BIySoUpb/xUF6Z7Z8WRtxNgOsqlb9Wcn5WAmDQ==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c4ce3c58-739a-3a0a-b162-b2ec3c16e8c8/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c4ce3c58-739a-3a0a-b162-b2ec3c16e8c8"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c4ce3c58-739a-3a0a-b162-b2ec3c16e8c8/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c4ce3c58-739a-3a0a-b162-b2ec3c16e8c8"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Politics"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Politics</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.000</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/585a784f-7477-3371-883b-cdd5f985f565">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/c5c9a490-58e3-3d12-9677-45994f6dcd36"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/92956dc3-4c11-340f-b4b5-1266cd1c7c5c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Mexico</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c4ce3c58-739a-3a0a-b162-b2ec3c16e8c8/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c4ce3c58-739a-3a0a-b162-b2ec3c16e8c8"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/92956dc3-4c11-340f-b4b5-1266cd1c7c5c"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.747</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>President</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c4ce3c58-739a-3a0a-b162-b2ec3c16e8c8/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c4ce3c58-739a-3a0a-b162-b2ec3c16e8c8"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.126</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/535b07b5-3650-3724-bc15-2c138785f3e3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Helga Casanova</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Helga Casanova</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c4ce3c58-739a-3a0a-b162-b2ec3c16e8c8/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c4ce3c58-739a-3a0a-b162-b2ec3c16e8c8"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/535b07b5-3650-3724-bc15-2c138785f3e3"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.250</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c9ece60a-57a7-34ed-8915-b259a867dfcf">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>National Action Party (PAN)</c:name>
+         <c:organizationtype>political party</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c4ce3c58-739a-3a0a-b162-b2ec3c16e8c8/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c4ce3c58-739a-3a0a-b162-b2ec3c16e8c8"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c9ece60a-57a7-34ed-8915-b259a867dfcf"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.267</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/4edfc924-721a-bb77-4d54-47bade86ea5d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c4ce3c58-739a-3a0a-b162-b2ec3c16e8c8"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/92956dc3-4c11-340f-b4b5-1266cd1c7c5c"/>
+         <c:name>Mexico</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">19.0</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-99.0</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/f393a2a2-93e6-303b-8596-1212fb1f501a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Enrique Pena Nieto's administration</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c4ce3c58-739a-3a0a-b162-b2ec3c16e8c8/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c4ce3c58-739a-3a0a-b162-b2ec3c16e8c8"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/f393a2a2-93e6-303b-8596-1212fb1f501a"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.126</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/57af1883-e7a9-3c21-86c9-4a6b0f7acd1f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/535b07b5-3650-3724-bc15-2c138785f3e3"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/31bff4a5-ea2b-39c7-a0d0-eb3ba345dde8"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/31bff4a5-ea2b-39c7-a0d0-eb3ba345dde8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>electoral council spokeswoman</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c4ce3c58-739a-3a0a-b162-b2ec3c16e8c8/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c4ce3c58-739a-3a0a-b162-b2ec3c16e8c8"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/31bff4a5-ea2b-39c7-a0d0-eb3ba345dde8"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.217</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a49f0265-bee2-38be-ad22-389c6170e631">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Institutional Revolutionary Party (PRI)</c:name>
+         <c:organizationtype>political party</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c4ce3c58-739a-3a0a-b162-b2ec3c16e8c8/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c4ce3c58-739a-3a0a-b162-b2ec3c16e8c8"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a49f0265-bee2-38be-ad22-389c6170e631"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.242</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/c5c9a490-58e3-3d12-9677-45994f6dcd36">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Enrique Pena Nieto</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Enrique Pena Nieto</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c4ce3c58-739a-3a0a-b162-b2ec3c16e8c8/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c4ce3c58-739a-3a0a-b162-b2ec3c16e8c8"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/c5c9a490-58e3-3d12-9677-45994f6dcd36"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.126</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/93ca4bb8-f902-3341-879e-3ae63b2093e3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>federal government</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c4ce3c58-739a-3a0a-b162-b2ec3c16e8c8/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c4ce3c58-739a-3a0a-b162-b2ec3c16e8c8"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/93ca4bb8-f902-3341-879e-3ae63b2093e3"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.322</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

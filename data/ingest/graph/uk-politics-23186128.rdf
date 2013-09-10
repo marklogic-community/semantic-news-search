@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/uk-politics-23186128">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/uk-politics-23186128"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">A bill to guarantee a referendum on Britain's EU membership in 2017 clears its first Commons hurdle as 304 mainly Tory MPs back it.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-05T16:01:37</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68563000/jpg/_68563263_68563256.jpg"/>
+         <rnews:headline xml:lang="en-GB">MPs urge 'overdue' EU referendum</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Politics</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68562000/jpg/_68562663_68562662.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/uk-politics-23186128"/>
+         <rnews:description xml:lang="en-GB">James Wharton MP</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68570000/jpg/_68570565_68570560.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/uk-politics-23186128"/>
+         <rnews:description xml:lang="en-GB">Douglas Alexander</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="34fba7a0-eeab-7b1c-13fb-dd619d25c153"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/jcRNlus0UZBzlW*Yu7QIdw"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-05</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/uk-politics-23186128"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 05:31:32.578"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|SJ9EoO66qOg21zy8/F5eTC0DKD4=|dLPTML9uqXH00+mNts9Xdy9OlyB0Plx8fYKZXea6OsBbCx9GCxueTA==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Politics"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Politics</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.000</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/2e044ea3-c1f4-3c16-aed6-ff492e325e61">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/366fd171-5fd6-33b7-bb45-dd1e88e3a4aa"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/9826736c-2bdb-308a-bb4a-527c58e1a865"/>
+         <c:organization rdf:resource="http://d.opencalais.com/genericHasher-1/63bb4943-f5dc-3038-96d5-8b8286a78218"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/a1cb299a-dcc2-32df-97f6-981c5d7d8fb4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Malcolm Rifkind</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Malcolm Rifkind</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/a1cb299a-dcc2-32df-97f6-981c5d7d8fb4"/>
+         <c:relevance>0.291</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/d5138b6c-8fad-3c4d-87c8-c5a1c1d8368f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Kate Hoey</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Kate Hoey</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/d5138b6c-8fad-3c4d-87c8-c5a1c1d8368f"/>
+         <c:relevance>0.243</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/c10be8f5-c40c-381a-b93e-f7544f9e1c9d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Dennis Skinner</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Dennis Skinner</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/c10be8f5-c40c-381a-b93e-f7544f9e1c9d"/>
+         <c:relevance>0.243</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7b96026c-4376-36f1-aac2-474d6cb1ceed">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>Prime Minister</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7b96026c-4376-36f1-aac2-474d6cb1ceed"/>
+         <c:relevance>0.111</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3e51ce3e-9d4a-37a0-9a54-baee835660b8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>foreign secretary</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3e51ce3e-9d4a-37a0-9a54-baee835660b8"/>
+         <c:relevance>0.155</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/c0137620-9f59-7c2e-c1c7-834e05e733a0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/d3eabb8a-438c-359a-87ac-39da4e333ccc"/>
+         <c:name>Brussels,Brussels-Capital Region,Belgium</c:name>
+         <c:shortname>Brussels</c:shortname>
+         <c:containedbystate>Brussels-Capital Region</c:containedbystate>
+         <c:containedbycountry>Belgium</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">50.8410694286</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.35642242432</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/55d9542b-7d25-3aa7-a990-f3b367bd2ac4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Andrew Tyrie</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Andrew Tyrie</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/55d9542b-7d25-3aa7-a990-f3b367bd2ac4"/>
+         <c:relevance>0.180</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/9826736c-2bdb-308a-bb4a-527c58e1a865">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>leader</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/9826736c-2bdb-308a-bb4a-527c58e1a865"/>
+         <c:relevance>0.089</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/366fd171-5fd6-33b7-bb45-dd1e88e3a4aa">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Nigel Farage</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Nigel Farage</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/366fd171-5fd6-33b7-bb45-dd1e88e3a4aa"/>
+         <c:relevance>0.076</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/9bb26018-f501-329e-b57d-5e1ec16f1bd0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/1076d1eb-4ea8-3d30-823a-db47764acc34"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>TWITTER, INC.</c:name>
+         <c:shortname>Twitter</c:shortname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/fe6bbfc6-05cd-3dbb-a966-f29a98daa827">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Ken Clarke</c:name>
+         <c:persontype>sports</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Ken Clarke</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/fe6bbfc6-05cd-3dbb-a966-f29a98daa827"/>
+         <c:relevance>0.283</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/3db72f90-c039-3ee4-8782-1a0ab630e113">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Nick Robinson</c:name>
+         <c:persontype>economic</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Nick Robinson</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/3db72f90-c039-3ee4-8782-1a0ab630e113"/>
+         <c:relevance>0.101</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/181437a2-f450-3b3b-bbd4-24e1d2d104d5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Jeremy Vine</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Jeremy Vine</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/181437a2-f450-3b3b-bbd4-24e1d2d104d5"/>
+         <c:relevance>0.071</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/0e12fafb-a83b-60b0-b672-0e4e7c2a523d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a3aeb613-107f-3bae-9227-969078bc1c40"/>
+         <c:name>Wales</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">52.3</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-3.7</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7d16b977-03e6-32e2-ac73-b761b4eb807a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCommunication"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/366fd171-5fd6-33b7-bb45-dd1e88e3a4aa"/>
+         <c:organizationorcompany rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:status>announced</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/097d6725-7532-3a90-964f-b26459128823">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>William Hague</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>William Hague</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/097d6725-7532-3a90-964f-b26459128823"/>
+         <c:relevance>0.179</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>BBC</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:relevance>0.273</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e04cc808-58bd-3a08-9960-793cf3f6f14a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonParty"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/366fd171-5fd6-33b7-bb45-dd1e88e3a4aa"/>
+         <c:party>Independence Party</c:party>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/3801a95d-d2cd-3838-b92a-1db097f75e20">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Roger Godsiff</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Roger Godsiff</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/3801a95d-d2cd-3838-b92a-1db097f75e20"/>
+         <c:relevance>0.243</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/324cda02-cb75-397d-8d43-94ffde3d5dfc">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Kelvin Hopkins</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Kelvin Hopkins</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/324cda02-cb75-397d-8d43-94ffde3d5dfc"/>
+         <c:relevance>0.243</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/f3fe9f6d-ea90-3f7b-9db9-a1695d27de3f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Alexander</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Alexander</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/f3fe9f6d-ea90-3f7b-9db9-a1695d27de3f"/>
+         <c:relevance>0.132</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/9cdc126f-6826-0cbd-df3a-00a4032f0e7e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16"/>
+         <c:name>United Kingdom</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">53.1142456495</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-2.57711368423</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/709a1209-5bcf-350a-aa99-a31d53202192">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/55d9542b-7d25-3aa7-a990-f3b367bd2ac4"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/f18e6095-6e20-3e88-b554-50b806ed1f8b"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/1076d1eb-4ea8-3d30-823a-db47764acc34"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0877c590-d358-3b20-9bf5-010d374ff366">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCommunication"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/f6e921e5-397c-3df9-bae4-427a87aa77c3"/>
+         <c:organizationorcompany rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:status>announced</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/09bebb87-1ef5-373d-bd01-263e77470c65">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Continent"/>
+         <c:name>Europe</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/09bebb87-1ef5-373d-bd01-263e77470c65"/>
+         <c:relevance>0.613</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/60a07dbd-126f-399d-9d31-c9a1c8f1f360">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/RadioStation"/>
+         <c:name>Radio 2</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/18">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/60a07dbd-126f-399d-9d31-c9a1c8f1f360"/>
+         <c:relevance>0.071</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/480ab5d8-c070-3a48-9dd2-2b77aabad048">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>MP</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/19">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/480ab5d8-c070-3a48-9dd2-2b77aabad048"/>
+         <c:relevance>0.231</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5313518c-ff53-3d40-a19b-afb7eccf6bd6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>political editor</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/20">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/5313518c-ff53-3d40-a19b-afb7eccf6bd6"/>
+         <c:relevance>0.093</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/2710cc30-f3c9-9e60-50a1-bc40a6afa13d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/d0439ab2-7fc2-3a3d-9b7a-be9d3fa55bb2"/>
+         <c:name>Scotland</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">56.4396121212</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-4.05319393939</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/86db9944-c9e1-3e66-b369-e2245b19059d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Lib Dems</c:name>
+         <c:organizationtype>political party</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/21">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/86db9944-c9e1-3e66-b369-e2245b19059d"/>
+         <c:relevance>0.311</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/56ccc995-51fe-3888-9e24-a2cc2b7ad83d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Lib Dem</c:name>
+         <c:organizationtype>political party</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/22">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/56ccc995-51fe-3888-9e24-a2cc2b7ad83d"/>
+         <c:relevance>0.134</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/5f0d8d15-624a-3ae1-aa51-b5635a7bf856">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Gisela Stuart</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Gisela Stuart</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/23">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/5f0d8d15-624a-3ae1-aa51-b5635a7bf856"/>
+         <c:relevance>0.243</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/f18e6095-6e20-3e88-b554-50b806ed1f8b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>Conservative backbencher</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/24">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/f18e6095-6e20-3e88-b554-50b806ed1f8b"/>
+         <c:relevance>0.180</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/bb7e12e9-2009-34aa-ba99-7835babb4c0b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>Major</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/25">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/bb7e12e9-2009-34aa-ba99-7835babb4c0b"/>
+         <c:relevance>0.155</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>United Kingdom</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/26">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16"/>
+         <c:relevance>0.689</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b6266543-b3c0-362e-a7f1-4dddf0ba792f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>European Union</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/27">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b6266543-b3c0-362e-a7f1-4dddf0ba792f"/>
+         <c:relevance>0.689</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/619880b1-1a23-345d-bd20-333b7da61ec0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>James Wharton</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>James Wharton</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/28">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/619880b1-1a23-345d-bd20-333b7da61ec0"/>
+         <c:relevance>0.677</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/f6e921e5-397c-3df9-bae4-427a87aa77c3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Nick Clegg</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Nick Clegg</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/29">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/f6e921e5-397c-3df9-bae4-427a87aa77c3"/>
+         <c:relevance>0.085</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/07142186-ffb4-39c3-b55b-4b010436ee6c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Gary Streeter</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Gary Streeter</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/30">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/07142186-ffb4-39c3-b55b-4b010436ee6c"/>
+         <c:relevance>0.286</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6633eaab-e1fa-380b-bc75-eb556d83edb4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonParty"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/f6e921e5-397c-3df9-bae4-427a87aa77c3"/>
+         <c:party>Liberal Democrats</c:party>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d0439ab2-7fc2-3a3d-9b7a-be9d3fa55bb2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Scotland</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/31">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/d0439ab2-7fc2-3a3d-9b7a-be9d3fa55bb2"/>
+         <c:relevance>0.218</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/ea0c3646-1f85-366b-b6bf-4edcaf506262">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Graham Stringer</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Graham Stringer</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/32">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/ea0c3646-1f85-366b-b6bf-4edcaf506262"/>
+         <c:relevance>0.243</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/1076d1eb-4ea8-3d30-823a-db47764acc34">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Twitter</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/33">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/1076d1eb-4ea8-3d30-823a-db47764acc34"/>
+         <c:relevance>0.292</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d3eabb8a-438c-359a-87ac-39da4e333ccc">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Brussels</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/34">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/d3eabb8a-438c-359a-87ac-39da4e333ccc"/>
+         <c:relevance>0.317</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/8cc218a2-56eb-30a9-86dd-ea428366e0b0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonParty"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/619880b1-1a23-345d-bd20-333b7da61ec0"/>
+         <c:party>Conservatives</c:party>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/ba11043a-82c1-3ce3-8838-79e7d3ed3276">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Jason McCartney</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Jason McCartney</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/35">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/ba11043a-82c1-3ce3-8838-79e7d3ed3276"/>
+         <c:relevance>0.283</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/7a6a4835-2d42-388a-97e8-ef689d5745f0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>BRITISH BROADCASTING CORPORATION</c:name>
+         <c:shortname>BBC</c:shortname>
+         <c:ticker>BBC</c:ticker>
+         <c:symbol>TBBC.UL</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/1eac0e38-aa07-3855-b877-153307b9d888">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/f6e921e5-397c-3df9-bae4-427a87aa77c3"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/9826736c-2bdb-308a-bb4a-527c58e1a865"/>
+         <c:organization rdf:resource="http://d.opencalais.com/genericHasher-1/56ccc995-51fe-3888-9e24-a2cc2b7ad83d"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/63bb4943-f5dc-3038-96d5-8b8286a78218">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>UK Independence Party</c:name>
+         <c:organizationtype>political party</c:organizationtype>
+         <c:nationality>British</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/36">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/63bb4943-f5dc-3038-96d5-8b8286a78218"/>
+         <c:relevance>0.065</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/6efd2582-e1c2-3338-815b-371ab612f5b2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Cameron</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Cameron</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/37">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/6efd2582-e1c2-3338-815b-371ab612f5b2"/>
+         <c:relevance>0.292</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/d3c3d2df-c0ee-3e3b-822f-8889c87ab410">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Richard Shepherd</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Richard Shepherd</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/38">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/d3c3d2df-c0ee-3e3b-822f-8889c87ab410"/>
+         <c:relevance>0.287</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/baf3c4c7-39fb-3636-89d6-1426abd378f7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/3db72f90-c039-3ee4-8782-1a0ab630e113"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/5313518c-ff53-3d40-a19b-afb7eccf6bd6"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a3aeb613-107f-3bae-9227-969078bc1c40">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Wales</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151/Relevance/39">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/60de1b59-3a2f-3d8e-99c0-960aec913151"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a3aeb613-107f-3bae-9227-969078bc1c40"/>
+         <c:relevance>0.218</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

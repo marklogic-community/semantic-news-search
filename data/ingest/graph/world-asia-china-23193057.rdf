@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-asia-china-23193057">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-asia-china-23193057"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Eleven local officials are detained over a fire at a poultry plant in China's Jilin province that left 121 people dead, state media say.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-05T06:27:34</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68560000/jpg/_68560729_67944478.jpg"/>
+         <rnews:headline xml:lang="en-GB">Officials detained over Chinese fire</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68560000/jpg/_68560427_67944478.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-asia-china-23193057"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Smoke rises from Baoyuan poultry plant that caught fire at Dehui, north-east China's Jilin province on Monday </rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="f561c61e-7a90-dfd4-13fb-dd5b8bf1b944"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/AJiY6LD5nm79WuNjZojnEA"
+                    rdf:about="http://d.opencalais.com/dochash-1/fa64dca6-e288-33ff-bcc4-72e9af38ad31">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-05</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-asia-china-23193057"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 06:31:07.711"
+                    rdf:about="http://d.opencalais.com/dochash-1/fa64dca6-e288-33ff-bcc4-72e9af38ad31/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa64dca6-e288-33ff-bcc4-72e9af38ad31"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|+F547jbTncWqSA2BnDYwCYXNqig=|TeLhngBXllZ6+s/CUMBmggJyoG6T6IulY2M8zzuBdlWwBZVYcXo+jw==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fa64dca6-e288-33ff-bcc4-72e9af38ad31/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa64dca6-e288-33ff-bcc4-72e9af38ad31"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fa64dca6-e288-33ff-bcc4-72e9af38ad31/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa64dca6-e288-33ff-bcc4-72e9af38ad31"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Disaster_Accident"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Disaster_Accident</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.000</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fa64dca6-e288-33ff-bcc4-72e9af38ad31/cat/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa64dca6-e288-33ff-bcc4-72e9af38ad31"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Law_Crime"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Law_Crime</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.868</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fa64dca6-e288-33ff-bcc4-72e9af38ad31/cat/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa64dca6-e288-33ff-bcc4-72e9af38ad31"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Environment"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Environment</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.769</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/2981862a-f9cd-32af-aae2-5663865a3393">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>Local media</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fa64dca6-e288-33ff-bcc4-72e9af38ad31/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa64dca6-e288-33ff-bcc4-72e9af38ad31"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/2981862a-f9cd-32af-aae2-5663865a3393"/>
+         <c:relevance>0.325</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/4d9f0dde-e2a2-87b1-10cf-c04ec047c675">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa64dca6-e288-33ff-bcc4-72e9af38ad31"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b0ceaaba-45dc-3689-a708-5e40a788825e"/>
+         <c:name>Luoyang,Henan,China</c:name>
+         <c:shortname>Luoyang</c:shortname>
+         <c:containedbystate>Henan</c:containedbystate>
+         <c:containedbycountry>China</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">34.65</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">112.4333</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/54755e74-3c22-39a7-afea-4db6512f2e6f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>proper fire safety equipment</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fa64dca6-e288-33ff-bcc4-72e9af38ad31/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa64dca6-e288-33ff-bcc4-72e9af38ad31"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/54755e74-3c22-39a7-afea-4db6512f2e6f"/>
+         <c:relevance>0.109</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/8a7d7ba2-88ca-0f0e-a1ec-f975b026e8e1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa64dca6-e288-33ff-bcc4-72e9af38ad31"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3d1db47c-b851-32ab-af0b-0bffa4dad5d1"/>
+         <c:name>China</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">32.9042932784</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">110.467708512</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c14241b6-5f57-315c-9d5e-aa617f57bfc1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>head</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fa64dca6-e288-33ff-bcc4-72e9af38ad31/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa64dca6-e288-33ff-bcc4-72e9af38ad31"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c14241b6-5f57-315c-9d5e-aa617f57bfc1"/>
+         <c:relevance>0.193</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/483604d8-a0ef-33b0-8612-ae4eafee7d00">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>Henan</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fa64dca6-e288-33ff-bcc4-72e9af38ad31/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa64dca6-e288-33ff-bcc4-72e9af38ad31"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/483604d8-a0ef-33b0-8612-ae4eafee7d00"/>
+         <c:relevance>0.297</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/8c7a6a4c-62a7-3a0e-a208-2bb6dccaaf9b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ManMadeDisaster"/>
+         <c:effect>Dozens of other people were hurt in the incident</c:effect>
+         <c:manmadedisaster>fire</c:manmadedisaster>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/1d09987c-ee46-3c2f-a9f5-0534d0344619">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ManMadeDisaster"/>
+         <c:location>Luoyang, in Henan province</c:location>
+         <c:effect>309 people died</c:effect>
+         <c:manmadedisaster>fire</c:manmadedisaster>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/99b67508-b9a4-3b7d-93c9-208f95caf3ec">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ManMadeDisaster"/>
+         <c:location rdf:resource="http://d.opencalais.com/genericHasher-1/3d1db47c-b851-32ab-af0b-0bffa4dad5d1"/>
+         <c:manmadedisaster>fire</c:manmadedisaster>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/020c27a1-a767-34ce-ad15-432adcca1bb0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ManMadeDisaster"/>
+         <c:location>Dehui</c:location>
+         <c:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-06-03</c:date>
+         <c:datestring>3 June</c:datestring>
+         <c:manmadedisaster>fire</c:manmadedisaster>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3d1db47c-b851-32ab-af0b-0bffa4dad5d1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>China</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fa64dca6-e288-33ff-bcc4-72e9af38ad31/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa64dca6-e288-33ff-bcc4-72e9af38ad31"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3d1db47c-b851-32ab-af0b-0bffa4dad5d1"/>
+         <c:relevance>0.450</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/provinceorstate/ralg-geo1/01b28a32-a084-c717-3c98-29c386542e70">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/ProvinceOrState"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa64dca6-e288-33ff-bcc4-72e9af38ad31"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/483604d8-a0ef-33b0-8612-ae4eafee7d00"/>
+         <c:name>Henan,China</c:name>
+         <c:shortname>Henan</c:shortname>
+         <c:containedbycountry>China</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">34.0</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">114.0</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b0ceaaba-45dc-3689-a708-5e40a788825e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Luoyang</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fa64dca6-e288-33ff-bcc4-72e9af38ad31/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa64dca6-e288-33ff-bcc4-72e9af38ad31"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b0ceaaba-45dc-3689-a708-5e40a788825e"/>
+         <c:relevance>0.297</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a1fe9df8-fe87-37d3-8966-a6fa7d344881">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/NaturalDisaster"/>
+         <c:location rdf:resource="http://d.opencalais.com/genericHasher-1/3d1db47c-b851-32ab-af0b-0bffa4dad5d1"/>
+         <c:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2000-00-00</c:date>
+         <c:datestring>since 2000</c:datestring>
+         <c:naturaldisaster>wildfire</c:naturaldisaster>
+      </rdf:Description>
+   </rdf:RDF>

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-asia-23095733">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-asia-23095733"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">The Pakistani government criticises a decision by the BBC Urdu Service to terminate the jobs of nine senior reporters across the country.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-06-28T15:19:38</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68443000/jpg/_68443711_68443704.jpg"/>
+         <rnews:headline xml:lang="en-GB">Pakistan criticises BBC job cuts</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68436000/jpg/_68436806_68436805.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-asia-23095733"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Pakistan parliament (file photo) </rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="ef07ad6a-34dc-a90c-13fb-dcc2a8145124"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/eV0B700JfvBlry*t-ggc3g"
+                    rdf:about="http://d.opencalais.com/dochash-1/5393e935-2cdc-3dd3-9869-d36736672654">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-06-28</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-asia-23095733"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 06:20:41.488"
+                    rdf:about="http://d.opencalais.com/dochash-1/5393e935-2cdc-3dd3-9869-d36736672654/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/5393e935-2cdc-3dd3-9869-d36736672654"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|Q62r7dGihNpRl9HhAzyfjnf33kA=|KwhofejZKYP+8gLVf48NX+B+YXNfckC97OtXS62OsYBoGNi+bscAPg==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/5393e935-2cdc-3dd3-9869-d36736672654/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/5393e935-2cdc-3dd3-9869-d36736672654"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d4435633-47fa-37fc-a46d-73cc567c6202">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/CompanyLayoffs"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:status>announced</c:status>
+         <c:employeesnumber>10</c:employeesnumber>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/64f92f66-b444-30e6-97f6-bc63777d1755">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>minister</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/5393e935-2cdc-3dd3-9869-d36736672654/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/5393e935-2cdc-3dd3-9869-d36736672654"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/64f92f66-b444-30e6-97f6-bc63777d1755"/>
+         <c:relevance>0.111</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/19f964da-6b1c-3241-a445-e76da1711b0f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Pakistan</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/5393e935-2cdc-3dd3-9869-d36736672654/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/5393e935-2cdc-3dd3-9869-d36736672654"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/19f964da-6b1c-3241-a445-e76da1711b0f"/>
+         <c:relevance>0.506</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/bfacf062-5082-32eb-b668-bb1c196975ca">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>electronic media</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/5393e935-2cdc-3dd3-9869-d36736672654/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/5393e935-2cdc-3dd3-9869-d36736672654"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/bfacf062-5082-32eb-b668-bb1c196975ca"/>
+         <c:relevance>0.080</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>BBC</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/5393e935-2cdc-3dd3-9869-d36736672654/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/5393e935-2cdc-3dd3-9869-d36736672654"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:relevance>0.821</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/039b0f8a-828c-3397-86ab-46d81bdce4c9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/PublishedMedium"/>
+         <c:name>the Comprehensive Spending Review</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/5393e935-2cdc-3dd3-9869-d36736672654/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/5393e935-2cdc-3dd3-9869-d36736672654"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/039b0f8a-828c-3397-86ab-46d81bdce4c9"/>
+         <c:relevance>0.274</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/53ae9c71-2111-3881-b790-0e9a412d3c02">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/CompanyReorganization"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:status>known</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a9430957-543d-3102-a55d-b0b7783697a8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>Information minister</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/5393e935-2cdc-3dd3-9869-d36736672654/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/5393e935-2cdc-3dd3-9869-d36736672654"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a9430957-543d-3102-a55d-b0b7783697a8"/>
+         <c:relevance>0.317</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/ffdce8b7-527e-394c-8f85-30fda2157a7b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Pervez Rasheed</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Pervez Rasheed</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/5393e935-2cdc-3dd3-9869-d36736672654/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/5393e935-2cdc-3dd3-9869-d36736672654"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/ffdce8b7-527e-394c-8f85-30fda2157a7b"/>
+         <c:relevance>0.719</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6f36eadb-1c72-3be5-a52b-507fd4c01ee0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/ffdce8b7-527e-394c-8f85-30fda2157a7b"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/a9430957-543d-3102-a55d-b0b7783697a8"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d97759ae-10b4-3af9-9145-1983bb2c4461">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/CompanyLaborIssues"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:status>known</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/4e075844-d2e0-0e4c-800c-8c62716bed8c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/5393e935-2cdc-3dd3-9869-d36736672654"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/19f964da-6b1c-3241-a445-e76da1711b0f"/>
+         <c:name>Pakistan</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">32.0162446402</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">71.6925823299</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/4da0da39-6aa7-3d57-828e-02d6b6998ab2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>journalist</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/5393e935-2cdc-3dd3-9869-d36736672654/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/5393e935-2cdc-3dd3-9869-d36736672654"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/4da0da39-6aa7-3d57-828e-02d6b6998ab2"/>
+         <c:relevance>0.111</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/239184dc-acd4-314e-8864-683fb91b5b37">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>labour law guidelines</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/5393e935-2cdc-3dd3-9869-d36736672654/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/5393e935-2cdc-3dd3-9869-d36736672654"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/239184dc-acd4-314e-8864-683fb91b5b37"/>
+         <c:relevance>0.228</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7d405494-5c95-355c-a706-acbc766eeb7c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Pakistani government</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>Pakistani</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/5393e935-2cdc-3dd3-9869-d36736672654/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/5393e935-2cdc-3dd3-9869-d36736672654"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7d405494-5c95-355c-a706-acbc766eeb7c"/>
+         <c:relevance>0.320</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/17126376-4538-3f7d-b31d-bcb2c6472493">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>spokesman</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/5393e935-2cdc-3dd3-9869-d36736672654/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/5393e935-2cdc-3dd3-9869-d36736672654"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/17126376-4538-3f7d-b31d-bcb2c6472493"/>
+         <c:relevance>0.505</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/7a6a4835-2d42-388a-97e8-ef689d5745f0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/5393e935-2cdc-3dd3-9869-d36736672654"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>BRITISH BROADCASTING CORPORATION</c:name>
+         <c:shortname>BBC</c:shortname>
+         <c:ticker>BBC</c:ticker>
+         <c:symbol>TBBC.UL</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/855d6513-6084-36fe-9076-5e86e0116907">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/CompanyReorganization"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:status>announced</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/2a01beb8-cbdd-370e-9061-ebec3b195975">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Aijaz Mahar</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Aijaz Mahar</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/5393e935-2cdc-3dd3-9869-d36736672654/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/5393e935-2cdc-3dd3-9869-d36736672654"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/2a01beb8-cbdd-370e-9061-ebec3b195975"/>
+         <c:relevance>0.131</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

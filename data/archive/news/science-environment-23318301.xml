@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<es:job-bag xmlns:es="http://www.marklogic.com/enhanced-search#">
+   <html xmlns="http://www.w3.org/1999/xhtml"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:c="http://www.w3.org/ns/xproc-step"
+         xml:lang="en-GB"
+         xml:base="http://www.bbc.co.uk">
+      <head profile="http://dublincore.org/documents/dcq-html/"
+            resource="http://www.bbc.co.uk/news/science-environment-23318301"
+            typeof="rnews:NewsItem">
+         <meta property="rnews:description"
+               content="Nasa confirms that the Hubble space telescope has found the 14th and smallest moon circling the giant, icy planet Neptune."/>
+         <meta property="rnews:datePublished" content="2013-07-15T23:30:15"/>
+         <meta property="rnews:thumbnailUrl"
+               content="http://news.bbcimg.co.uk/media/images/68753000/jpg/_68753414_hi018656330.jpg"/>
+         <meta property="rnews:headline" content="Hubble discovers new Neptune moon"/>
+         <meta name="CPS_SECTION_PATH" content="Science and Environment"/>
+         <meta property="rnews:creator" content="http://www.bbc.co.uk#org"/>
+         <link rel="copyright"
+               href="http://www.bbc.co.uk/terms/"
+               title="Terms of Use"/>
+         <link rel="http://purl.org/dc/terms/source"
+               href="http://www.bbc.co.uk/news/science-environment-23318301"/>
+         <title>BBC News - Nasa's Hubble telescope discovers new Neptune
+moon</title>
+      </head>
+      <body>
+         <div class="story-body">
+            <span class="story-date">
+               <span class="date">16 July 2013</span>
+               <span class="time-text">Last updated
+at</span>
+               <span class="time">00:30</span>
+            </span>
+            <h1 class="story-header">Nasa's Hubble telescope discovers new
+Neptune moon</h1>
+            <div class="caption body-width">
+               <img src="http://news.bbcimg.co.uk/media/images/68753000/jpg/_68753510_moonapnasa.jpg"
+                    width="464"
+                    height="261"
+                    alt="Nasa diagram of Neptune and its new moon"/>
+               <span style="width:464px;">Voyager failed to spot the tiny moon during its 1989
+fly-pass</span>
+            </div>
+            <p class="introduction">The Hubble space
+telescope has discovered a new moon orbiting Neptune, Nasa has
+confirmed.</p>
+            <p>Designated S/2004 N 1, this is the 14th known moon to circle the
+giant planet.</p>
+            <p>It also appears to be the smallest moon in the Neptunian system,
+measuring just 20 km (12 miles) across, completing one revolution
+around Neptune every 23 hours.</p>
+            <p>US astronomer Mark Showalter spotted the tiny dot while studying
+segments of rings around Neptune.</p>
+            <p>Nasa said the moon was roughly 100 million times dimmer than the
+faintest star visible to the naked eye.</p>
+            <p>It is so small that the Voyager spacecraft failed to spot it in
+1989 when it passed close by Neptune and surveyed the planet's
+system of moons and rings.</p>
+            <p>Mr Showalter's method of discovery involved tracking the
+movement of a white fleck appearing over and over again in more
+than 150 photographs taken of Neptune by Hubble between 2004 and
+2009.</p>
+            <p>"The moons and arcs orbit very quickly, so we had to devise a
+way to follow their motion in order to bring out the details of the
+system," Mr Showalter explained.</p>
+            <p>"It's the same reason a sports photographer tracks a running
+athlete - the athlete stays in focus, but the background
+blurs."</p>
+         </div>
+         <div class="story-feature related narrow">
+            <h2>Related Stories</h2>
+            <ul class="related-links-list">
+               <li>
+                  <a class="story"
+                     rel="published-1372781737817"
+                     href="/news/science-environment-23146454">Pluto moons get mythical new
+names</a>
+               </li>
+               <li>
+                  <a class="story"
+                     rel="published-1366334798845"
+                     href="/news/science-environment-22200476">'Most Earth-like' worlds
+detected</a>
+               </li>
+               <li>
+                  <a class="story"
+                     rel="published-1328261710711"
+                     href="/news/science-environment-16856812">Striking galaxy image from
+Hubble</a>
+               </li>
+            </ul>
+         </div>
+      </body>
+   </html>
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+            xmlns:og="http://opengraphprotocol.org/schema/"
+            xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/science-environment-23318301">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/science-environment-23318301"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Nasa confirms that the Hubble space telescope has found the 14th and smallest moon circling the giant, icy planet Neptune.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-15T23:30:15</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68753000/jpg/_68753414_hi018656330.jpg"/>
+         <rnews:headline xml:lang="en-GB">Hubble discovers new Neptune moon</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Science and Environment</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68753000/jpg/_68753510_moonapnasa.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/science-environment-23318301"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</rnews:height>
+         <rnews:description xml:lang="en-GB">Nasa diagram of Neptune and its new moon</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       c:allowDistribution="true"
+                       c:allowSearch="false"
+                       c:calaisRequestID="95fc6337-2193-379d-13fe-5e1cf4297348"
+                       c:externalID="mluces"
+                       c:id="http://id.opencalais.com/Fml6iiuHB8fXl*jO5YtUpQ"
+                       rdf:about="http://d.opencalais.com/dochash-1/572fef13-b69e-3566-ae1a-239a3c5a0def">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-16</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                     rdf:resource="http://www.bbc.co.uk/news/science-environment-23318301"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       c:contentType="TEXT/HTML"
+                       c:emVer="7.1.1103.5"
+                       c:langIdVer="DefaultLangId"
+                       c:language="English"
+                       c:processingVer="CalaisJob01"
+                       c:submissionDate="2013-07-16 00:09:08.546"
+                       rdf:about="http://d.opencalais.com/dochash-1/572fef13-b69e-3566-ae1a-239a3c5a0def/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/572fef13-b69e-3566-ae1a-239a3c5a0def"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|rjqZ/eS3GMjyjf65mYc4sgP9v4I=|Bfo3vLIGMT+09Z5ZgZDnhwb85P1F629dtVp/mAvlFSWt+9gmokIJ5A==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/572fef13-b69e-3566-ae1a-239a3c5a0def/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/572fef13-b69e-3566-ae1a-239a3c5a0def"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/572fef13-b69e-3566-ae1a-239a3c5a0def/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/572fef13-b69e-3566-ae1a-239a3c5a0def"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Technology_Internet"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Technology_Internet</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.637</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/b5a89eaa-c7b7-3f9c-8756-b89ebbcbafed">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>sports photographer</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/572fef13-b69e-3566-ae1a-239a3c5a0def/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/572fef13-b69e-3566-ae1a-239a3c5a0def"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b5a89eaa-c7b7-3f9c-8756-b89ebbcbafed"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.107</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/66e8d1b8-240d-35fc-bc42-98508c17ff2f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/77094d93-9561-3b41-8f49-dadc7e551555"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/1cc60084-deff-3c2e-a959-bfe754fa8989"/>
+         <c:organization rdf:resource="http://d.opencalais.com/genericHasher-1/c524eab1-888a-37c4-ba49-6a0946c9026d"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/pershash-1/77094d93-9561-3b41-8f49-dadc7e551555">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Mark Showalter</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>American</c:nationality>
+         <c:commonname>Mark Showalter</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/572fef13-b69e-3566-ae1a-239a3c5a0def/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/572fef13-b69e-3566-ae1a-239a3c5a0def"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/77094d93-9561-3b41-8f49-dadc7e551555"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.593</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/152649df-347e-e289-1a9e-acc883e07d17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/572fef13-b69e-3566-ae1a-239a3c5a0def"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:name>United States</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.4230003233</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-98.7372244786</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/c524eab1-888a-37c4-ba49-6a0946c9026d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>National Aeronautics and Space Administration</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/572fef13-b69e-3566-ae1a-239a3c5a0def/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/572fef13-b69e-3566-ae1a-239a3c5a0def"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c524eab1-888a-37c4-ba49-6a0946c9026d"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.486</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/1cc60084-deff-3c2e-a959-bfe754fa8989">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>astronomer</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/572fef13-b69e-3566-ae1a-239a3c5a0def/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/572fef13-b69e-3566-ae1a-239a3c5a0def"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/1cc60084-deff-3c2e-a959-bfe754fa8989"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.281</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>United States</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/572fef13-b69e-3566-ae1a-239a3c5a0def/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/572fef13-b69e-3566-ae1a-239a3c5a0def"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.281</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/e9872a8a-2e1d-3d8c-a758-e2ce52e0d0b9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>athlete</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/572fef13-b69e-3566-ae1a-239a3c5a0def/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/572fef13-b69e-3566-ae1a-239a3c5a0def"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e9872a8a-2e1d-3d8c-a758-e2ce52e0d0b9"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.107</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/0efacb81-8c04-34a4-b9c6-af8fb8e71361">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>running athlete</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/572fef13-b69e-3566-ae1a-239a3c5a0def/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/572fef13-b69e-3566-ae1a-239a3c5a0def"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0efacb81-8c04-34a4-b9c6-af8fb8e71361"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.107</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>
+</es:job-bag>

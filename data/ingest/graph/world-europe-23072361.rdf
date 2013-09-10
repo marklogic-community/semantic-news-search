@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-europe-23072361">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-europe-23072361"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">As the BBC's Damien McGuiness departs Georgia after two years, he reflects on some surprising things he learned.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-04T01:28:21</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68540000/jpg/_68540465_georgian_road_signs.jpg"/>
+         <rnews:headline xml:lang="en-GB">10 things you might not know about Georgia</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68525000/jpg/_68525837_compo2.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-europe-23072361"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">composite image of photographs from Georgia </rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68528000/jpg/_68528234_georgian_road_signs.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-europe-23072361"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</rnews:height>
+         <rnews:description xml:lang="en-GB">Georgian road sign </rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68499000/jpg/_68499771_jm_tb_bbc.011.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-europe-23072361"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</rnews:height>
+         <rnews:description xml:lang="en-GB">Flea market in Tbilisi selling pictures of Joseph Stalin </rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68499000/jpg/_68499773_skiing.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-europe-23072361"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</rnews:height>
+         <rnews:description xml:lang="en-GB">Skier on a ski lift in Georgia's Caucasus mountains</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68499000/jpg/_68499775_154525551.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-europe-23072361"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</rnews:height>
+         <rnews:description xml:lang="en-GB">Georgia's new parliament building </rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68407000/jpg/_68407012_anti-gayafp.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-europe-23072361"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</rnews:height>
+         <rnews:description xml:lang="en-GB">Two men in Georgia holding an anti-gay banner</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68407000/jpg/_68407010_toastwithhilaryafp.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-europe-23072361"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</rnews:height>
+         <rnews:description xml:lang="en-GB">President Mikhail Saakashvili toasting US Secretary of State Hilary Clinton</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68407000/jpg/_68407014_churchafp.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-europe-23072361"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</rnews:height>
+         <rnews:description xml:lang="en-GB">A religious procession celebrating the Orthodox Christmas in Tbilisi.</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68534000/gif/_68534418_georgia_europe_624.gif">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-europe-23072361"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">265</rnews:height>
+         <rnews:description xml:lang="en-GB">Map showing location of Georgia in relation to Europe</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="c5d2014b-9e00-74d1-3fbd-d533f345cd18"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/ATWYL0BiLPOJWKPXKOzHWQ"
+                    rdf:about="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-04</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-europe-23072361"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 05:30:33.715"
+                    rdf:about="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|F21akIAFRNxS7PB8XURDGI61ZJ8=|VrQ+t0G3JFjj+ZyULGAbylilWK90ybwp1CYnGNdVW5SmJPzoBkxa+Q==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Hospitality_Recreation"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Hospitality_Recreation</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.856</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/94f2bf01-17d6-34d1-8aa7-35f719d39fcf">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/NaturalFeature"/>
+         <c:name>Alps</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/94f2bf01-17d6-34d1-8aa7-35f719d39fcf"/>
+         <c:relevance>0.214</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/797c999a-d455-520d-e5cf-04ca7fb255c1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/56fc901f-59a3-3278-addc-b0fc69b283e7"/>
+         <c:name>Paris,France</c:name>
+         <c:shortname>Paris</c:shortname>
+         <c:containedbycountry>France</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.8742</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.346954</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/43f15ee1-e535-3a6b-ab31-96c044763dda">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Orthodox Church</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/43f15ee1-e535-3a6b-ab31-96c044763dda"/>
+         <c:relevance>0.229</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/dec04dc3-dfb4-3e51-8b09-50f80379988a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>red cross</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/dec04dc3-dfb4-3e51-8b09-50f80379988a"/>
+         <c:relevance>0.256</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d0491a7e-9d7c-363f-9c65-b74625f93ab8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/NaturalFeature"/>
+         <c:name>Caucasus Mountains</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/d0491a7e-9d7c-363f-9c65-b74625f93ab8"/>
+         <c:relevance>0.345</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a5359054-758f-3c20-ac97-d90fbc6a170e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Continent"/>
+         <c:name>Asia</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a5359054-758f-3c20-ac97-d90fbc6a170e"/>
+         <c:relevance>0.058</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/fa398fe9-6a72-3a25-9d8b-8235d4b20ec5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Ilia II</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Ilia II</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/fa398fe9-6a72-3a25-9d8b-8235d4b20ec5"/>
+         <c:relevance>0.071</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c1de8d43-695e-3bc4-be34-fda9c6c3448a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/NaturalFeature"/>
+         <c:name>Caucasus</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c1de8d43-695e-3bc4-be34-fda9c6c3448a"/>
+         <c:relevance>0.048</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b61ec243-89c8-3a43-bf33-226e27c2384e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Berlin</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b61ec243-89c8-3a43-bf33-226e27c2384e"/>
+         <c:relevance>0.054</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/c0cdd82c-e092-b012-67bd-d88a8bfbb1f4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/fa520215-057f-36ab-ad6b-382f421c566e"/>
+         <c:name>Georgia</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.1901698148</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">43.2781482407</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b6266543-b3c0-362e-a7f1-4dddf0ba792f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>European Union</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b6266543-b3c0-362e-a7f1-4dddf0ba792f"/>
+         <c:relevance>0.045</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/fa520215-057f-36ab-ad6b-382f421c566e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Georgia</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/fa520215-057f-36ab-ad6b-382f421c566e"/>
+         <c:relevance>0.783</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/54509c3f-e739-3265-b887-6897622bba40">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/286656d4-1027-3359-9f4d-a5e402b383da"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/f991df67-2dda-3228-8439-b8264fd59bad"/>
+         <c:organization rdf:resource="http://d.opencalais.com/genericHasher-1/dec04dc3-dfb4-3e51-8b09-50f80379988a"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>past</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/286656d4-1027-3359-9f4d-a5e402b383da">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Joseph Stalin</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>Georgian</c:nationality>
+         <c:commonname>Joseph Stalin</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/286656d4-1027-3359-9f4d-a5e402b383da"/>
+         <c:relevance>0.403</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3c59587b-2571-3675-b2ab-c4254dfb633c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonAttributes"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/286656d4-1027-3359-9f4d-a5e402b383da"/>
+         <c:birthplace rdf:resource="http://d.opencalais.com/genericHasher-1/fa520215-057f-36ab-ad6b-382f421c566e"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/27a9fab7-bd74-3858-8adb-985e093d726b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Region"/>
+         <c:name>Northern Europe</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/27a9fab7-bd74-3858-8adb-985e093d726b"/>
+         <c:relevance>0.143</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>President</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e"/>
+         <c:relevance>0.148</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/36ee99ed-2549-3074-bccf-772bb2523711">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Hitler</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Hitler</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/36ee99ed-2549-3074-bccf-772bb2523711"/>
+         <c:relevance>0.388</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/4ed287f5-46a8-3c0d-a02e-f1f57e3f75af">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Mikheil Saakashvili</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Mikheil Saakashvili</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/4ed287f5-46a8-3c0d-a02e-f1f57e3f75af"/>
+         <c:relevance>0.148</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/provinceorstate/ralg-geo1/4e1bbcc7-2568-4589-df82-38e11d37bf8c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/ProvinceOrState"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a62b9aa9-6ef2-33ab-801b-4b9e524171a9"/>
+         <c:name>Sicily,Italy</c:name>
+         <c:shortname>Sicily</c:shortname>
+         <c:containedbycountry>Italy</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">37.6</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">14.1667</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7f0fc81a-494e-3124-a634-6a8a13e9dd46">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Russia</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7f0fc81a-494e-3124-a634-6a8a13e9dd46"/>
+         <c:relevance>0.209</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/88153e7c-717e-9100-f403-c25ceef5354e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b61ec243-89c8-3a43-bf33-226e27c2384e"/>
+         <c:name>Berlin,Germany</c:name>
+         <c:shortname>Berlin</c:shortname>
+         <c:containedbycountry>Germany</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">52.523337</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">13.412687</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/1c625cc8-6f82-4660-a320-d185916e3c55">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7f0fc81a-494e-3124-a634-6a8a13e9dd46"/>
+         <c:name>Russia</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">54.8270488441</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">55.0423189997</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c2a9f425-ec4c-306c-9c92-2994f88e54d8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Orthodox Catholic Church</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d/Relevance/17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c2a9f425-ec4c-306c-9c92-2994f88e54d8"/>
+         <c:relevance>0.077</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/56f57048-a417-3d80-8fce-4a8a60d8e58c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Tbilisi</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d/Relevance/18">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/56f57048-a417-3d80-8fce-4a8a60d8e58c"/>
+         <c:relevance>0.584</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d01d142a-b3db-3ad7-9fb7-e5c386969a32">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Soviet Union</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d/Relevance/19">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/d01d142a-b3db-3ad7-9fb7-e5c386969a32"/>
+         <c:relevance>0.246</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/76dd9b0a-e6e0-3fab-a0ff-9e20b378c862">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonLocation"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/286656d4-1027-3359-9f4d-a5e402b383da"/>
+         <c:locationstring>Georgia</c:locationstring>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/958849bf-65d0-10e5-ddc5-970fc8e87449">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/56f57048-a417-3d80-8fce-4a8a60d8e58c"/>
+         <c:name>Tbilisi,Georgia</c:name>
+         <c:shortname>Tbilisi</c:shortname>
+         <c:containedbycountry>Georgia</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41.7167</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.7833</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/56fc901f-59a3-3278-addc-b0fc69b283e7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Paris</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d/Relevance/20">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/56fc901f-59a3-3278-addc-b0fc69b283e7"/>
+         <c:relevance>0.054</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5d884fe1-d93d-30a3-8646-7c0e5000b377">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/4ed287f5-46a8-3c0d-a02e-f1f57e3f75af"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/fee94074-e69c-3beb-9c1a-1b589f023b38">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Region"/>
+         <c:name>former Soviet Union</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d/Relevance/21">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/fee94074-e69c-3beb-9c1a-1b589f023b38"/>
+         <c:relevance>0.246</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/09bebb87-1ef5-373d-bd01-263e77470c65">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Continent"/>
+         <c:name>Europe</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d/Relevance/22">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/09bebb87-1ef5-373d-bd01-263e77470c65"/>
+         <c:relevance>0.468</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c16d75d3-6824-32a7-82c2-b8c266572ee5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>food</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d/Relevance/23">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c16d75d3-6824-32a7-82c2-b8c266572ee5"/>
+         <c:relevance>0.098</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a62b9aa9-6ef2-33ab-801b-4b9e524171a9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>Sicily</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d/Relevance/24">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a62b9aa9-6ef2-33ab-801b-4b9e524171a9"/>
+         <c:relevance>0.045</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/f991df67-2dda-3228-8439-b8264fd59bad">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>ruler of the former Soviet Union</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d/Relevance/25">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4f777e8a-e1c5-306a-9427-38062c4a134d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/f991df67-2dda-3228-8439-b8264fd59bad"/>
+         <c:relevance>0.246</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

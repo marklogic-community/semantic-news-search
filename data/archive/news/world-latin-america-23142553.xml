@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<es:job-bag xmlns:es="http://www.marklogic.com/enhanced-search#">
+   <html xmlns="http://www.w3.org/1999/xhtml"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:c="http://www.w3.org/ns/xproc-step"
+         xml:lang="en-GB"
+         xml:base="http://www.bbc.co.uk">
+      <head profile="http://dublincore.org/documents/dcq-html/"
+            resource="http://www.bbc.co.uk/news/world-latin-america-23142553"
+            typeof="rnews:NewsItem">
+         <meta property="rnews:description"
+               content="Some 500 tonnes of fish wash up on the banks of a Mexican reservoir, reportedly killed after a factory poured molasses into the water."/>
+         <meta property="rnews:datePublished" content="2013-07-02T08:37:39"/>
+         <meta property="rnews:thumbnailUrl"
+               content="http://news.bbcimg.co.uk/media/images/68495000/jpg/_68495810_68495506.jpg"/>
+         <meta property="rnews:headline" content="Dead fish fill Mexico reservoir"/>
+         <meta name="CPS_SECTION_PATH" content="World/Latin America"/>
+         <meta property="rnews:creator" content="http://www.bbc.co.uk#org"/>
+         <link rel="copyright"
+               href="http://www.bbc.co.uk/terms/"
+               title="Terms of Use"/>
+         <link rel="http://purl.org/dc/terms/source"
+               href="http://www.bbc.co.uk/news/world-latin-america-23142553"/>
+         <title>BBC News - Dead fish fill Mexico reservoir</title>
+      </head>
+      <body>
+         <div class="story-body">
+            <span class="story-date">
+               <span class="date">2 July 2013</span>
+               <span class="time-text">Last updated
+at</span>
+               <span class="time">09:37</span>
+            </span>
+            <h1 class="story-header">Dead fish fill Mexico reservoir</h1>
+            <div class="caption body-width">
+               <img src="http://news.bbcimg.co.uk/media/images/68495000/jpg/_68495514_68495506.jpg"
+                    width="464"
+                    height="261"
+                    alt="Fisherman collect dead fish piled up in the banks of the lagoon of the Hurtado dam in Acatlan de Juarez, Jalisco state, Mexico on July 1"/>
+            </div>
+            <p class="introduction">Tens of thousands of dead fish have washed
+up on the banks of a Mexican reservoir, amid allegations that a
+local firm contaminated the water.</p>
+            <p>Local Mayor Emeterio Corona said the firm had dumped hundreds of
+litres of molasses into a canal that flows into the reservoir in
+Jalisco state.</p>
+            <p>The fish had been starved of oxygen and died from asphyxiation,
+he said.</p>
+            <p>Local fishermen warned that their livelihoods had been put at
+risk by the disaster.</p>
+            <p>Some 180 families were reported to live off fishing on the
+reservoir. Images from the scene showed piles of carp and sea bream
+being gathered by local fishermen.</p>
+            <p>Mr Corona, mayor of Acatlan de Juarez, did not name the firm
+involved but said they had acted illegally.</p>
+            <p>"The environment and the sustenance of everybody [in the
+community] was damaged," he said.</p>
+            <p>"What will they live off? I'm outraged. This is a tragedy."</p>
+         </div>
+      </body>
+   </html>
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+            xmlns:og="http://opengraphprotocol.org/schema/"
+            xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-latin-america-23142553">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-latin-america-23142553"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Some 500 tonnes of fish wash up on the banks of a Mexican reservoir, reportedly killed after a factory poured molasses into the water.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-02T08:37:39</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68495000/jpg/_68495810_68495506.jpg"/>
+         <rnews:headline xml:lang="en-GB">Dead fish fill Mexico reservoir</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68495000/jpg/_68495514_68495506.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-latin-america-23142553"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</rnews:height>
+         <rnews:description xml:lang="en-GB">Fisherman collect dead fish piled up in the banks of the lagoon of the Hurtado dam in Acatlan de Juarez, Jalisco state, Mexico on July 1</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       c:allowDistribution="true"
+                       c:allowSearch="false"
+                       c:calaisRequestID="85877066-e804-fee5-13fb-dc73dac37274"
+                       c:externalID="mluces"
+                       c:id="http://id.opencalais.com/wybAm9CNYkJTLfE5ZBSbXw"
+                       rdf:about="http://d.opencalais.com/dochash-1/50581a3c-71c3-3280-bf8f-b2f23cd40738">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-02</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                     rdf:resource="http://www.bbc.co.uk/news/world-latin-america-23142553"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       c:contentType="TEXT/HTML"
+                       c:emVer="7.1.1103.5"
+                       c:langIdVer="DefaultLangId"
+                       c:language="English"
+                       c:processingVer="CalaisJob01"
+                       c:submissionDate="2013-07-08 06:15:18.700"
+                       rdf:about="http://d.opencalais.com/dochash-1/50581a3c-71c3-3280-bf8f-b2f23cd40738/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/50581a3c-71c3-3280-bf8f-b2f23cd40738"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|41bqfgh1zs28YLldP1i+6wtx9Hk=|dkXbbUmxCGPxQ085Hfnn5gTkUJMnQOTvmbXskYdPd3HnOHLPa7PFlQ==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/50581a3c-71c3-3280-bf8f-b2f23cd40738/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/50581a3c-71c3-3280-bf8f-b2f23cd40738"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/50581a3c-71c3-3280-bf8f-b2f23cd40738/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/50581a3c-71c3-3280-bf8f-b2f23cd40738"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Disaster_Accident"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Disaster_Accident</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.000</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/50581a3c-71c3-3280-bf8f-b2f23cd40738/cat/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/50581a3c-71c3-3280-bf8f-b2f23cd40738"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Environment"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Environment</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.988</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/5ec709f3-8447-3db2-a70a-b4aff43a699a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>mayor</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/50581a3c-71c3-3280-bf8f-b2f23cd40738/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/50581a3c-71c3-3280-bf8f-b2f23cd40738"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/5ec709f3-8447-3db2-a70a-b4aff43a699a"/>
+         <c:relevance>0.206</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/92956dc3-4c11-340f-b4b5-1266cd1c7c5c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Mexico</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/50581a3c-71c3-3280-bf8f-b2f23cd40738/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/50581a3c-71c3-3280-bf8f-b2f23cd40738"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/92956dc3-4c11-340f-b4b5-1266cd1c7c5c"/>
+         <c:relevance>0.349</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/aeec7f7c-11d0-33a5-93d7-63730a7a1d17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonLocation"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/1d1314b4-c87d-33e6-a0a5-0f2fa3e1ae2c"/>
+         <c:locationstring>Acatlan de Juarez</c:locationstring>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/f5f81dad-090d-39c7-8314-b5e9f5e431d9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/1d1314b4-c87d-33e6-a0a5-0f2fa3e1ae2c"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/71e0ad50-1c44-3dc2-9080-74ec0cb6e28c"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/pershash-1/1d1314b4-c87d-33e6-a0a5-0f2fa3e1ae2c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Emeterio Corona</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Emeterio Corona</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/50581a3c-71c3-3280-bf8f-b2f23cd40738/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/50581a3c-71c3-3280-bf8f-b2f23cd40738"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/1d1314b4-c87d-33e6-a0a5-0f2fa3e1ae2c"/>
+         <c:relevance>0.740</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/4edfc924-721a-bb77-4d54-47bade86ea5d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/50581a3c-71c3-3280-bf8f-b2f23cd40738"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/92956dc3-4c11-340f-b4b5-1266cd1c7c5c"/>
+         <c:name>Mexico</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">19.0</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-99.0</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/0651df91-b2a1-3766-80bb-8f8468d02018">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/1d1314b4-c87d-33e6-a0a5-0f2fa3e1ae2c"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/5ec709f3-8447-3db2-a70a-b4aff43a699a"/>
+         <c:city rdf:resource="http://d.opencalais.com/genericHasher-1/77c13096-451a-346f-a54f-752a492ee8bc"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/71e0ad50-1c44-3dc2-9080-74ec0cb6e28c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>Local Mayor</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/50581a3c-71c3-3280-bf8f-b2f23cd40738/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/50581a3c-71c3-3280-bf8f-b2f23cd40738"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/71e0ad50-1c44-3dc2-9080-74ec0cb6e28c"/>
+         <c:relevance>0.344</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/77c13096-451a-346f-a54f-752a492ee8bc">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Acatlan de Juarez</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/50581a3c-71c3-3280-bf8f-b2f23cd40738/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/50581a3c-71c3-3280-bf8f-b2f23cd40738"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/77c13096-451a-346f-a54f-752a492ee8bc"/>
+         <c:relevance>0.206</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>
+</es:job-bag>

@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/uk-england-23263754">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/uk-england-23263754"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">The full military funeral of Fusilier Lee Rigby, who was killed in Woolwich, south-east London, takes place later in Greater Manchester.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-12T08:00:53</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68672000/jpg/_68672482_n9n26rv0.jpg"/>
+         <rnews:headline xml:lang="en-GB">Killed soldier's military funeral</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">England</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68154000/jpg/_68154424_56e4cbb1-88f5-481a-a475-3d9986d3f2a7.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/uk-england-23263754"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Fusilier Lee Rigby</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68687000/jpg/_68687854_68687853.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/uk-england-23263754"/>
+         <rnews:description xml:lang="en-GB">Lyn Rigby, Lee Rigby's mother</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="81700788-291d-5261-3fd1-2855591a8137"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/1CmJ0IMm0oRCZO66eu0WvQ"
+                    rdf:about="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-12</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/uk-england-23263754"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-12 00:34:08.857"
+                    rdf:about="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|N7RshCmVce+6aqY45zAW9wV6KaE=|agVe3SV1rzSmCCojeVgsbtaCTxeFWwukpGIMXt0wkLassCZG9lGw7Q==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/HumanInterest"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Human Interest</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.550</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/ebd7270e-9bd3-3571-be3e-5ba85c7fefb1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Rebecca</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Rebecca</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/ebd7270e-9bd3-3571-be3e-5ba85c7fefb1"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.283</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/54361a54-8af2-3a9d-8594-e163c561f025">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/Indictment"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/964bcb98-54dd-360d-ab55-77c8107af27e"/>
+         <c:charge>attempted murder of two police officers</c:charge>
+         <c:charge>possession of a firearm</c:charge>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d2cec933-fc89-3998-8e8e-28cfe904a502">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/FamilyRelation"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/7021043a-20f2-34e5-95db-9ba029a67a60"/>
+         <c:familyrelationtype>stepfather</c:familyrelationtype>
+         <c:person_relative rdf:resource="http://d.opencalais.com/pershash-1/7e351034-3049-3d7a-83ac-02dfc49f84f0"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/9690064a-7e8a-37a3-be5e-e7fce6f33d7a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Bury</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/9690064a-7e8a-37a3-be5e-e7fce6f33d7a"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.125</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/39c33bda-ea8d-3c4e-805e-81bd41aad72b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Glenfinnan Viaduct</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/39c33bda-ea8d-3c4e-805e-81bd41aad72b"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.143</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/41de2bc0-2933-3cbd-a18a-158a90d402dd">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Rochdale Council</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/41de2bc0-2933-3cbd-a18a-158a90d402dd"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.109</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/f08025f6-8e95-c3ff-2909-0a5219ed3bfa">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/6fda72fd-105c-39ba-bb79-da95785a249f"/>
+         <c:name>London,Greater London,United Kingdom</c:name>
+         <c:shortname>London</c:shortname>
+         <c:containedbystate>Greater London</c:containedbystate>
+         <c:containedbycountry>United Kingdom</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">51.517124</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-0.106196</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/26c1c3ec-fad0-3d96-b6cf-22405502005b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Lee Rigby</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Lee Rigby</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/26c1c3ec-fad0-3d96-b6cf-22405502005b"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.729</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/533f0d06-774c-32a9-9985-721dfe2c4d51">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Colin Lambert</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Colin Lambert</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/533f0d06-774c-32a9-9985-721dfe2c4d51"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.109</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d3a91ac6-c1cb-347a-88cd-aa67c9dc96af">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/533f0d06-774c-32a9-9985-721dfe2c4d51"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/9826736c-2bdb-308a-bb4a-527c58e1a865"/>
+         <c:organization rdf:resource="http://d.opencalais.com/genericHasher-1/41de2bc0-2933-3cbd-a18a-158a90d402dd"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/eb9cb86f-eb4a-3df3-b080-3d212c4bf4bc">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Middleton Cemetery</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/eb9cb86f-eb4a-3df3-b080-3d212c4bf4bc"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.081</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/9826736c-2bdb-308a-bb4a-527c58e1a865">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>leader</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/9826736c-2bdb-308a-bb4a-527c58e1a865"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.109</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/7e351034-3049-3d7a-83ac-02dfc49f84f0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Ian Rigby</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Ian Rigby</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/7e351034-3049-3d7a-83ac-02dfc49f84f0"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.434</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/51a621ce-6998-3d9f-9bbb-f3d2ead98ce7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/Indictment"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/8eb04aec-fd86-37ed-a634-585003493d27"/>
+         <c:charge>Fusilier Rigby's murder</c:charge>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/41d1c2b1-0c60-30e3-8233-c30116ec2636">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonAttributes"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/8eb04aec-fd86-37ed-a634-585003493d27"/>
+         <c:age>22</c:age>
+         <c:gender>M</c:gender>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6fda72fd-105c-39ba-bb79-da95785a249f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>London</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/6fda72fd-105c-39ba-bb79-da95785a249f"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.550</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/964bcb98-54dd-360d-ab55-77c8107af27e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Michael Adebolajo</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Michael Adebolajo</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/964bcb98-54dd-360d-ab55-77c8107af27e"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.085</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/99a6e443-896f-36a1-a959-052e98a650b6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Royal Regiment of Fusiliers</c:name>
+         <c:organizationtype>governmental military</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/99a6e443-896f-36a1-a959-052e98a650b6"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.314</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/25294667-5068-3519-858b-94698b904fa8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/FamilyRelation"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/7021043a-20f2-34e5-95db-9ba029a67a60"/>
+         <c:familyrelationtype>wife</c:familyrelationtype>
+         <c:person_relative rdf:resource="http://d.opencalais.com/pershash-1/ebd7270e-9bd3-3571-be3e-5ba85c7fefb1"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/08659143-f9a5-3a1c-bff6-1f78edb9ae8f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonRelation"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/7021043a-20f2-34e5-95db-9ba029a67a60"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/ebd7270e-9bd3-3571-be3e-5ba85c7fefb1"/>
+         <c:personrelationtype>romantic</c:personrelationtype>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b7844743-600d-3950-bad7-f3e807b2395a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Fort William</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b7844743-600d-3950-bad7-f3e807b2395a"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.143</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/8eb04aec-fd86-37ed-a634-585003493d27">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Michael Adebowale</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Michael Adebowale</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/8eb04aec-fd86-37ed-a634-585003493d27"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.071</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/7021043a-20f2-34e5-95db-9ba029a67a60">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Fusilier Rigby</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Fusilier Rigby</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/7021043a-20f2-34e5-95db-9ba029a67a60"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.780</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/f4d73c18-a671-3c79-b9a2-1b2481b24bcd">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonAttributes"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/964bcb98-54dd-360d-ab55-77c8107af27e"/>
+         <c:age>28</c:age>
+         <c:gender>M</c:gender>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/036de44d-4d6c-3946-83a8-e94e0ae3d6f3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/EnvironmentalIssue"/>
+         <c:environmentalissue>burial</c:environmentalissue>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/fc032eb6-d4f2-3aa5-af0c-57c3cfbec567">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Ian Riley</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Ian Riley</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/332ba529-e050-35b2-90d9-4a8d2b8b51c4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/fc032eb6-d4f2-3aa5-af0c-57c3cfbec567"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.125</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/business-23249467">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/business-23249467"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">As tense wage negotiations open in South Africa's gold mining sector, is the industry beset with soaring production costs heading for the dumps?</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-11T02:25:29</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68653000/jpg/_68653617_68652564.jpg"/>
+         <rnews:headline xml:lang="en-GB">The crisis facing South Africa's gold mines</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Business</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68642000/jpg/_68642606_johannesburgsunsettwo.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/business-23249467"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">Johannesburg sunset</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68652000/jpg/_68652563_017998992-1.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/business-23249467"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</rnews:height>
+         <rnews:description xml:lang="en-GB">AMCU president Joseph Mathunjwa addresses thousands of Lonmin mine striking workers on 15 May 2013</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="/news/business/market_data/chart?chart_primary_ticker=LSE:GOLDPM&amp;chart_time_period=12_month&amp;canvas_colour=000000&amp;primary_chart_colour=CC0000&amp;use_transparency=0&amp;plot_colour=ffffff&amp;cp_line_colour=1F4F82&amp;margin_left=35&amp;margin_bottom=20&amp;margin_right=20&amp;time_24hr=1&amp;tiny_chart=1&amp;tiny_month_view=1&amp;logo_strength=light&amp;y_axis_left=1&amp;x_axis_plain=1&amp;cp_line=1&amp;cp_line_style=dotline&amp;charting_freq=1_minute&amp;co_dimension^width=271&amp;co_dimension^height=170&amp;small_chart_x_label_format=1&amp;date_label_spacing=30">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/business-23249467"/>
+         <rnews:description xml:lang="en-GB">Gold twelve month chart</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68652000/jpg/_68652561_018194556-1.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/business-23249467"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</rnews:height>
+         <rnews:description xml:lang="en-GB">Striking workers at the Lonmin mine in Marikana</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="1c9c753e-e808-d1da-13fc-d842fc074539"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/LduwAsfJhHx5cNDl-yAojw"
+                    rdf:about="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-11</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/business-23249467"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-11 06:35:59.696"
+                    rdf:about="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|MIDYIgB9g9OzqwWX2lKPzZHNlnk=|GfHj48PwQygrrpeCoMrbfe7bgu4tIfSAvxxtMDtk/zyR7pLOSDFygw==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/f0de9606-a91f-3290-8e58-29c0b3c3aeab">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>metal</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/f0de9606-a91f-3290-8e58-29c0b3c3aeab"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.132</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7b8e4476-7907-3334-857c-36844b4cf0b0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/DiplomaticRelations"/>
+         <c:diplomaticentity1 rdf:resource="http://d.opencalais.com/genericHasher-1/c563200b-a8ee-3c5f-a6a7-aeb407a80cc9"/>
+         <c:diplomaticaction>concern</c:diplomaticaction>
+         <c:diplomaticentity2 rdf:resource="http://d.opencalais.com/pershash-1/1ec29640-4146-322d-964a-737d9cebfd22"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5dce594b-e203-3545-a6bb-22a28f18832e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>gold mining industry</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/5dce594b-e203-3545-a6bb-22a28f18832e"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.311</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c49e319e-08bc-3d77-accd-cfdde7703141">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>ZAR</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c49e319e-08bc-3d77-accd-cfdde7703141"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.219</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/dc5ebe30-dd5e-315d-9e87-a6d51bf6812c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/47205679-c585-3092-9a57-339ea9201b76"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/2d67e2d7-fdad-3e4c-a84e-825badc0aa0c"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/a59187d9-14b0-348f-8d24-0bf2035d3090"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/736a403d-157b-3e80-86a7-acc404607cb2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>USD</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/736a403d-157b-3e80-86a7-acc404607cb2"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.411</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/bfbe1b54-c9bb-3e37-a277-3eb503597b5e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/9a8cbac8-df02-3602-b690-636740282ff7"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>ADCORP HOLDINGS LIMITED</c:name>
+         <c:shortname>Adcorp</c:shortname>
+         <c:ticker>ADRJ</c:ticker>
+         <c:symbol>ADRJ.J</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/343327d8-bb27-3af4-862a-f5c70f6a14de">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Association of Mineworkers</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/343327d8-bb27-3af4-862a-f5c70f6a14de"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.253</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7b96026c-4376-36f1-aac2-474d6cb1ceed">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>Prime Minister</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7b96026c-4376-36f1-aac2-474d6cb1ceed"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.192</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/84dccb60-5afd-30dd-9d2d-5fcc1af70d0c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>GBP</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/84dccb60-5afd-30dd-9d2d-5fcc1af70d0c"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.210</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/514ce71f-c5ce-3702-bcbe-2425fabb12b4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>gold mining</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/514ce71f-c5ce-3702-bcbe-2425fabb12b4"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.245</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/95801075-64bc-3f77-a726-c4184ff8872e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>World Gold Council</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/95801075-64bc-3f77-a726-c4184ff8872e"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.132</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/19cc1d3f-0865-39b0-b3d6-b3739cf3e66a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Continent"/>
+         <c:name>Africa</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/19cc1d3f-0865-39b0-b3d6-b3739cf3e66a"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.311</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/5e0e8580-2025-315c-9abb-8139bcd4ae36">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Moody's</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/5e0e8580-2025-315c-9abb-8139bcd4ae36"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.219</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/47205679-c585-3092-9a57-339ea9201b76">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Nick Holland</c:name>
+         <c:persontype>economic</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Nick Holland</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/47205679-c585-3092-9a57-339ea9201b76"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.110</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ac901557-3dd3-3321-aaaa-55497174a702">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/abd90d80-0683-32eb-a9c9-33ce7a2a8962"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/06f2ec2f-84b3-3db7-bc57-f0f551affc68"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/9a8cbac8-df02-3602-b690-636740282ff7"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/4620db58-6ba5-34cd-aab9-ea7969d2e7a9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>manufacturing</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/4620db58-6ba5-34cd-aab9-ea7969d2e7a9"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.269</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6910bba9-5382-3431-9692-2523b5ffb21d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>average worker</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/6910bba9-5382-3431-9692-2523b5ffb21d"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.148</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/9aa02392-e8c2-3fc5-a2b3-2019108718da">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>Deputy President</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/9aa02392-e8c2-3fc5-a2b3-2019108718da"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.282</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/1ec29640-4146-322d-964a-737d9cebfd22">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Kgalema Motlanthe</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Kgalema Motlanthe</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/1ec29640-4146-322d-964a-737d9cebfd22"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.282</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ac424ef8-91b0-331c-98e4-940dbdbabf9d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>National Union</c:name>
+         <c:organizationtype>political party</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7/Relevance/17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/ac424ef8-91b0-331c-98e4-940dbdbabf9d"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.253</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>president</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7/Relevance/18">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.055</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a54e68a4-9f51-3b49-96bf-84b89f72f036">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/1ec29640-4146-322d-964a-737d9cebfd22"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/9aa02392-e8c2-3fc5-a2b3-2019108718da"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/2d67e2d7-fdad-3e4c-a84e-825badc0aa0c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>chief executive</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7/Relevance/19">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/2d67e2d7-fdad-3e4c-a84e-825badc0aa0c"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.161</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0695df78-4db2-3374-a80b-786bb3c9bcf9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>South Africa</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7/Relevance/20">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0695df78-4db2-3374-a80b-786bb3c9bcf9"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.522</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3d7c45fb-891a-3950-8566-a1f5865ac80a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>financial services</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7/Relevance/21">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3d7c45fb-891a-3950-8566-a1f5865ac80a"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.269</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/abd90d80-0683-32eb-a9c9-33ce7a2a8962">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Loane Sharp</c:name>
+         <c:persontype>economic</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Loane Sharp</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7/Relevance/22">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/abd90d80-0683-32eb-a9c9-33ce7a2a8962"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.268</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/86ac4a5c-1cfc-31ff-aac8-e66ac7fd1f53">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/01d776ba-3465-3727-a5b4-e7b85d210f6a"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/746a7a5c-550f-3428-825b-c0853f1c8fae"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/4fc7dae3-fc1d-311f-a1e7-7f5ba77b5a95">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/a59187d9-14b0-348f-8d24-0bf2035d3090"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>Gold Fields Limited</c:name>
+         <c:shortname>Gold Fields</c:shortname>
+         <c:ticker>GFIJ</c:ticker>
+         <c:symbol>GFIJ.J</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/9a8cbac8-df02-3602-b690-636740282ff7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Adcorp</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7/Relevance/23">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/9a8cbac8-df02-3602-b690-636740282ff7"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.097</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/718c5dcf-3eab-3067-bcf9-5758a6489f0e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>gold mining sector</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7/Relevance/24">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/718c5dcf-3eab-3067-bcf9-5758a6489f0e"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.303</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/a59187d9-14b0-348f-8d24-0bf2035d3090">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Gold Fields</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7/Relevance/25">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/a59187d9-14b0-348f-8d24-0bf2035d3090"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.110</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/dc384b64-d321-387e-855a-c69447f6215e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/5e0e8580-2025-315c-9abb-8139bcd4ae36"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>MOODY'S CORPORATION</c:name>
+         <c:shortname>Moody's</c:shortname>
+         <c:ticker>MCO</c:ticker>
+         <c:symbol>MCO.N</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/06f2ec2f-84b3-3db7-bc57-f0f551affc68">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>labour analyst</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7/Relevance/26">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/06f2ec2f-84b3-3db7-bc57-f0f551affc68"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.103</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/01158996-b06c-3f93-a3f1-6952ea961e92">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Mineworkers and Construction Union</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7/Relevance/27">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/01158996-b06c-3f93-a3f1-6952ea961e92"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.430</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/01d776ba-3465-3727-a5b4-e7b85d210f6a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Mark Cutifani</c:name>
+         <c:persontype>economic</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Mark Cutifani</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7/Relevance/28">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/01d776ba-3465-3727-a5b4-e7b85d210f6a"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.055</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/c814068b-bc92-07ac-d130-de362b2d6ddc">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0695df78-4db2-3374-a80b-786bb3c9bcf9"/>
+         <c:name>South Africa</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-29.8191423168</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">25.3498974783</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c563200b-a8ee-3c5f-a6a7-aeb407a80cc9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>South African government</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>South African</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7/Relevance/29">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c563200b-a8ee-3c5f-a6a7-aeb407a80cc9"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.282</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/746a7a5c-550f-3428-825b-c0853f1c8fae">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>chief executive of Anglo American and the president</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7/Relevance/30">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ed707819-f86d-3a05-8ee2-3954fc00b7f7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/746a7a5c-550f-3428-825b-c0853f1c8fae"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.055</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-latin-america-22963004">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-latin-america-22963004"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">The Chilean Supreme Court approves the extradition of former Argentine judge Otilio Romano, accused of human rights abuses under the military government.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-06-18T21:10:00</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68250000/jpg/_68250589_018023982.jpg"/>
+         <rnews:headline xml:lang="en-GB">Chile to extradite Argentine judge</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68249000/jpg/_68249013_hi018023218.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-latin-america-22963004"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">336</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">189</rnews:height>
+         <rnews:description xml:lang="en-GB">General Orlando Ramon Agosti (R) and Admiral Emilio Massera (L) stand as Lieutenant General Jorge Rafael Videla (C), President of Argentina, takes an oath as 38th president of the Argentine Republic, 29 March 1976, in Buenos Aires. </rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="c1b8e872-f1b8-05b2-13fb-dc7d9ce97348"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/Cd*lz*Klsk8wjf8O8P5IXw"
+                    rdf:about="http://d.opencalais.com/dochash-1/cfc823b2-8da3-3102-824b-a4db790e07d7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-06-18</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-latin-america-22963004"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 05:15:58.670"
+                    rdf:about="http://d.opencalais.com/dochash-1/cfc823b2-8da3-3102-824b-a4db790e07d7/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cfc823b2-8da3-3102-824b-a4db790e07d7"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|b5J/+J11S/eCZFXoD9ftDGBIUMw=|FMnwwJEmmZXN2+pfo9OSgbicCd1Q50n2nmCqfhrtGzR6IBVNZ0DNYw==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cfc823b2-8da3-3102-824b-a4db790e07d7/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cfc823b2-8da3-3102-824b-a4db790e07d7"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cfc823b2-8da3-3102-824b-a4db790e07d7/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cfc823b2-8da3-3102-824b-a4db790e07d7"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Politics"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Politics</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.000</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cfc823b2-8da3-3102-824b-a4db790e07d7/cat/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cfc823b2-8da3-3102-824b-a4db790e07d7"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/War_Conflict"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>War_Conflict</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.689</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/33a00dd1-4139-3444-b9f4-149624f332ea">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Argentina</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cfc823b2-8da3-3102-824b-a4db790e07d7/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cfc823b2-8da3-3102-824b-a4db790e07d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/33a00dd1-4139-3444-b9f4-149624f332ea"/>
+         <c:relevance>0.579</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/041ae92e-2087-3d03-ae14-ecd52947c873">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cfc823b2-8da3-3102-824b-a4db790e07d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/4ae2c8c7-fc1d-316e-a484-a0f16cd7025f"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>S A THE BUENOS AIRES HERALD LIMITED</c:name>
+         <c:shortname>HERALD</c:shortname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/fd317045-cbdc-d260-54de-08112d6031b4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cfc823b2-8da3-3102-824b-a4db790e07d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/537f7f73-aa05-3d35-95ca-31eb2a1eb5b4"/>
+         <c:name>Chile</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-35.1234449318</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-71.5719660819</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/87aadf84-4398-3165-bea9-59d749451563">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/DiplomaticRelations"/>
+         <c:diplomaticentity1 rdf:resource="http://d.opencalais.com/pershash-1/84565844-a9f4-3867-aab8-61763d784a73"/>
+         <c:diplomaticaction>accusation</c:diplomaticaction>
+         <c:diplomaticentity2 rdf:resource="http://d.opencalais.com/genericHasher-1/33a00dd1-4139-3444-b9f4-149624f332ea"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/707f83dd-ad51-357c-9c2f-91e2539809ab">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Council of Magistrates</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cfc823b2-8da3-3102-824b-a4db790e07d7/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cfc823b2-8da3-3102-824b-a4db790e07d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/707f83dd-ad51-357c-9c2f-91e2539809ab"/>
+         <c:relevance>0.080</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/4ae2c8c7-fc1d-316e-a484-a0f16cd7025f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Buenos Aires Herald</c:name>
+         <c:nationality>Argentinian</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cfc823b2-8da3-3102-824b-a4db790e07d7/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cfc823b2-8da3-3102-824b-a4db790e07d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/4ae2c8c7-fc1d-316e-a484-a0f16cd7025f"/>
+         <c:relevance>0.121</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/06a0da64-e277-3bce-82dd-c7aab73f9b45">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/84565844-a9f4-3867-aab8-61763d784a73"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/679b6998-1ddd-3e35-8a2c-44587d147c2b"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/537f7f73-aa05-3d35-95ca-31eb2a1eb5b4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Chile</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cfc823b2-8da3-3102-824b-a4db790e07d7/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cfc823b2-8da3-3102-824b-a4db790e07d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/537f7f73-aa05-3d35-95ca-31eb2a1eb5b4"/>
+         <c:relevance>0.748</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/679b6998-1ddd-3e35-8a2c-44587d147c2b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>judge</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cfc823b2-8da3-3102-824b-a4db790e07d7/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cfc823b2-8da3-3102-824b-a4db790e07d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/679b6998-1ddd-3e35-8a2c-44587d147c2b"/>
+         <c:relevance>0.516</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/07c0e3f3-ac3f-30f7-b5c5-590d6b888da7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>state prosecutor</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cfc823b2-8da3-3102-824b-a4db790e07d7/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cfc823b2-8da3-3102-824b-a4db790e07d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/07c0e3f3-ac3f-30f7-b5c5-590d6b888da7"/>
+         <c:relevance>0.318</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a5759657-b28e-331d-bd47-a647bac871cf">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ArmedAttack"/>
+         <c:status>confirmed</c:status>
+         <c:casualties>at least 30,000 people were killed</c:casualties>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/bdb755ee-dbc5-3309-922c-d69a9983e23e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonTravel"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/84565844-a9f4-3867-aab8-61763d784a73"/>
+         <c:locationdestination rdf:resource="http://d.opencalais.com/genericHasher-1/537f7f73-aa05-3d35-95ca-31eb2a1eb5b4"/>
+         <c:status>past</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/84565844-a9f4-3867-aab8-61763d784a73">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Otilio Romano</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Otilio Romano</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cfc823b2-8da3-3102-824b-a4db790e07d7/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cfc823b2-8da3-3102-824b-a4db790e07d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/84565844-a9f4-3867-aab8-61763d784a73"/>
+         <c:relevance>0.820</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/29462405-e376-31a7-8696-2b2cfe1e83b1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Mendoza</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cfc823b2-8da3-3102-824b-a4db790e07d7/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cfc823b2-8da3-3102-824b-a4db790e07d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/29462405-e376-31a7-8696-2b2cfe1e83b1"/>
+         <c:relevance>0.318</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/08a8c440-94db-39f1-b10f-98238be8c58c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/PublishedMedium"/>
+         <c:name>the Buenos Aires Herald</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cfc823b2-8da3-3102-824b-a4db790e07d7/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cfc823b2-8da3-3102-824b-a4db790e07d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/08a8c440-94db-39f1-b10f-98238be8c58c"/>
+         <c:relevance>0.121</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/2a52adc7-b1da-6a4e-0a7a-14e4c8db1b11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cfc823b2-8da3-3102-824b-a4db790e07d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/33a00dd1-4139-3444-b9f4-149624f332ea"/>
+         <c:name>Argentina</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-34.0</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-64.0</c:longitude>
+      </rdf:Description>
+   </rdf:RDF>

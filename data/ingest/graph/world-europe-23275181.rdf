@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-europe-23275181">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-europe-23275181"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">A genocide charge against former Bosnian Serb leader Radovan Karadzic is reinstated at the UN Yugoslav war crimes tribunal at The Hague.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-11T15:28:42</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68680000/jpg/_68680802_018619013-1.jpg"/>
+         <rnews:headline xml:lang="en-GB">Karadzic genocide charge reinstated</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68679000/jpg/_68679356_68679355.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-europe-23275181"/>
+         <rnews:description xml:lang="en-GB">Radovan Karadzic</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="fb17c8fa-fb5f-48ec-13fd-20aee7037274"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/gIVDAP3ge5Adj3MIyxH3*Q"
+                    rdf:about="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-11</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-europe-23275181"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-12 04:41:39.184"
+                    rdf:about="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|tE1+y86qhUEEaJzO35vPl8fUtQg=|ksSYNt0BJWCY4Ci++m2HTeHkjuZjJCuWz0HZeNfgUxaIsascWYM8Tw==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/War_Conflict"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>War_Conflict</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.966</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657/cat/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Law_Crime"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Law_Crime</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.886</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/5950cc73-6590-366e-b537-02154255a1bf">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Karadzic</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Karadzic</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/5950cc73-6590-366e-b537-02154255a1bf"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.558</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/2ee99b61-6004-33a4-b839-b400ae461a46">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>head of state</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/2ee99b61-6004-33a4-b839-b400ae461a46"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.111</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/f856f8a3-eabb-3a8c-86b8-a35eee5caeda">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Belgrade</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/f856f8a3-eabb-3a8c-86b8-a35eee5caeda"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.174</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/196fafef-3e56-7716-e320-cc83127fa11c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/1083b89c-d47e-3412-94b7-940d83ac6790"/>
+         <c:name>Bosnia and Herzegovina</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.1285105085</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">17.9248940245</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b33e2020-b28f-3da7-aae2-2e9e4a42ee4e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/82d8fe4d-889a-3e57-b1cf-164bc27ff585"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e"/>
+         <c:careertype>political</c:careertype>
+         <c:status>past</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b0ba3ed1-d43e-3fb7-bd38-1230d3c1b106">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/9ee8410a-3955-3fb9-9dd0-6b98dcf5cc5b"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/679b6998-1ddd-3e35-8a2c-44587d147c2b"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5388cf48-724a-322a-80d4-e664594d6e1c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/MedicalCondition"/>
+         <c:name>miscarriage</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/5388cf48-724a-322a-80d4-e664594d6e1c"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.176</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/4422e54d-8b64-3d91-980d-943aa6afe729">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Sarajevo</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/4422e54d-8b64-3d91-980d-943aa6afe729"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.519</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/776e7600-c039-efa3-c672-a774792de47f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/4422e54d-8b64-3d91-980d-943aa6afe729"/>
+         <c:name>Sarajevo,Federation of Bosnia and Herzegovina,Bosnia and Herzegovina</c:name>
+         <c:shortname>Sarajevo</c:shortname>
+         <c:containedbystate>Federation of Bosnia and Herzegovina</c:containedbystate>
+         <c:containedbycountry>Bosnia and Herzegovina</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">43.512315</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">18.244831</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/1083b89c-d47e-3412-94b7-940d83ac6790">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Bosnia and Herzegovina</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/1083b89c-d47e-3412-94b7-940d83ac6790"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.467</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>President</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.108</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/83e30f22-2ceb-39e8-8dc0-edc393b3ed9d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Serbia</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/83e30f22-2ceb-39e8-8dc0-edc393b3ed9d"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.069</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/df0c9ec7-2e26-f69e-a4da-eec9d1a379b3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/f856f8a3-eabb-3a8c-86b8-a35eee5caeda"/>
+         <c:name>Belgrade,Serbia</c:name>
+         <c:shortname>Belgrade</c:shortname>
+         <c:containedbycountry>Serbia</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.820556</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">20.462222</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/fa36ccaa-3402-3be8-993a-00a6a8fbfb2e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>United Nations</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/fa36ccaa-3402-3be8-993a-00a6a8fbfb2e"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.248</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/82d8fe4d-889a-3e57-b1cf-164bc27ff585">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Slobodan Milosevic</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Slobodan Milosevic</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/82d8fe4d-889a-3e57-b1cf-164bc27ff585"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.099</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/93073e97-c1d4-3c87-bccd-6758d373459a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/Trial"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/5950cc73-6590-366e-b537-02154255a1bf"/>
+         <c:charge>genocide</c:charge>
+         <c:charge>war crimes</c:charge>
+         <c:charge>crimes against humanity</c:charge>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/679b6998-1ddd-3e35-8a2c-44587d147c2b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>Judge</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/679b6998-1ddd-3e35-8a2c-44587d147c2b"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.194</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/9ee8410a-3955-3fb9-9dd0-6b98dcf5cc5b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Theodor Meron</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Theodor Meron</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/9ee8410a-3955-3fb9-9dd0-6b98dcf5cc5b"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.398</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/825d8498-73c0-3b22-8ee2-df1c90de3aa4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Srebrenica</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/825d8498-73c0-3b22-8ee2-df1c90de3aa4"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.344</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/23535864-3749-bf9a-5870-3e79f56356a1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/825d8498-73c0-3b22-8ee2-df1c90de3aa4"/>
+         <c:name>Srebrenica,Republika Srpska,Bosnia and Herzegovina</c:name>
+         <c:shortname>Srebrenica</c:shortname>
+         <c:containedbystate>Republika Srpska</c:containedbystate>
+         <c:containedbycountry>Bosnia and Herzegovina</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.1013888889</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">19.2944444444</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/09bebb87-1ef5-373d-bd01-263e77470c65">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Continent"/>
+         <c:name>Europe</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/09bebb87-1ef5-373d-bd01-263e77470c65"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.293</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/68728371-5306-3f33-be38-18e70d683f86">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Republic of Bosnia</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/68728371-5306-3f33-be38-18e70d683f86"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.111</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/a3867434-e7dc-78ac-d072-dd9558119858">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/21da548c-fdc0-3c18-85c4-e8bd66ad8657"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/83e30f22-2ceb-39e8-8dc0-edc393b3ed9d"/>
+         <c:name>Serbia</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.9778249667</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">20.1268216627</c:longitude>
+      </rdf:Description>
+   </rdf:RDF>

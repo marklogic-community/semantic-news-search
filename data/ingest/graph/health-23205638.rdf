@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/health-23205638">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/health-23205638"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">A baby has been born in the US using a new method for screening embryos during IVF which could dramatically reduce costs, researchers report.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-07T23:02:03</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68579000/jpg/_68579323_baby.jpg"/>
+         <rnews:headline xml:lang="en-GB">Baby success for new IVF screen</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Health</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68579000/jpg/_68579219_baby.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/health-23205638"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</rnews:height>
+         <rnews:description xml:lang="en-GB">Connor Levy</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68576000/jpg/_68576861_c0104963-ivf_embryo,_light_micrograph-spl.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/health-23205638"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</rnews:height>
+         <rnews:description xml:lang="en-GB">Embryo</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="e04bbadc-2a64-3c71-13fb-dd8260045cd1"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/p5G6GlN7qcrKy3sD0uRk*Q"
+                    rdf:about="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-08</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/health-23205638"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 05:33:46.768"
+                    rdf:about="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|iNBpWd5mQmQjEp4KSeKGH30SCrY=|kJjm6nFpXI4yuyDPsikf5s5++qoF6Za3nMCYKsghVKePjV4JCBH3nQ==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Health_Medical_Pharma"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Health_Medical_Pharma</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.938</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/d97b3f2c-6069-3fff-9d8a-9d24ccdca510">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Stuart Lavery</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Stuart Lavery</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/d97b3f2c-6069-3fff-9d8a-9d24ccdca510"/>
+         <c:relevance>0.082</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/provinceorstate/ralg-geo1/48598b5e-11b8-76fe-6b2c-43751bb9c9a9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/ProvinceOrState"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/51bb10d7-d54c-3aed-8cf9-b7782e8eeda9"/>
+         <c:name>Pennsylvania,United States</c:name>
+         <c:shortname>Pennsylvania</c:shortname>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.6649812556</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-77.9064900333</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0606dfa6-43ac-3f28-af92-ca92a85b4f6b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCommunication"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/4f0025ea-6652-3dd9-9fe4-e02b01b43aea"/>
+         <c:organizationorcompany rdf:resource="http://d.opencalais.com/comphash-1/33d20acf-9f02-3410-98ed-eedc9165cc7d"/>
+         <c:status>announced</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/194ffc45-1ce8-39d2-8dd6-f93609678312">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Oxford University</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/194ffc45-1ce8-39d2-8dd6-f93609678312"/>
+         <c:relevance>0.401</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/59642f83-fb06-3226-aa8c-c63db58bb0f6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/d97b3f2c-6069-3fff-9d8a-9d24ccdca510"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/e4f3b9b7-be63-3d9d-a167-aa6a2f22d445"/>
+         <c:organization rdf:resource="http://d.opencalais.com/genericHasher-1/dbfc7517-30b1-3998-83d9-26625831b337"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c95a2a79-e40f-30d7-9eac-2a797b80644d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>European Society of Human Reproduction and Embryology</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c95a2a79-e40f-30d7-9eac-2a797b80644d"/>
+         <c:relevance>0.171</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/d5c57add-1721-3c28-a0c2-732fc68c9fa8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Connor Levy</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Connor Levy</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/d5c57add-1721-3c28-a0c2-732fc68c9fa8"/>
+         <c:relevance>0.660</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/9e6399e4-19b6-3c49-9a19-d065ce1499bf">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCommunication"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/51768ed7-9ced-3391-b722-f5c9b9682e60"/>
+         <c:organizationorcompany rdf:resource="http://d.opencalais.com/comphash-1/33d20acf-9f02-3410-98ed-eedc9165cc7d"/>
+         <c:status>announced</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/736a403d-157b-3e80-86a7-acc404607cb2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>USD</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/736a403d-157b-3e80-86a7-acc404607cb2"/>
+         <c:relevance>0.256</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/37c129dd-6c9d-3e2e-8388-21ebc377174b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonAttributes"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/c37ebcde-d89b-3921-a8a5-2d14c0ea80c2"/>
+         <c:age>41</c:age>
+         <c:gender>M</c:gender>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/84dccb60-5afd-30dd-9d2d-5fcc1af70d0c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>GBP</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/84dccb60-5afd-30dd-9d2d-5fcc1af70d0c"/>
+         <c:relevance>0.287</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>United Kingdom</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16"/>
+         <c:relevance>0.269</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/51768ed7-9ced-3391-b722-f5c9b9682e60">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Marybeth Scheidts</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Marybeth Scheidts</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/51768ed7-9ced-3391-b722-f5c9b9682e60"/>
+         <c:relevance>0.517</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/37b4a35b-a009-33e0-b873-855325a85288">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonRelation"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/51768ed7-9ced-3391-b722-f5c9b9682e60"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/c37ebcde-d89b-3921-a8a5-2d14c0ea80c2"/>
+         <c:personrelationtype>romantic</c:personrelationtype>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/33d20acf-9f02-3410-98ed-eedc9165cc7d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>BBC News</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/33d20acf-9f02-3410-98ed-eedc9165cc7d"/>
+         <c:relevance>0.280</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/489f3dd1-da78-3332-8958-e16e50e8de90">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Oxford University</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/489f3dd1-da78-3332-8958-e16e50e8de90"/>
+         <c:relevance>0.401</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e4f3b9b7-be63-3d9d-a167-aa6a2f22d445">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>consultant gynaecologist and director</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e4f3b9b7-be63-3d9d-a167-aa6a2f22d445"/>
+         <c:relevance>0.066</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ba39b6df-aa32-3eed-aade-5210c4387b5d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonAttributes"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/d5c57add-1721-3c28-a0c2-732fc68c9fa8"/>
+         <c:birthdate>2013-05-00</c:birthdate>
+         <c:gender>M</c:gender>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/326907ac-6b14-3cef-9598-6a380bba785c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/FamilyRelation"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/d5c57add-1721-3c28-a0c2-732fc68c9fa8"/>
+         <c:familyrelationtype>mother</c:familyrelationtype>
+         <c:person_relative rdf:resource="http://d.opencalais.com/pershash-1/51768ed7-9ced-3391-b722-f5c9b9682e60"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d47f8c0a-4c20-3d1b-ad64-145ba16ec99f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Hammersmith Hospital</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/d47f8c0a-4c20-3d1b-ad64-145ba16ec99f"/>
+         <c:relevance>0.066</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/54e4fc2e-9ba4-35ee-ab1e-c94e8eec31fe">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Michael Glassner</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Michael Glassner</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/54e4fc2e-9ba4-35ee-ab1e-c94e8eec31fe"/>
+         <c:relevance>0.089</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/c37ebcde-d89b-3921-a8a5-2d14c0ea80c2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>David Levy</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>David Levy</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/c37ebcde-d89b-3921-a8a5-2d14c0ea80c2"/>
+         <c:relevance>0.194</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/1c01bba2-6187-34c9-b45d-39236fa8e47d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/FamilyRelation"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/51768ed7-9ced-3391-b722-f5c9b9682e60"/>
+         <c:familyrelationtype>husband</c:familyrelationtype>
+         <c:person_relative rdf:resource="http://d.opencalais.com/pershash-1/c37ebcde-d89b-3921-a8a5-2d14c0ea80c2"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/51bb10d7-d54c-3aed-8cf9-b7782e8eeda9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>Pennsylvania</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/51bb10d7-d54c-3aed-8cf9-b7782e8eeda9"/>
+         <c:relevance>0.256</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b3a76c34-dc0a-33ad-ad81-4bedbd283cbe">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Technology"/>
+         <c:name>human genome</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b3a76c34-dc0a-33ad-ad81-4bedbd283cbe"/>
+         <c:relevance>0.243</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/43006410-4037-3e4b-9507-ec823e5c0c91">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>IVF</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f/Relevance/17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/43006410-4037-3e4b-9507-ec823e5c0c91"/>
+         <c:relevance>0.740</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/4dfb9f56-d9ee-3512-bac3-f85f00da99a1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Baby</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Baby</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f/Relevance/18">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/4dfb9f56-d9ee-3512-bac3-f85f00da99a1"/>
+         <c:relevance>0.314</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/9cdc126f-6826-0cbd-df3a-00a4032f0e7e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16"/>
+         <c:name>United Kingdom</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">53.1142456495</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-2.57711368423</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/92808c71-e4d1-3a30-9fa3-f34ee3e8426f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonAttributes"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/51768ed7-9ced-3391-b722-f5c9b9682e60"/>
+         <c:age>36</c:age>
+         <c:gender>F</c:gender>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/27cfb189-1df8-3916-bdab-b0eb8be7907c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/MedicalTreatment"/>
+         <c:name>artificial insemination</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f/Relevance/19">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/27cfb189-1df8-3916-bdab-b0eb8be7907c"/>
+         <c:relevance>0.157</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/4f0025ea-6652-3dd9-9fe4-e02b01b43aea">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Dagan Wells</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Dagan Wells</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f/Relevance/20">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/4f0025ea-6652-3dd9-9fe4-e02b01b43aea"/>
+         <c:relevance>0.231</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/85fd025f-0ed3-30ed-a7a4-20bf95db7359">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Hammersmith Hospital</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f/Relevance/21">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/85fd025f-0ed3-30ed-a7a4-20bf95db7359"/>
+         <c:relevance>0.066</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d8a1706c-887e-38f8-8cd0-342cf324f6f0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/4f0025ea-6652-3dd9-9fe4-e02b01b43aea"/>
+         <c:organization rdf:resource="http://d.opencalais.com/genericHasher-1/489f3dd1-da78-3332-8958-e16e50e8de90"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/dbfc7517-30b1-3998-83d9-26625831b337">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>IVF at Hammersmith Hospital</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f/Relevance/22">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c12568e9-4e19-318d-8ab0-3edfe8e8f63f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/dbfc7517-30b1-3998-83d9-26625831b337"/>
+         <c:relevance>0.066</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

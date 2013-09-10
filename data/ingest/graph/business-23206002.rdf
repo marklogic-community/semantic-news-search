@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/business-23206002">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/business-23206002"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Top banks are putting their submissions to the Treasury to run a potential Ã‚Â£20bn sale of the part-nationalised Lloyds Bank.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-07T09:24:10</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68573000/jpg/_68573938_lloyds.jpg"/>
+         <rnews:headline xml:lang="en-GB">Banks line up to run Lloyds sale</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Business</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/67203000/jpg/_67203055_lloyds.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/business-23206002"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Lloyds branch facia</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="866548b9-185c-b634-13fb-ceac4751a813"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/ngA-GIkeuv0pWUuYaytU1w"
+                    rdf:about="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-07</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/business-23206002"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 02:14:29.749"
+                    rdf:about="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|dtpTeh69Cio+qW+RBBqOqEbsSUU=|KdFQKvBWdL+WNjdIurs8fiOMGu52PskDWJU0hH7Ql+2IVh0nFdoaFQ==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Business_Finance"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Business_Finance</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.000</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246/cat/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Politics"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Politics</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.592</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/015d71ca-0814-319a-ae0a-44390c3670a0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/7db4ee7e-d9fa-3661-9672-f34aeb1cb5c8"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>STANDARD CHARTERED PLC</c:name>
+         <c:shortname>STD Chartered</c:shortname>
+         <c:ticker>STAN</c:ticker>
+         <c:symbol>STAN.L</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/cb41b8ef-690a-3cd5-aa67-0408187d7cb3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>RBS</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/cb41b8ef-690a-3cd5-aa67-0408187d7cb3"/>
+         <c:relevance>0.316</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/1a86c884-0739-39d4-a7ca-bb5a91102240">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Credit Suisse</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/1a86c884-0739-39d4-a7ca-bb5a91102240"/>
+         <c:relevance>0.079</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a22f267a-54f4-3fe5-bb29-1cdd5f5a03d6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>pence</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a22f267a-54f4-3fe5-bb29-1cdd5f5a03d6"/>
+         <c:relevance>0.076</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/2ab0abf6-9b0f-3ea3-9433-abd3448ebb64">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>banking</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/2ab0abf6-9b0f-3ea3-9433-abd3448ebb64"/>
+         <c:relevance>0.093</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/de313319-8844-364c-b253-3d2581c9e345">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/17f0a638-d416-3fae-afe3-41ea1dbd5c7c"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>UBS Inc.</c:name>
+         <c:shortname>UBS AG</c:shortname>
+         <c:ticker>UBSN</c:ticker>
+         <c:symbol>UBSN.VX</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/3592cbf3-56c6-3e2e-a93c-7de6de0d615a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/2e1dc4da-297e-37b1-807f-2dc9be56f61a"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>UK FINANCIAL INVESTMENTS LIMITED</c:name>
+         <c:shortname>UKFI</c:shortname>
+         <c:ticker>UKFNI</c:ticker>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3c108915-2724-399f-bbc9-fe559a1291a3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/PublishedMedium"/>
+         <c:name>The Sunday Times</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3c108915-2724-399f-bbc9-fe559a1291a3"/>
+         <c:relevance>0.251</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/69f0a009-d177-3078-9b17-bd1b90ff3d6d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/Acquisition"/>
+         <c:company_beingacquired rdf:resource="http://d.opencalais.com/comphash-1/cb41b8ef-690a-3cd5-aa67-0408187d7cb3"/>
+         <c:status>announced</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/a04577db-fff2-3e49-ab64-8773ed64eeed">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/f0717fb4-d1f0-3030-ad9a-e3752c884d44"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>HSBC HOLDINGS PLC</c:name>
+         <c:shortname>HSBC</c:shortname>
+         <c:ticker>HSBA</c:ticker>
+         <c:symbol>HSBA.L</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/84dccb60-5afd-30dd-9d2d-5fcc1af70d0c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>GBP</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/84dccb60-5afd-30dd-9d2d-5fcc1af70d0c"/>
+         <c:relevance>0.331</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0269fe17-3bfb-34e2-aeb5-2521158f5817">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>Chancellor</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0269fe17-3bfb-34e2-aeb5-2521158f5817"/>
+         <c:relevance>0.067</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/79999b35-382b-3083-a0dd-c649ab53c5d6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Lloyds</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/79999b35-382b-3083-a0dd-c649ab53c5d6"/>
+         <c:relevance>0.757</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/17f0a638-d416-3fae-afe3-41ea1dbd5c7c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>UBS</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/17f0a638-d416-3fae-afe3-41ea1dbd5c7c"/>
+         <c:relevance>0.079</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/f0717fb4-d1f0-3030-ad9a-e3752c884d44">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>HSBC</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/f0717fb4-d1f0-3030-ad9a-e3752c884d44"/>
+         <c:relevance>0.079</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/f2f15feb-54b7-36b4-b748-f85a26b06ec0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Singapore</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/f2f15feb-54b7-36b4-b748-f85a26b06ec0"/>
+         <c:relevance>0.251</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/d3197fb6-4e03-1c6b-e6a9-e2005a2fbe9a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/f2f15feb-54b7-36b4-b748-f85a26b06ec0"/>
+         <c:name>Singapore</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.3667</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">103.75</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/7db4ee7e-d9fa-3661-9672-f34aeb1cb5c8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Standard Chartered</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/7db4ee7e-d9fa-3661-9672-f34aeb1cb5c8"/>
+         <c:relevance>0.227</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>BBC</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:relevance>0.292</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/aeb8ad81-274a-397d-b4e6-88afd9c0bda7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/Acquisition"/>
+         <c:company_beingacquired rdf:resource="http://d.opencalais.com/comphash-1/79999b35-382b-3083-a0dd-c649ab53c5d6"/>
+         <c:status>known</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/d63d4068-23b7-3f88-8d01-2dd8fdb20e89">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Sunday Times</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/d63d4068-23b7-3f88-8d01-2dd8fdb20e89"/>
+         <c:relevance>0.251</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/2adbc607-7a99-387d-a197-c9c6b45f2e3d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/a1c1b73a-46f7-3874-9c4d-0e7a99f4c86f"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/0269fe17-3bfb-34e2-aeb5-2521158f5817"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/78905012-9fc5-3e33-80f4-8082e930dfe5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Singapore government</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>Singaporean</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/78905012-9fc5-3e33-80f4-8082e930dfe5"/>
+         <c:relevance>0.594</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/4dbfaab6-f8cb-3678-8e0e-bf467e075aa6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Reuters</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/4dbfaab6-f8cb-3678-8e0e-bf467e075aa6"/>
+         <c:relevance>0.093</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/2c18ba7b-6669-3ea0-ba64-7113f72d6fc8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/b567c075-0944-3c80-9cc6-80a61ce038c4"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/495f3397-7c8f-35b5-b8fb-6d17c1d539b4"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b6597b3e-311b-3937-8660-3a585e18d9be">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>correspondent</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246/Relevance/17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b6597b3e-311b-3937-8660-3a585e18d9be"/>
+         <c:relevance>0.110</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/af44a16a-5ab1-3aa1-a4b0-d73a64dba5bf">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/d63d4068-23b7-3f88-8d01-2dd8fdb20e89"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>SUNDAY TIMES LIMITED (THE)</c:name>
+         <c:shortname>Sunday Times</c:shortname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/a1c1b73a-46f7-3874-9c4d-0e7a99f4c86f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>George Osborne</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>George Osborne</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246/Relevance/18">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/a1c1b73a-46f7-3874-9c4d-0e7a99f4c86f"/>
+         <c:relevance>0.067</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/dbea25c4-97f0-30cf-9802-66cdda48876d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/4dbfaab6-f8cb-3678-8e0e-bf467e075aa6"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>THOMSON REUTERS GROUP LIMITED</c:name>
+         <c:shortname>Thmsn Reuters</c:shortname>
+         <c:ticker>TRIGP</c:ticker>
+         <c:symbol>TRIGP.UL</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/b16ea3c1-8642-34f9-be67-5b7e7fb4f2a5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Barclays</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246/Relevance/19">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/b16ea3c1-8642-34f9-be67-5b7e7fb4f2a5"/>
+         <c:relevance>0.079</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/256f9038-f0b1-3391-b154-cf57fff2f669">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/b16ea3c1-8642-34f9-be67-5b7e7fb4f2a5"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>BARCLAYS PLC</c:name>
+         <c:shortname>Barclays</c:shortname>
+         <c:ticker>BARC</c:ticker>
+         <c:symbol>BARC.L</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/45a63ebe-263a-3001-8e45-682926c8ec74">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/79999b35-382b-3083-a0dd-c649ab53c5d6"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>LLOYDS INVESTMENT ESPANA, S.G.I.I.C., S.A.U.</c:name>
+         <c:shortname>LLOYDS</c:shortname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/2e1dc4da-297e-37b1-807f-2dc9be56f61a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>UK Financial Investments</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246/Relevance/20">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/2e1dc4da-297e-37b1-807f-2dc9be56f61a"/>
+         <c:relevance>0.230</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/afdcabf9-8037-398b-910e-4f570c764c18">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/1a86c884-0739-39d4-a7ca-bb5a91102240"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>Credit Suisse Group AG</c:name>
+         <c:shortname>Credit Suisse Gr</c:shortname>
+         <c:ticker>CSGN</c:ticker>
+         <c:symbol>CSGN.VX</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/de397b4b-f8cb-3cf0-9eb9-4c56a120c982">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/cb41b8ef-690a-3cd5-aa67-0408187d7cb3"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>RBS Financial Leasing</c:name>
+         <c:shortname>RBS</c:shortname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/7a6a4835-2d42-388a-97e8-ef689d5745f0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>BRITISH BROADCASTING CORPORATION</c:name>
+         <c:shortname>BBC</c:shortname>
+         <c:ticker>BBC</c:ticker>
+         <c:symbol>TBBC.UL</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/495f3397-7c8f-35b5-b8fb-6d17c1d539b4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>business editor</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246/Relevance/21">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/495f3397-7c8f-35b5-b8fb-6d17c1d539b4"/>
+         <c:relevance>0.292</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/b567c075-0944-3c80-9cc6-80a61ce038c4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Robert Peston</c:name>
+         <c:persontype>economic</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Robert Peston</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246/Relevance/22">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26e0be4c-9134-3c0d-8b56-041048a3b246"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/b567c075-0944-3c80-9cc6-80a61ce038c4"/>
+         <c:relevance>0.310</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

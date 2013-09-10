@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/magazine-23129242">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/magazine-23129242"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">The riots in Sweden that broke out in May shocked the world. A shortage of community police has been diagnosed - police officers like Togo-born Rissa Seidou who know the area and its residents.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-03T00:19:40</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68486000/jpg/_68486158_rissaseidou3.jpg"/>
+         <rnews:headline xml:lang="en-GB">An African on the beat in Sweden</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Magazine</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68505000/jpg/_68505297_rissaseidou2.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/magazine-23129242"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">Rissa Seidou</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68500000/jpg/_68500649_rinkeby_afp.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/magazine-23129242"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</rnews:height>
+         <rnews:description xml:lang="en-GB">Bystanders take photos of a row of burning cars in the Stockholm suburb of Rinkeby (May 23, 2013)</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68511000/jpg/_68511930_rissaseidou.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/magazine-23129242"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</rnews:height>
+         <rnews:description xml:lang="en-GB">Rissa Seidou</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68486000/jpg/_68486197_demo_afp.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/magazine-23129242"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</rnews:height>
+         <rnews:description xml:lang="en-GB">People stand in front of a banner reading 'Stop police violence for an independent investigation' during a demonstration against police violence in the Stockholm suburb of Husby (22 May 2013)</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="47cdfe67-4132-403a-13fb-dd16a3b42729"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/V0-q7t*FzLLfxoKRUmGHuw"
+                    rdf:about="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-03</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/magazine-23129242"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 05:26:25.482"
+                    rdf:about="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|tYIIrLFNvZaiXiB1KbGhRBDFoO8=|SuxfyDqv6VgMYxTRY50dv//PLXJ2KmyRuTaLF2afLC0+eS+C4hE8yw==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c9c85e32-82d1-33e9-a5c8-9073be235761">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>police officer</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c9c85e32-82d1-33e9-a5c8-9073be235761"/>
+         <c:relevance>0.562</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/398f0f7f-7b2f-3363-bda4-f09b836ed062">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Germany</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/398f0f7f-7b2f-3363-bda4-f09b836ed062"/>
+         <c:relevance>0.113</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/369526fe-aa35-3428-8299-5d7878fd35d5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonLocation"/>
+         <c:persongroup>a young man</c:persongroup>
+         <c:locationstring>Algeria</c:locationstring>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/9d26f09d-827a-3fb9-9282-ad430dcb9b02">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>gardener</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/9d26f09d-827a-3fb9-9282-ad430dcb9b02"/>
+         <c:relevance>0.405</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/8a81c694-3c1-c8b-96c-82d88a6b9d4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/760b209c-e994-30fd-a08f-c115e6ae218c"/>
+         <c:name>Kista</c:name>
+         <c:shortname>Kista</c:shortname>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">59.4013888889</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">17.9444444444</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/dec65d4f-9f26-3583-b69f-88c167db19ff">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonAttributes"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/6579e76f-dc26-3fe7-85aa-a82c245014c5"/>
+         <c:age>25</c:age>
+         <c:gender>M</c:gender>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/88e52ee4-2fd0-9089-6f69-d0d71e339d94">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/02300592-c88e-3fca-8aaf-dfa00b85bd99"/>
+         <c:name>Sweden</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">59.2684932684</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">15.7590592807</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/57b17340-c141-3fb4-8a8c-7db65ec39794">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonAttributes"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/c48283cd-2d5f-3f20-95c4-2a3292c5298d"/>
+         <c:birthplace rdf:resource="http://d.opencalais.com/genericHasher-1/57dc1406-73c0-3d3e-bda7-967303578ecd"/>
+         <c:gender>M</c:gender>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/54575631-babc-399d-b869-24d1fb44474e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ArmedAttack"/>
+         <c:partyinvolved1>police officer</c:partyinvolved1>
+         <c:attacker>police officer</c:attacker>
+         <c:status>confirmed</c:status>
+         <c:casualties>shot an elderly man</c:casualties>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d05b5e39-7416-3ade-b769-d7c5b16853aa">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonLocation"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/c48283cd-2d5f-3f20-95c4-2a3292c5298d"/>
+         <c:locationstring>Togo</c:locationstring>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/1cc00410-1d03-3c7b-ac3d-54a0ca4f4a57">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Region"/>
+         <c:name>West Africa</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/1cc00410-1d03-3c7b-ac3d-54a0ca4f4a57"/>
+         <c:relevance>0.242</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ee950918-eabf-3eb9-aeb6-95387460d97d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonLocation"/>
+         <c:persongroup>the residents</c:persongroup>
+         <c:locationstring>Sweden</c:locationstring>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e1fd0a20-f464-39be-a88f-25038cc7f50c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>France</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e1fd0a20-f464-39be-a88f-25038cc7f50c"/>
+         <c:relevance>0.314</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/64f92f66-b444-30e6-97f6-bc63777d1755">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>minister</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/64f92f66-b444-30e6-97f6-bc63777d1755"/>
+         <c:relevance>0.523</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/cae59d73-d741-3446-8d6d-5e29053d53e8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>neighbourhood police officer</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/cae59d73-d741-3446-8d6d-5e29053d53e8"/>
+         <c:relevance>0.292</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/e165d4f2-174b-66a7-d1a9-5cb204d296eb">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e1fd0a20-f464-39be-a88f-25038cc7f50c"/>
+         <c:name>France</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">46.0</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.0</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/49f4fdc6-4da0-8e0c-bac1-32fa06062d2d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/51b5c6d4-b68a-3c99-936d-138ca41ed941"/>
+         <c:name>Algeria</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">33.0970900253</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.23177941919</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/80ccbe7d-41e3-36c1-8a25-690df1cddd1e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Swedish police</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>Swedish</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/80ccbe7d-41e3-36c1-8a25-690df1cddd1e"/>
+         <c:relevance>0.305</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/1cfce912-76b3-34a7-8518-d9f3ac5dab44">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/6579e76f-dc26-3fe7-85aa-a82c245014c5"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/0ab2f1d2-4cd3-305e-bcb8-0d290476e9fb"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/6579e76f-dc26-3fe7-85aa-a82c245014c5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Jamil</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Jamil</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/6579e76f-dc26-3fe7-85aa-a82c245014c5"/>
+         <c:relevance>0.485</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/38ad9b24-ec29-3772-b59d-8457d36914f0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>youth leader</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/38ad9b24-ec29-3772-b59d-8457d36914f0"/>
+         <c:relevance>0.208</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/760b209c-e994-30fd-a08f-c115e6ae218c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Kista</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/760b209c-e994-30fd-a08f-c115e6ae218c"/>
+         <c:relevance>0.289</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/c9fcbf47-2e5c-36dd-de50-f6b8d42638f9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a7f369bd-0a66-3729-a283-b22cb49e269e"/>
+         <c:name>Stockholm,Södermanland,Sweden</c:name>
+         <c:shortname>Stockholm</c:shortname>
+         <c:containedbystate>Södermanland</c:containedbystate>
+         <c:containedbycountry>Sweden</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">59.33</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">18.07</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/57dc1406-73c0-3d3e-bda7-967303578ecd">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Togo</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/57dc1406-73c0-3d3e-bda7-967303578ecd"/>
+         <c:relevance>0.361</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/314f2715-91e8-35a6-8af5-8d1e815a2bb9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/c48283cd-2d5f-3f20-95c4-2a3292c5298d"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/17ac7196-b6cb-3ff6-88c3-fd1680a9b899"/>
+         <c:organization rdf:resource="http://d.opencalais.com/genericHasher-1/83aed40c-8580-3f68-8ce0-472c3f8cd14b"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5494c58b-66ab-32ff-8ca1-1eb50748c9ae">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonAttributes"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/c48283cd-2d5f-3f20-95c4-2a3292c5298d"/>
+         <c:age>late 30's</c:age>
+         <c:birthplace rdf:resource="http://d.opencalais.com/genericHasher-1/57dc1406-73c0-3d3e-bda7-967303578ecd"/>
+         <c:gender>F</c:gender>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/c48283cd-2d5f-3f20-95c4-2a3292c5298d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Rissa Seidou</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Rissa Seidou</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/c48283cd-2d5f-3f20-95c4-2a3292c5298d"/>
+         <c:relevance>0.845</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/51b5c6d4-b68a-3c99-936d-138ca41ed941">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Algeria</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/51b5c6d4-b68a-3c99-936d-138ca41ed941"/>
+         <c:relevance>0.113</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0de41749-a5a6-3e2f-a423-fd8b431b426b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/6579e76f-dc26-3fe7-85aa-a82c245014c5"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/9d26f09d-827a-3fb9-9282-ad430dcb9b02"/>
+         <c:organization rdf:resource="http://d.opencalais.com/genericHasher-1/83aed40c-8580-3f68-8ce0-472c3f8cd14b"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/43243062-333a-3459-a570-378104723931">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Erik Ullenhag</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Erik Ullenhag</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/43243062-333a-3459-a570-378104723931"/>
+         <c:relevance>0.088</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b6266543-b3c0-362e-a7f1-4dddf0ba792f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>European Union</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b6266543-b3c0-362e-a7f1-4dddf0ba792f"/>
+         <c:relevance>0.234</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5fed5cb7-3320-3a34-a7b3-843d90f2d064">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>good police officer</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0/Relevance/17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/5fed5cb7-3320-3a34-a7b3-843d90f2d064"/>
+         <c:relevance>0.064</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/28ef36b3-5ae8-cb1f-5425-78f03408b512">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/398f0f7f-7b2f-3363-bda4-f09b836ed062"/>
+         <c:name>Germany</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">51.0</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9.0</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/bc5c0d5d-25e1-3219-8f44-c81eb4bea837">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/c48283cd-2d5f-3f20-95c4-2a3292c5298d"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/c9c85e32-82d1-33e9-a5c8-9073be235761"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/17ac7196-b6cb-3ff6-88c3-fd1680a9b899">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>officer</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0/Relevance/18">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/17ac7196-b6cb-3ff6-88c3-fd1680a9b899"/>
+         <c:relevance>0.209</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/02300592-c88e-3fca-8aaf-dfa00b85bd99">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Sweden</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0/Relevance/19">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/02300592-c88e-3fca-8aaf-dfa00b85bd99"/>
+         <c:relevance>0.628</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/da6f471b-ab16-62da-fc3e-6845c312dd5f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/57dc1406-73c0-3d3e-bda7-967303578ecd"/>
+         <c:name>Togo</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.33574747475</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.04949747475</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/83aed40c-8580-3f68-8ce0-472c3f8cd14b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>first Swedish police</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>Swedish</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0/Relevance/20">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/83aed40c-8580-3f68-8ce0-472c3f8cd14b"/>
+         <c:relevance>0.349</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ba2e49c8-751e-36e5-ae6a-2a6762ce5fec">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/c48283cd-2d5f-3f20-95c4-2a3292c5298d"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/cae59d73-d741-3446-8d6d-5e29053d53e8"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a7f369bd-0a66-3729-a283-b22cb49e269e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Stockholm</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0/Relevance/21">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a7f369bd-0a66-3729-a283-b22cb49e269e"/>
+         <c:relevance>0.455</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0ab2f1d2-4cd3-305e-bcb8-0d290476e9fb">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>gardener of Iraqi origin</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0/Relevance/22">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8222479f-7cd7-3d95-b4df-1ce2067a3ef0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0ab2f1d2-4cd3-305e-bcb8-0d290476e9fb"/>
+         <c:relevance>0.254</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

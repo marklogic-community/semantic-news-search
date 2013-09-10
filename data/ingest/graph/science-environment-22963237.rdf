@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/science-environment-22963237">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/science-environment-22963237"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">The Cassini probe in orbit around Saturn is going to picture the ringed planet in a special photo that also includes a distant Earth.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-06-19T04:08:23</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68250000/jpg/_68250795_68250640.jpg"/>
+         <rnews:headline xml:lang="en-GB">Saturn probe to acquire Earth image</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Science and Environment</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/59119000/jpg/_59119472_ab5c8195-3485-49c1-8906-525c31170699.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/science-environment-22963237"/>
+         <rnews:description xml:lang="en-GB">Jonathan Amos</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68261000/gif/_68261829_nasa_earth_624.gif">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/science-environment-22963237"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">232</rnews:height>
+         <rnews:description xml:lang="en-GB">Saturn 2006</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68250000/jpg/_68250639_68250638.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/science-environment-22963237"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:height>
+         <rnews:description xml:lang="en-GB">Earth simulation</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68250000/jpg/_68250789_palebluedot.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/science-environment-22963237"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">400</rnews:height>
+         <rnews:description xml:lang="en-GB">Pale Blue Dot</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="4d008831-19b6-31b1-3fbd-c09494745394"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/b0tK3yJVO91qxyCP9E-EQw"
+                    rdf:about="http://d.opencalais.com/dochash-1/fffc2e4b-4ac5-3081-8231-88809f0deaa6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-06-19</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/science-environment-22963237"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 05:08:02.196"
+                    rdf:about="http://d.opencalais.com/dochash-1/fffc2e4b-4ac5-3081-8231-88809f0deaa6/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fffc2e4b-4ac5-3081-8231-88809f0deaa6"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|nFocNeiTlke3b3MldcbBUZa29uI=|MnLALWB7oAQ1I517RVNB371odWZkk0Q1vNvsXMsOF5iUR/n/zvirVA==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fffc2e4b-4ac5-3081-8231-88809f0deaa6/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fffc2e4b-4ac5-3081-8231-88809f0deaa6"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/b81eedb8-d28a-ea33-9aa9-66f832325804">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fffc2e4b-4ac5-3081-8231-88809f0deaa6"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/12e04529-6db6-33be-b693-40b4a1237735"/>
+         <c:name>Boulder,Colorado,United States</c:name>
+         <c:shortname>Boulder</c:shortname>
+         <c:containedbystate>Colorado</c:containedbystate>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.015</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-105.27</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0f32bfff-8816-309f-a4c5-e6c6c7ae7a1f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>ringed gas giant</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fffc2e4b-4ac5-3081-8231-88809f0deaa6/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fffc2e4b-4ac5-3081-8231-88809f0deaa6"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0f32bfff-8816-309f-a4c5-e6c6c7ae7a1f"/>
+         <c:relevance>0.256</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/52bef843-c30e-31fc-85f4-62c88a002b40">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/CandidatePosition"/>
+         <c:candidate rdf:resource="http://d.opencalais.com/pershash-1/0480eac9-91a8-3d61-80dc-cf190835348d"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/152649df-347e-e289-1a9e-acc883e07d17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fffc2e4b-4ac5-3081-8231-88809f0deaa6"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:name>United States</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.4230003233</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-98.7372244786</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ad2fe159-d11c-3a42-b959-65646a2f2b61">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>researcher</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fffc2e4b-4ac5-3081-8231-88809f0deaa6/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fffc2e4b-4ac5-3081-8231-88809f0deaa6"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/ad2fe159-d11c-3a42-b959-65646a2f2b61"/>
+         <c:relevance>0.298</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/12e04529-6db6-33be-b693-40b4a1237735">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Boulder</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fffc2e4b-4ac5-3081-8231-88809f0deaa6/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fffc2e4b-4ac5-3081-8231-88809f0deaa6"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/12e04529-6db6-33be-b693-40b4a1237735"/>
+         <c:relevance>0.298</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c524eab1-888a-37c4-ba49-6a0946c9026d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>National Aeronautics and Space Administration</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fffc2e4b-4ac5-3081-8231-88809f0deaa6/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fffc2e4b-4ac5-3081-8231-88809f0deaa6"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c524eab1-888a-37c4-ba49-6a0946c9026d"/>
+         <c:relevance>0.511</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/0480eac9-91a8-3d61-80dc-cf190835348d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Carolyn Porco</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Carolyn Porco</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fffc2e4b-4ac5-3081-8231-88809f0deaa6/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fffc2e4b-4ac5-3081-8231-88809f0deaa6"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/0480eac9-91a8-3d61-80dc-cf190835348d"/>
+         <c:relevance>0.843</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>United States</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fffc2e4b-4ac5-3081-8231-88809f0deaa6/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fffc2e4b-4ac5-3081-8231-88809f0deaa6"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:relevance>0.130</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/37f0cf6b-b991-3dc8-8018-78338494cd3a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Continent"/>
+         <c:name>North America</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fffc2e4b-4ac5-3081-8231-88809f0deaa6/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fffc2e4b-4ac5-3081-8231-88809f0deaa6"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/37f0cf6b-b991-3dc8-8018-78338494cd3a"/>
+         <c:relevance>0.073</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/cc714e7e-eba1-37f9-828f-bbe5ce2b9221">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/NaturalFeature"/>
+         <c:name>Atlantic Ocean</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fffc2e4b-4ac5-3081-8231-88809f0deaa6/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fffc2e4b-4ac5-3081-8231-88809f0deaa6"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/cc714e7e-eba1-37f9-828f-bbe5ce2b9221"/>
+         <c:relevance>0.073</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/726d2293-7660-3139-847f-ea87c39efffb">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCommunication"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/0480eac9-91a8-3d61-80dc-cf190835348d"/>
+         <c:organizationorcompany rdf:resource="http://d.opencalais.com/comphash-1/33d20acf-9f02-3410-98ed-eedc9165cc7d"/>
+         <c:status>announced</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/096a73ce-884f-33d7-9375-ac1c8ec74b16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>Colorado</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fffc2e4b-4ac5-3081-8231-88809f0deaa6/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fffc2e4b-4ac5-3081-8231-88809f0deaa6"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/096a73ce-884f-33d7-9375-ac1c8ec74b16"/>
+         <c:relevance>0.298</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a17be660-c969-3a59-9ac2-de6ab8fd4439">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Space Science Institute</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fffc2e4b-4ac5-3081-8231-88809f0deaa6/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fffc2e4b-4ac5-3081-8231-88809f0deaa6"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a17be660-c969-3a59-9ac2-de6ab8fd4439"/>
+         <c:relevance>0.298</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/33d20acf-9f02-3410-98ed-eedc9165cc7d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>BBC News</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fffc2e4b-4ac5-3081-8231-88809f0deaa6/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fffc2e4b-4ac5-3081-8231-88809f0deaa6"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/33d20acf-9f02-3410-98ed-eedc9165cc7d"/>
+         <c:relevance>0.283</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/provinceorstate/ralg-geo1/e088028d-cdce-c4fa-c28a-cf7a54cc36b7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/ProvinceOrState"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fffc2e4b-4ac5-3081-8231-88809f0deaa6"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/096a73ce-884f-33d7-9375-ac1c8ec74b16"/>
+         <c:name>Colorado,United States</c:name>
+         <c:shortname>Colorado</c:shortname>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">39.0473491002</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-105.465397491</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/638cf52c-bfd2-3626-a382-5b7df0a730cf">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Space Science Institute</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fffc2e4b-4ac5-3081-8231-88809f0deaa6/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fffc2e4b-4ac5-3081-8231-88809f0deaa6"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/638cf52c-bfd2-3626-a382-5b7df0a730cf"/>
+         <c:relevance>0.298</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/uk-23099824">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/uk-23099824"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">The Old Bailey trial of two men accused of murdering soldier Lee Rigby is set for 18 November.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-06-28T12:25:17</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68435000/jpg/_68435822_comp_court2.jpg"/>
+         <rnews:headline xml:lang="en-GB">Woolwich murder trial date set</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">UK</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/67947000/jpg/_67947495_comp_court.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/uk-23099824"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Courts sketches of Michael Adebowale and Michael Adebolajo</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="5adfa64e-3c4c-ce72-13fb-cdfe08e443e5"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/0JJhm*sNQNlPmitpuOMNKQ"
+                    rdf:about="http://d.opencalais.com/dochash-1/2be389be-8dc4-3352-b96f-cc97a0159f8a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-06-28</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/uk-23099824"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 02:02:36.046"
+                    rdf:about="http://d.opencalais.com/dochash-1/2be389be-8dc4-3352-b96f-cc97a0159f8a/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2be389be-8dc4-3352-b96f-cc97a0159f8a"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|dJ6KcGsGH1OiT/WGOA+gsRWQii4=|bU8AuN2G7DyW0XGmA3Hn2kqtNSoHwAbWG06l8NQapAg7ijs8SwIQ8A==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/2be389be-8dc4-3352-b96f-cc97a0159f8a/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2be389be-8dc4-3352-b96f-cc97a0159f8a"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/2be389be-8dc4-3352-b96f-cc97a0159f8a/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2be389be-8dc4-3352-b96f-cc97a0159f8a"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Law_Crime"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Law_Crime</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.948</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/964bcb98-54dd-360d-ab55-77c8107af27e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Michael Adebolajo</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Michael Adebolajo</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/2be389be-8dc4-3352-b96f-cc97a0159f8a/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2be389be-8dc4-3352-b96f-cc97a0159f8a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/964bcb98-54dd-360d-ab55-77c8107af27e"/>
+         <c:relevance>0.688</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/54361a54-8af2-3a9d-8594-e163c561f025">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/Indictment"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/964bcb98-54dd-360d-ab55-77c8107af27e"/>
+         <c:charge>attempted murder of two police officers</c:charge>
+         <c:charge>possession of a firearm</c:charge>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/30e37f75-6319-3e4e-8b77-592217450b87">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/Trial"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/964bcb98-54dd-360d-ab55-77c8107af27e"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/8eb04aec-fd86-37ed-a634-585003493d27">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Michael Adebowale</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Michael Adebowale</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/2be389be-8dc4-3352-b96f-cc97a0159f8a/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2be389be-8dc4-3352-b96f-cc97a0159f8a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/8eb04aec-fd86-37ed-a634-585003493d27"/>
+         <c:relevance>0.403</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/30db214f-5053-3a16-9ef4-a19b36f9e667">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>UN Court</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/2be389be-8dc4-3352-b96f-cc97a0159f8a/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2be389be-8dc4-3352-b96f-cc97a0159f8a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/30db214f-5053-3a16-9ef4-a19b36f9e667"/>
+         <c:relevance>0.340</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/f4d73c18-a671-3c79-b9a2-1b2481b24bcd">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonAttributes"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/964bcb98-54dd-360d-ab55-77c8107af27e"/>
+         <c:age>28</c:age>
+         <c:gender>M</c:gender>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/71042c49-212f-37eb-b8e4-ae26a97638f9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/Trial"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/8eb04aec-fd86-37ed-a634-585003493d27"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/f08025f6-8e95-c3ff-2909-0a5219ed3bfa">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2be389be-8dc4-3352-b96f-cc97a0159f8a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/6fda72fd-105c-39ba-bb79-da95785a249f"/>
+         <c:name>London,Greater London,United Kingdom</c:name>
+         <c:shortname>London</c:shortname>
+         <c:containedbystate>Greater London</c:containedbystate>
+         <c:containedbycountry>United Kingdom</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">51.517124</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-0.106196</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c3cb5363-691a-317b-a4f3-837d91415092">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Belmarsh prison</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/2be389be-8dc4-3352-b96f-cc97a0159f8a/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2be389be-8dc4-3352-b96f-cc97a0159f8a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c3cb5363-691a-317b-a4f3-837d91415092"/>
+         <c:relevance>0.340</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6fda72fd-105c-39ba-bb79-da95785a249f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>London</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/2be389be-8dc4-3352-b96f-cc97a0159f8a/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2be389be-8dc4-3352-b96f-cc97a0159f8a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/6fda72fd-105c-39ba-bb79-da95785a249f"/>
+         <c:relevance>0.372</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/41d1c2b1-0c60-30e3-8233-c30116ec2636">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonAttributes"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/8eb04aec-fd86-37ed-a634-585003493d27"/>
+         <c:age>22</c:age>
+         <c:gender>M</c:gender>
+      </rdf:Description>
+   </rdf:RDF>

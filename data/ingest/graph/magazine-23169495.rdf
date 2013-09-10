@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/magazine-23169495">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/magazine-23169495"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">The road from Prescott to Yarnell would, in normal times, be a joy to drive along. But after last week's tragic wildfires, I find locals heartbroken and searching for answers.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-04T23:25:44</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68551000/jpg/_68551565_firefighter_getty.jpg"/>
+         <rnews:headline xml:lang="en-GB">Inside the Arizona 'tinderbox'</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Magazine</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/58906000/jpg/_58906645_c4dad9b9-3a67-4174-a1fc-a5fab9b96a62.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/magazine-23169495"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">144</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">104</rnews:height>
+         <rnews:description xml:lang="en-GB">David Shukman</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68550000/jpg/_68550015_signap.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/magazine-23169495"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">Wildfire burns next to the welcome sign of Yarnell (30 June 2013)</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68521000/jpg/_68521221_68521218.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/magazine-23169495"/>
+         <rnews:description xml:lang="en-GB">Amateur footage shows </rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68550000/jpg/_68550913_yarnell_roadblock_getty.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/magazine-23169495"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</rnews:height>
+         <rnews:description xml:lang="en-GB">Roadblock on the road to Yarnell</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68550000/jpg/_68550014_yarnell_crosses_getty.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/magazine-23169495"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</rnews:height>
+         <rnews:description xml:lang="en-GB">The fence of Fire Station 7 in Prescott, Arizona</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="a0abec98-202b-7f87-13fb-dd688ad97348"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/bj8N6Dlg0hktZ6mPSZO5Ww"
+                    rdf:about="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-05</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/magazine-23169495"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 05:32:00.941"
+                    rdf:about="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|4+VM4TxtzCxYedlNcSTwhMR4ptU=|Cj8erT4M5U+/W7J0XkHcK44sjt9cmQziR1Vdsuvf4dKFrXxHAsUrkg==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/24375a71-c265-3a9d-ad32-c9734d847e2d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/RadioStation"/>
+         <c:name>BBC Radio 4</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/24375a71-c265-3a9d-ad32-c9734d847e2d"/>
+         <c:relevance>0.054</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d4ee6aec-733d-306f-b843-368d7a8d53f9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>vehicle carrying equipment</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/d4ee6aec-733d-306f-b843-368d7a8d53f9"/>
+         <c:relevance>0.251</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/252165c1-0c59-3312-906a-f00c7db554ab">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>driver</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/252165c1-0c59-3312-906a-f00c7db554ab"/>
+         <c:relevance>0.258</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/10a6ba90-14b0-3dc0-80f9-2dcd79df6b64">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Technology"/>
+         <c:name>cellular telephone</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/10a6ba90-14b0-3dc0-80f9-2dcd79df6b64"/>
+         <c:relevance>0.300</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6e60ab4c-c351-340e-84a5-304d31f628d1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>emergency official</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/6e60ab4c-c351-340e-84a5-304d31f628d1"/>
+         <c:relevance>0.149</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/6c946baf-069d-33e1-aa51-414178ac8513">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>BBC Radio</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/6c946baf-069d-33e1-aa51-414178ac8513"/>
+         <c:relevance>0.064</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d7359aeb-1b6f-336a-a5f6-9f9a30c9bb42">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/NaturalDisaster"/>
+         <c:location rdf:resource="http://d.opencalais.com/genericHasher-1/317bd67c-156a-32bd-8a5f-dd97b6d4c5a2"/>
+         <c:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-05</c:date>
+         <c:datestring>5 July 2013</c:datestring>
+         <c:naturaldisaster>wildfire</c:naturaldisaster>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/9e466fa7-5ba7-34e6-9899-3153375adc2c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>spokesman for the Arizona tourist board</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/9e466fa7-5ba7-34e6-9899-3153375adc2c"/>
+         <c:relevance>0.311</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/ed54f603-be07-3c39-a55a-64514fdd4668">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/22b46470-b64a-3af3-949a-b461fad44500"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>FACEBOOK, INC.</c:name>
+         <c:shortname>Facebook</c:shortname>
+         <c:ticker>FB</c:ticker>
+         <c:symbol>FB.OQ</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/1765a0e5-9119-3451-af81-f0d4888e60a5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Maxine Collins</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Maxine Collins</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/1765a0e5-9119-3451-af81-f0d4888e60a5"/>
+         <c:relevance>0.171</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7690f657-9c9c-3bc7-a597-2e7ca975f290">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ManMadeDisaster"/>
+         <c:effect>led to a search for explanations</c:effect>
+         <c:manmadedisaster>fire</c:manmadedisaster>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5c6feced-da03-33dd-88a6-d59fe2bcedd7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>utility worker</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/5c6feced-da03-33dd-88a6-d59fe2bcedd7"/>
+         <c:relevance>0.251</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/8da09130-31fe-3abd-a4da-610c9312e3d6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Lorri Canley</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Lorri Canley</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/8da09130-31fe-3abd-a4da-610c9312e3d6"/>
+         <c:relevance>0.299</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6bdb2b87-6f80-3a7b-8612-18687ef5fceb">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ManMadeDisaster"/>
+         <c:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-06-30</c:date>
+         <c:datestring>last Sunday</c:datestring>
+         <c:effect>destroyed half of the houses</c:effect>
+         <c:manmadedisaster>fire</c:manmadedisaster>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/8fb0ec4f-d5fa-372d-8eee-c95f5dc1bd62">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/RadioStation"/>
+         <c:name>BBC World Service</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/8fb0ec4f-d5fa-372d-8eee-c95f5dc1bd62"/>
+         <c:relevance>0.052</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/provinceorstate/ralg-geo1/15f0deb5-fdee-353c-85e9-a36268ab0134">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/ProvinceOrState"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/317bd67c-156a-32bd-8a5f-dd97b6d4c5a2"/>
+         <c:name>Arizona,United States</c:name>
+         <c:shortname>Arizona</c:shortname>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">33.8947715893</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-111.509465331</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/62190893-a47c-3de4-9060-6cac802e4a29">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/EnvironmentalIssue"/>
+         <c:environmentalissue>climate change</c:environmentalissue>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c14241b6-5f57-315c-9d5e-aa617f57bfc1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>head</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c14241b6-5f57-315c-9d5e-aa617f57bfc1"/>
+         <c:relevance>0.059</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/00db7c2a-a508-3ef3-b710-67a09021f383">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Grant McKee</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Grant McKee</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/00db7c2a-a508-3ef3-b710-67a09021f383"/>
+         <c:relevance>0.287</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/317bd67c-156a-32bd-8a5f-dd97b6d4c5a2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>Arizona</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/317bd67c-156a-32bd-8a5f-dd97b6d4c5a2"/>
+         <c:relevance>0.328</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3afdf6d7-11f7-3b5c-9631-6ca79dcd56ef">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>senior police officer</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3afdf6d7-11f7-3b5c-9631-6ca79dcd56ef"/>
+         <c:relevance>0.073</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/22b46470-b64a-3af3-949a-b461fad44500">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Facebook</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/22b46470-b64a-3af3-949a-b461fad44500"/>
+         <c:relevance>0.049</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/73840cac-a422-3479-b2b4-00d9c0669fd5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/NaturalDisaster"/>
+         <c:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-06-30</c:date>
+         <c:datestring>last Sunday</c:datestring>
+         <c:effect>destroyed half of the houses</c:effect>
+         <c:naturaldisaster>wildfire</c:naturaldisaster>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/ea30a69d-f0e0-3a93-8c93-6a47cc2ba55a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Pat Bernard</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Pat Bernard</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581/Relevance/17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/ea30a69d-f0e0-3a93-8c93-6a47cc2ba55a"/>
+         <c:relevance>0.321</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/7a6a4835-2d42-388a-97e8-ef689d5745f0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/6c946baf-069d-33e1-aa51-414178ac8513"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.90000004</c:score>
+         <c:name>BRITISH BROADCASTING CORPORATION</c:name>
+         <c:shortname>BBC</c:shortname>
+         <c:ticker>BBC</c:ticker>
+         <c:symbol>TBBC.UL</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/b69841f1-f1d6-3fb4-8271-55846b0b4524">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/6d9ca10f-dddd-304a-89e7-25728c61ca8d"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>HARLEY-DAVIDSON, INC.</c:name>
+         <c:shortname>H-D</c:shortname>
+         <c:ticker>HDI</c:ticker>
+         <c:symbol>HOG.N</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/6d9ca10f-dddd-304a-89e7-25728c61ca8d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Harley Davidson</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581/Relevance/18">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cdbd11be-6776-3899-a48b-65a6521b8581"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/6d9ca10f-dddd-304a-89e7-25728c61ca8d"/>
+         <c:relevance>0.066</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

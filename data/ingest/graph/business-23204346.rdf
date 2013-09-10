@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/business-23204346">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/business-23204346"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">If you had 15 seconds warning an earthquake was coming - could that save your life? The BBC's Fiona Graham finds out about the app that could warn you the 'big one' was on the way</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-09T01:22:25</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68620000/jpg/_68620941_bhuj624t.jpg"/>
+         <rnews:headline xml:lang="en-GB">Predicting earthquakes using smartphones</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Business</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68620000/jpg/_68620735_sanfran1989624.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/business-23204346"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">Effects of the 1989 San Francisco earthquake</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68620000/jpg/_68620739_richardguy624.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/business-23204346"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Richard Guy</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68620000/jpg/_68620741_tsunami624.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/business-23204346"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">Tsunami sign</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68620000/jpg/_68620803_insidecsn624.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/business-23204346"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Community Seismic Network seismometer</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68620000/jpg/_68620805_bhuj624.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/business-23204346"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">Woman cries in front of her destroyed home in Bhuj, western India</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68620000/jpg/_68620808_commandcentre624.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/business-23204346"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">California Integrated Seismic Network's Earthquake early warning demonstration system</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68620000/jpg/_68620810_carp624.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/business-23204346"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">370 blue carp streamers hung to mourn children who died in Higashimatsushima, Miyagi prefecture</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68620000/png/_68620812_opensheltershot.png">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/business-23204346"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">405</rnews:height>
+         <rnews:description xml:lang="en-GB"> American Red Cross app</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="dcc54138-0438-0751-3fc2-27e69d37274e"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/J4zdz3UH0tj23hwU-x**CQ"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-09</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/business-23204346"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-09 02:39:22.269"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|rnoEJh1QpmvKOURClFvgYwIN+o4=|k6+kDbEoGH0h4qENFtvF6Yus0AQ9fkmXFFcTUGspJk6bsVs2Pvi4zA==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Disaster_Accident"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Disaster_Accident</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.000</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/cat/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Environment"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Environment</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.893</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/cat/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Technology_Internet"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Technology_Internet</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.769</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/79e0d731-d7c4-3ed1-bf13-7b2ae259b2d5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>state legislature</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/79e0d731-d7c4-3ed1-bf13-7b2ae259b2d5"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.118</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/83eed419-88cb-389b-b46d-90ecd65d5df9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/NaturalFeature"/>
+         <c:name>Pacific coast</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/83eed419-88cb-389b-b46d-90ecd65d5df9"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.093</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/dd62d176-8c79-35d0-bd8f-48a059187c62">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Betty Moore Foundation</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/dd62d176-8c79-35d0-bd8f-48a059187c62"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.118</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/cbb6942c-d693-3715-820a-bd535cb0f7a4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Matt Goldfeder</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Matt Goldfeder</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/cbb6942c-d693-3715-820a-bd535cb0f7a4"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.075</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c3de33d9-098a-3227-992d-62d3615d01d7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>virtual seismologist</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c3de33d9-098a-3227-992d-62d3615d01d7"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.148</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3f506630-a06c-35ff-a704-a68e1fca2c75">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>California Institute of Technology</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>American</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3f506630-a06c-35ff-a704-a68e1fca2c75"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.490</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/8d7cfe40-8ad4-3c61-8a67-8fcc1bb328d5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/cbb6942c-d693-3715-820a-bd535cb0f7a4"/>
+         <c:organization rdf:resource="http://d.opencalais.com/genericHasher-1/71df33e1-cc7d-334e-a14a-8c905e9a8208"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/9e3f2443-196e-338f-93c9-04ceb6a0466a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Japan Meteorological Agency</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>Japanese</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/9e3f2443-196e-338f-93c9-04ceb6a0466a"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.109</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0a3858e1-3576-3296-9175-ef6aa27f0527">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/NaturalDisaster"/>
+         <c:effect>spread over a region</c:effect>
+         <c:naturaldisaster>earthquake</c:naturaldisaster>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/15a71616-5132-3003-9dca-9f645abdedb5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>formal seismic monitoring services</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/15a71616-5132-3003-9dca-9f645abdedb5"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.297</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3a0f3359-b89a-3959-a958-a9141e8c1f9d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Product"/>
+         <c:name>iPhone</c:name>
+         <c:producttype>Electronics</c:producttype>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3a0f3359-b89a-3959-a958-a9141e8c1f9d"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.105</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ed1c9b63-4b8e-311f-b8db-0f90ea812660">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Japan</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/ed1c9b63-4b8e-311f-b8db-0f90ea812660"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.275</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/73cae294-0674-3c37-9cad-4e48f3331917">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>technology works</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/73cae294-0674-3c37-9cad-4e48f3331917"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.113</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/68cbfc21-4f67-3079-a374-e5621d7f15a5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>director</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/68cbfc21-4f67-3079-a374-e5621d7f15a5"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.170</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/provinceorstate/ralg-geo1/fd9e1e90-96a9-04ff-1397-445c4e93208b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/ProvinceOrState"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/9679b237-33e8-3478-ba13-d9af3c4b943e"/>
+         <c:name>California,United States</c:name>
+         <c:shortname>California</c:shortname>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">36.4885198674</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-119.701379437</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>United States</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.164</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/9cdc126f-6826-0cbd-df3a-00a4032f0e7e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16"/>
+         <c:name>United Kingdom</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">53.1142456495</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-2.57711368423</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/9013b70d-4eb5-3434-8489-2b75444b45a4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>early warning infrastructure</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/9013b70d-4eb5-3434-8489-2b75444b45a4"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.181</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/55841a4c-1381-3e15-8ae4-d54b92c58af4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Technology"/>
+         <c:name>smart phones</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/55841a4c-1381-3e15-8ae4-d54b92c58af4"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.258</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/df5705ca-3f4d-31c8-9f97-6e50c8472897">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Region"/>
+         <c:name>western United States</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/df5705ca-3f4d-31c8-9f97-6e50c8472897"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.164</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d2529e6a-4e4b-3f5e-8253-fc7471b6e904">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Technology"/>
+         <c:name>smartphones</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/Relevance/17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/d2529e6a-4e4b-3f5e-8253-fc7471b6e904"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.661</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c2742ea7-b237-30d6-8e86-6eb88c3ac6b4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Technology"/>
+         <c:name>smartphone</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/Relevance/18">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c2742ea7-b237-30d6-8e86-6eb88c3ac6b4"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.544</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0ef57dec-5163-3899-9ccf-a5cbbcec7c9c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Technology"/>
+         <c:name>GPS</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/Relevance/19">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0ef57dec-5163-3899-9ccf-a5cbbcec7c9c"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.052</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/71df33e1-cc7d-334e-a14a-8c905e9a8208">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>American Red Cross</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>American</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/Relevance/20">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/71df33e1-cc7d-334e-a14a-8c905e9a8208"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.242</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/dd106052-9dd6-3d78-bd80-8e7c96c78ebe">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>attractive device</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/Relevance/21">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/dd106052-9dd6-3d78-bd80-8e7c96c78ebe"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.238</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/f4792b63-56d8-348c-bb98-c92988af4154">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Pasadena</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/Relevance/22">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/f4792b63-56d8-348c-bb98-c92988af4154"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.295</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/bc73a7e9-c11e-3f24-aa28-cf8d94f5304e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/NaturalDisaster"/>
+         <c:location>California</c:location>
+         <c:naturaldisaster>earthquake</c:naturaldisaster>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/4623c5b8-b5c7-3886-a84b-0140143b6760">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Region"/>
+         <c:name>East Japan</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/Relevance/23">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/4623c5b8-b5c7-3886-a84b-0140143b6760"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.089</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/578ed5a4-eecf-5a15-803a-bdc49f6152d6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/ed1c9b63-4b8e-311f-b8db-0f90ea812660"/>
+         <c:name>Japan</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">35.4111749285</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">135.833685568</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ea23c819-11f4-3db8-9526-1b028fa4000c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/NaturalDisaster"/>
+         <c:location rdf:resource="http://d.opencalais.com/genericHasher-1/ed1c9b63-4b8e-311f-b8db-0f90ea812660"/>
+         <c:naturaldisaster>earthquake</c:naturaldisaster>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>United Kingdom</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/Relevance/24">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.072</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/af60abab-c237-3c6f-9814-581e657f319e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>California Institute of Technology</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/Relevance/25">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/af60abab-c237-3c6f-9814-581e657f319e"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.302</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/ac7866a1-60bf-3fb4-b62d-eda2391a889c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Tom Heaton</c:name>
+         <c:persontype>sports</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Tom Heaton</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/Relevance/26">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/ac7866a1-60bf-3fb4-b62d-eda2391a889c"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.180</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/35b85774-470a-32fb-87c6-f2e6820ec625">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>social networks</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/Relevance/27">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/35b85774-470a-32fb-87c6-f2e6820ec625"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.059</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/9b8a69e7-dac4-3aae-91c1-928a9ec55ee1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Caltech's Earthquake Engineering Research Laboratory</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/Relevance/28">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/9b8a69e7-dac4-3aae-91c1-928a9ec55ee1"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.382</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/39fa948c-1767-353a-989c-98b92de3896a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>seismologist</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/Relevance/29">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/39fa948c-1767-353a-989c-98b92de3896a"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.153</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3357b40c-67cd-3717-bf13-e19533df713d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Technology"/>
+         <c:name>mobile device</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/Relevance/30">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3357b40c-67cd-3717-bf13-e19533df713d"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.054</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/9679b237-33e8-3478-ba13-d9af3c4b943e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>California</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/Relevance/31">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/9679b237-33e8-3478-ba13-d9af3c4b943e"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.187</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/10c1f2d3-f916-315b-b156-6317e119d1a2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Matt Faulkner</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Matt Faulkner</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/Relevance/32">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/10c1f2d3-f916-315b-b156-6317e119d1a2"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.300</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/152649df-347e-e289-1a9e-acc883e07d17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:name>United States</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.4230003233</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-98.7372244786</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/09917d78-bb9e-3213-920e-7e0fb4e44ac5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/NaturalDisaster"/>
+         <c:location>the Pacific coast</c:location>
+         <c:naturaldisaster>tsunami</c:naturaldisaster>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/701d5f67-18c6-35e4-b46f-c8bf373cb310">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Richard Guy</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Richard Guy</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2/Relevance/33">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/37fd92e8-25f5-387d-98b1-f110f3da69c2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/701d5f67-18c6-35e4-b46f-c8bf373cb310"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.532</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ada866fe-761f-3637-801d-9405a58e1674">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/NaturalDisaster"/>
+         <c:location>north-east of Japan</c:location>
+         <c:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-03-00</c:date>
+         <c:datestring>March 2011</c:datestring>
+         <c:effect>hit the country</c:effect>
+         <c:naturaldisaster>earthquake</c:naturaldisaster>
+      </rdf:Description>
+   </rdf:RDF>

@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/uk-wales-23199905">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/uk-wales-23199905"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">A report written 17 years ago, which has finally been published, identifies "extensive" abuse at children's homes in north Wales in the 1970s and 1980s.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-08T10:19:18</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68569000/jpg/_68569376_8twp8jto.jpg"/>
+         <rnews:headline xml:lang="en-GB">'Extensive' abuse at care homes</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wales</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68600000/jpg/_68600598_8twp8jto.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/uk-wales-23199905"/>
+         <rnews:description xml:lang="en-GB">Bryn Estyn care home in North Wales in 1992</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68602000/jpg/_68602040_jillings.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/uk-wales-23199905"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</rnews:height>
+         <rnews:description xml:lang="en-GB">Jillings report</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="e3c437c8-c6d5-3bfe-13fb-dd8832e1b944"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/zux6SsKO97FBsORt3HACtw"
+                    rdf:about="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-08</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/uk-wales-23199905"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 06:34:10.621"
+                    rdf:about="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|M2lZsc5dZX9LakQo5HQa3PONu/c=|c/sT2RITMxVQT/8u7vlhqvMMuh2G12FsXGbE1bSRR+hfp3cVCH5VKg==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3302dc87-2dec-39c3-94a9-a14564445aaf">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>North Wales Police</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>Velsh</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3302dc87-2dec-39c3-94a9-a14564445aaf"/>
+         <c:relevance>0.426</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b5cbd406-b9a5-3c21-9be2-258215aaba5b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Flintshire County Council</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b5cbd406-b9a5-3c21-9be2-258215aaba5b"/>
+         <c:relevance>0.052</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e060837c-c3b1-3e00-a01c-3d56423352b4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Clwyd County Council</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e060837c-c3b1-3e00-a01c-3d56423352b4"/>
+         <c:relevance>0.307</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6dcdf493-d724-34ff-94ad-e0e99bb72019">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Clwyd council</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/6dcdf493-d724-34ff-94ad-e0e99bb72019"/>
+         <c:relevance>0.196</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b2f793c2-a7c9-392d-bf1f-2bf2799aa30a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/Conviction"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/a6b45654-aa44-334f-8222-6e5e701d4547"/>
+         <c:charge>serious offences</c:charge>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/7abc90b8-7d32-3795-b46e-4433f3eb165e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Ronald Waterhouse</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Ronald Waterhouse</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/7abc90b8-7d32-3795-b46e-4433f3eb165e"/>
+         <c:relevance>0.240</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/a04c34c1-be56-32ac-9d07-85aa1fea70a2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>BBC Wales</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/a04c34c1-be56-32ac-9d07-85aa1fea70a2"/>
+         <c:relevance>0.256</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/14e074e2-643b-3ba9-a2ec-aaab88c138fb">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Flintshire</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Flintshire</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/14e074e2-643b-3ba9-a2ec-aaab88c138fb"/>
+         <c:relevance>0.298</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0850ee2c-f311-33b2-8ac2-bbab171624d7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Welsh Office</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>Welsh</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0850ee2c-f311-33b2-8ac2-bbab171624d7"/>
+         <c:relevance>0.114</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5a295cc1-5c4e-3ef5-b0a5-43e2ce46922d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>social services</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/5a295cc1-5c4e-3ef5-b0a5-43e2ce46922d"/>
+         <c:relevance>0.266</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/0e12fafb-a83b-60b0-b672-0e4e7c2a523d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a3aeb613-107f-3bae-9227-969078bc1c40"/>
+         <c:name>Wales</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">52.3</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-3.7</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c48eb7e5-f4b6-3868-9f5f-debe48680538">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>Home Secretary</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c48eb7e5-f4b6-3868-9f5f-debe48680538"/>
+         <c:relevance>0.056</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/2b395c01-d2ee-3ad4-b74e-047f81887c5a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/a04c34c1-be56-32ac-9d07-85aa1fea70a2"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>BBC WALES</c:name>
+         <c:shortname>BBC WALES</c:shortname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0c6c9b8b-14bd-3a04-90ba-dbca509332be">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>costly insurance claims</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0c6c9b8b-14bd-3a04-90ba-dbca509332be"/>
+         <c:relevance>0.266</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/338e01d6-447c-3893-aaf9-1ff9f8fd4add">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/4bc165e1-95fc-3e19-bf7f-5422977fad89"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/ecd05736-df17-30d3-96e9-5fcf335c4f09"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/56f01ea8-ae31-3c3f-b91d-33317b7e83d2"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>past</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ecd05736-df17-30d3-96e9-5fcf335c4f09">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>director of social services</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/ecd05736-df17-30d3-96e9-5fcf335c4f09"/>
+         <c:relevance>0.273</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e80df1b4-d3e9-39c6-9410-ab0f9acfe9fb">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Region"/>
+         <c:name>north Wales</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e80df1b4-d3e9-39c6-9410-ab0f9acfe9fb"/>
+         <c:relevance>0.648</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b4b3d2cb-39c7-306f-babc-4f4e5a309813">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>former Clwyd County Council</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b4b3d2cb-39c7-306f-babc-4f4e5a309813"/>
+         <c:relevance>0.312</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/bdcbdbdd-f89b-3ed7-a880-2cf6c416ddbc">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Crown Prosecution Service</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/bdcbdbdd-f89b-3ed7-a880-2cf6c416ddbc"/>
+         <c:relevance>0.242</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/090a546e-ae4d-36b9-9195-352bea627fc2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Wrexham County Borough Council</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/090a546e-ae4d-36b9-9195-352bea627fc2"/>
+         <c:relevance>0.052</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/5a3bc114-9bf8-3fb7-b78a-ca9758c3d05a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Theresa May</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Theresa May</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0/Relevance/17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/5a3bc114-9bf8-3fb7-b78a-ca9758c3d05a"/>
+         <c:relevance>0.056</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/4bc165e1-95fc-3e19-bf7f-5422977fad89">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>John Jillings</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>John Jillings</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0/Relevance/18">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/4bc165e1-95fc-3e19-bf7f-5422977fad89"/>
+         <c:relevance>0.530</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/03de2736-8a9c-3c0d-9c24-9f132a469b78">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/5a3bc114-9bf8-3fb7-b78a-ca9758c3d05a"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/c48eb7e5-f4b6-3868-9f5f-debe48680538"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/a6b45654-aa44-334f-8222-6e5e701d4547">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Bryn Estyn</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Bryn Estyn</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0/Relevance/19">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/a6b45654-aa44-334f-8222-6e5e701d4547"/>
+         <c:relevance>0.436</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a3aeb613-107f-3bae-9227-969078bc1c40">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Wales</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0/Relevance/20">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a3aeb613-107f-3bae-9227-969078bc1c40"/>
+         <c:relevance>0.489</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/56f01ea8-ae31-3c3f-b91d-33317b7e83d2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Derbyshire</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0/Relevance/21">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/630c07fd-b242-33c1-8d0d-cd7788cf6fb0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/56f01ea8-ae31-3c3f-b91d-33317b7e83d2"/>
+         <c:relevance>0.266</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

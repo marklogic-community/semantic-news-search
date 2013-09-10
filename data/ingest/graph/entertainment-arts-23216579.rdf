@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/entertainment-arts-23216579">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/entertainment-arts-23216579"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">The broadcaster, Sir Michael Parkinson, has revealed that he has prostate cancer.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-07T10:36:17</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68592000/jpg/_68592019_parky.jpg"/>
+         <rnews:headline xml:lang="en-GB">Parkinson reveals cancer treatment</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Entertainment and Arts</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68591000/jpg/_68591928_parky.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/entertainment-arts-23216579"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Sir Michael Parkinson</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="4c0f3edb-4ba4-176d-13fb-cebeb9b443e5"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/kGxqpPVrwEWm73Th9BlZFA"
+                    rdf:about="http://d.opencalais.com/dochash-1/97bfa529-87c7-36d1-ae69-7b187ade1875">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-07</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/entertainment-arts-23216579"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 02:15:45.307"
+                    rdf:about="http://d.opencalais.com/dochash-1/97bfa529-87c7-36d1-ae69-7b187ade1875/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/97bfa529-87c7-36d1-ae69-7b187ade1875"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|gPrbOEVBohDH1Ck3EEI4qNHfT4Y=|iP7hm6eEEQB9DOm1+EDHHnlhbXJHPTGxOSUgz+NHxWW+K/5kfu4BmA==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/97bfa529-87c7-36d1-ae69-7b187ade1875/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/97bfa529-87c7-36d1-ae69-7b187ade1875"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/97bfa529-87c7-36d1-ae69-7b187ade1875/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/97bfa529-87c7-36d1-ae69-7b187ade1875"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/HumanInterest"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Human Interest</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.000</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/97bfa529-87c7-36d1-ae69-7b187ade1875/cat/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/97bfa529-87c7-36d1-ae69-7b187ade1875"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Health_Medical_Pharma"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Health_Medical_Pharma</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.934</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/97bfa529-87c7-36d1-ae69-7b187ade1875/cat/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/97bfa529-87c7-36d1-ae69-7b187ade1875"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Entertainment_Culture"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Entertainment_Culture</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.588</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/cc30dd43-6965-3808-8dbb-4bcb4a62251f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Michael Parkinson</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Michael Parkinson</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/97bfa529-87c7-36d1-ae69-7b187ade1875/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/97bfa529-87c7-36d1-ae69-7b187ade1875"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/cc30dd43-6965-3808-8dbb-4bcb4a62251f"/>
+         <c:relevance>0.813</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/9b7d12fd-27cb-311b-9849-90c511b3aa42">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Muhammad Ali</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Muhammad Ali</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/97bfa529-87c7-36d1-ae69-7b187ade1875/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/97bfa529-87c7-36d1-ae69-7b187ade1875"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/9b7d12fd-27cb-311b-9849-90c511b3aa42"/>
+         <c:relevance>0.082</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/b5b86aeb-c527-36f4-95ee-a2af36bc75ae">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Elton John</c:name>
+         <c:persontype>entertainment</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Elton John</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/97bfa529-87c7-36d1-ae69-7b187ade1875/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/97bfa529-87c7-36d1-ae69-7b187ade1875"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/b5b86aeb-c527-36f4-95ee-a2af36bc75ae"/>
+         <c:relevance>0.082</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/391bdde3-26db-3895-8ed3-94bfa81740c3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/MedicalCondition"/>
+         <c:name>shock</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/97bfa529-87c7-36d1-ae69-7b187ade1875/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/97bfa529-87c7-36d1-ae69-7b187ade1875"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/391bdde3-26db-3895-8ed3-94bfa81740c3"/>
+         <c:relevance>0.380</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b17b220a-cec4-3d21-812a-41d8cb559734">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/MedicalCondition"/>
+         <c:name>pain</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/97bfa529-87c7-36d1-ae69-7b187ade1875/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/97bfa529-87c7-36d1-ae69-7b187ade1875"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b17b220a-cec4-3d21-812a-41d8cb559734"/>
+         <c:relevance>0.234</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/72eb4ddf-b0cb-372a-8ace-37b08374bf63">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>show host</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/97bfa529-87c7-36d1-ae69-7b187ade1875/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/97bfa529-87c7-36d1-ae69-7b187ade1875"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/72eb4ddf-b0cb-372a-8ace-37b08374bf63"/>
+         <c:relevance>0.314</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6489bf43-ee88-343d-9b52-4e10939669da">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCommunication"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/cc30dd43-6965-3808-8dbb-4bcb4a62251f"/>
+         <c:persondescription>high-profile guests</c:persondescription>
+         <c:status>announced</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3bf7f106-7289-38d0-a450-19d30d919d1e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/MedicalCondition"/>
+         <c:name>great shock</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/97bfa529-87c7-36d1-ae69-7b187ade1875/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/97bfa529-87c7-36d1-ae69-7b187ade1875"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3bf7f106-7289-38d0-a450-19d30d919d1e"/>
+         <c:relevance>0.310</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/4da0da39-6aa7-3d57-828e-02d6b6998ab2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>journalist</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/97bfa529-87c7-36d1-ae69-7b187ade1875/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/97bfa529-87c7-36d1-ae69-7b187ade1875"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/4da0da39-6aa7-3d57-828e-02d6b6998ab2"/>
+         <c:relevance>0.132</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/142c6072-e482-3db0-84ee-44bb9df61316">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/MedicalCondition"/>
+         <c:name>cancer</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/97bfa529-87c7-36d1-ae69-7b187ade1875/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/97bfa529-87c7-36d1-ae69-7b187ade1875"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/142c6072-e482-3db0-84ee-44bb9df61316"/>
+         <c:relevance>0.729</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/964348f5-ad51-3dac-9a76-4e3581abf1e3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/MedicalTreatment"/>
+         <c:name>radiotherapy</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/97bfa529-87c7-36d1-ae69-7b187ade1875/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/97bfa529-87c7-36d1-ae69-7b187ade1875"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/964348f5-ad51-3dac-9a76-4e3581abf1e3"/>
+         <c:relevance>0.374</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/16c509a2-c9c1-3a78-b49f-ef0e5a0124de">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/MedicalCondition"/>
+         <c:name>disease</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/97bfa529-87c7-36d1-ae69-7b187ade1875/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/97bfa529-87c7-36d1-ae69-7b187ade1875"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/16c509a2-c9c1-3a78-b49f-ef0e5a0124de"/>
+         <c:relevance>0.302</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/aef35ca7-fd8f-33c7-8811-2b09c196d41f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonAttributes"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/cc30dd43-6965-3808-8dbb-4bcb4a62251f"/>
+         <c:age>78</c:age>
+         <c:gender>M</c:gender>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/124d4a7d-30f3-32f0-b08e-a705fae9194c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Rod Hull</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Rod Hull</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/97bfa529-87c7-36d1-ae69-7b187ade1875/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/97bfa529-87c7-36d1-ae69-7b187ade1875"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/124d4a7d-30f3-32f0-b08e-a705fae9194c"/>
+         <c:relevance>0.267</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/36d5e88d-bb55-332c-a1f9-1652289a560a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>cancer specialist</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/97bfa529-87c7-36d1-ae69-7b187ade1875/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/97bfa529-87c7-36d1-ae69-7b187ade1875"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/36d5e88d-bb55-332c-a1f9-1652289a560a"/>
+         <c:relevance>0.281</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

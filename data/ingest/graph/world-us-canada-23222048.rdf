@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-us-canada-23222048">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23222048"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">The plane that crash-landed at San Francisco airport was below its target approach speed and the pilot tried to abort the landing, US officials say.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-08T17:03:10</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68599000/jpg/_68599413_68590069.jpg"/>
+         <rnews:headline xml:lang="en-GB">Crash plane 'tried to abort landing'</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68609000/jpg/_68609905_68609904.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23222048"/>
+         <rnews:description xml:lang="en-GB">Inside Asiana Flight 214 oxygen masks can be seen hanging from the ceiling</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68609000/jpg/_68609242_68609241.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23222048"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">226</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">282</rnews:height>
+         <rnews:description xml:lang="en-GB">Undated photo of Ye Mengyuan, left, and Wang Linjia in a classroom in Jiangshan city in eastern China's Zhejiang province</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68590000/jpg/_68590587_hi018577363.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23222048"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">Asiana Airlines plane on fire (7 July 2013)</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68590000/jpg/_68590591_hi018577735.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23222048"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">Plane wreckage on the runway (7 July 2013)</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68590000/jpg/_68590589_hi018577666.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23222048"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">Search and rescue teams at the scene of the crash (7 July 2013)</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68588000/jpg/_68588920_03cb62c9-ab5f-4e26-b9b3-fab79ff249c7.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23222048"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">The tail of Asiana Flight 214 is seen, right, after it crashed at San Francisco International Airport in San Francisco, 6 July 2013</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68587000/jpg/_68587089_55c671e8-dd52-4783-aa87-670d4906f8e6.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23222048"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">A fire engine sprays water on Asiana Flight 214 after it crashed at San Francisco International Airport on 6 July 2013</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68593000/jpg/_68593615_plane_crash_624.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23222048"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">980</rnews:height>
+         <rnews:description xml:lang="en-GB">Graphic</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="cab04838-7e36-6ec1-3fc1-4400b91a8137"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/S96QXXPQroSWQHMDVGHGog"
+                    rdf:about="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-08</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23222048"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 22:30:26.745"
+                    rdf:about="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|KPGj2xVCJtoM9Nl3CO/oSM7ZXkQ=|W2nZMpRSm5KQJJRZ0TYDkgzrzo4So2cgTKveGZ/MF3Yw9c7+Ivwinw==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Disaster_Accident"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Disaster_Accident</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.000</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/9616a23c-68ce-31ec-bba9-a60d3a8174dc">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/9c547cf2-af90-3766-b1c3-37bcdb79b593"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.90000004</c:score>
+         <c:name>THE BOEING COMPANY</c:name>
+         <c:shortname>Boeing</c:shortname>
+         <c:ticker>BA</c:ticker>
+         <c:symbol>BA.N</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/af9102ff-3fd2-3db6-9c39-cc432b563edb">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>Zhejiang Province</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/af9102ff-3fd2-3db6-9c39-cc432b563edb"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.301</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/2488679b-31e2-30c1-8d40-7eae17ec82ab">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/70c55e2a-060f-37d4-bfce-0f4aa5a38e96"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/dfba6002-ef9b-3da4-918b-6fcc774da615"/>
+         <c:organization rdf:resource="http://d.opencalais.com/genericHasher-1/64940518-3757-36af-b858-4da4d6e17a8b"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/fc7e4d9c-f04e-3cbc-a998-d1160b653901">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Lee Yoon-hye</c:name>
+         <c:persontype>economic</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Lee Yoon-hye</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/fc7e4d9c-f04e-3cbc-a998-d1160b653901"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.114</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/8c27b446-7d92-3376-9a37-4da34391c542">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/3bc31014-b1ca-3aa4-b69d-a5124950d26d"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/c74c0e19-1d01-3fda-9afd-f48f1a99f028"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/5fad07a7-213e-3722-9a79-a87536180122"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/115c0c80-fd75-3b95-9475-88063abfc835">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ManMadeDisaster"/>
+         <c:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-08</c:date>
+         <c:datestring>Monday</c:datestring>
+         <c:manmadedisaster>fire</c:manmadedisaster>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/8a665d27-e479-3fbe-9932-b15b28fdce02">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Product"/>
+         <c:name>Boeing 777</c:name>
+         <c:producttype>Aircraft</c:producttype>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/8a665d27-e479-3fbe-9932-b15b28fdce02"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.545</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/provinceorstate/ralg-geo1/0463851c-83ff-0533-2ec9-3c01a3fb466b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/ProvinceOrState"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/af9102ff-3fd2-3db6-9c39-cc432b563edb"/>
+         <c:name>Zhejiang,China</c:name>
+         <c:shortname>Zhejiang</c:shortname>
+         <c:containedbycountry>China</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">29.0</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">120.0</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a1c1ac3d-0c25-3fb1-ac74-cac9c8510afa">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>San Francisco</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a1c1ac3d-0c25-3fb1-ac74-cac9c8510afa"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.690</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/e625ca60-6371-3d51-b53a-dc20c35a7a6d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Ye Mengyuan</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Ye Mengyuan</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/e625ca60-6371-3d51-b53a-dc20c35a7a6d"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.301</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e0694c81-2fd3-3518-8083-2c2161a5e305">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>airline</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e0694c81-2fd3-3518-8083-2c2161a5e305"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.523</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/5fad07a7-213e-3722-9a79-a87536180122">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Asiana Airlines</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/5fad07a7-213e-3722-9a79-a87536180122"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.595</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/4d5b323a-5e68-2017-b7d6-85abb142afe3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/07232f01-bcd1-38ab-8de6-e48ff801acb3"/>
+         <c:name>Seoul,South Korea</c:name>
+         <c:shortname>Seoul</c:shortname>
+         <c:containedbycountry>South Korea</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">37.5833333333</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">127.0</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>United States</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.164</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/28adf506-ecb2-3cf6-857c-1238b37db598">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>Cabin manager</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/28adf506-ecb2-3cf6-857c-1238b37db598"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.114</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/07232f01-bcd1-38ab-8de6-e48ff801acb3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Seoul</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/07232f01-bcd1-38ab-8de6-e48ff801acb3"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.305</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/3a4391b7-c039-32ad-a02d-6b9c4932aa56">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Fei Xiong</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Fei Xiong</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/3a4391b7-c039-32ad-a02d-6b9c4932aa56"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.078</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/34f6913e-ce43-3949-bc77-daa8780ffbf7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonAttributes"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/56c91c3b-e3bd-3ae2-afe4-136de7bd201f"/>
+         <c:age>16</c:age>
+         <c:gender>M</c:gender>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/70c55e2a-060f-37d4-bfce-0f4aa5a38e96">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Deborah Hersman</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Deborah Hersman</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/70c55e2a-060f-37d4-bfce-0f4aa5a38e96"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.516</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/f56118da-0256-d097-ff73-1f5d0938031b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a1c1ac3d-0c25-3fb1-ac74-cac9c8510afa"/>
+         <c:name>San Francisco,California,United States</c:name>
+         <c:shortname>San Francisco</c:shortname>
+         <c:containedbystate>California</c:containedbystate>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">37.775</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-122.4183</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/58ad4ecb-2df0-3d46-8333-2d25dcb364d9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/64136b2b-cb4e-36ac-9f32-f58f4c1f1c8a"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>BRITISH AIRWAYS PLC</c:name>
+         <c:shortname>British Airw PLC</c:shortname>
+         <c:ticker>ICAGB</c:ticker>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/4bc14c83-9249-3b6f-935f-9360ab1c69de">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonRelation"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/e625ca60-6371-3d51-b53a-dc20c35a7a6d"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/56c91c3b-e3bd-3ae2-afe4-136de7bd201f"/>
+         <c:personrelationtype>Academic</c:personrelationtype>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/9cdc126f-6826-0cbd-df3a-00a4032f0e7e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16"/>
+         <c:name>United Kingdom</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">53.1142456495</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-2.57711368423</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/41cdd9bb-93f4-3974-b838-b6b8b53e71b9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Ben Levy</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Ben Levy</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/41cdd9bb-93f4-3974-b838-b6b8b53e71b9"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.115</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/8db74b50-d3f2-39a7-aa85-cf24eeb7d69c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCommunication"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/fc7e4d9c-f04e-3cbc-a998-d1160b653901"/>
+         <c:persondescription>reporters</c:persondescription>
+         <c:status>announced</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c74c0e19-1d01-3fda-9afd-f48f1a99f028">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>pilot</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c74c0e19-1d01-3fda-9afd-f48f1a99f028"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.192</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/64940518-3757-36af-b858-4da4d6e17a8b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>National Transportation Safety Board</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/64940518-3757-36af-b858-4da4d6e17a8b"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.253</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/09020157-7654-368e-b28a-2dd0930205d9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ContactDetails"/>
+         <c:emailaddress>yourpics@bbc.co.uk</c:emailaddress>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/f08025f6-8e95-c3ff-2909-0a5219ed3bfa">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/6fda72fd-105c-39ba-bb79-da95785a249f"/>
+         <c:name>London,Greater London,United Kingdom</c:name>
+         <c:shortname>London</c:shortname>
+         <c:containedbystate>Greater London</c:containedbystate>
+         <c:containedbycountry>United Kingdom</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">51.517124</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-0.106196</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/2d83c158-a41a-3eab-a47c-e1032cb414b4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>London's Heathrow Airport</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/2d83c158-a41a-3eab-a47c-e1032cb414b4"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.138</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>United Kingdom</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f/Relevance/17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.052</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/9c547cf2-af90-3766-b1c3-37bcdb79b593">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>The Boeing</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f/Relevance/18">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/9c547cf2-af90-3766-b1c3-37bcdb79b593"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.569</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/91e86394-bca9-3c5e-b1bd-c51a0c7ad4b7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/EmailAddress"/>
+         <c:name>yourpics@bbc.co.uk</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f/Relevance/19">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/91e86394-bca9-3c5e-b1bd-c51a0c7ad4b7"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.052</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/206840a3-db68-382a-afc4-7026ba5ac45b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>state media</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f/Relevance/20">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/206840a3-db68-382a-afc4-7026ba5ac45b"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.301</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6fda72fd-105c-39ba-bb79-da95785a249f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>London</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f/Relevance/21">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/6fda72fd-105c-39ba-bb79-da95785a249f"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.138</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/56c91c3b-e3bd-3ae2-afe4-136de7bd201f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Wang Linjia</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Wang Linjia</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f/Relevance/22">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/56c91c3b-e3bd-3ae2-afe4-136de7bd201f"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.301</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/3bc31014-b1ca-3aa4-b69d-a5124950d26d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Lee Kang-kuk</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Lee Kang-kuk</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f/Relevance/23">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/3bc31014-b1ca-3aa4-b69d-a5124950d26d"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.205</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/d5fda518-5968-3f56-b8c1-f74fdbe50bb5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/5fad07a7-213e-3722-9a79-a87536180122"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>Asiana Airlines Inc.</c:name>
+         <c:shortname>Asiana Airlines</c:shortname>
+         <c:ticker>ASAIR</c:ticker>
+         <c:symbol>020560.KS</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/2ecf3ab2-8714-3012-87c8-ae21613be8af">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>David Eun</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>David Eun</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f/Relevance/24">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/2ecf3ab2-8714-3012-87c8-ae21613be8af"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.093</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/152649df-347e-e289-1a9e-acc883e07d17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:name>United States</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.4230003233</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-98.7372244786</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/64136b2b-cb4e-36ac-9f32-f58f4c1f1c8a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>British Airways</c:name>
+         <c:nationality>British</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f/Relevance/25">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/64136b2b-cb4e-36ac-9f32-f58f4c1f1c8a"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.138</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/dfba6002-ef9b-3da4-918b-6fcc774da615">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>chief</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f/Relevance/26">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/dfba6002-ef9b-3da4-918b-6fcc774da615"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.247</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3838069e-6527-3bf0-adfc-170ec62fe3b6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/fc7e4d9c-f04e-3cbc-a998-d1160b653901"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/28adf506-ecb2-3cf6-857c-1238b37db598"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/64136b2b-cb4e-36ac-9f32-f58f4c1f1c8a"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e8dd5ecd-f9fc-3445-bce3-57d2da2867e5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Technology"/>
+         <c:name>flash</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f/Relevance/27">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e8dd5ecd-f9fc-3445-bce3-57d2da2867e5"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.107</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/1e7acf95-9d4f-3319-8d18-c4246ae71f7f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>experienced pilot</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f/Relevance/28">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/1e7acf95-9d4f-3319-8d18-c4246ae71f7f"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.183</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/8f613b35-9825-3f60-9293-75756381f007">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ContactDetails"/>
+         <c:phonenumber>+44 7624 800 100</c:phonenumber>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5ce3741b-50b2-3fd3-9f8e-e3edaf64d4e0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/PhoneNumber"/>
+         <c:name>+44 7624 800 100</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f/Relevance/29">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c29e3274-0580-3653-aa7f-f3824bc6112f"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/5ce3741b-50b2-3fd3-9f8e-e3edaf64d4e0"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.052</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

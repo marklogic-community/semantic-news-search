@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/business-23251285">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/business-23251285"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Global personal computer (PC) sales fall for the fifth quarter in a row, making it the "longest duration of decline" in history.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-11T03:18:58</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68663000/jpg/_68663183_pc.jpg"/>
+         <rnews:headline xml:lang="en-GB">PC sales in 'longest' historical drop</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Business</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68663000/jpg/_68663149_pc.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/business-23251285"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Computer keyboard</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="70148d17-f062-81ae-13fc-c9d6a171a813"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/PMQjQuwuKPHZLoy*PNtx3w"
+                    rdf:about="http://d.opencalais.com/dochash-1/2910f5e1-144a-39b0-afa3-467b8334e2fc">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-11</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/business-23251285"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-11 03:23:55.799"
+                    rdf:about="http://d.opencalais.com/dochash-1/2910f5e1-144a-39b0-afa3-467b8334e2fc/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2910f5e1-144a-39b0-afa3-467b8334e2fc"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|lIVYIzm7+U0bRvU64yX5oNY3/0M=|QYR601nKii7eUDKmHZtB7a3dcKMjZCu6vKmmm3FqbvjdqDkL5axYfw==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/2910f5e1-144a-39b0-afa3-467b8334e2fc/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2910f5e1-144a-39b0-afa3-467b8334e2fc"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/2910f5e1-144a-39b0-afa3-467b8334e2fc/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2910f5e1-144a-39b0-afa3-467b8334e2fc"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Business_Finance"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Business_Finance</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.993</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/2910f5e1-144a-39b0-afa3-467b8334e2fc/cat/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2910f5e1-144a-39b0-afa3-467b8334e2fc"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Technology_Internet"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Technology_Internet</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.981</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/08ef0e4b-1cbb-335b-844c-6ec137035bcf">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Gartner</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/2910f5e1-144a-39b0-afa3-467b8334e2fc/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2910f5e1-144a-39b0-afa3-467b8334e2fc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/08ef0e4b-1cbb-335b-844c-6ec137035bcf"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.544</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/94ebf27e-6055-33e5-8a0a-178290049354">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/896e4d95-1235-3d08-8d54-4f34aba9698f"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/d55d1d08-aeaf-39ff-ae8e-14f32bf643cb"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/5fa7a02d-1b48-337c-b9bc-e3f67aabe769"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/8a7d7ba2-88ca-0f0e-a1ec-f975b026e8e1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2910f5e1-144a-39b0-afa3-467b8334e2fc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3d1db47c-b851-32ab-af0b-0bffa4dad5d1"/>
+         <c:name>China</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">32.9042932784</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">110.467708512</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/dbb61f95-79fd-3db3-b440-64c81f786fad">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>attractive products</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/2910f5e1-144a-39b0-afa3-467b8334e2fc/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2910f5e1-144a-39b0-afa3-467b8334e2fc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/dbb61f95-79fd-3db3-b440-64c81f786fad"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.080</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/152649df-347e-e289-1a9e-acc883e07d17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2910f5e1-144a-39b0-afa3-467b8334e2fc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:name>United States</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.4230003233</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-98.7372244786</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d55d1d08-aeaf-39ff-ae8e-14f32bf643cb">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>senior analyst</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/2910f5e1-144a-39b0-afa3-467b8334e2fc/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2910f5e1-144a-39b0-afa3-467b8334e2fc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/d55d1d08-aeaf-39ff-ae8e-14f32bf643cb"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.159</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/16859e38-58a9-38dd-a9f5-a63e05ee2ec9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>principal analyst</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/2910f5e1-144a-39b0-afa3-467b8334e2fc/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2910f5e1-144a-39b0-afa3-467b8334e2fc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/16859e38-58a9-38dd-a9f5-a63e05ee2ec9"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.271</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/896e4d95-1235-3d08-8d54-4f34aba9698f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Jay Chou</c:name>
+         <c:persontype>economic</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Jay Chou</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/2910f5e1-144a-39b0-afa3-467b8334e2fc/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2910f5e1-144a-39b0-afa3-467b8334e2fc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/896e4d95-1235-3d08-8d54-4f34aba9698f"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.378</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>United States</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/2910f5e1-144a-39b0-afa3-467b8334e2fc/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2910f5e1-144a-39b0-afa3-467b8334e2fc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.112</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/ec733849-759d-31a0-8cd2-59a52da5ed4e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Mikako Kitagawa</c:name>
+         <c:persontype>economic</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Mikako Kitagawa</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/2910f5e1-144a-39b0-afa3-467b8334e2fc/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2910f5e1-144a-39b0-afa3-467b8334e2fc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/ec733849-759d-31a0-8cd2-59a52da5ed4e"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.271</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/5fa7a02d-1b48-337c-b9bc-e3f67aabe769">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>IDC Worldwide PC Tracker</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/2910f5e1-144a-39b0-afa3-467b8334e2fc/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2910f5e1-144a-39b0-afa3-467b8334e2fc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/5fa7a02d-1b48-337c-b9bc-e3f67aabe769"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.463</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3d1db47c-b851-32ab-af0b-0bffa4dad5d1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>China</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/2910f5e1-144a-39b0-afa3-467b8334e2fc/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2910f5e1-144a-39b0-afa3-467b8334e2fc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3d1db47c-b851-32ab-af0b-0bffa4dad5d1"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.112</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/f157d5d3-631b-3038-8e91-f2f909a6aff3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>embrace touch computing</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/2910f5e1-144a-39b0-afa3-467b8334e2fc/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2910f5e1-144a-39b0-afa3-467b8334e2fc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/f157d5d3-631b-3038-8e91-f2f909a6aff3"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.080</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/09bebb87-1ef5-373d-bd01-263e77470c65">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Continent"/>
+         <c:name>Europe</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/2910f5e1-144a-39b0-afa3-467b8334e2fc/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2910f5e1-144a-39b0-afa3-467b8334e2fc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/09bebb87-1ef5-373d-bd01-263e77470c65"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.112</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/f5794bdb-6a42-3534-a765-3da0fe2329f0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2910f5e1-144a-39b0-afa3-467b8334e2fc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/08ef0e4b-1cbb-335b-844c-6ec137035bcf"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>GARTNER, INC.</c:name>
+         <c:shortname>Gartner</c:shortname>
+         <c:ticker>IT</c:ticker>
+         <c:symbol>IT.N</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3c29cd0e-ddb9-3612-8fae-f9cbdb2b0d23">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/ec733849-759d-31a0-8cd2-59a52da5ed4e"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/16859e38-58a9-38dd-a9f5-a63e05ee2ec9"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/08ef0e4b-1cbb-335b-844c-6ec137035bcf"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+   </rdf:RDF>

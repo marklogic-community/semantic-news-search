@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/entertainment-arts-23226249">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/entertainment-arts-23226249"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">The BBC receives 674 complaints about John Inverdale's comments about Wimbledon champion Marion Bartoli's looks.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-08T10:39:04</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68604000/jpg/_68604405_bartoli_ap.jpg"/>
+         <rnews:headline xml:lang="en-GB">674 complain over Inverdale comments</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Entertainment and Arts</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68589000/jpg/_68589113_bartoli_ap.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/entertainment-arts-23226249"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Marion Bartoli</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68589000/jpg/_68589242_68589240.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/entertainment-arts-23226249"/>
+         <rnews:description xml:lang="en-GB">Marion Bartoli of France smiles as she holds the trophy after winning the Women's singles final match </rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="4938b770-e820-69af-13fc-232dea01b944"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/WSSJqqUiYZrf59WhY*enNg"
+                    rdf:about="http://d.opencalais.com/dochash-1/36d369cd-fc75-386e-a625-74515bbbf4e8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-08</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/entertainment-arts-23226249"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-09 02:51:21.120"
+                    rdf:about="http://d.opencalais.com/dochash-1/36d369cd-fc75-386e-a625-74515bbbf4e8/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/36d369cd-fc75-386e-a625-74515bbbf4e8"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|wWvoB3vS+lgtBrOPTWOezAW0Ptc=|M5AqIyd9Nzn3JyyBB1L7OoR04siN9COTXLVbpuYUy8H6Wf1UWFzr+Q==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/36d369cd-fc75-386e-a625-74515bbbf4e8/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/36d369cd-fc75-386e-a625-74515bbbf4e8"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/36d369cd-fc75-386e-a625-74515bbbf4e8/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/36d369cd-fc75-386e-a625-74515bbbf4e8"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Sports"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Sports</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.896</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/918f4db0-e882-3702-8c2a-e236bd0295b8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/SportsEvent"/>
+         <c:name>the Wimbledon</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/36d369cd-fc75-386e-a625-74515bbbf4e8/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/36d369cd-fc75-386e-a625-74515bbbf4e8"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/918f4db0-e882-3702-8c2a-e236bd0295b8"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.083</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/641804d8-7e6e-31e8-af50-02823ee3a4ed">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>player</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/36d369cd-fc75-386e-a625-74515bbbf4e8/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/36d369cd-fc75-386e-a625-74515bbbf4e8"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/641804d8-7e6e-31e8-af50-02823ee3a4ed"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.244</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>BBC</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/36d369cd-fc75-386e-a625-74515bbbf4e8/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/36d369cd-fc75-386e-a625-74515bbbf4e8"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.612</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/3a6622ce-3399-3294-9b00-50db3801389d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Marion Bartoli</c:name>
+         <c:persontype>sports</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Marion Bartoli</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/36d369cd-fc75-386e-a625-74515bbbf4e8/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/36d369cd-fc75-386e-a625-74515bbbf4e8"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/3a6622ce-3399-3294-9b00-50db3801389d"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.812</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/623e06ac-cc3f-3774-8efc-8c99f10ea7c4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProgrammingLanguage"/>
+         <c:name>JavaScript</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/36d369cd-fc75-386e-a625-74515bbbf4e8/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/36d369cd-fc75-386e-a625-74515bbbf4e8"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/623e06ac-cc3f-3774-8efc-8c99f10ea7c4"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.139</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/c8f8784f-e1de-3334-8b1f-3c49b0eda42e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>John Inverdale</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>John Inverdale</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/36d369cd-fc75-386e-a625-74515bbbf4e8/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/36d369cd-fc75-386e-a625-74515bbbf4e8"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/c8f8784f-e1de-3334-8b1f-3c49b0eda42e"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.802</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ce4f7ca7-1701-316c-84f4-4a0bc0136fed">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/SportsGame"/>
+         <c:name>tennis</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/36d369cd-fc75-386e-a625-74515bbbf4e8/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/36d369cd-fc75-386e-a625-74515bbbf4e8"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/ce4f7ca7-1701-316c-84f4-4a0bc0136fed"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.257</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5c967119-4107-3668-9b65-296109262804">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/RadioStation"/>
+         <c:name>Radio 5 live</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/36d369cd-fc75-386e-a625-74515bbbf4e8/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/36d369cd-fc75-386e-a625-74515bbbf4e8"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/5c967119-4107-3668-9b65-296109262804"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.316</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/7a6a4835-2d42-388a-97e8-ef689d5745f0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/36d369cd-fc75-386e-a625-74515bbbf4e8"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>BRITISH BROADCASTING CORPORATION</c:name>
+         <c:shortname>BBC</c:shortname>
+         <c:ticker>BBC</c:ticker>
+         <c:symbol>TBBC.UL</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/31f63d80-dfd0-39e1-a4a5-b934037a1c23">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/c8f8784f-e1de-3334-8b1f-3c49b0eda42e"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/641804d8-7e6e-31e8-af50-02823ee3a4ed"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+   </rdf:RDF>

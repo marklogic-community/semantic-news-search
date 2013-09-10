@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/entertainment-arts-23223672">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/entertainment-arts-23223672"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Despicable Me 2 tops US box office chart, beating Johnny Depp's The Lone Ranger to the top spot.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-08T09:05:10</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68601000/jpg/_68601966_despicable_reuters.jpg"/>
+         <rnews:headline xml:lang="en-GB">Despicable Me 2 tops US box office</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Entertainment and Arts</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68603000/jpg/_68603776_despicable_reuters.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/entertainment-arts-23223672"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Despicable Me 2</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="b790f3c7-33a6-68fa-13fc-22cb45b6d861"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/l5vdS63RuHJUlSceCRnhxQ"
+                    rdf:about="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-08</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/entertainment-arts-23223672"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-09 02:44:37.083"
+                    rdf:about="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|ivzjL7EUDlwCQJTODSJc09K8Sj8=|ksqh8YnhHG4wUrOTAQ/sE2pjaYUcqo4WYZRXMWFLJyRiI0gbSjSIqg==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Entertainment_Culture"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Entertainment_Culture</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.000</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff/cat/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/HumanInterest"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Human Interest</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.725</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/03abfbcb-a671-3a61-8270-b1e9cc6b508d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Dave Hollis</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Dave Hollis</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/03abfbcb-a671-3a61-8270-b1e9cc6b508d"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.341</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/f6622f61-8e4f-3c13-bf87-0d8206ddf73a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/03abfbcb-a671-3a61-8270-b1e9cc6b508d"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/c14241b6-5f57-315c-9d5e-aa617f57bfc1"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/975cc680-f452-35e6-93de-5c1da7367c07">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Melissa McCarthy</c:name>
+         <c:persontype>entertainment</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Melissa McCarthy</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/975cc680-f452-35e6-93de-5c1da7367c07"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.082</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7a25b864-57af-3cf0-8c3f-bc81fc2009be">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Movie"/>
+         <c:name>Despicable Me 2</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7a25b864-57af-3cf0-8c3f-bc81fc2009be"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.476</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/0ac3191b-17f8-389b-b090-0e6647c799c0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Steve Carell</c:name>
+         <c:persontype>entertainment</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Steve Carell</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/0ac3191b-17f8-389b-b090-0e6647c799c0"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.179</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/0056895e-6bc3-3b9c-bed7-09176e4cb1e8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Brad Pitt</c:name>
+         <c:persontype>entertainment</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Brad Pitt</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/0056895e-6bc3-3b9c-bed7-09176e4cb1e8"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.070</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/152649df-347e-e289-1a9e-acc883e07d17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:name>United States</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.4230003233</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-98.7372244786</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>United States</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.322</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a12a773a-29c9-3b65-a23f-b524229e801d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Movie"/>
+         <c:name>Despicable Me</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a12a773a-29c9-3b65-a23f-b524229e801d"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.133</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/736a403d-157b-3e80-86a7-acc404607cb2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>USD</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/736a403d-157b-3e80-86a7-acc404607cb2"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.712</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/bba323d5-1e17-35e2-9e65-d7d17d6b53ce">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Monsters University</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/bba323d5-1e17-35e2-9e65-d7d17d6b53ce"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.070</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/84dccb60-5afd-30dd-9d2d-5fcc1af70d0c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>GBP</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/84dccb60-5afd-30dd-9d2d-5fcc1af70d0c"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.712</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/7a135dbf-8b1b-3c0a-ab0a-b828e07298f7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Sandra Bullock</c:name>
+         <c:persontype>entertainment</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Sandra Bullock</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/7a135dbf-8b1b-3c0a-ab0a-b828e07298f7"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.082</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d4452fb1-8d22-3b7c-a562-2feeb9d7c18d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/0c6d8ae2-adf6-3148-85d1-d22ab3e9638d"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/e0995e82-e06c-3883-a375-5354c46b1ed9"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/0c6d8ae2-adf6-3148-85d1-d22ab3e9638d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Nikki Rocco</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Nikki Rocco</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/0c6d8ae2-adf6-3148-85d1-d22ab3e9638d"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.153</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e75614f3-ddbf-394a-b7a0-6d3bb8f968b6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Monsters University</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e75614f3-ddbf-394a-b7a0-6d3bb8f968b6"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.070</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/88a0573b-46af-34b6-8d0c-f3910183e709">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Technology"/>
+         <c:name>animation</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/88a0573b-46af-34b6-8d0c-f3910183e709"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.319</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e0995e82-e06c-3883-a375-5354c46b1ed9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>head of distribution</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e0995e82-e06c-3883-a375-5354c46b1ed9"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.424</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c14241b6-5f57-315c-9d5e-aa617f57bfc1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>head</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/47814ed6-2618-31f4-a0a3-ffa16badb3ff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c14241b6-5f57-315c-9d5e-aa617f57bfc1"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.295</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

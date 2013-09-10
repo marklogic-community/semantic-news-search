@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-europe-23096815">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-europe-23096815"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">A German court rejects a journalist's request to see all German secret files on the Nazi war criminal Adolf Eichmann.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-06-28T11:36:41</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68434000/jpg/_68434883_eichap.jpg"/>
+         <rnews:headline xml:lang="en-GB">Nazi Eichmann files to stay secret</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68430000/jpg/_68430316_eichap.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-europe-23096815"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Adolf Eichmann on trial in Israel, 1961</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="424c4a11-b744-9a69-13fb-dccbadf45124"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/DZRW7BfCSuFjk2-wdH6lgg"
+                    rdf:about="http://d.opencalais.com/dochash-1/d01ee6f1-d990-3bdc-8b9a-af2f84925e19">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-06-28</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-europe-23096815"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 06:21:18.431"
+                    rdf:about="http://d.opencalais.com/dochash-1/d01ee6f1-d990-3bdc-8b9a-af2f84925e19/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d01ee6f1-d990-3bdc-8b9a-af2f84925e19"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|RlOqoc4sxhrc/MZAkPccym4W/kA=|AkofDsW6tYU6EUS/msKVQZLFCDOBX6x7APbncjeTIpdc3/yvMhBYbQ==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d01ee6f1-d990-3bdc-8b9a-af2f84925e19/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d01ee6f1-d990-3bdc-8b9a-af2f84925e19"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d01ee6f1-d990-3bdc-8b9a-af2f84925e19/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d01ee6f1-d990-3bdc-8b9a-af2f84925e19"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/War_Conflict"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>War_Conflict</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.933</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/16d6b71d-c693-3767-8ddf-742b8d10ffa7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>senior SS officer</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d01ee6f1-d990-3bdc-8b9a-af2f84925e19/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d01ee6f1-d990-3bdc-8b9a-af2f84925e19"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/16d6b71d-c693-3767-8ddf-742b8d10ffa7"/>
+         <c:relevance>0.136</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/33a00dd1-4139-3444-b9f4-149624f332ea">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Argentina</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d01ee6f1-d990-3bdc-8b9a-af2f84925e19/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d01ee6f1-d990-3bdc-8b9a-af2f84925e19"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/33a00dd1-4139-3444-b9f4-149624f332ea"/>
+         <c:relevance>0.290</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c812e97c-5b28-3764-9713-2c83c0937c7b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Poland</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d01ee6f1-d990-3bdc-8b9a-af2f84925e19/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d01ee6f1-d990-3bdc-8b9a-af2f84925e19"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c812e97c-5b28-3764-9713-2c83c0937c7b"/>
+         <c:relevance>0.088</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/72102f72-b448-38ea-a111-b285f7f16a85">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Eichmann</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Eichmann</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d01ee6f1-d990-3bdc-8b9a-af2f84925e19/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d01ee6f1-d990-3bdc-8b9a-af2f84925e19"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/72102f72-b448-38ea-a111-b285f7f16a85"/>
+         <c:relevance>0.818</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/6f08c5dd-cdd0-be06-d83a-a3e0e3d5a09e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d01ee6f1-d990-3bdc-8b9a-af2f84925e19"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c812e97c-5b28-3764-9713-2c83c0937c7b"/>
+         <c:name>Poland</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">51.4273231276</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">20.1725912757</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/3f8454b7-f2c1-2ceb-b162-2b6b0dfd1021">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d01ee6f1-d990-3bdc-8b9a-af2f84925e19"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/453e9489-cc05-3f29-b6aa-aabd09a1805b"/>
+         <c:name>Israel</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">31.7833</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">35.2167</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/dc3d78ac-72c6-385a-b25d-9f2bfbfbc366">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Germany's Federal Administrative Court</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>German</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d01ee6f1-d990-3bdc-8b9a-af2f84925e19/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d01ee6f1-d990-3bdc-8b9a-af2f84925e19"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/dc3d78ac-72c6-385a-b25d-9f2bfbfbc366"/>
+         <c:relevance>0.241</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/d76602d4-bbc7-99ca-1767-a6959e284cc6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d01ee6f1-d990-3bdc-8b9a-af2f84925e19"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e16b6d47-1138-30fc-a7c2-744f25bf6f19"/>
+         <c:name>Buenos Aires,Argentina</c:name>
+         <c:shortname>Buenos Aires</c:shortname>
+         <c:containedbycountry>Argentina</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-34.6036</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-58.3817</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/920bed5d-f850-3253-9918-2f34ff6b7407">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>German court</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>German</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d01ee6f1-d990-3bdc-8b9a-af2f84925e19/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d01ee6f1-d990-3bdc-8b9a-af2f84925e19"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/920bed5d-f850-3253-9918-2f34ff6b7407"/>
+         <c:relevance>0.329</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/158d1fbd-35c2-306a-a10f-cdafd4b68abd">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Mossad</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>Israeli</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d01ee6f1-d990-3bdc-8b9a-af2f84925e19/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d01ee6f1-d990-3bdc-8b9a-af2f84925e19"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/158d1fbd-35c2-306a-a10f-cdafd4b68abd"/>
+         <c:relevance>0.168</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6ddfdb91-c471-3e99-ad40-a88b6d6dc9ea">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/72102f72-b448-38ea-a111-b285f7f16a85"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/16d6b71d-c693-3767-8ddf-742b8d10ffa7"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/4da0da39-6aa7-3d57-828e-02d6b6998ab2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>journalist</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d01ee6f1-d990-3bdc-8b9a-af2f84925e19/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d01ee6f1-d990-3bdc-8b9a-af2f84925e19"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/4da0da39-6aa7-3d57-828e-02d6b6998ab2"/>
+         <c:relevance>0.322</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e16b6d47-1138-30fc-a7c2-744f25bf6f19">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Buenos Aires</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d01ee6f1-d990-3bdc-8b9a-af2f84925e19/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d01ee6f1-d990-3bdc-8b9a-af2f84925e19"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e16b6d47-1138-30fc-a7c2-744f25bf6f19"/>
+         <c:relevance>0.168</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e641b277-e251-350a-9494-663f4b217e84">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonTravel"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/72102f72-b448-38ea-a111-b285f7f16a85"/>
+         <c:locationdestination rdf:resource="http://d.opencalais.com/genericHasher-1/33a00dd1-4139-3444-b9f4-149624f332ea"/>
+         <c:status>past</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c47504aa-afb8-3738-b78e-b7074d1826f5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Region"/>
+         <c:name>southern Poland</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d01ee6f1-d990-3bdc-8b9a-af2f84925e19/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d01ee6f1-d990-3bdc-8b9a-af2f84925e19"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c47504aa-afb8-3738-b78e-b7074d1826f5"/>
+         <c:relevance>0.088</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/2a52adc7-b1da-6a4e-0a7a-14e4c8db1b11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d01ee6f1-d990-3bdc-8b9a-af2f84925e19"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/33a00dd1-4139-3444-b9f4-149624f332ea"/>
+         <c:name>Argentina</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-34.0</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-64.0</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/453e9489-cc05-3f29-b6aa-aabd09a1805b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Israel</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d01ee6f1-d990-3bdc-8b9a-af2f84925e19/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d01ee6f1-d990-3bdc-8b9a-af2f84925e19"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/453e9489-cc05-3f29-b6aa-aabd09a1805b"/>
+         <c:relevance>0.276</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

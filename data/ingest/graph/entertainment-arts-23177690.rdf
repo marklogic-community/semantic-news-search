@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/entertainment-arts-23177690">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/entertainment-arts-23177690"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Star Wars director George Lucas is to be honoured with the National Medal of Arts at a White House ceremony next week.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-04T08:40:14</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68541000/jpg/_68541190_68541150.jpg"/>
+         <rnews:headline xml:lang="en-GB">George Lucas to receive arts medal</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Entertainment and Arts</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68541000/jpg/_68541197_68541150.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/entertainment-arts-23177690"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">George Lucas</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="3db0ed49-23ae-5085-13fb-dd6431d97348"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/duLlfYkoH*xP0KkLyn8mcw"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-04</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/entertainment-arts-23177690"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 05:31:43.133"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|1Yj80Q7CTW2HEuDxYkFgCeQG2ZQ=|DO6Dnp8PI29L42wiYBQhJn/i2jwXnwexdKJaJaLASuNTAqUQb3hSNA==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Entertainment_Culture"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Entertainment_Culture</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.000</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/cat/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/HumanInterest"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Human Interest</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.000</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/d646fc5b-9527-3a8b-8911-508d223d87ad">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Janet Jackson</c:name>
+         <c:persontype>entertainment</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Janet Jackson</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/d646fc5b-9527-3a8b-8911-508d223d87ad"/>
+         <c:relevance>0.177</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/22b7ced9-f8a7-328d-b061-241cb9bc908a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Continent"/>
+         <c:name>America</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/22b7ced9-f8a7-328d-b061-241cb9bc908a"/>
+         <c:relevance>0.145</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/36a91f62-4271-315d-994b-e9a98ffdc279">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Herb Alpert</c:name>
+         <c:persontype>economic</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Herb Alpert</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/36a91f62-4271-315d-994b-e9a98ffdc279"/>
+         <c:relevance>0.236</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/fd8d73cf-77c8-335d-969f-0ae37529c81e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Al Pacino</c:name>
+         <c:persontype>entertainment</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Al Pacino</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/fd8d73cf-77c8-335d-969f-0ae37529c81e"/>
+         <c:relevance>0.145</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/91406ea1-70d9-3d97-8347-25a81d765e9e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/87736304-94ff-39c9-b2f4-6109f2a33282"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/5a5e4ce5-5f85-3f1c-ad2d-c816cf155690"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/5dc69f0e-b822-36a5-a35c-164555df44f2"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/5dc69f0e-b822-36a5-a35c-164555df44f2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Philadelphia Dance Company</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/5dc69f0e-b822-36a5-a35c-164555df44f2"/>
+         <c:relevance>0.094</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/87736304-94ff-39c9-b2f4-6109f2a33282">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Ellsworth Kelly</c:name>
+         <c:persontype>entertainment</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Ellsworth Kelly</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/87736304-94ff-39c9-b2f4-6109f2a33282"/>
+         <c:relevance>0.094</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d6812fc4-abd4-38d2-abd3-c7cd21bd19d2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/efcf8b42-29ae-39f0-97d6-62989b6f608d"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/3405ace1-b6ba-3801-a25d-4079cd1335b1"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/5dc69f0e-b822-36a5-a35c-164555df44f2"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/fb4500d4-b1ec-3ad2-873b-f2cce9c63b25">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/1bdfa67d-c950-326c-ad04-ed0d75b6a8a8"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>A&amp;M Records</c:name>
+         <c:shortname>A&amp;M Records</c:shortname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d2998304-654c-3c72-b345-1be366b61c2d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/EmploymentRelation"/>
+         <c:person_employer rdf:resource="http://d.opencalais.com/pershash-1/87736304-94ff-39c9-b2f4-6109f2a33282"/>
+         <c:person_employee rdf:resource="http://d.opencalais.com/pershash-1/4450da17-1cec-37fc-abee-58cdb0cda9d5"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/a5276f13-a86a-3cc8-9725-fffb690546c4"/>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3569c96d-92df-3dd6-9213-a97df69cc3fa">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>White House</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3569c96d-92df-3dd6-9213-a97df69cc3fa"/>
+         <c:relevance>0.337</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3405ace1-b6ba-3801-a25d-4079cd1335b1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>composer</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3405ace1-b6ba-3801-a25d-4079cd1335b1"/>
+         <c:relevance>0.094</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e08fbf94-6d39-3a8c-a919-8e0bab8c0bb5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>National Young Arts Foundation</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e08fbf94-6d39-3a8c-a919-8e0bab8c0bb5"/>
+         <c:relevance>0.094</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/4450da17-1cec-37fc-abee-58cdb0cda9d5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Laurie Olin</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Laurie Olin</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/4450da17-1cec-37fc-abee-58cdb0cda9d5"/>
+         <c:relevance>0.094</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/9dde5e97-218e-3f49-8cbe-99286ca75155">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Movie"/>
+         <c:name>Heaven Can Wait</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/9dde5e97-218e-3f49-8cbe-99286ca75155"/>
+         <c:relevance>0.145</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5a5e4ce5-5f85-3f1c-ad2d-c816cf155690">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>artist</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/5a5e4ce5-5f85-3f1c-ad2d-c816cf155690"/>
+         <c:relevance>0.094</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b5f6e93c-d1a0-3b51-9ecb-75e7922e767a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>New World Symphony</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b5f6e93c-d1a0-3b51-9ecb-75e7922e767a"/>
+         <c:relevance>0.094</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>President</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e"/>
+         <c:relevance>0.274</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b0fd2e27-6d4d-3810-81ea-b2f9e9782964">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/cfcf1aa2-de05-3939-a7d5-10c9c7b3e87b"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>United States</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:relevance>0.314</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/bb662ed1-6f4d-3a29-a837-8637cd479d4c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>co-founder</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/bb662ed1-6f4d-3a29-a837-8637cd479d4c"/>
+         <c:relevance>0.306</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/efcf8b42-29ae-39f0-97d6-62989b6f608d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Allen Toussaint</c:name>
+         <c:persontype>entertainment</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Allen Toussaint</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/efcf8b42-29ae-39f0-97d6-62989b6f608d"/>
+         <c:relevance>0.094</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/42e1c8c7-576e-36fb-b8f6-3a1c8893f9be">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Washington Performing Arts Society</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>American</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/18">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/42e1c8c7-576e-36fb-b8f6-3a1c8893f9be"/>
+         <c:relevance>0.076</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/8f1fb01d-4179-314c-8032-20f3cbc3c6e5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/a8318e57-8346-38df-8559-aae41460608f"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/0d10e1dd-b44d-3369-9226-e9330e44c175"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/5dc69f0e-b822-36a5-a35c-164555df44f2"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/944b4f13-479d-3897-9b9d-0c5daec5bed7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/TVShow"/>
+         <c:name>Angels in America</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/19">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/944b4f13-479d-3897-9b9d-0c5daec5bed7"/>
+         <c:relevance>0.145</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/2d98773f-a7b1-3b82-9a20-490cb2acf105">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>screenwriter</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/20">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/2d98773f-a7b1-3b82-9a20-490cb2acf105"/>
+         <c:relevance>0.145</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d770ff04-c835-33e4-b6af-1c22324c0cbc">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/EntertainmentAwardEvent"/>
+         <c:name>Oscar</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/21">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/d770ff04-c835-33e4-b6af-1c22324c0cbc"/>
+         <c:relevance>0.145</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/a9726e3b-c512-306b-9014-5d63b4c099c0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Lin Arison</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Lin Arison</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/22">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/a9726e3b-c512-306b-9014-5d63b4c099c0"/>
+         <c:relevance>0.094</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a5276f13-a86a-3cc8-9725-fffb690546c4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>landscape architect</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/23">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a5276f13-a86a-3cc8-9725-fffb690546c4"/>
+         <c:relevance>0.094</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/1bdfa67d-c950-326c-ad04-ed0d75b6a8a8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>A&amp;M Records</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/24">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/1bdfa67d-c950-326c-ad04-ed0d75b6a8a8"/>
+         <c:relevance>0.210</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/4a2a5929-00ba-3173-8249-87ab0ee7f958">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Movie"/>
+         <c:name>Primary Colors</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/25">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/4a2a5929-00ba-3173-8249-87ab0ee7f958"/>
+         <c:relevance>0.145</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/9f14032e-da13-35dc-8497-2aae9824a498">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Tony Kushner</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Tony Kushner</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/26">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/9f14032e-da13-35dc-8497-2aae9824a498"/>
+         <c:relevance>0.145</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5944cf13-af8d-3699-b5e9-8387a88997c7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/9f14032e-da13-35dc-8497-2aae9824a498"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/2d98773f-a7b1-3b82-9a20-490cb2acf105"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/1bdfa67d-c950-326c-ad04-ed0d75b6a8a8"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/84669ffb-96aa-3dd7-9065-6e866f96e4f5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/8b392d62-800d-332d-880b-b2ef23486f80"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/732ec549-b3c0-34ac-b5aa-9a113d689c24"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/5dc69f0e-b822-36a5-a35c-164555df44f2"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5a4dcd16-f689-3596-9dd6-4fda5ec5dee5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/36a91f62-4271-315d-994b-e9a98ffdc279"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/bb662ed1-6f4d-3a29-a837-8637cd479d4c"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/1bdfa67d-c950-326c-ad04-ed0d75b6a8a8"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/1a06dfe2-b5fb-39a7-a8d1-c3f1a1018870">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/EntertainmentAwardEvent"/>
+         <c:name>the Grammy</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/27">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/1a06dfe2-b5fb-39a7-a8d1-c3f1a1018870"/>
+         <c:relevance>0.177</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d8fd9dad-7387-39c2-8e30-592f99f1fe35">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/daf416e8-e2be-32ba-aaff-6cadfb6ecfce"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/e911da6b-56e4-3544-9357-5d79d01c1538"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/54614c04-3b54-32ed-bad5-64d5de0773b9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Elaine May</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Elaine May</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/28">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/54614c04-3b54-32ed-bad5-64d5de0773b9"/>
+         <c:relevance>0.171</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/efe0056d-977f-320f-9164-4e2bee7f33d2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/4450da17-1cec-37fc-abee-58cdb0cda9d5"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/a5276f13-a86a-3cc8-9725-fffb690546c4"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/5dc69f0e-b822-36a5-a35c-164555df44f2"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/8b392d62-800d-332d-880b-b2ef23486f80">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Renee Fleming</c:name>
+         <c:persontype>entertainment</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Renee Fleming</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/29">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/8b392d62-800d-332d-880b-b2ef23486f80"/>
+         <c:relevance>0.094</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/4cd17ff8-b7c8-3896-bc8e-3b313da6dea2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/54614c04-3b54-32ed-bad5-64d5de0773b9"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/2849a2b8-ff4b-39b2-af2b-38d5868e0ac7"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/1bdfa67d-c950-326c-ad04-ed0d75b6a8a8"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/cfcf1aa2-de05-3939-a7d5-10c9c7b3e87b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Barack Obama</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Barack Obama</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/30">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/cfcf1aa2-de05-3939-a7d5-10c9c7b3e87b"/>
+         <c:relevance>0.274</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/e59176fd-7bde-32b3-85b0-36dfb522c96b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Sergio Mendes</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Sergio Mendes</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/31">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/e59176fd-7bde-32b3-85b0-36dfb522c96b"/>
+         <c:relevance>0.177</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/f5f4e67d-1615-32a9-8334-f6597d4f9b6b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/a9726e3b-c512-306b-9014-5d63b4c099c0"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/bb662ed1-6f4d-3a29-a837-8637cd479d4c"/>
+         <c:organization rdf:resource="http://d.opencalais.com/genericHasher-1/e08fbf94-6d39-3a8c-a919-8e0bab8c0bb5"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/152649df-347e-e289-1a9e-acc883e07d17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:name>United States</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.4230003233</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-98.7372244786</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0d10e1dd-b44d-3369-9226-e9330e44c175">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>founder</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/32">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0d10e1dd-b44d-3369-9226-e9330e44c175"/>
+         <c:relevance>0.100</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/443de20b-5d98-3a0d-80eb-99d726cf9839">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>George Lucas</c:name>
+         <c:persontype>entertainment</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>George Lucas</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/33">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/443de20b-5d98-3a0d-80eb-99d726cf9839"/>
+         <c:relevance>0.409</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/732ec549-b3c0-34ac-b5aa-9a113d689c24">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>opera singer</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/34">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/732ec549-b3c0-34ac-b5aa-9a113d689c24"/>
+         <c:relevance>0.094</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3e403230-f4e3-3b7f-865f-da6259dc029a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/EmploymentRelation"/>
+         <c:person_employer rdf:resource="http://d.opencalais.com/pershash-1/8b392d62-800d-332d-880b-b2ef23486f80"/>
+         <c:person_employee rdf:resource="http://d.opencalais.com/pershash-1/daf416e8-e2be-32ba-aaff-6cadfb6ecfce"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/e911da6b-56e4-3544-9357-5d79d01c1538"/>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/2849a2b8-ff4b-39b2-af2b-38d5868e0ac7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>will screenwriter</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/35">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/2849a2b8-ff4b-39b2-af2b-38d5868e0ac7"/>
+         <c:relevance>0.145</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/daf416e8-e2be-32ba-aaff-6cadfb6ecfce">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Ernest Gaines</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Ernest Gaines</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/36">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/daf416e8-e2be-32ba-aaff-6cadfb6ecfce"/>
+         <c:relevance>0.094</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e911da6b-56e4-3544-9357-5d79d01c1538">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>author</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/37">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e911da6b-56e4-3544-9357-5d79d01c1538"/>
+         <c:relevance>0.094</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/a8318e57-8346-38df-8559-aae41460608f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Joan Myers Brown</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696/Relevance/38">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/7e20191e-c7cd-3d65-9da0-69c25439d696"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/a8318e57-8346-38df-8559-aae41460608f"/>
+         <c:relevance>0.094</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

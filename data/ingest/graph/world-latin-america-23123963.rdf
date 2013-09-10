@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-latin-america-23123963">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-latin-america-23123963"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Brazil's victory at the Confederations Cup is overshadowed by the protests, which continue to shake the the country, says the BBC's Gary Duffy.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-01T08:26:30</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68472000/jpg/_68472985_hi018499823.jpg"/>
+         <rnews:headline xml:lang="en-GB">Protesters question Brazil leaders' credibility</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68472000/jpg/_68472977_hi018505226.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-latin-america-23123963"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</rnews:height>
+         <rnews:description xml:lang="en-GB">Protestors clash with riot squad officers on a street near Maracana stadium in Rio de Janeiro (30 June 2013)</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68473000/jpg/_68473083_hi018505055.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-latin-america-23123963"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</rnews:height>
+         <rnews:description xml:lang="en-GB">Brazilian football team holds up trophy (30 June 2013)</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68473000/jpg/_68473085_hi018399109.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-latin-america-23123963"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Bus near a vandalised bus stop in Rio de Janeiro (22 June 2013)</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="4ccf1577-f6f7-01fa-13fb-dcfdbda1c9e5"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/MoUCKai-D72bskkYXr8MtQ"
+                    rdf:about="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-01</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-latin-america-23123963"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 05:24:43.482"
+                    rdf:about="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|26iRL9M9uoVpk2GQ6xi96DVFcJM=|NtzFlSyTeXku7+FemGpbU492lC6Mh/IfWxCCMZAjO6NqLz9rY0uU2Q==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Politics"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Politics</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.798</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154/cat/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/War_Conflict"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>War_Conflict</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.545</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/85ab722d-1d58-3916-ba90-e5443e19c33e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Estado de Sao Paulo</c:name>
+         <c:nationality>Brazilian</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/85ab722d-1d58-3916-ba90-e5443e19c33e"/>
+         <c:relevance>0.287</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a4e2ca08-c2d5-3f15-a393-b65910eea7df">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Continent"/>
+         <c:name>South America</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a4e2ca08-c2d5-3f15-a393-b65910eea7df"/>
+         <c:relevance>0.314</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/17a74aa8-ffed-35f9-b533-f5f89de81223">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/fcf0bdb6-be7d-371d-b739-9f56e77220ca"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/cc7cd4d8-c856-3b18-8ccc-eec1e03a636d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/SportsEvent"/>
+         <c:name>the 2014 World Cup</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/cc7cd4d8-c856-3b18-8ccc-eec1e03a636d"/>
+         <c:relevance>0.312</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/98bc944b-8b85-3e5c-a590-9a211570b0d9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>tear gas hanging</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/98bc944b-8b85-3e5c-a590-9a211570b0d9"/>
+         <c:relevance>0.277</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/23cc4a81-9893-3b94-bf76-3f684dc31e26">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Ms Rousseff's administration</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/23cc4a81-9893-3b94-bf76-3f684dc31e26"/>
+         <c:relevance>0.205</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ce48b36c-8fe9-38c9-a63a-93f985b592f6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/4bd2733e-f5d1-3f58-9e8e-71005e8c3329"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/7cda56b4-2863-3f1d-99f9-2a64f020feb5"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/724270fd-38b1-359b-a9a2-10b498f741f5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/SportsEvent"/>
+         <c:name>the World Cup</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/724270fd-38b1-359b-a9a2-10b498f741f5"/>
+         <c:relevance>0.314</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7ba903d5-db3e-3ccb-bfd2-f797a561fbab">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Maracana stadium</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7ba903d5-db3e-3ccb-bfd2-f797a561fbab"/>
+         <c:relevance>0.267</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/8e1633ba-c5a0-3d6e-bc1c-b9820bd3e98e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Datafolha</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/8e1633ba-c5a0-3d6e-bc1c-b9820bd3e98e"/>
+         <c:relevance>0.192</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5957e4ac-5087-3450-a034-515b51e0192f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>health systems</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/5957e4ac-5087-3450-a034-515b51e0192f"/>
+         <c:relevance>0.308</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7cda56b4-2863-3f1d-99f9-2a64f020feb5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>Sports Minister</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7cda56b4-2863-3f1d-99f9-2a64f020feb5"/>
+         <c:relevance>0.218</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/31ecd1f6-81ed-32b6-8143-df2dfb2056c4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/SportsEvent"/>
+         <c:name>World cup</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/31ecd1f6-81ed-32b6-8143-df2dfb2056c4"/>
+         <c:relevance>0.255</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/524fa23f-1aea-3f9e-9cc9-e06c291e9256">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/85ab722d-1d58-3916-ba90-e5443e19c33e"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.90000004</c:score>
+         <c:name>BANCO DO ESTADO DE SAO PAULO S.A. - BANESPA</c:name>
+         <c:shortname>Banespa</c:shortname>
+         <c:ticker>BESPD</c:ticker>
+         <c:symbol>BESPD.UL</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/1747d4b2-dd4b-cd66-6e2d-f31563d22dbe">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/4629bb98-2174-34d0-9db3-27c1522d6426"/>
+         <c:name>Spain</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.6985822539</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-3.29494619839</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>President</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e"/>
+         <c:relevance>0.342</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/05618d7c-720b-34ac-b0d0-3d98551cf43c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>National Congress</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/05618d7c-720b-34ac-b0d0-3d98551cf43c"/>
+         <c:relevance>0.141</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/6e5fa4d9-c48c-a921-c0a2-ce1e64c9ae6f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/fe313a08-88a6-33a7-980f-410dd8e740a6"/>
+         <c:name>Brazil</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-15.6777731062</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-47.4383649658</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/4629bb98-2174-34d0-9db3-27c1522d6426">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Spain</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/4629bb98-2174-34d0-9db3-27c1522d6426"/>
+         <c:relevance>0.267</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/fe313a08-88a6-33a7-980f-410dd8e740a6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Brazil</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/fe313a08-88a6-33a7-980f-410dd8e740a6"/>
+         <c:relevance>0.749</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/11004486-d742-3996-99e5-d6ae0187ce30">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>social media campaigns</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/11004486-d742-3996-99e5-d6ae0187ce30"/>
+         <c:relevance>0.059</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/f5860ae0-c9cd-3334-83e9-b00ca8c2bf98">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/SportsEvent"/>
+         <c:name>the Olympics</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154/Relevance/17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/f5860ae0-c9cd-3334-83e9-b00ca8c2bf98"/>
+         <c:relevance>0.312</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/4bd2733e-f5d1-3f58-9e8e-71005e8c3329">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Aldo Rebelo</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Aldo Rebelo</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154/Relevance/18">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/4bd2733e-f5d1-3f58-9e8e-71005e8c3329"/>
+         <c:relevance>0.218</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/fcf0bdb6-be7d-371d-b739-9f56e77220ca">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Dilma Rousseff</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Dilma Rousseff</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154/Relevance/19">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/fcf0bdb6-be7d-371d-b739-9f56e77220ca"/>
+         <c:relevance>0.528</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ef902091-0945-367a-8e3c-17cbb24f5006">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>FIFA</c:name>
+         <c:organizationtype>sports</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154/Relevance/20">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/ef902091-0945-367a-8e3c-17cbb24f5006"/>
+         <c:relevance>0.255</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/cb061c9a-bba9-30ee-961d-c17a0ea9778f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/MusicGroup"/>
+         <c:name>the National</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154/Relevance/21">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/cb061c9a-bba9-30ee-961d-c17a0ea9778f"/>
+         <c:relevance>0.141</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c2124d1a-167b-364c-b5a5-bb49e29f4fab">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>rubber bullets flying</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154/Relevance/22">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/77e94926-a1b1-3cd7-9f92-8fc6358d1154"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c2124d1a-167b-364c-b5a5-bb49e29f4fab"/>
+         <c:relevance>0.277</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/55735cea-fdee-3d0a-a7a1-cc11f0cefdaa">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/fcf0bdb6-be7d-371d-b739-9f56e77220ca"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/85ab722d-1d58-3916-ba90-e5443e19c33e"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+   </rdf:RDF>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/business-23117965">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/business-23117965"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Cyprus's debt ratings are cut to "default" by Standard &amp; Poor's after it announces it will delay paying back 1bn euros ($1.3bn, Ã‚Â£860m) of bonds.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-06-30T11:05:53</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68463000/jpg/_68463612_66706878.jpg"/>
+         <rnews:headline xml:lang="en-GB">Cyprus debt 'default' over bond swap</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Business</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68463000/jpg/_68463013_66706643.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/business-23117965"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">A man in Cyprus outside a closed bank</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="622f9d37-d44e-6e21-3fbd-cf09781b9440"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/KgjhzbT77zA0YKSSsoVXSQ"
+                    rdf:about="http://d.opencalais.com/dochash-1/2cb0f8a6-1788-3922-9e14-ea32ad3074dd">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-06-30</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/business-23117965"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 06:23:49.639"
+                    rdf:about="http://d.opencalais.com/dochash-1/2cb0f8a6-1788-3922-9e14-ea32ad3074dd/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2cb0f8a6-1788-3922-9e14-ea32ad3074dd"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|IlLhDrxR//Zo/ALNGvZlq9MTAwc=|XNW6fTURPFlC27gBr0XW3OHuZJ4q8SUTgqZpthBku9/p5x8GE0wyzA==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/2cb0f8a6-1788-3922-9e14-ea32ad3074dd/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2cb0f8a6-1788-3922-9e14-ea32ad3074dd"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/2cb0f8a6-1788-3922-9e14-ea32ad3074dd/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2cb0f8a6-1788-3922-9e14-ea32ad3074dd"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Business_Finance"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Business_Finance</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.000</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/ae0eea6e-b6d6-3f98-da42-de867c47a0f8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2cb0f8a6-1788-3922-9e14-ea32ad3074dd"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/6754738d-39c1-316c-9e28-0d548d5a14ce"/>
+         <c:name>Portugal</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">38.7</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-9.1833</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6754738d-39c1-316c-9e28-0d548d5a14ce">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Portugal</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/2cb0f8a6-1788-3922-9e14-ea32ad3074dd/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2cb0f8a6-1788-3922-9e14-ea32ad3074dd"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/6754738d-39c1-316c-9e28-0d548d5a14ce"/>
+         <c:relevance>0.145</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/1747d4b2-dd4b-cd66-6e2d-f31563d22dbe">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2cb0f8a6-1788-3922-9e14-ea32ad3074dd"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/4629bb98-2174-34d0-9db3-27c1522d6426"/>
+         <c:name>Spain</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.6985822539</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-3.29494619839</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/2ea5c8d6-edb0-348f-aeda-41fffebef674">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Cyprus</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/2cb0f8a6-1788-3922-9e14-ea32ad3074dd/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2cb0f8a6-1788-3922-9e14-ea32ad3074dd"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/2ea5c8d6-edb0-348f-aeda-41fffebef674"/>
+         <c:relevance>0.695</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/fae81089-7a60-3981-a57c-f74f98e8c4c2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2cb0f8a6-1788-3922-9e14-ea32ad3074dd"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/a40ec373-6b9b-3b8c-92e2-5ff55b2d82ca"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>STANDARD &amp; POOR'S CREDIT MARKET SERVICES FRANCE S.A.S.</c:name>
+         <c:shortname>STANDARD &amp; POOR</c:shortname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/6d68c7cf-e5d1-825d-6622-f3c824f8db8b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2cb0f8a6-1788-3922-9e14-ea32ad3074dd"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/2ea5c8d6-edb0-348f-aeda-41fffebef674"/>
+         <c:name>Cyprus</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">35.2251198413</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">33.6124411111</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b143b0e8-af05-33ff-8d88-4b9ed1b9e21e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>International Monetary Fund</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/2cb0f8a6-1788-3922-9e14-ea32ad3074dd/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2cb0f8a6-1788-3922-9e14-ea32ad3074dd"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b143b0e8-af05-33ff-8d88-4b9ed1b9e21e"/>
+         <c:relevance>0.223</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/14d13f7a-3038-3271-84c0-913d58cf911e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>EUR</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/2cb0f8a6-1788-3922-9e14-ea32ad3074dd/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2cb0f8a6-1788-3922-9e14-ea32ad3074dd"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/14d13f7a-3038-3271-84c0-913d58cf911e"/>
+         <c:relevance>0.510</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/4629bb98-2174-34d0-9db3-27c1522d6426">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Spain</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/2cb0f8a6-1788-3922-9e14-ea32ad3074dd/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2cb0f8a6-1788-3922-9e14-ea32ad3074dd"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/4629bb98-2174-34d0-9db3-27c1522d6426"/>
+         <c:relevance>0.145</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ef744fb4-a174-3aba-8eb7-b5eb3d2334af">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Greece</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/2cb0f8a6-1788-3922-9e14-ea32ad3074dd/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2cb0f8a6-1788-3922-9e14-ea32ad3074dd"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/ef744fb4-a174-3aba-8eb7-b5eb3d2334af"/>
+         <c:relevance>0.145</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/a40ec373-6b9b-3b8c-92e2-5ff55b2d82ca">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Standard &amp; Poor's</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/2cb0f8a6-1788-3922-9e14-ea32ad3074dd/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2cb0f8a6-1788-3922-9e14-ea32ad3074dd"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/a40ec373-6b9b-3b8c-92e2-5ff55b2d82ca"/>
+         <c:relevance>0.675</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/378cc8cd-a412-3adc-9ab9-c37369897fa9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>thorough banking reform</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/2cb0f8a6-1788-3922-9e14-ea32ad3074dd/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2cb0f8a6-1788-3922-9e14-ea32ad3074dd"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/378cc8cd-a412-3adc-9ab9-c37369897fa9"/>
+         <c:relevance>0.196</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d85e1d77-b339-37c6-96b1-4243c3cdff03">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Ireland</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/2cb0f8a6-1788-3922-9e14-ea32ad3074dd/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2cb0f8a6-1788-3922-9e14-ea32ad3074dd"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/d85e1d77-b339-37c6-96b1-4243c3cdff03"/>
+         <c:relevance>0.145</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/97657324-a56f-1ac3-c64b-1ba6c94852f2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2cb0f8a6-1788-3922-9e14-ea32ad3074dd"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/d85e1d77-b339-37c6-96b1-4243c3cdff03"/>
+         <c:name>Republic of Ireland</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">52.6463722222</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-7.48976333333</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/2b2cd32e-d422-33e3-ba80-e98d920e83b2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>bank deposits</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/2cb0f8a6-1788-3922-9e14-ea32ad3074dd/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2cb0f8a6-1788-3922-9e14-ea32ad3074dd"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/2b2cd32e-d422-33e3-ba80-e98d920e83b2"/>
+         <c:relevance>0.170</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b6266543-b3c0-362e-a7f1-4dddf0ba792f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>European Union</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/2cb0f8a6-1788-3922-9e14-ea32ad3074dd/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2cb0f8a6-1788-3922-9e14-ea32ad3074dd"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b6266543-b3c0-362e-a7f1-4dddf0ba792f"/>
+         <c:relevance>0.349</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/40bdb060-1848-7838-c520-ab7419d2accf">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/2cb0f8a6-1788-3922-9e14-ea32ad3074dd"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/ef744fb4-a174-3aba-8eb7-b5eb3d2334af"/>
+         <c:name>Greece</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">38.3228275976</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">22.2591633135</c:longitude>
+      </rdf:Description>
+   </rdf:RDF>

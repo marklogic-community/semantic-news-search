@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<es:job-bag xmlns:es="http://www.marklogic.com/enhanced-search#">
+   <html xmlns="http://www.w3.org/1999/xhtml"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:c="http://www.w3.org/ns/xproc-step"
+         xml:lang="en-GB"
+         xml:base="http://www.bbc.co.uk">
+      <head profile="http://dublincore.org/documents/dcq-html/"
+            resource="http://www.bbc.co.uk/news/world-asia-23254178"
+            typeof="rnews:NewsItem">
+         <meta property="rnews:description"
+               content="Police in Australia investigating a reported burglary find a snake, measuring 5.7m, which may have got into the premises through a damaged roof."/>
+         <meta property="rnews:datePublished" content="2013-07-10T12:37:25"/>
+         <meta property="rnews:thumbnailUrl"
+               content="http://news.bbcimg.co.uk/media/images/68652000/jpg/_68652517_python.jpg"/>
+         <meta property="rnews:headline" content="Giant python found in charity shop"/>
+         <meta name="CPS_SECTION_PATH" content="World/Asia"/>
+         <meta property="rnews:creator" content="http://www.bbc.co.uk#org"/>
+         <link rel="copyright"
+               href="http://www.bbc.co.uk/terms/"
+               title="Terms of Use"/>
+         <link rel="http://purl.org/dc/terms/source"
+               href="http://www.bbc.co.uk/news/world-asia-23254178"/>
+         <title>BBC News - Australian police find 5.7m python in Queensland
+shop</title>
+      </head>
+      <body>
+         <div class="story-body">
+            <span class="story-date">
+               <span class="date">10 July 2013</span>
+               <span class="time-text">Last updated
+at</span>
+               <span class="time">13:37</span>
+            </span>
+            <h1 class="story-header">Australian police find 5.7m python in
+Queensland shop</h1>
+            <div class="caption body-narrow-width">
+               <img src="http://news.bbcimg.co.uk/media/images/68649000/jpg/_68649550_289-1.jpg"
+                    width="304"
+                    height="171"
+                    alt="Python found in charity shop"/>
+               <span style="width:304px;">Police initially thought a person had
+fallen through the roof</span>
+            </div>
+            <p class="introduction">A 5.7m (19ft) python
+has been seized after it fell from the ceiling of a charity shop in
+Australia.</p>
+            <p>The python, weighing 17kg (37lbs), was recovered by a
+snake-handler after police investigated a suspected break-in at the
+shop in Ingham, Queensland.</p>
+            <p>"Its head was the size of a small dog," said police spokesman
+Sgt Don Auld.</p>
+            <p>The snake fell through a ceiling panel, smashing shop goods.
+Police said it may have got in through the roof, which was damaged
+by Cyclone Yasi in 2011.</p>
+            <p>When police were initially called to the property on Monday,
+they believed a person had fallen through the ceiling because the
+roof panel had been cut in half.</p>
+            <p>Crockery, clothes and other goods were scattered all over the
+floor.</p>
+            <p>Police were called back to the shop the following day when a
+large crowd formed outside.</p>
+            <p>Sgt Auld said the snake must have been hiding when police went
+there the first time.</p>
+            <p>It has been released in nearby wetlands.</p>
+         </div>
+         <div class="story-feature related narrow">
+            <h2>Related Stories</h2>
+            <ul class="related-links-list">
+               <li>
+                  <a class="story"
+                     rel="published-1296797981676"
+                     href="/news/world-asia-pacific-12362908">Queensland battles cyclone
+debris</a>
+               </li>
+            </ul>
+         </div>
+      </body>
+   </html>
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+            xmlns:og="http://opengraphprotocol.org/schema/"
+            xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-asia-23254178">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-asia-23254178"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Police in Australia investigating a reported burglary find a snake, measuring 5.7m, which may have got into the premises through a damaged roof.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-10T12:37:25</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68652000/jpg/_68652517_python.jpg"/>
+         <rnews:headline xml:lang="en-GB">Giant python found in charity shop</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68649000/jpg/_68649550_289-1.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-asia-23254178"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Python found in charity shop</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       c:allowDistribution="true"
+                       c:allowSearch="false"
+                       c:calaisRequestID="d842a7c4-28fd-bab1-3fcd-87a21c33e3f8"
+                       c:externalID="mluces"
+                       c:id="http://id.opencalais.com/Fq54Umd4suVnp6ac-y48BA"
+                       rdf:about="http://d.opencalais.com/dochash-1/79d96914-01fa-3710-8a99-ce0986a5ecb1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-10</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                     rdf:resource="http://www.bbc.co.uk/news/world-asia-23254178"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       c:contentType="TEXT/HTML"
+                       c:emVer="7.1.1103.5"
+                       c:langIdVer="DefaultLangId"
+                       c:language="English"
+                       c:processingVer="CalaisJob01"
+                       c:submissionDate="2013-07-11 07:39:45.564"
+                       rdf:about="http://d.opencalais.com/dochash-1/79d96914-01fa-3710-8a99-ce0986a5ecb1/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/79d96914-01fa-3710-8a99-ce0986a5ecb1"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|UFzsrOxUsLK/g/PvZ3VmPRZAitM=|RkO9+RaKE5G8j0zj83Rij72NT9xeyqvLUeTLNPn5kb2jIfJpnl94sg==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/79d96914-01fa-3710-8a99-ce0986a5ecb1/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/79d96914-01fa-3710-8a99-ce0986a5ecb1"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/er/geo/provinceorstate/ralg-geo1/f08e7c4e-fe39-6521-0b87-a52372eee2ff">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/ProvinceOrState"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/79d96914-01fa-3710-8a99-ce0986a5ecb1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/052b47a4-d429-398c-a8b1-010f549393ae"/>
+         <c:name>Queensland,Australia</c:name>
+         <c:shortname>Queensland</c:shortname>
+         <c:containedbycountry>Australia</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-20.0</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">145.0</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/d2f96baf-0db8-3c62-e3de-a4a3874d3b1c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/79d96914-01fa-3710-8a99-ce0986a5ecb1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3b71f58c-9acc-3d6f-bed4-9a448a343df5"/>
+         <c:name>Ingham,Queensland,Australia</c:name>
+         <c:shortname>Ingham</c:shortname>
+         <c:containedbystate>Queensland</c:containedbystate>
+         <c:containedbycountry>Australia</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-18.65</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">146.166666667</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/ca8bbbc9-5ac3-3ff8-a6c5-d74eae2c5679">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Australian police</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>Australian</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/79d96914-01fa-3710-8a99-ce0986a5ecb1/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/79d96914-01fa-3710-8a99-ce0986a5ecb1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/ca8bbbc9-5ac3-3ff8-a6c5-d74eae2c5679"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.355</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/052b47a4-d429-398c-a8b1-010f549393ae">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>Queensland</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/79d96914-01fa-3710-8a99-ce0986a5ecb1/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/79d96914-01fa-3710-8a99-ce0986a5ecb1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/052b47a4-d429-398c-a8b1-010f549393ae"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.412</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/7e2d3667-6da4-364b-b0ca-cd1b4d57e438">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/657249f7-9217-31a8-90e9-58783a578170"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/992c55e5-b5f7-3866-b334-0d65db9e62b0"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/992c55e5-b5f7-3866-b334-0d65db9e62b0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>police spokesman</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/79d96914-01fa-3710-8a99-ce0986a5ecb1/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/79d96914-01fa-3710-8a99-ce0986a5ecb1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/992c55e5-b5f7-3866-b334-0d65db9e62b0"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.330</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/669143c9-644e-37f1-ae76-29ce210a9c5b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/NaturalDisaster"/>
+         <c:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-00-00</c:date>
+         <c:datestring>in 2011</c:datestring>
+         <c:naturaldisaster>cyclone</c:naturaldisaster>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/3b71f58c-9acc-3d6f-bed4-9a448a343df5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Ingham</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/79d96914-01fa-3710-8a99-ce0986a5ecb1/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/79d96914-01fa-3710-8a99-ce0986a5ecb1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3b71f58c-9acc-3d6f-bed4-9a448a343df5"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.349</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/pershash-1/657249f7-9217-31a8-90e9-58783a578170">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Don Auld</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Don Auld</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/79d96914-01fa-3710-8a99-ce0986a5ecb1/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/79d96914-01fa-3710-8a99-ce0986a5ecb1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/657249f7-9217-31a8-90e9-58783a578170"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.540</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>
+</es:job-bag>

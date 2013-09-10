@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/business-23263579">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/business-23263579"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Minutes of the Federal Reserve's last policy meeting show that many officials want sustained jobs recovery before ending its stimulus programme.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-10T21:34:55</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68661000/jpg/_68661012_fed.jpg"/>
+         <rnews:headline xml:lang="en-GB">Fed minutes hint QE will continue</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Business</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68662000/jpg/_68662081_bernanke.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/business-23263579"/>
+         <rnews:description xml:lang="en-GB">Ben Bernanke</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="65517021-f322-ce55-13fc-d87b9d333e3f"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/bUbyKkDGNjIbEQ*jKGADDA"
+                    rdf:about="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-10</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/business-23263579"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-11 07:39:51.635"
+                    rdf:about="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|GE+ocGZiEHf93oFpN7Q75fREkhw=|MbRJ6lfGLe3uS81Bm5wwxxYzTj0LjX6C2CNMc+/jaID4Bfge7hQsFw==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Business_Finance"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Business_Finance</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.000</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e20de102-6312-3e6e-a07c-d20fdbe29ccb">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>chairman</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e20de102-6312-3e6e-a07c-d20fdbe29ccb"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.200</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/provinceorstate/ralg-geo1/5c5159b9-d2c3-3b97-85d3-5b4e3692f320">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/ProvinceOrState"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7acdcb17-60d8-35c2-ad99-3b224d74f25f"/>
+         <c:name>Massachusetts,United States</c:name>
+         <c:shortname>Massachusetts</c:shortname>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.3</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-71.8</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/825f756a-e6ab-3211-97d1-c23fcb64c8fa">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/59b7f445-f405-32f0-9ec5-d7e95bc65662"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>S&amp;P Pharmaceutical Co., Ltd.</c:name>
+         <c:shortname>S&amp;P Pharma</c:shortname>
+         <c:ticker>SPPHA</c:ticker>
+         <c:symbol>600869.SS</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/c6d0a71e-e341-3747-a868-c4c933d000b9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/c2808f28-8f0a-360e-a396-1a23c3ce1e5f"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>DOW JONES &amp; COMPANY, INC.</c:name>
+         <c:shortname>Dow Jones &amp; Co</c:shortname>
+         <c:ticker>NWSDJ</c:ticker>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/89cf784b-d172-3fa2-a653-851f2ebf3649">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Action Economics</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/89cf784b-d172-3fa2-a653-851f2ebf3649"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.088</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b4bdb5ad-4158-3e1a-ae60-6361b6a06aa9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/61a07280-f964-3c43-abfc-719ed77f4681"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/e20de102-6312-3e6e-a07c-d20fdbe29ccb"/>
+         <c:organization rdf:resource="http://d.opencalais.com/genericHasher-1/d920b2cc-12bc-34e1-be7b-066ed7a7cd95"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/90144713-6096-30da-b677-4f5fa59178ee">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/aed87b42-b93e-3517-8f5d-eb93c6ec7a25"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/9443e26e-d592-3102-a098-4040aaf496c7"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/89cf784b-d172-3fa2-a653-851f2ebf3649"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d6b183c7-dba2-3d3b-ae10-e87d21ebe1db">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>National Bureau of Economic Research</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/d6b183c7-dba2-3d3b-ae10-e87d21ebe1db"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.200</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/cf6e874f-0067-b0c4-ead6-86afc8cdd79f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0c652b87-979f-374b-b5ac-92b005c834c6"/>
+         <c:name>Cambridge,Massachusetts,United States</c:name>
+         <c:shortname>Cambridge</c:shortname>
+         <c:containedbystate>Massachusetts</c:containedbystate>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.375</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-71.1061</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/152649df-347e-e289-1a9e-acc883e07d17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:name>United States</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.4230003233</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-98.7372244786</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>United States</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.399</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7acdcb17-60d8-35c2-ad99-3b224d74f25f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>Massachusetts</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7acdcb17-60d8-35c2-ad99-3b224d74f25f"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.200</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/736a403d-157b-3e80-86a7-acc404607cb2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>USD</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/736a403d-157b-3e80-86a7-acc404607cb2"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.470</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/61a07280-f964-3c43-abfc-719ed77f4681">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Ben Bernanke</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Ben Bernanke</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/61a07280-f964-3c43-abfc-719ed77f4681"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.230</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/aed87b42-b93e-3517-8f5d-eb93c6ec7a25">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Kim Rupert</c:name>
+         <c:persontype>economic</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Kim Rupert</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/aed87b42-b93e-3517-8f5d-eb93c6ec7a25"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.088</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/5bf5c6cd-973b-3da6-8bc6-388f64e98df5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/89cf784b-d172-3fa2-a653-851f2ebf3649"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>ACTION ECONOMICS U.K. LIMITED</c:name>
+         <c:shortname>Action Economics</c:shortname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/c2808f28-8f0a-360e-a396-1a23c3ce1e5f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Dow Jones</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/c2808f28-8f0a-360e-a396-1a23c3ce1e5f"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.102</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0c652b87-979f-374b-b5ac-92b005c834c6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Cambridge</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0c652b87-979f-374b-b5ac-92b005c834c6"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.200</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/9443e26e-d592-3102-a098-4040aaf496c7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>managing director</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/9443e26e-d592-3102-a098-4040aaf496c7"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.099</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d920b2cc-12bc-34e1-be7b-066ed7a7cd95">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>US Federal Reserve</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/d920b2cc-12bc-34e1-be7b-066ed7a7cd95"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.780</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/59b7f445-f405-32f0-9ec5-d7e95bc65662">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>S&amp;P</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d9bcbc8b-7d04-3e56-be2f-dcd757212d93"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/59b7f445-f405-32f0-9ec5-d7e95bc65662"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.102</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

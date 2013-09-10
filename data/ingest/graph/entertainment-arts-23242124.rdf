@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/entertainment-arts-23242124">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/entertainment-arts-23242124"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Ben Elton's sitcom The Wright Way will not return for a second series according to BBC controller of comedy commissioning Shane Allen.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-09T16:51:14</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68637000/jpg/_68637632_the-wright-way-008.jpg"/>
+         <rnews:headline xml:lang="en-GB">BBC axes Ben Elton sitcom</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Entertainment and Arts</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68635000/jpg/_68635325_the-wright-way-008.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/entertainment-arts-23242124"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</rnews:height>
+         <rnews:description xml:lang="en-GB">The Wright Way</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="f93754c6-1b01-79ed-13fc-7d3ebb31b944"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/lwfSSuuCGnHb5UKnKPFZgw"
+                    rdf:about="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-09</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/entertainment-arts-23242124"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-10 05:05:21.843"
+                    rdf:about="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|I4dL2KMgLbVletVtzjNxMqpf6/Q=|S98RXdZ5YgHBUz+8IeZPDZaWij5Da2t/D5OPB99szZuvwhAcaS60QQ==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Entertainment_Culture"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Entertainment_Culture</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.000</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a/cat/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/HumanInterest"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Human Interest</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.932</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/560ab0cf-0ea9-3c2a-9101-9a6f27f46fef">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>David Haig</c:name>
+         <c:persontype>entertainment</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>David Haig</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/560ab0cf-0ea9-3c2a-9101-9a6f27f46fef"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.299</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/46e1adea-9f4b-320b-a06f-16cbb782f8de">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/PublishedMedium"/>
+         <c:name>the Telegraph</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/46e1adea-9f4b-320b-a06f-16cbb782f8de"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.131</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/e527b3a0-7d74-33d3-a1d3-33deedef4c0d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Graham Linehan</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Graham Linehan</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/e527b3a0-7d74-33d3-a1d3-33deedef4c0d"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.082</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0278573a-440c-3697-a62b-2c21a8fd7932">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/TVStation"/>
+         <c:name>BBC Two</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0278573a-440c-3697-a62b-2c21a8fd7932"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.104</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/196623d1-39c4-3f3f-8210-5904a32e7d56">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/TVStation"/>
+         <c:name>BBC One</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/196623d1-39c4-3f3f-8210-5904a32e7d56"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.199</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/40b6672d-9785-3f32-9140-7e55931f8234">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Rory Kinnear</c:name>
+         <c:persontype>entertainment</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Rory Kinnear</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/40b6672d-9785-3f32-9140-7e55931f8234"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.082</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a27f5147-85ac-3c36-a90e-2593b5a7d7ea">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>comedian writer</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a27f5147-85ac-3c36-a90e-2593b5a7d7ea"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.317</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/187269cf-ebb0-3935-af82-72742282e44b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ManMadeDisaster"/>
+         <c:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-00-00</c:date>
+         <c:datestring>since 2005</c:datestring>
+         <c:manmadedisaster>fire</c:manmadedisaster>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/c5193477-7549-3e92-93e7-c92ec8737a70">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Shane Allen</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Shane Allen</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/c5193477-7549-3e92-93e7-c92ec8737a70"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.619</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/933fb9f4-2370-39ee-b9e3-0c35e35105c5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Broadcasting Press Guild</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/933fb9f4-2370-39ee-b9e3-0c35e35105c5"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.317</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/9bb26018-f501-329e-b57d-5e1ec16f1bd0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/1076d1eb-4ea8-3d30-823a-db47764acc34"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>TWITTER, INC.</c:name>
+         <c:shortname>Twitter</c:shortname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/09e06ffd-52f1-3e01-acbd-d6cb507492c7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/TVShow"/>
+         <c:name>The Thin Blue Line</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/09e06ffd-52f1-3e01-acbd-d6cb507492c7"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.299</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a2e95306-dc8c-3c43-af98-66a13e2cc36d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>actor</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a2e95306-dc8c-3c43-af98-66a13e2cc36d"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.082</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/1076d1eb-4ea8-3d30-823a-db47764acc34">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Twitter</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/1076d1eb-4ea8-3d30-823a-db47764acc34"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.299</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a8e9161d-b0c7-3760-ba03-0b58557d7bf8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/c5193477-7549-3e92-93e7-c92ec8737a70"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/cb6aaf98-079c-349e-b1c0-c21186b97582"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/cf5e683e-0d21-34a4-af30-5a8cb6c67d61">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Ben Elton</c:name>
+         <c:persontype>entertainment</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Ben Elton</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/cf5e683e-0d21-34a4-af30-5a8cb6c67d61"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.624</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/dad2c93d-838c-3f5b-b625-176de846f1e0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Steve Delaney</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Steve Delaney</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/dad2c93d-838c-3f5b-b625-176de846f1e0"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.091</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>BBC</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.732</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c1974835-d23b-320f-a155-2f75af7d071d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/40b6672d-9785-3f32-9140-7e55931f8234"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/a2e95306-dc8c-3c43-af98-66a13e2cc36d"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a69a1d4c-2214-3b28-bca4-351920e672e5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>writer</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a69a1d4c-2214-3b28-bca4-351920e672e5"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.236</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/9cb10bfa-732a-38f0-9aa8-01c89c57d7c0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/TVShow"/>
+         <c:name>Blackadder</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a/Relevance/17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/9cb10bfa-732a-38f0-9aa8-01c89c57d7c0"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.236</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/7a6a4835-2d42-388a-97e8-ef689d5745f0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>BRITISH BROADCASTING CORPORATION</c:name>
+         <c:shortname>BBC</c:shortname>
+         <c:ticker>BBC</c:ticker>
+         <c:symbol>TBBC.UL</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/cb6aaf98-079c-349e-b1c0-c21186b97582">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>comedy commissioner</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a/Relevance/18">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/cb6aaf98-079c-349e-b1c0-c21186b97582"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.317</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/fcf6f756-1f71-39b8-a01a-6524fd271f5c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Arthur Strong</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Arthur Strong</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a/Relevance/19">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/fcf6f756-1f71-39b8-a01a-6524fd271f5c"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.104</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ed2efb2d-0cfb-314e-a2a9-26ef23262c26">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/560ab0cf-0ea9-3c2a-9101-9a6f27f46fef"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/e7d3cdcc-b96d-3497-8762-623616b83c2d"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e7d3cdcc-b96d-3497-8762-623616b83c2d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>The Thin Blue Line actor</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a/Relevance/20">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e7d3cdcc-b96d-3497-8762-623616b83c2d"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.299</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/f63f4a26-6d0c-30c1-ad7d-9859432a8ec3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/TVShow"/>
+         <c:name>The Young Ones</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a/Relevance/21">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ecd58e27-e4d3-3350-a38a-6a5f8690eb7a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/f63f4a26-6d0c-30c1-ad7d-9859432a8ec3"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.236</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

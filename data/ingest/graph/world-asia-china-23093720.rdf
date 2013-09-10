@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-asia-china-23093720">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-asia-china-23093720"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Two Chinese bronzes looted from a Beijing palace 150 years ago are returned to China by the Pinault family, owners of luxury brands such as Gucci.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-06-28T12:58:04</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68432000/jpg/_68432736_84994377.jpg"/>
+         <rnews:headline xml:lang="en-GB">Looted statues returned to China</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68442000/jpg/_68442849_84994377.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-asia-china-23093720"/>
+         <rnews:description xml:lang="en-GB">File photo: the bronze rat head statue (left) and rabbit head statue, 21 February 2009 </rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="98488475-ebec-4501-13fb-dcc512545124"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/Jnrn2qfYwVZzvusBDFId1A"
+                    rdf:about="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-06-28</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-asia-china-23093720"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 06:20:51.365"
+                    rdf:about="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|9VzUUDJbx+zAXncepECwSPKijCI=|aS/vpSMk8RElBeoVkTobybyYoChR/XC5FIGk2aw4YSl5iKo8/oYARA==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/War_Conflict"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>War_Conflict</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.930</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24/cat/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/HumanInterest"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Human Interest</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.576</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5cff4a82-2b03-383a-8bcf-ea9592bb99df">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/96a788e6-b219-3f58-9c56-8715b796c0ff"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/5addfd52-32fb-327c-9a52-d47e9ebbef63"/>
+         <c:country rdf:resource="http://d.opencalais.com/genericHasher-1/3d1db47c-b851-32ab-af0b-0bffa4dad5d1"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/3356e3ea-0de1-3c40-bead-86a7e1ba6be8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Gucci McQueen</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Gucci McQueen</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/3356e3ea-0de1-3c40-bead-86a7e1ba6be8"/>
+         <c:relevance>0.219</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/8a7d7ba2-88ca-0f0e-a1ec-f975b026e8e1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3d1db47c-b851-32ab-af0b-0bffa4dad5d1"/>
+         <c:name>China</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">32.9042932784</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">110.467708512</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/97f7663e-fd3d-3b78-a2b1-37d9e926ec76">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>state-run China News Service</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>Chinese</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/97f7663e-fd3d-3b78-a2b1-37d9e926ec76"/>
+         <c:relevance>0.085</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3a062125-43fd-3275-94a7-3bd2d50296a5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Beijing's Old Summer Palace</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3a062125-43fd-3275-94a7-3bd2d50296a5"/>
+         <c:relevance>0.308</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/86a9fa85-7a27-3255-8076-3170b2320919">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/66f0ff5b-88c9-34ed-bc2d-c63899c280f0"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>PPR S.A.</c:name>
+         <c:shortname>PPR</c:shortname>
+         <c:ticker>PRTP</c:ticker>
+         <c:symbol>PRTP.PA</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3691f118-78f7-3406-91d9-d4a9ff319204">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>fashion designer</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3691f118-78f7-3406-91d9-d4a9ff319204"/>
+         <c:relevance>0.246</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/cab68158-5011-35bd-8b1e-0882bf3e9936">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Old Summer Palace</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/cab68158-5011-35bd-8b1e-0882bf3e9936"/>
+         <c:relevance>0.141</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5addfd52-32fb-327c-9a52-d47e9ebbef63">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>Vice Premier</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/5addfd52-32fb-327c-9a52-d47e9ebbef63"/>
+         <c:relevance>0.166</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/028cb65f-4709-3631-75ef-c7a06c317eb7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/74ece01a-7ee9-36a2-9732-ffab82e7eb9a"/>
+         <c:name>Beijing,China</c:name>
+         <c:shortname>Beijing</c:shortname>
+         <c:containedbycountry>China</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">39.91</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">116.4</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/d003600a-f6a1-3a45-a529-bdc6ecd705ef">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Yves Saint Laurent</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/d003600a-f6a1-3a45-a529-bdc6ecd705ef"/>
+         <c:relevance>0.246</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/97709f38-b1b7-3d36-9b58-96218040b706">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Kering</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/97709f38-b1b7-3d36-9b58-96218040b706"/>
+         <c:relevance>0.409</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/66f0ff5b-88c9-34ed-bc2d-c63899c280f0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Pinault</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/66f0ff5b-88c9-34ed-bc2d-c63899c280f0"/>
+         <c:relevance>0.647</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3d046cc7-548b-3199-b8c9-d51a3c0a3875">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>National Museum</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3d046cc7-548b-3199-b8c9-d51a3c0a3875"/>
+         <c:relevance>0.166</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/14f12ef0-946a-3d84-bc48-8a94d7bc04bc">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Alexander McQueen</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Alexander McQueen</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/14f12ef0-946a-3d84-bc48-8a94d7bc04bc"/>
+         <c:relevance>0.219</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/60262117-75c9-3750-8f33-23beeb146a0c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>luxury</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/60262117-75c9-3750-8f33-23beeb146a0c"/>
+         <c:relevance>0.318</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3d1db47c-b851-32ab-af0b-0bffa4dad5d1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>China</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3d1db47c-b851-32ab-af0b-0bffa4dad5d1"/>
+         <c:relevance>0.746</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/74ece01a-7ee9-36a2-9732-ffab82e7eb9a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Beijing</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/74ece01a-7ee9-36a2-9732-ffab82e7eb9a"/>
+         <c:relevance>0.308</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/bed993f7-a04f-3b5e-a315-533c9075c53a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Yuanming Yuan</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Yuanming Yuan</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/bed993f7-a04f-3b5e-a315-533c9075c53a"/>
+         <c:relevance>0.119</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/e1bae7df-d5ac-334d-a42e-d749f901751a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/d003600a-f6a1-3a45-a529-bdc6ecd705ef"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.90000004</c:score>
+         <c:name>YVES SAINT LAURENT GROUPE S.A.</c:name>
+         <c:shortname>YVES SAINT LAURE</c:shortname>
+         <c:ticker>YSLSA</c:ticker>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/74929feb-d2ce-34f1-99bb-28ce2c909224">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Chinese government</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>Chinese</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/74929feb-d2ce-34f1-99bb-28ce2c909224"/>
+         <c:relevance>0.318</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/96a788e6-b219-3f58-9c56-8715b796c0ff">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Liu Yandong</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>Chinese</c:nationality>
+         <c:commonname>Liu Yandong</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24/Relevance/17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/96a788e6-b219-3f58-9c56-8715b796c0ff"/>
+         <c:relevance>0.166</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/403938f5-2cae-3a9a-bd86-7595a6e5c070">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>State Administration of Cultural Heritage</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24/Relevance/18">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fa254948-a374-3df8-95da-ace74b7b8b24"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/403938f5-2cae-3a9a-bd86-7595a6e5c070"/>
+         <c:relevance>0.166</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

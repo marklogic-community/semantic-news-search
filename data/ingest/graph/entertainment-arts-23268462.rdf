@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/entertainment-arts-23268462">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/entertainment-arts-23268462"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">The director of Michael Jackson's comeback concerts, Kenny Ortega, breaks down in tears while giving evidence at the singer's wrongful death trial.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-11T10:04:35</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68667000/jpg/_68667167_michaeljackson_getty.jpg"/>
+         <rnews:headline xml:lang="en-GB">Jackson 'frightened me' says Ortega</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Entertainment and Arts</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68230000/jpg/_68230463_michaeljackson_getty.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/entertainment-arts-23268462"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Michael Jackson</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68667000/jpg/_68667267_68667161.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/entertainment-arts-23268462"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">224</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">299</rnews:height>
+         <rnews:description xml:lang="en-GB">Kenny Ortega</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="f7934462-7ae9-c33a-13fd-214b30b42729"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/BI3BD9qIsiI8tUl*6Mv4HA"
+                    rdf:about="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-11</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/entertainment-arts-23268462"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-12 03:52:19.339"
+                    rdf:about="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|tDpSKpB32MOop8YJMnI37C/J7Wc=|BKF9Z90VUm+1EaE0ME2dsMKTdB0ouEhoQNjsk4VBHdxdO4Sn0h9cjA==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e24eb1ba-ae7c-365d-bcb2-cc402ad80d0a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/Conviction"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/d674e7a5-1165-3caa-9f5f-bd5bbe539c11"/>
+         <c:charge>involuntary manslaughter</c:charge>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/281f30c8-16df-384a-970a-14c23a8a1285">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/d1268b44-8683-32c2-95fd-f3b29064239f"/>
+         <c:organization rdf:resource="http://d.opencalais.com/genericHasher-1/24cdd020-3c5f-3961-b516-e98abf13c70a"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>past</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/77ed07cd-e32e-32aa-9a17-bd86725fc53a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCommunication"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/d1268b44-8683-32c2-95fd-f3b29064239f"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/d674e7a5-1165-3caa-9f5f-bd5bbe539c11"/>
+         <c:status>announced</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/24cdd020-3c5f-3961-b516-e98abf13c70a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>High School</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/24cdd020-3c5f-3961-b516-e98abf13c70a"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.061</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/d674e7a5-1165-3caa-9f5f-bd5bbe539c11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Conrad Murray</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Conrad Murray</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/d674e7a5-1165-3caa-9f5f-bd5bbe539c11"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.628</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/ad48db35-b5ce-3e74-a1e4-e6b96dd479c6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Randy Phillips</c:name>
+         <c:persontype>economic</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Randy Phillips</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/ad48db35-b5ce-3e74-a1e4-e6b96dd479c6"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.077</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/736a403d-157b-3e80-86a7-acc404607cb2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>USD</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/736a403d-157b-3e80-86a7-acc404607cb2"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.291</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/84dccb60-5afd-30dd-9d2d-5fcc1af70d0c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>GBP</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/84dccb60-5afd-30dd-9d2d-5fcc1af70d0c"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.291</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7179d419-6f3e-3ac4-a756-2b52b36c7fea">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>CEO</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7179d419-6f3e-3ac4-a756-2b52b36c7fea"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.156</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/37f8592a-1295-342a-9b17-2ff768a88c41">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>tour worker</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/37f8592a-1295-342a-9b17-2ff768a88c41"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.061</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/d1268b44-8683-32c2-95fd-f3b29064239f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Ortega</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Ortega</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/d1268b44-8683-32c2-95fd-f3b29064239f"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.780</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a60099df-b717-3ac9-8bc9-b84850ed33c1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>director-choreographer</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a60099df-b717-3ac9-8bc9-b84850ed33c1"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.203</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/51a32b57-1be1-3db3-ad49-8866a3575d8f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>AEG</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/51a32b57-1be1-3db3-ad49-8866a3575d8f"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.303</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5c325556-4325-34ce-a3a9-8cdd32851594">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>singer</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/5c325556-4325-34ce-a3a9-8cdd32851594"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.375</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/9af42861-d3a8-311d-9607-f39f72c61ee9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Ortega shed</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/9af42861-d3a8-311d-9607-f39f72c61ee9"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.123</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/68cbfc21-4f67-3079-a374-e5621d7f15a5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>director</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/68cbfc21-4f67-3079-a374-e5621d7f15a5"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.635</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/fcccfa4c-7020-31c2-b001-ca0fe684bebe">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Katherine Jackson</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Katherine Jackson</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/fcccfa4c-7020-31c2-b001-ca0fe684bebe"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.764</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/ec5defba-3f35-3a28-a62a-6376c974c335">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/51a32b57-1be1-3db3-ad49-8866a3575d8f"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>A.E.G. (Applicazioni Elettriche Generali) S.r.l.</c:name>
+         <c:shortname>AEG</c:shortname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/8c4d08eb-5a60-3195-b9a2-31b49c9ed72d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCommunication"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/d1268b44-8683-32c2-95fd-f3b29064239f"/>
+         <c:organizationorcompany rdf:resource="http://d.opencalais.com/genericHasher-1/a4e78f73-c754-3977-94d7-46bc3c7b0fc4"/>
+         <c:status>announced</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e5979045-b8a8-3438-89f8-259f97660809">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/ad48db35-b5ce-3e74-a1e4-e6b96dd479c6"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/7179d419-6f3e-3ac4-a756-2b52b36c7fea"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/2510b00f-04a9-3a55-9a1e-3e222a5e82e2"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5326da9f-6a8b-30be-a6b7-b43bb5e5be73">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonAttributes"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/d1268b44-8683-32c2-95fd-f3b29064239f"/>
+         <c:age>63</c:age>
+         <c:gender>M</c:gender>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/9d804712-00ef-3404-8566-cd78b471c7e4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Michael Jackson</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Michael Jackson</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/9d804712-00ef-3404-8566-cd78b471c7e4"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.312</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a4e78f73-c754-3977-94d7-46bc3c7b0fc4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>US court</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>American</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a4e78f73-c754-3977-94d7-46bc3c7b0fc4"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.471</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/2510b00f-04a9-3a55-9a1e-3e222a5e82e2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>AEG Live</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1/Relevance/17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/337195e2-f2b2-3090-a43a-0646700022e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/2510b00f-04a9-3a55-9a1e-3e222a5e82e2"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.077</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

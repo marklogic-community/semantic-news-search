@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-us-canada-23264940">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23264940"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Boston Marathon bomb suspect Dzhokhar Tsarnaev pleads not guilty to all charges, in his first appearance in a court, as blast victims look on.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-10T21:31:56</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68662000/jpg/_68662219_68662576.jpg"/>
+         <rnews:headline xml:lang="en-GB">Boston bomb accused denies charges</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68662000/jpg/_68662575_1541d220-e729-4b77-b0bf-7a41b3954d2b.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23264940"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</rnews:height>
+         <rnews:description xml:lang="en-GB">A court sketch of Dzhokhar Tsarnaev (10 July 2013)</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68656000/jpg/_68656706_68656705.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23264940"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Police and reporters outside the federal courthouse in Boston, Massachusetts 10 July 2013</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="564c721b-495b-6f45-13fc-d875f2245124"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/8YKm*Nz7GaRFWJjtbJ0gTg"
+                    rdf:about="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-10</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23264940"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-11 07:39:28.418"
+                    rdf:about="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|XRUYf0unNN2oY7Qzi+mv1YFTOFs=|Ef1mFXRk32Yv8wkI9qteotAevhdt7oe6pUfA5RMWFuaQte/YUqmLbw==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Law_Crime"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Law_Crime</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.966</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373/cat/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/War_Conflict"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>War_Conflict</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.609</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/provinceorstate/ralg-geo1/5c5159b9-d2c3-3b97-85d3-5b4e3692f320">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/ProvinceOrState"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7acdcb17-60d8-35c2-ad99-3b224d74f25f"/>
+         <c:name>Massachusetts,United States</c:name>
+         <c:shortname>Massachusetts</c:shortname>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.3</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-71.8</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/9b7b834e-2a35-36d8-be23-266ec442c64f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>internet material</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/9b7b834e-2a35-36d8-be23-266ec442c64f"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.285</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c63c02ea-09e8-3f45-a8e0-99de23485b95">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ArmedAttack"/>
+         <c:weaponused>a weapon of mass destruction</c:weaponused>
+         <c:status>confirmed</c:status>
+         <c:casualties>killed three</c:casualties>
+         <c:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/4345fa42-3500-3e28-aee3-baadbde3aa0b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/Indictment"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/cdfd9076-c9c5-3064-84ee-8379ec95cf3b"/>
+         <c:charge>using a weapon of mass destruction in the two 15 April blasts</c:charge>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/612a94eb-2d6a-3e32-9e7a-96593a34c301">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonAttributes"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/15cc46fe-bd12-3b07-880c-6fccc3c402c6"/>
+         <c:age>26</c:age>
+         <c:gender>M</c:gender>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/15cc46fe-bd12-3b07-880c-6fccc3c402c6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Tamerlan</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Tamerlan</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/15cc46fe-bd12-3b07-880c-6fccc3c402c6"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.594</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/613b4715-2df1-3209-a60a-74ecae8ae7f6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ArmedAttack"/>
+         <c:partyinvolved2>the inside walls</c:partyinvolved2>
+         <c:attacktype>bombing</c:attacktype>
+         <c:status>confirmed</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/cdfd9076-c9c5-3064-84ee-8379ec95cf3b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Dzhokhar Tsarnaev</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Dzhokhar Tsarnaev</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/cdfd9076-c9c5-3064-84ee-8379ec95cf3b"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.818</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/4bd2b5f0-515b-ca0e-8698-3c8cace21ac2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/aace28ec-e4e2-3ad0-9a59-806a900252a9"/>
+         <c:name>Boston,Massachusetts,United States</c:name>
+         <c:shortname>Boston</c:shortname>
+         <c:containedbystate>Massachusetts</c:containedbystate>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.3583</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-71.0603</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6b3538a1-a6cb-371a-b785-b3175bbdb2ca">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ArmedAttack"/>
+         <c:status>confirmed</c:status>
+         <c:casualties>More than 260 people were injured</c:casualties>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c207bdd8-ae74-3cd0-8e8e-7edd515838ec">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ArmedAttack"/>
+         <c:partyinvolved1>Dzhokhar Tsarnaev</c:partyinvolved1>
+         <c:attacker>Dzhokhar Tsarnaev</c:attacker>
+         <c:status>confirmed</c:status>
+         <c:casualties>a fourth person, a university police officer, who was allegedly shot dead</c:casualties>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/2b2f19a4-118f-3a57-b41c-4c1016ebd147">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>university police officer</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/2b2f19a4-118f-3a57-b41c-4c1016ebd147"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.295</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ec27fa65-cd36-3188-b783-a941f3cf79bf">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonLocation"/>
+         <c:persongroup>ethnic chechen muslims</c:persongroup>
+         <c:locationstring>Russia</c:locationstring>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/29c24cc6-ead8-3360-aa12-ffd04219ab65">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Hank Alvarez</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Hank Alvarez</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/29c24cc6-ead8-3360-aa12-ffd04219ab65"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.223</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/aace28ec-e4e2-3ad0-9a59-806a900252a9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Boston</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/aace28ec-e4e2-3ad0-9a59-806a900252a9"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.632</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7f0fc81a-494e-3124-a634-6a8a13e9dd46">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Russia</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7f0fc81a-494e-3124-a634-6a8a13e9dd46"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.067</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0a1bea58-7c58-3a67-9336-16ff760eaab1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>hijacked car</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0a1bea58-7c58-3a67-9336-16ff760eaab1"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.103</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/dbd2c9c2-9562-36a5-80ed-66ba733970c2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/Indictment"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/15cc46fe-bd12-3b07-880c-6fccc3c402c6"/>
+         <c:charge>carjacking incident</c:charge>
+         <c:charge>downloading internet material</c:charge>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/152649df-347e-e289-1a9e-acc883e07d17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:name>United States</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.4230003233</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-98.7372244786</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/30db214f-5053-3a16-9ef4-a19b36f9e667">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>UN Court</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/30db214f-5053-3a16-9ef4-a19b36f9e667"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.339</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/0a30167e-1829-35df-b4d8-4b25a9c041c3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/2bc3a3f1-53f4-380d-ab50-954d227dcd45"/>
+         <c:name>Watertown,Massachusetts,United States</c:name>
+         <c:shortname>Watertown</c:shortname>
+         <c:containedbystate>Massachusetts</c:containedbystate>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.3708</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-71.1833</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/1c625cc8-6f82-4660-a320-d185916e3c55">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7f0fc81a-494e-3124-a634-6a8a13e9dd46"/>
+         <c:name>Russia</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">54.8270488441</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">55.0423189997</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c10a1438-626f-3130-89dd-45d9820de64a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/SportsEvent"/>
+         <c:name>the Boston Marathon</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c10a1438-626f-3130-89dd-45d9820de64a"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.060</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>United States</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.414</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7acdcb17-60d8-35c2-ad99-3b224d74f25f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>Massachusetts</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7acdcb17-60d8-35c2-ad99-3b224d74f25f"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.093</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/8ce83f41-24dd-36e0-9931-091e3dd0671a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>US Government</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>American</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/8ce83f41-24dd-36e0-9931-091e3dd0671a"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.074</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ab670e36-5949-3aa6-a1e9-d099c2106496">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonAttributes"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/29c24cc6-ead8-3360-aa12-ffd04219ab65"/>
+         <c:age>19</c:age>
+         <c:gender>M</c:gender>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6a0e0bfd-e3b7-3ab9-aca1-a0dfc3f56e57">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ArmedAttack"/>
+         <c:partyinvolved2>US soil</c:partyinvolved2>
+         <c:attacktype>attack</c:attacktype>
+         <c:status>confirmed</c:status>
+         <c:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c78db70e-b2f9-3e92-9361-8787873baaba">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/FamilyRelation"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/cdfd9076-c9c5-3064-84ee-8379ec95cf3b"/>
+         <c:familyrelationtype>brother</c:familyrelationtype>
+         <c:person_relative rdf:resource="http://d.opencalais.com/pershash-1/15cc46fe-bd12-3b07-880c-6fccc3c402c6"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/03a8cb7e-19e5-379f-ba40-5c4d9a6b6090">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/MedicalCondition"/>
+         <c:name>injuries</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/03a8cb7e-19e5-379f-ba40-5c4d9a6b6090"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.155</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/2bc3a3f1-53f4-380d-ab50-954d227dcd45">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Watertown</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/2bc3a3f1-53f4-380d-ab50-954d227dcd45"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.093</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6a9d7801-b324-3032-b49a-14658bf051fd">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonAttributes"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/cdfd9076-c9c5-3064-84ee-8379ec95cf3b"/>
+         <c:age>19</c:age>
+         <c:gender>M</c:gender>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6937020f-e158-33e8-800e-8f26af451494">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Date"/>
+         <c:name>2013-04-15</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/6937020f-e158-33e8-800e-8f26af451494"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.312</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6017b1f7-e5da-3fac-a175-fad2261a8a03">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Date"/>
+         <c:name>2001-09-11</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373/Relevance/17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/1e47f2dc-d75e-3338-b342-f4397c592373"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/6017b1f7-e5da-3fac-a175-fad2261a8a03"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.055</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

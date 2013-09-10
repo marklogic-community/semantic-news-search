@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/23138042">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/23138042"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Nigerian security forces hunting for 175 men who escaped from a jail in the south-west of the country recapture 54 prisoners, officials say.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-01T19:06:32</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68490000/gif/_68490737_nigeria_ondo304.gif"/>
+         <rnews:headline xml:lang="en-GB">Nigeria hunt for jail breakers</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68489000/gif/_68489789_nigeria_ondo304.gif">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/23138042"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Nigeria map</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="e706ba91-6e25-89d1-13fb-dd0d3aa45cd1"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/4hVO63j*QbfG7JAimjkWSw"
+                    rdf:about="http://d.opencalais.com/dochash-1/02d7d32f-cbd8-3b3a-9f33-35acb04a7a18">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-01</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/23138042"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 05:25:46.922"
+                    rdf:about="http://d.opencalais.com/dochash-1/02d7d32f-cbd8-3b3a-9f33-35acb04a7a18/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/02d7d32f-cbd8-3b3a-9f33-35acb04a7a18"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|KQty672VjVMB3JnLBTnqnmohtZk=|VXvp/U17/E3xtb0GBHtOCQhSKhgT91pczdjn9gxQtShZ4OASQu4hZw==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/02d7d32f-cbd8-3b3a-9f33-35acb04a7a18/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/02d7d32f-cbd8-3b3a-9f33-35acb04a7a18"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/02d7d32f-cbd8-3b3a-9f33-35acb04a7a18/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/02d7d32f-cbd8-3b3a-9f33-35acb04a7a18"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/War_Conflict"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>War_Conflict</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.962</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c2f27738-ca3b-3313-9502-ff3d1c3917ab">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Olokuta prison</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/02d7d32f-cbd8-3b3a-9f33-35acb04a7a18/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/02d7d32f-cbd8-3b3a-9f33-35acb04a7a18"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c2f27738-ca3b-3313-9502-ff3d1c3917ab"/>
+         <c:relevance>0.126</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/14cad6c8-8550-327c-9770-63b3358c19c5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Nigeria</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/02d7d32f-cbd8-3b3a-9f33-35acb04a7a18/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/02d7d32f-cbd8-3b3a-9f33-35acb04a7a18"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/14cad6c8-8550-327c-9770-63b3358c19c5"/>
+         <c:relevance>0.866</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3884bdcc-59dc-3858-aef7-30bb36754bbf">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ArmedAttack"/>
+         <c:partyinvolved1>Boko Haram group</c:partyinvolved1>
+         <c:attacker>Boko Haram group</c:attacker>
+         <c:attacktype>raid</c:attacktype>
+         <c:status>confirmed</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6fcca853-0728-398d-bdb6-2390a57cdf9f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>bank robbery</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/02d7d32f-cbd8-3b3a-9f33-35acb04a7a18/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/02d7d32f-cbd8-3b3a-9f33-35acb04a7a18"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/6fcca853-0728-398d-bdb6-2390a57cdf9f"/>
+         <c:relevance>0.126</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c13c09fc-5ee3-3f37-b1e5-fab37301759c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ArmedAttack"/>
+         <c:partyinvolved1>gunmen</c:partyinvolved1>
+         <c:attacker>gunmen</c:attacker>
+         <c:weaponused>used dynamite</c:weaponused>
+         <c:status>confirmed</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/f174114a-d69e-0db6-6eff-6090be60b5e5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/02d7d32f-cbd8-3b3a-9f33-35acb04a7a18"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/14cad6c8-8550-327c-9770-63b3358c19c5"/>
+         <c:name>Nigeria</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.62185729647</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.9743328725</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/20d9451d-0ff3-3ce5-8ba8-6c271998d572">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Region"/>
+         <c:name>northern Nigeria</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/02d7d32f-cbd8-3b3a-9f33-35acb04a7a18/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/02d7d32f-cbd8-3b3a-9f33-35acb04a7a18"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/20d9451d-0ff3-3ce5-8ba8-6c271998d572"/>
+         <c:relevance>0.238</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0ffbb0c7-f4b9-3518-a14a-d90e890191bb">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ArmedAttack"/>
+         <c:status>confirmed</c:status>
+         <c:casualties>Two civilians were killed</c:casualties>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/efa24f25-351e-324f-a46f-f25b2cab1360">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ArmedAttack"/>
+         <c:partyinvolved2>a jail</c:partyinvolved2>
+         <c:attacktype>raid</c:attacktype>
+         <c:status>confirmed</c:status>
+      </rdf:Description>
+   </rdf:RDF>

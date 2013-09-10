@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-europe-23224010">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-europe-23224010"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Pope Francis visits the tiny Italian island of Lampedusa and urges help for desperate migrants who risk their lives getting there.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-08T09:47:18</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68615000/jpg/_68615903_crowd_ap.jpg"/>
+         <rnews:headline xml:lang="en-GB">Pope Francis visits migrant island</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68603000/jpg/_68603365_68603364.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-europe-23224010"/>
+         <rnews:description xml:lang="en-GB">A gust of wind lifts up Pope Francis" mantle as he stands onboard a boat at Lampedusa Island, southern Italy, July 8, 2013</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68602000/gif/_68602537__62741534_italy_lampedusa_tunisia_0912.gif">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-europe-23224010"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Map - Lampedusa location</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="7d052ab1-6d0b-9e21-13fc-231fbaa45124"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/n16ZlFDoYPYaTWCeSVgPoA"
+                    rdf:about="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-08</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-europe-23224010"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-09 02:50:23.018"
+                    rdf:about="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|00Qca0iBRJFn1ONQgBQ7vXvty74=|Qlo5WCkHeLbNAu6ehc8/MjL0QgkeZOBckuDsM/8wPsPSPyTrWd0ZRw==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/SocialIssues"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Social Issues</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.000</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0/cat/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Politics"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Politics</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.978</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/33a00dd1-4139-3444-b9f4-149624f332ea">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Argentina</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/33a00dd1-4139-3444-b9f4-149624f332ea"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.095</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/provinceorstate/ralg-geo1/5c5159b9-d2c3-3b97-85d3-5b4e3692f320">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/ProvinceOrState"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7acdcb17-60d8-35c2-ad99-3b224d74f25f"/>
+         <c:name>Massachusetts,United States</c:name>
+         <c:shortname>Massachusetts</c:shortname>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.3</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-71.8</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/fa36ccaa-3402-3be8-993a-00a6a8fbfb2e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>United Nations</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/fa36ccaa-3402-3be8-993a-00a6a8fbfb2e"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.075</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/6b07fd4e-a837-c39e-1542-e1bbca01a224">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/d3ea5506-673d-32c8-8bd2-ee861471abf6"/>
+         <c:name>Tunisia</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">35.4187354049</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9.98749209039</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/53adfe8d-742d-39ee-a385-11a179d17f1d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>open-topped car</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/53adfe8d-742d-39ee-a385-11a179d17f1d"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.172</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7acdcb17-60d8-35c2-ad99-3b224d74f25f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>Massachusetts</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7acdcb17-60d8-35c2-ad99-3b224d74f25f"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.172</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a0c4d5f7-5f1d-344a-a28a-b7dcc06af979">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Region"/>
+         <c:name>north Africa</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a0c4d5f7-5f1d-344a-a28a-b7dcc06af979"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.075</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/d20a9067-5f79-0ef1-dea4-5b40eb8a97b7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/04fb849d-b82d-38ca-8349-8db3fb64cb04"/>
+         <c:name>Malta</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">35.89972</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">14.5172</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/c44f2f03-67b8-c33f-91a6-32e28d61caba">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0808b253-dcc1-38d3-9bc9-b5820cfd004a"/>
+         <c:name>Rome,Province of Rome,Italy</c:name>
+         <c:shortname>Rome</c:shortname>
+         <c:containedbystate>Province of Rome</c:containedbystate>
+         <c:containedbycountry>Italy</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41.9</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.5</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d3ea5506-673d-32c8-8bd2-ee861471abf6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Tunisia</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/d3ea5506-673d-32c8-8bd2-ee861471abf6"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.297</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/20fefb43-b697-3e94-8e2f-273a543e5861">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/NaturalFeature"/>
+         <c:name>Lampedusa</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/20fefb43-b697-3e94-8e2f-273a543e5861"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.324</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6a4596b3-b8f0-3938-973c-fdf3461dc3b1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonTravel"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/b55eed92-6e9f-3d27-81a9-2b57e1a90d98"/>
+         <c:locationdestination rdf:resource="http://d.opencalais.com/genericHasher-1/1e6020d8-17bc-3ade-92df-3b993ac84a0a"/>
+         <c:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-08</c:date>
+         <c:datestring>8 July 2013</c:datestring>
+         <c:status>future</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/04fb849d-b82d-38ca-8349-8db3fb64cb04">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Malta</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/04fb849d-b82d-38ca-8349-8db3fb64cb04"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.075</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/b55eed92-6e9f-3d27-81a9-2b57e1a90d98">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Francis</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Francis</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/b55eed92-6e9f-3d27-81a9-2b57e1a90d98"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.431</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/09bebb87-1ef5-373d-bd01-263e77470c65">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Continent"/>
+         <c:name>Europe</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/09bebb87-1ef5-373d-bd01-263e77470c65"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.360</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/bab4ac37-5ada-d13f-5693-f24fceab7903">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/1e6020d8-17bc-3ade-92df-3b993ac84a0a"/>
+         <c:name>Italy</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.2632</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.4402833333</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/1e6020d8-17bc-3ade-92df-3b993ac84a0a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Italy</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/1e6020d8-17bc-3ade-92df-3b993ac84a0a"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.712</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/181ddcfa-0e5b-396b-8002-1d749cbab211">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>guard</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/181ddcfa-0e5b-396b-8002-1d749cbab211"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.266</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b6713b74-466c-3866-8182-23e1456a3d9b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Lampedusa's port</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b6713b74-466c-3866-8182-23e1456a3d9b"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.317</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/2a52adc7-b1da-6a4e-0a7a-14e4c8db1b11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/33a00dd1-4139-3444-b9f4-149624f332ea"/>
+         <c:name>Argentina</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-34.0</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-64.0</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0808b253-dcc1-38d3-9bc9-b5820cfd004a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Rome</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/081c27b8-453d-35c6-bd79-29ea42909be0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0808b253-dcc1-38d3-9bc9-b5820cfd004a"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.248</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

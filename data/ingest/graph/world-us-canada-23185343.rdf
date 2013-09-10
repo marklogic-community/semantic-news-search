@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-us-canada-23185343">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23185343"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">The Statue of Liberty, shut last year after a huge storm, reopens to the public as Americans everywhere mark Independence Day.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-05T13:04:25</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68551000/jpg/_68551680_68551213.jpg"/>
+         <rnews:headline xml:lang="en-GB">Statue of Liberty reopens on 4 July</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68559000/jpg/_68559158_68559157.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23185343"/>
+         <rnews:description xml:lang="en-GB">Visitors to the Statue of Liberty disembark onto Liberty Island from the first ferry to leave Manhattan as the landmark reopens on Independence Day</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68552000/jpg/_68552034_68551219.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23185343"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Fireworks for Independence Day are seen in Union Beach, New Jersey, on 3 July 2013</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="b7aae1e2-99fc-5378-13fb-ce7f7921a813"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/jVQtetewhkHpO8QfIL4ykA"
+                    rdf:about="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-05</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23185343"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 02:11:26.226"
+                    rdf:about="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|avpo8L0nAQYYXQ90JUfEYKk/XR8=|RZpf8oKETzmi0viUZh11xUskI3CLaRe4iQILOfe6IP/yq79f2oOhdg==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/bfc9070a-b30c-382b-ba06-b8d2e62adf88">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/NaturalDisaster"/>
+         <c:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-10-00</c:date>
+         <c:datestring>October</c:datestring>
+         <c:naturaldisaster>cyclone</c:naturaldisaster>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/35392401-b4ba-35d1-89df-328acadbead0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/ba132910-37ea-397d-89f2-ad72a6ed432a"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>The Associated Press GmbH</c:name>
+         <c:shortname>The Associated</c:shortname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/ba132910-37ea-397d-89f2-ad72a6ed432a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>the Associated Press</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/ba132910-37ea-397d-89f2-ad72a6ed432a"/>
+         <c:relevance>0.173</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/0d74a606-eb6b-0513-2ff7-6abc96d04d41">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/cfa8b1e4-8f48-3a1b-956f-1f44451a4ffd"/>
+         <c:name>Atlanta,Georgia,United States</c:name>
+         <c:shortname>Atlanta</c:shortname>
+         <c:containedbystate>Georgia</c:containedbystate>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">33.7489</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-84.3881</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/68abd25b-6438-3ecd-8eea-e59ace8badf5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Heather Leykam</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Heather Leykam</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/68abd25b-6438-3ecd-8eea-e59ace8badf5"/>
+         <c:relevance>0.179</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/4f5ab815-24cd-3631-9a16-58e81ef664d7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Technology"/>
+         <c:name>radiation</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/4f5ab815-24cd-3631-9a16-58e81ef664d7"/>
+         <c:relevance>0.074</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/1d1529b7-da5f-3884-8de0-c765b3b7d3a3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Washington</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/1d1529b7-da5f-3884-8de0-c765b3b7d3a3"/>
+         <c:relevance>0.554</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e5bbf719-66ae-329d-9d2f-d2e538aa0664">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/NaturalFeature"/>
+         <c:name>Hudson River</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e5bbf719-66ae-329d-9d2f-d2e538aa0664"/>
+         <c:relevance>0.138</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/92a96511-6934-3b3f-b29c-e553e155c018">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ManMadeDisaster"/>
+         <c:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-04</c:date>
+         <c:datestring>4 July</c:datestring>
+         <c:manmadedisaster>explosion</c:manmadedisaster>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7cb36d87-2ec6-3368-8ca6-89c1d2a38899">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/NaturalDisaster"/>
+         <c:effect>remains closed</c:effect>
+         <c:naturaldisaster>storm</c:naturaldisaster>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/4b474cf2-e8df-3193-86a4-8e858a5c5e37">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Philadelphia</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/4b474cf2-e8df-3193-86a4-8e858a5c5e37"/>
+         <c:relevance>0.309</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/736a403d-157b-3e80-86a7-acc404607cb2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>USD</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/736a403d-157b-3e80-86a7-acc404607cb2"/>
+         <c:relevance>0.191</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5ec709f3-8447-3db2-a70a-b4aff43a699a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>mayor</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/5ec709f3-8447-3db2-a70a-b4aff43a699a"/>
+         <c:relevance>0.290</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/8a019bc4-c15c-82e8-2701-4ebe5ae27174">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/4b474cf2-e8df-3193-86a4-8e858a5c5e37"/>
+         <c:name>Philadelphia,Tennessee,United States</c:name>
+         <c:shortname>Philadelphia</c:shortname>
+         <c:containedbystate>Tennessee</c:containedbystate>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">36.169827</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-82.6365365</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/7f2145a4-587a-b325-469c-f92b2bcdf9d3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/1787db7a-17ee-3137-a565-3c55d743c1d2"/>
+         <c:name>New Orleans,Louisiana,Louisiana</c:name>
+         <c:shortname>New Orleans</c:shortname>
+         <c:containedbystate>Louisiana</c:containedbystate>
+         <c:containedbycountry>Louisiana</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">29.9728</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-90.059</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/84dccb60-5afd-30dd-9d2d-5fcc1af70d0c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>GBP</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/84dccb60-5afd-30dd-9d2d-5fcc1af70d0c"/>
+         <c:relevance>0.191</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>United Kingdom</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16"/>
+         <c:relevance>0.059</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/1787db7a-17ee-3137-a565-3c55d743c1d2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>New Orleans</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/1787db7a-17ee-3137-a565-3c55d743c1d2"/>
+         <c:relevance>0.309</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/0dabf767-ec51-34a3-8c5f-5540d5c82bad">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Neil Diamond</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Neil Diamond</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/0dabf767-ec51-34a3-8c5f-5540d5c82bad"/>
+         <c:relevance>0.066</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/4bd2b5f0-515b-ca0e-8698-3c8cace21ac2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/aace28ec-e4e2-3ad0-9a59-806a900252a9"/>
+         <c:name>Boston,Massachusetts,United States</c:name>
+         <c:shortname>Boston</c:shortname>
+         <c:containedbystate>Massachusetts</c:containedbystate>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.3583</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-71.0603</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/cafb62e9-bb9e-30a1-a6ac-b84d347ba8c9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>New York monument</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/cafb62e9-bb9e-30a1-a6ac-b84d347ba8c9"/>
+         <c:relevance>0.314</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/f497898f-2b9b-7cda-ec7b-85d896acbe3e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/1d1529b7-da5f-3884-8de0-c765b3b7d3a3"/>
+         <c:name>Washington,United States</c:name>
+         <c:shortname>Washington</c:shortname>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">38.89</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-77.03</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/296b644c-1e5d-3bdf-a9ce-140838c43b69">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>National Park Service</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/296b644c-1e5d-3bdf-a9ce-140838c43b69"/>
+         <c:relevance>0.228</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a3facf6e-bcef-3436-a62f-80ceb70bd6b4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Statue of Liberty</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a3facf6e-bcef-3436-a62f-80ceb70bd6b4"/>
+         <c:relevance>0.354</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/90fcb57b-05b8-3d6a-a8ef-bae93e34dfa8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Holiday"/>
+         <c:name>Independence Day</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/90fcb57b-05b8-3d6a-a8ef-bae93e34dfa8"/>
+         <c:relevance>0.583</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/83519291-578e-3651-9517-b86e5d5df944">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>New York City</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541/Relevance/17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/83519291-578e-3651-9517-b86e5d5df944"/>
+         <c:relevance>0.138</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e1ed5073-f99c-31ec-b3ca-62beecff9edf">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>hand-held chemical detectors</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541/Relevance/18">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e1ed5073-f99c-31ec-b3ca-62beecff9edf"/>
+         <c:relevance>0.074</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/061cb174-6614-3a78-9a84-d652f932baf8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Taylor Swift</c:name>
+         <c:persontype>entertainment</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Taylor Swift</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541/Relevance/19">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/061cb174-6614-3a78-9a84-d652f932baf8"/>
+         <c:relevance>0.138</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/8b41a8c8-c81b-3d5c-9901-8620a0851696">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Movie"/>
+         <c:name>Declaration of Independence</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541/Relevance/20">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/8b41a8c8-c81b-3d5c-9901-8620a0851696"/>
+         <c:relevance>0.059</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/cfa8b1e4-8f48-3a1b-956f-1f44451a4ffd">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Atlanta</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541/Relevance/21">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/cfa8b1e4-8f48-3a1b-956f-1f44451a4ffd"/>
+         <c:relevance>0.309</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/aace28ec-e4e2-3ad0-9a59-806a900252a9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Boston</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541/Relevance/22">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/aace28ec-e4e2-3ad0-9a59-806a900252a9"/>
+         <c:relevance>0.491</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/afa35744-6f2b-39ad-a308-185c4cc6cc8e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Barry Manilow</c:name>
+         <c:persontype>entertainment</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Barry Manilow</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541/Relevance/23">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/afa35744-6f2b-39ad-a308-185c4cc6cc8e"/>
+         <c:relevance>0.066</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/152649df-347e-e289-1a9e-acc883e07d17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:name>United States</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.4230003233</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-98.7372244786</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/b3719a18-c511-51a8-b3f9-f8480b3b6e48">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/9f45e0f5-aa73-39b8-b39e-2a1546da820a"/>
+         <c:name>New York City,New York,United States</c:name>
+         <c:shortname>New York City</c:shortname>
+         <c:containedbystate>New York</c:containedbystate>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.7142</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-74.0064</c:longitude>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/83519291-578e-3651-9517-b86e5d5df944"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/2119e852-9933-31f1-be07-17bbe9a9337c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ArmedAttack"/>
+         <c:attacktype>bombing</c:attacktype>
+         <c:status>confirmed</c:status>
+         <c:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/9f45e0f5-aa73-39b8-b39e-2a1546da820a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>New York</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541/Relevance/24">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/9f45e0f5-aa73-39b8-b39e-2a1546da820a"/>
+         <c:relevance>0.290</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>United States</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541/Relevance/25">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:relevance>0.525</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/4f716f48-d0a9-3386-9be5-fc128cb87a1f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>electrical systems</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541/Relevance/26">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/4f716f48-d0a9-3386-9be5-fc128cb87a1f"/>
+         <c:relevance>0.245</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/4dbfaab6-f8cb-3678-8e0e-bf467e075aa6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Reuters</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541/Relevance/27">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/4dbfaab6-f8cb-3678-8e0e-bf467e075aa6"/>
+         <c:relevance>0.084</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/dbea25c4-97f0-30cf-9802-66cdda48876d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/4dbfaab6-f8cb-3678-8e0e-bf467e075aa6"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>THOMSON REUTERS GROUP LIMITED</c:name>
+         <c:shortname>Thmsn Reuters</c:shortname>
+         <c:ticker>TRIGP</c:ticker>
+         <c:symbol>TRIGP.UL</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/293b339f-affa-3966-962f-f0a175b944e4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>National Mall</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541/Relevance/28">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/293b339f-affa-3966-962f-f0a175b944e4"/>
+         <c:relevance>0.066</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/9cdc126f-6826-0cbd-df3a-00a4032f0e7e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16"/>
+         <c:name>United Kingdom</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">53.1142456495</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-2.57711368423</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/1304fffe-f320-3911-ab13-659ed389c920">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>Washington</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541/Relevance/29">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/1304fffe-f320-3911-ab13-659ed389c920"/>
+         <c:relevance>0.309</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7a26ca78-4ec8-3922-9dcc-8dbd5a0ec24e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>US national security official</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541/Relevance/30">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7a26ca78-4ec8-3922-9dcc-8dbd5a0ec24e"/>
+         <c:relevance>0.084</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/bd957062-51c1-3404-9dbe-6e2d74851971">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCommunication"/>
+         <c:persondescription>US national security official</c:persondescription>
+         <c:organizationorcompany rdf:resource="http://d.opencalais.com/genericHasher-1/32b43f2f-2d2f-3999-86e7-cd0cc859bb92"/>
+         <c:status>announced</c:status>
+         <c:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-03</c:date>
+         <c:datestring>Wednesday</c:datestring>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/82c00d2c-7ebe-3b45-8a14-a40ba69cd55b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Liberty Island</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Liberty Island</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541/Relevance/31">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/82c00d2c-7ebe-3b45-8a14-a40ba69cd55b"/>
+         <c:relevance>0.491</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/32b43f2f-2d2f-3999-86e7-cd0cc859bb92">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Reuters</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541/Relevance/32">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/32b43f2f-2d2f-3999-86e7-cd0cc859bb92"/>
+         <c:relevance>0.084</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6937020f-e158-33e8-800e-8f26af451494">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Date"/>
+         <c:name>2013-04-15</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541/Relevance/33">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/16c38fd8-1324-3335-ad16-4bd27a284541"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/6937020f-e158-33e8-800e-8f26af451494"/>
+         <c:relevance>0.108</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

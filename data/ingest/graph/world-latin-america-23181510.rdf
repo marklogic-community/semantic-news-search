@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-latin-america-23181510">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-latin-america-23181510"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">The BBC's Irene Caselli reports from the Petare slum near Venezuela's capital, where troops have been deployed to fight crime.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-05T00:50:27</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68554000/jpg/_68554548_68554541.jpg"/>
+         <rnews:headline xml:lang="en-GB">Crime-fighting in Venezuela's toughest slum</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68552000/jpg/_68552002_006.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-latin-america-23181510"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">Soldiers and police in Petare</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68552000/jpg/_68552088_basketball.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-latin-america-23181510"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</rnews:height>
+         <rnews:description xml:lang="en-GB">Basketball players in Petare</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68554000/jpg/_68554058_hi017738163.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-latin-america-23181510"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</rnews:height>
+         <rnews:description xml:lang="en-GB">Venezuelans queue to vote, April file picture</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68554000/jpg/_68554065_68554061.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-latin-america-23181510"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Supporters of Venezuelan opposition presidential candidate Henrique Capriles have a poster with his picture at their home in the Petare slum in Caracas on April 13</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="7d99a1d5-fe47-e847-13fb-dd737f21c9e5"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/9M6nJP1585B241l*hLUXUQ"
+                    rdf:about="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-05</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-latin-america-23181510"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 05:32:45.825"
+                    rdf:about="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|Nz4fiXZB3J/kQTq4eyy2ivZ97ao=|UKbCt1x5kNBJilzDwuBj5UwnjScjceoPcapXsgphOu4/ZwS1HEUShA==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Politics"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Politics</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.807</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d/cat/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/War_Conflict"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>War_Conflict</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.570</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/c08f5175-cd9b-35dc-b7e6-416d45734ddf">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Henrique Capriles</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Henrique Capriles</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/c08f5175-cd9b-35dc-b7e6-416d45734ddf"/>
+         <c:relevance>0.275</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/bd3565b0-e4ca-3f03-9e47-6b4866a26050">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/bd7aa060-d9e0-34b5-af0d-58352396745b"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/967f7664-20eb-3a15-9438-3fbe5396d04c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Marco Rojas</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Marco Rojas</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/967f7664-20eb-3a15-9438-3fbe5396d04c"/>
+         <c:relevance>0.242</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/83932814-5900-390b-879f-56fc1d12fe7c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>disarmament law</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/83932814-5900-390b-879f-56fc1d12fe7c"/>
+         <c:relevance>0.109</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7c86ec8f-1c0a-38f5-bb97-c702af14a8fa">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Colombia</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7c86ec8f-1c0a-38f5-bb97-c702af14a8fa"/>
+         <c:relevance>0.133</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/df18b91e-c25b-391d-a552-c9ae71e627e0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Region"/>
+         <c:name>Latin America</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/df18b91e-c25b-391d-a552-c9ae71e627e0"/>
+         <c:relevance>0.140</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5ec709f3-8447-3db2-a70a-b4aff43a699a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>mayor</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/5ec709f3-8447-3db2-a70a-b4aff43a699a"/>
+         <c:relevance>0.075</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a625182e-f22e-3ba1-9c15-85b14593aa6a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>United Nations Office on Drugs and Crime</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a625182e-f22e-3ba1-9c15-85b14593aa6a"/>
+         <c:relevance>0.280</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/f99b5dd0-60b4-3f66-be50-94777551b00d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/MilitaryAction"/>
+         <c:military>Nicolas Maduro</c:military>
+         <c:action>deployed the army</c:action>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/51fa799f-2f2b-39f9-b00e-4e42a9906da6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>vice-minister</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/51fa799f-2f2b-39f9-b00e-4e42a9906da6"/>
+         <c:relevance>0.242</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/142c6072-e482-3db0-84ee-44bb9df61316">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/MedicalCondition"/>
+         <c:name>cancer</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/142c6072-e482-3db0-84ee-44bb9df61316"/>
+         <c:relevance>0.213</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/bc235027-c36f-33c7-ba38-fa8a5a8aa7c8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/3df51783-395a-3aed-8980-272526d8ad27"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/3df51783-395a-3aed-8980-272526d8ad27">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Nicolas Maduro</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Nicolas Maduro</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/3df51783-395a-3aed-8980-272526d8ad27"/>
+         <c:relevance>0.527</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/f5443313-efee-3082-b177-f214e7ff30a8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Venezuelan Violence Observatory</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/f5443313-efee-3082-b177-f214e7ff30a8"/>
+         <c:relevance>0.183</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/611aeccd-5036-301b-ba14-222e285ccc21">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ArmedAttack"/>
+         <c:status>confirmed</c:status>
+         <c:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7f04f46f-faf0-3d43-ae93-c84d038b2c59">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Region"/>
+         <c:name>Central America</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7f04f46f-faf0-3d43-ae93-c84d038b2c59"/>
+         <c:relevance>0.285</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/bd7aa060-d9e0-34b5-af0d-58352396745b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Hugo Chavez</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Hugo Chavez</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/bd7aa060-d9e0-34b5-af0d-58352396745b"/>
+         <c:relevance>0.386</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>President</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e"/>
+         <c:relevance>0.502</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/e65a612a-ab88-46b1-1334-1efa15bba910">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/36daa760-d1f8-30fe-8879-608d6e85d260"/>
+         <c:name>Venezuela</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9.39275359477</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-66.3562091503</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7e89aa60-ed18-32e8-85bd-78f8d52d550f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>army</c:name>
+         <c:organizationtype>governmental military</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7e89aa60-ed18-32e8-85bd-78f8d52d550f"/>
+         <c:relevance>0.608</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a5dbf278-cfb1-3063-96ec-50022f13a586">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/c08f5175-cd9b-35dc-b7e6-416d45734ddf"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/5793ea6b-5771-3ac7-b643-74d4e01cb271"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5793ea6b-5771-3ac7-b643-74d4e01cb271">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>opposition leader</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/5793ea6b-5771-3ac7-b643-74d4e01cb271"/>
+         <c:relevance>0.083</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/1510a574-aefd-f875-05b1-74d693f403d7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/1464ff8c-f29e-3fc5-b386-0aba5f15928d"/>
+         <c:name>Caracas,Venezuelan Capital District,Venezuela</c:name>
+         <c:shortname>Caracas</c:shortname>
+         <c:containedbystate>Venezuelan Capital District</c:containedbystate>
+         <c:containedbycountry>Venezuela</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.4999647784</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-66.8991851807</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/013215f6-a58f-3ff3-89eb-dde5eb9cf3d7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Sucre</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d/Relevance/17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/013215f6-a58f-3ff3-89eb-dde5eb9cf3d7"/>
+         <c:relevance>0.213</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/36daa760-d1f8-30fe-8879-608d6e85d260">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Venezuela</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d/Relevance/18">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/36daa760-d1f8-30fe-8879-608d6e85d260"/>
+         <c:relevance>0.606</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/505900fb-dc4d-3da6-8a66-707e4c6ce9b2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/MilitaryAction"/>
+         <c:military>army</c:military>
+         <c:action>the army was deployed</c:action>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7b12b7bf-1742-32e7-a7f7-6af3f1c63e69">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/967f7664-20eb-3a15-9438-3fbe5396d04c"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/322a2946-7806-32aa-89f8-ebdddbae32c7"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/60ed63f1-f8db-3310-9a47-bb97a8b00cc3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>National Assembly</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d/Relevance/19">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/60ed63f1-f8db-3310-9a47-bb97a8b00cc3"/>
+         <c:relevance>0.109</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/3afc2958-b98c-377d-a233-ec781ea501a3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Roberto Briceno</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Roberto Briceno</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d/Relevance/20">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/3afc2958-b98c-377d-a233-ec781ea501a3"/>
+         <c:relevance>0.404</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/25446782-e2cc-af0a-fdb0-3e5d61d0fbb9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7c86ec8f-1c0a-38f5-bb97-c702af14a8fa"/>
+         <c:name>Colombia</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.06888975297</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-74.5263342826</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/1464ff8c-f29e-3fc5-b386-0aba5f15928d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Caracas</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d/Relevance/21">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/1464ff8c-f29e-3fc5-b386-0aba5f15928d"/>
+         <c:relevance>0.263</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/322a2946-7806-32aa-89f8-ebdddbae32c7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>vice-minister of citizen security</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d/Relevance/22">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/322a2946-7806-32aa-89f8-ebdddbae32c7"/>
+         <c:relevance>0.242</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/bcbb9c8a-5df3-32e9-89f1-e06328ee5eaa">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Date"/>
+         <c:name>2012-00-00</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d/Relevance/23">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/fba014f9-9a7b-3c29-8b3c-e09486f8c72d"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/bcbb9c8a-5df3-32e9-89f1-e06328ee5eaa"/>
+         <c:relevance>0.161</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

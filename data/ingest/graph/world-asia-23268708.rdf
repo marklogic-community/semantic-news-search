@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-asia-23268708">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-asia-23268708"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Malala Yousafzai, the Pakistani girl shot by the Taliban, has changed the destiny of some children in her country - but many remain uneducated, reports Orla Guerin.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-11T11:58:56</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68669000/png/_68669073_screenshot2013-07-11at13.14.00.png"/>
+         <rnews:headline xml:lang="en-GB">Pakistan's fight for education right</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68671000/jpg/_68671451_68671450.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-asia-23268708"/>
+         <rnews:description xml:lang="en-GB">Schoolchildren in Pakistan</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68672000/jpg/_68672280_155966572.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-asia-23268708"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">File photo of Pakistani children hold up posters of Malala Yousafzai (10 November 2012)</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68668000/png/_68668849_screenshot2013-07-11at13.19.08.png">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-asia-23268708"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">School in Pakistan</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68668000/png/_68668505_screenshot2013-07-11at12.50.58.png">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-asia-23268708"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</rnews:height>
+         <rnews:description xml:lang="en-GB">Jeeni and her family in southern province of Sindh</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="a72795b1-b786-2e5d-13fd-1291d011a813"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/JYjq0Ynv2GjU7YjKMLIKFg"
+                    rdf:about="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-11</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-asia-23268708"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-12 00:34:59.985"
+                    rdf:about="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|AiBoQsPiaDKpcrMCKkmSMdIAWeQ=|fJ7mbdxxdJmAeJHW/UNgN2ue1igoknUrGYY5NwdYTetMJpoxfywApg==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Education"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Education</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.908</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/7a176181-14fd-39de-b209-d0a757332923">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Genu</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Genu</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/7a176181-14fd-39de-b209-d0a757332923"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.072</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7688484e-d106-3c51-a29c-b425a8b23c09">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>policewoman</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7688484e-d106-3c51-a29c-b425a8b23c09"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.246</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b4bd5400-e246-3b8c-947a-6052147edb4b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonAttributes"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/4464754b-32d9-3570-9687-82991f996ada"/>
+         <c:age>10</c:age>
+         <c:gender>M</c:gender>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/provinceorstate/ralg-geo1/4ae498a8-73c1-7337-7594-b7193676034d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/ProvinceOrState"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/09ae04d5-9ac0-3982-ac18-a9d040f466cd"/>
+         <c:name>Sindh,Pakistan</c:name>
+         <c:shortname>Sindh</c:shortname>
+         <c:containedbycountry>Pakistan</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">25.5</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">69.0</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/29535d0e-283c-39db-9f54-9055f2b13180">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Malala Yousafzai</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Malala Yousafzai</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/29535d0e-283c-39db-9f54-9055f2b13180"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.686</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/736a403d-157b-3e80-86a7-acc404607cb2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>USD</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/736a403d-157b-3e80-86a7-acc404607cb2"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.086</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d0a067f4-c3c2-30c4-9437-7361127f8904">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>teacher</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/d0a067f4-c3c2-30c4-9437-7361127f8904"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.169</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/fec321af-b6f5-3ca9-a656-f0e30362207a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>PKR</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/fec321af-b6f5-3ca9-a656-f0e30362207a"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.086</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/abbee82a-c16d-31bb-9aac-c65ec9e97f32">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/FamilyRelation"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/4464754b-32d9-3570-9687-82991f996ada"/>
+         <c:familyrelationtype>father</c:familyrelationtype>
+         <c:person_relative rdf:resource="http://d.opencalais.com/pershash-1/7a176181-14fd-39de-b209-d0a757332923"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/4a0d6fa8-6e3c-3868-84c1-5b24bec428aa">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCommunication"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/4464754b-32d9-3570-9687-82991f996ada"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/4464754b-32d9-3570-9687-82991f996ada"/>
+         <c:status>announced</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/84dccb60-5afd-30dd-9d2d-5fcc1af70d0c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>GBP</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/84dccb60-5afd-30dd-9d2d-5fcc1af70d0c"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.086</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a6cf37ec-172c-3752-ba81-3b84c86b5827">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Hyderabad</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a6cf37ec-172c-3752-ba81-3b84c86b5827"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.108</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5e60f517-59f7-3f0d-92fa-c1d062a000db">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Taliban</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/5e60f517-59f7-3f0d-92fa-c1d062a000db"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.337</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ddd12c49-9464-38b8-842d-68b9b29a37f7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ArmedAttack"/>
+         <c:partyinvolved1>Taliban gunman</c:partyinvolved1>
+         <c:attacker>Taliban gunman</c:attacker>
+         <c:status>confirmed</c:status>
+         <c:casualties>shot Malala Yousafzai</c:casualties>
+         <c:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/4464754b-32d9-3570-9687-82991f996ada">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Jeeni</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Jeeni</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/4464754b-32d9-3570-9687-82991f996ada"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.325</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/19f964da-6b1c-3241-a445-e76da1711b0f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Pakistan</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/19f964da-6b1c-3241-a445-e76da1711b0f"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.577</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>BBC</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.108</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/45f580fb-abf8-c6e8-9bdb-42fdf498ee5d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a6cf37ec-172c-3752-ba81-3b84c86b5827"/>
+         <c:name>Hyderabad,Sindh,Pakistan</c:name>
+         <c:shortname>Hyderabad</c:shortname>
+         <c:containedbystate>Sindh</c:containedbystate>
+         <c:containedbycountry>Pakistan</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">25.3792</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">68.3683</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/584ef92d-79a8-3d03-8b17-681fa3786037">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Qurratul Ain</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Qurratul Ain</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/584ef92d-79a8-3d03-8b17-681fa3786037"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.287</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/01ae6c31-4674-3f25-ad23-e2ed41bc67a2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Qurratul Ain Sheikh</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Qurratul Ain Sheikh</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/01ae6c31-4674-3f25-ad23-e2ed41bc67a2"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.311</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/4e075844-d2e0-0e4c-800c-8c62716bed8c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/19f964da-6b1c-3241-a445-e76da1711b0f"/>
+         <c:name>Pakistan</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">32.0162446402</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">71.6925823299</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/dc412181-8bb4-3b60-b960-3c9e664a16c5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/01ae6c31-4674-3f25-ad23-e2ed41bc67a2"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/d8cf72c9-87c0-3eea-886f-df42c6a2e936"/>
+         <c:organization rdf:resource="http://d.opencalais.com/genericHasher-1/5e60f517-59f7-3f0d-92fa-c1d062a000db"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/400c200a-b30f-310f-a25b-0c1fbc9facf2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Region"/>
+         <c:name>northern Pakistan</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/400c200a-b30f-310f-a25b-0c1fbc9facf2"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.308</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/f5b80f30-c2cf-3f88-86b3-106f60349583">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>United Nations Educational, Scientific and Cultural Organization</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/f5b80f30-c2cf-3f88-86b3-106f60349583"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.148</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/7a6a4835-2d42-388a-97e8-ef689d5745f0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>BRITISH BROADCASTING CORPORATION</c:name>
+         <c:shortname>BBC</c:shortname>
+         <c:ticker>BBC</c:ticker>
+         <c:symbol>TBBC.UL</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d8cf72c9-87c0-3eea-886f-df42c6a2e936">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>local aid worker</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56/Relevance/17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/d8cf72c9-87c0-3eea-886f-df42c6a2e936"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.306</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/09ae04d5-9ac0-3982-ac18-a9d040f466cd">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>Sindh</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56/Relevance/18">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/09ae04d5-9ac0-3982-ac18-a9d040f466cd"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.108</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/76f810e2-5583-321d-b39c-0828533caecb">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/NaturalFeature"/>
+         <c:name>Swat Valley</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56/Relevance/19">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/76f810e2-5583-321d-b39c-0828533caecb"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.308</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/28fcb02d-aea6-363b-a6f8-d41b62515ad4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Date"/>
+         <c:name>2012-10-00</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56/Relevance/20">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/38a0f8b3-2fd4-3f41-b70b-47a5e3065d56"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/28fcb02d-aea6-363b-a6f8-d41b62515ad4"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.308</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

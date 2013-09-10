@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-asia-22965046">
+      <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+      <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-asia-22965046"/>
+      <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+      <rnews:description xml:lang="en-GB">Afghanistan suspends talks on a bilateral security agreement with the US, after Washington's announcement of peace talks with the Taliban.</rnews:description>
+      <rnews:datePublished datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-06-19T11:56:56</rnews:datePublished>
+      <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68254000/jpg/_68254400_karzai1.jpg"/>
+      <rnews:headline xml:lang="en-GB">US Taliban move prompts Afghan ire</rnews:headline>
+      <rnews:articleSection datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+      <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68253000/jpg/_68253003_018356839.jpg">
+      <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+      <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-asia-22965046"/>
+      <rnews:width datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+      <rnews:height datatype="http://www.w3.org/2001/XMLSchema#integer">261</rnews:height>
+      <rnews:description xml:lang="en-GB">Taliban political office in Doha, Qatar. 18 June 2013</rnews:description>
+      <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+   </rdf:Description>
+</rdf:RDF>

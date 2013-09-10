@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-africa-23230999">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-africa-23230999"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Nigerian writer Tope Folarin wins this year's Caine Prize for African Writing, regarded as Africa's leading literary award, for a story set in an evangelical church in the US.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-09T00:25:13</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68618000/jpg/_68618357_tope-folarin.jpg"/>
+         <rnews:headline xml:lang="en-GB">Nigerian author wins Caine prize</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68618000/jpg/_68618405_tope-folarin.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-africa-23230999"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</rnews:height>
+         <rnews:description xml:lang="en-GB">Tope Folarin on 8 July 2013</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="2c062240-3e63-bff0-13fc-231d7464b751"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/k97emL6Dc5RQN-cEi2bEQA"
+                    rdf:about="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-09</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-africa-23230999"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-09 01:50:13.702"
+                    rdf:about="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|WsjIBU1rxEyK4jJ+NrlVWJ1+utg=|d6FN/HWLJ8ZyjrAEHkeN9ffBWJ8/F0UWQ7nC8uchgMslSBY9RZd3Fw==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b3256333-ce9f-36da-b2c5-f0c45851e917">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Bombay</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b3256333-ce9f-36da-b2c5-f0c45851e917"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.073</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/22b7ced9-f8a7-328d-b061-241cb9bc908a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Continent"/>
+         <c:name>America</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/22b7ced9-f8a7-328d-b061-241cb9bc908a"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.264</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b6607136-0945-32d7-b4fa-a99019467fd9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>Texas</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b6607136-0945-32d7-b4fa-a99019467fd9"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.317</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/194ffc45-1ce8-39d2-8dd6-f93609678312">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Oxford University</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/194ffc45-1ce8-39d2-8dd6-f93609678312"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.179</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/135c9f57-5b63-337e-832d-fcf1dc43afbb">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Abubakar Adam Ibrahim</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Abubakar Adam Ibrahim</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/135c9f57-5b63-337e-832d-fcf1dc43afbb"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.284</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/a7aae4f0-bc2e-a0dd-fb8d-68ce32c9261f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/1392ceb5-2e55-3aa1-b7aa-e5bd21fd3c00"/>
+         <c:name>Myanmar</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">19.876064</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">96.0451826667</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/64e7d2c2-251a-3f0a-a0d8-15deb6f72503">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>chair</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/64e7d2c2-251a-3f0a-a0d8-15deb6f72503"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.179</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/736a403d-157b-3e80-86a7-acc404607cb2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>USD</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/736a403d-157b-3e80-86a7-acc404607cb2"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.317</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/14cad6c8-8550-327c-9770-63b3358c19c5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Nigeria</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/14cad6c8-8550-327c-9770-63b3358c19c5"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.321</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/84dccb60-5afd-30dd-9d2d-5fcc1af70d0c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>GBP</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/84dccb60-5afd-30dd-9d2d-5fcc1af70d0c"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.317</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/c205e069-c654-300a-bf7e-c2d32e53ae13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Gus Casely-Hayford</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Gus Casely-Hayford</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/c205e069-c654-300a-bf7e-c2d32e53ae13"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.199</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>United Kingdom</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.179</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/19cc1d3f-0865-39b0-b3d6-b3739cf3e66a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Continent"/>
+         <c:name>Africa</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/19cc1d3f-0865-39b0-b3d6-b3739cf3e66a"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.287</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/38f7040a-a3bd-3da5-b704-6600a2ddc98d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Tope Folarin</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Tope Folarin</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/38f7040a-a3bd-3da5-b704-6600a2ddc98d"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.684</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/489f3dd1-da78-3332-8958-e16e50e8de90">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Oxford University</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/489f3dd1-da78-3332-8958-e16e50e8de90"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.179</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/b628c9a1-757c-9eeb-051d-d9f2c10aeace">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/09f51c54-f89a-3208-9b4e-b002d4f31f78"/>
+         <c:name>Sierra Leone</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.47312777778</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-12.2464509259</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/c653a2cb-a1dd-3a05-8f92-6c56cdba9a7c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Rotimi Babatunde</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Rotimi Babatunde</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/c653a2cb-a1dd-3a05-8f92-6c56cdba9a7c"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.082</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/152649df-347e-e289-1a9e-acc883e07d17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:name>United States</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.4230003233</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-98.7372244786</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/f174114a-d69e-0db6-6eff-6090be60b5e5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/14cad6c8-8550-327c-9770-63b3358c19c5"/>
+         <c:name>Nigeria</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.62185729647</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.9743328725</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/provinceorstate/ralg-geo1/62914270-0a1c-1bcc-880e-6dbe9fb82eb9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/ProvinceOrState"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b6607136-0945-32d7-b4fa-a99019467fd9"/>
+         <c:name>Texas,United States</c:name>
+         <c:shortname>Texas</c:shortname>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">31.4484328889</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-97.7816569778</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>United States</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.317</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/be289820-278e-3e03-95b4-bde047f8157a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Bodleian Library</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a/Relevance/17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/be289820-278e-3e03-95b4-bde047f8157a"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.179</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/f71d0424-673e-3bac-ac08-fc0ec5dce1f4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/NaturalFeature"/>
+         <c:name>Sierra Leone</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a/Relevance/18">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/f71d0424-673e-3bac-ac08-fc0ec5dce1f4"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.236</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7dfad4d4-520a-324c-80a7-c2223b189ff0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Bayan</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a/Relevance/19">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7dfad4d4-520a-324c-80a7-c2223b189ff0"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.264</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/1392ceb5-2e55-3aa1-b7aa-e5bd21fd3c00">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Myanmar</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a/Relevance/20">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/1392ceb5-2e55-3aa1-b7aa-e5bd21fd3c00"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.073</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/9cdc126f-6826-0cbd-df3a-00a4032f0e7e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16"/>
+         <c:name>United Kingdom</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">53.1142456495</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-2.57711368423</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/c50a2563-773b-3d65-8316-3582cb13d260">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Bayan Layi</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Bayan Layi</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a/Relevance/21">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/c50a2563-773b-3d65-8316-3582cb13d260"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.264</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/ac6f4ab8-e3fd-d98d-2e36-0fd7abfc4c53">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b3256333-ce9f-36da-b2c5-f0c45851e917"/>
+         <c:name>Mumbai,Maharashtra,India</c:name>
+         <c:shortname>Mumbai</c:shortname>
+         <c:containedbystate>Maharashtra</c:containedbystate>
+         <c:containedbycountry>India</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">18.9647222222</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">72.8258333333</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/09f51c54-f89a-3208-9b4e-b002d4f31f78">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Sierra Leone</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a/Relevance/22">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f542479d-2738-3069-9ff6-aa781512ce6a"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/09f51c54-f89a-3208-9b4e-b002d4f31f78"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.236</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-latin-america-23158239">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-latin-america-23158239"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">A suspect in the disappearance of 12 young revellers from a bar in Mexico City is found dead, his body badly burned.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-03T09:05:28</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68519000/jpg/_68519079_heaven3.jpg"/>
+         <rnews:headline xml:lang="en-GB">Mexico kidnap suspect found dead</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/67983000/jpg/_67983516_compositeap.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-latin-america-23158239"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Composite picture of 10 of the missing </rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="27c46817-c9b9-569a-13fb-dd433af45124"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/GKjsR4vFTCASiIdWIdmrrQ"
+                    rdf:about="http://d.opencalais.com/dochash-1/5dbec6cd-7032-339e-9333-f8fd19e061bf">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-03</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-latin-america-23158239"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 06:29:28.127"
+                    rdf:about="http://d.opencalais.com/dochash-1/5dbec6cd-7032-339e-9333-f8fd19e061bf/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/5dbec6cd-7032-339e-9333-f8fd19e061bf"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|BL2sS98fOeR/NMoVclsJupAKu6Y=|Hgr9lMzcvnHz3C9XjaKL/X83hips0lYp0/n5cXxi52EiIFguBkgWQg==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/5dbec6cd-7032-339e-9333-f8fd19e061bf/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/5dbec6cd-7032-339e-9333-f8fd19e061bf"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/5dbec6cd-7032-339e-9333-f8fd19e061bf/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/5dbec6cd-7032-339e-9333-f8fd19e061bf"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Law_Crime"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Law_Crime</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.876</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/92956dc3-4c11-340f-b4b5-1266cd1c7c5c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Mexico</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/5dbec6cd-7032-339e-9333-f8fd19e061bf/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/5dbec6cd-7032-339e-9333-f8fd19e061bf"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/92956dc3-4c11-340f-b4b5-1266cd1c7c5c"/>
+         <c:relevance>0.593</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/b9eb9572-bf57-3aaf-ba1c-178e02ca5de7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Dax Rodriguez Ledezma</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Dax Rodriguez Ledezma</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/5dbec6cd-7032-339e-9333-f8fd19e061bf/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/5dbec6cd-7032-339e-9333-f8fd19e061bf"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/b9eb9572-bf57-3aaf-ba1c-178e02ca5de7"/>
+         <c:relevance>0.738</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/152649df-347e-e289-1a9e-acc883e07d17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/5dbec6cd-7032-339e-9333-f8fd19e061bf"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:name>United States</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.4230003233</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-98.7372244786</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a3becf3b-e475-3c64-8e48-ef612fdf14d7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Morales police</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/5dbec6cd-7032-339e-9333-f8fd19e061bf/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/5dbec6cd-7032-339e-9333-f8fd19e061bf"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a3becf3b-e475-3c64-8e48-ef612fdf14d7"/>
+         <c:relevance>0.102</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/4edfc924-721a-bb77-4d54-47bade86ea5d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/5dbec6cd-7032-339e-9333-f8fd19e061bf"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/92956dc3-4c11-340f-b4b5-1266cd1c7c5c"/>
+         <c:name>Mexico</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">19.0</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-99.0</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/bdb0951d-64e6-8b38-6538-df06e3ce2bbf">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/5dbec6cd-7032-339e-9333-f8fd19e061bf"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3dd9185f-430a-3664-9202-aef0f24e42b6"/>
+         <c:name>Huitzilac,Morelos,Mexico</c:name>
+         <c:shortname>Huitzilac</c:shortname>
+         <c:containedbystate>Morelos</c:containedbystate>
+         <c:containedbycountry>Mexico</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">19.0</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-99.1722</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>United States</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/5dbec6cd-7032-339e-9333-f8fd19e061bf/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/5dbec6cd-7032-339e-9333-f8fd19e061bf"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:relevance>0.076</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ff015daf-1c37-3c5a-b203-037e8fb42a08">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Heaven bar</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/5dbec6cd-7032-339e-9333-f8fd19e061bf/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/5dbec6cd-7032-339e-9333-f8fd19e061bf"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/ff015daf-1c37-3c5a-b203-037e8fb42a08"/>
+         <c:relevance>0.315</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/aff31fe5-a3c4-3842-9e42-f60f0dd8fa2b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Mexico City</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/5dbec6cd-7032-339e-9333-f8fd19e061bf/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/5dbec6cd-7032-339e-9333-f8fd19e061bf"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/aff31fe5-a3c4-3842-9e42-f60f0dd8fa2b"/>
+         <c:relevance>0.260</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/575cf023-6ed7-3099-bad4-bf25c5fcc3eb">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>AP</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/5dbec6cd-7032-339e-9333-f8fd19e061bf/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/5dbec6cd-7032-339e-9333-f8fd19e061bf"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/575cf023-6ed7-3099-bad4-bf25c5fcc3eb"/>
+         <c:relevance>0.102</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a853a04a-5415-38b5-8ce9-54ac4605e11e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>Tepito</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/5dbec6cd-7032-339e-9333-f8fd19e061bf/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/5dbec6cd-7032-339e-9333-f8fd19e061bf"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a853a04a-5415-38b5-8ce9-54ac4605e11e"/>
+         <c:relevance>0.260</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/9cbbc490-ad15-5129-7eb5-ebaf9973749b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/5dbec6cd-7032-339e-9333-f8fd19e061bf"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/aff31fe5-a3c4-3842-9e42-f60f0dd8fa2b"/>
+         <c:name>Mexico City,Delegaciones del Distrito Federal,Mexico</c:name>
+         <c:shortname>Mexico City</c:shortname>
+         <c:containedbystate>Delegaciones del Distrito Federal</c:containedbystate>
+         <c:containedbycountry>Mexico</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">19.13</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-99.4</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3dd9185f-430a-3664-9202-aef0f24e42b6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Huitzilac</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/5dbec6cd-7032-339e-9333-f8fd19e061bf/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/5dbec6cd-7032-339e-9333-f8fd19e061bf"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3dd9185f-430a-3664-9202-aef0f24e42b6"/>
+         <c:relevance>0.145</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/dd283d83-d767-35b7-abfa-897348e78636">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>Zona Rosa</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/5dbec6cd-7032-339e-9333-f8fd19e061bf/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/5dbec6cd-7032-339e-9333-f8fd19e061bf"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/dd283d83-d767-35b7-abfa-897348e78636"/>
+         <c:relevance>0.301</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

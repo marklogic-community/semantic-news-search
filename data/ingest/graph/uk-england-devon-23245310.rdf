@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/uk-england-devon-23245310">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/uk-england-devon-23245310"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">A man who was involved in a plot to rob and murder soul singer Joss Stone is jailed for 18 years.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-09T13:20:15</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68631000/jpg/_68631751_stone_liverpool_bradshaw_624.jpg"/>
+         <rnews:headline xml:lang="en-GB">Joss Stone death plot man jailed</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">England/Devon</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/66732000/jpg/_66732177_stone_liverpool_bradshaw_624.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/uk-england-devon-23245310"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">Kevin Liverpool (l) and Junior Bradshaw (r)</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="4d84b6b0-9f23-f973-13fc-6e6de56443e5"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/a13te1YOO3JlJZBDv06ZJA"
+                    rdf:about="http://d.opencalais.com/dochash-1/319196cc-d557-348e-b0ce-2b3aea54bd1c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-09</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/uk-england-devon-23245310"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-10 00:46:26.390"
+                    rdf:about="http://d.opencalais.com/dochash-1/319196cc-d557-348e-b0ce-2b3aea54bd1c/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/319196cc-d557-348e-b0ce-2b3aea54bd1c"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|zhba5TYUzYzfw4mhVoHQ0+yeWMU=|bxMaxp8WreXwne8qi9j4Ex58R1QtQe1IWQ3QQbi5vH897v4gUWNghg==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/319196cc-d557-348e-b0ce-2b3aea54bd1c/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/319196cc-d557-348e-b0ce-2b3aea54bd1c"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/319196cc-d557-348e-b0ce-2b3aea54bd1c/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/319196cc-d557-348e-b0ce-2b3aea54bd1c"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Law_Crime"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Law_Crime</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.973</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5dfe7a30-64c6-39d2-8248-069c57a65570">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Exeter Crown Court</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/319196cc-d557-348e-b0ce-2b3aea54bd1c/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/319196cc-d557-348e-b0ce-2b3aea54bd1c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/5dfe7a30-64c6-39d2-8248-069c57a65570"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.633</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6989e300-ff00-34ec-b8c5-6d41c4c0c205">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Manchester</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/319196cc-d557-348e-b0ce-2b3aea54bd1c/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/319196cc-d557-348e-b0ce-2b3aea54bd1c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/6989e300-ff00-34ec-b8c5-6d41c4c0c205"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.319</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0875fb2d-305c-3a44-98ed-339198604a9d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonAttributes"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/56206507-18f6-3a69-abde-3309b1916ebd"/>
+         <c:age>35</c:age>
+         <c:gender>M</c:gender>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/76f4fb64-71d3-32ff-8709-6b27abbd2748">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/Conviction"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/56206507-18f6-3a69-abde-3309b1916ebd"/>
+         <c:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-04-09</c:date>
+         <c:datestring>three months ago</c:datestring>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ead70eff-4613-33f7-9e39-be87e82049e1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/Conviction"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/56206507-18f6-3a69-abde-3309b1916ebd"/>
+         <c:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-04-00</c:date>
+         <c:datestring>in April</c:datestring>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/c3ee661f-989b-3faa-a5d9-f9b5573b06d6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Martin Meeke</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Martin Meeke</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/319196cc-d557-348e-b0ce-2b3aea54bd1c/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/319196cc-d557-348e-b0ce-2b3aea54bd1c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/c3ee661f-989b-3faa-a5d9-f9b5573b06d6"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.084</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/679b6998-1ddd-3e35-8a2c-44587d147c2b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>judge</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/319196cc-d557-348e-b0ce-2b3aea54bd1c/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/319196cc-d557-348e-b0ce-2b3aea54bd1c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/679b6998-1ddd-3e35-8a2c-44587d147c2b"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.201</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/56206507-18f6-3a69-abde-3309b1916ebd">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Kevin Liverpool</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Kevin Liverpool</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/319196cc-d557-348e-b0ce-2b3aea54bd1c/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/319196cc-d557-348e-b0ce-2b3aea54bd1c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/56206507-18f6-3a69-abde-3309b1916ebd"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.684</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/2c55726c-abb0-3ea0-8b99-36c4f8f993ab">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Exeter Crown Court</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/319196cc-d557-348e-b0ce-2b3aea54bd1c/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/319196cc-d557-348e-b0ce-2b3aea54bd1c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/2c55726c-abb0-3ea0-8b99-36c4f8f993ab"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.375</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/fe01c70f-7bfb-3dbb-8f76-3c276dc692b8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonAttributes"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/c779f78b-1355-327b-a7f3-0096906bfce8"/>
+         <c:age>32</c:age>
+         <c:gender>M</c:gender>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/c779f78b-1355-327b-a7f3-0096906bfce8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Junior Bradshaw</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Junior Bradshaw</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/319196cc-d557-348e-b0ce-2b3aea54bd1c/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/319196cc-d557-348e-b0ce-2b3aea54bd1c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/c779f78b-1355-327b-a7f3-0096906bfce8"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.845</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/42247c05-7596-353b-ad3d-376bcd287c86">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Joss Stone</c:name>
+         <c:persontype>entertainment</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Joss Stone</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/319196cc-d557-348e-b0ce-2b3aea54bd1c/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/319196cc-d557-348e-b0ce-2b3aea54bd1c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/42247c05-7596-353b-ad3d-376bcd287c86"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.325</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/e2f25793-18fc-4a81-b748-fbcb4da5b791">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/319196cc-d557-348e-b0ce-2b3aea54bd1c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/6989e300-ff00-34ec-b8c5-6d41c4c0c205"/>
+         <c:name>Manchester,England,Great Britain</c:name>
+         <c:shortname>Manchester</c:shortname>
+         <c:containedbystate>England</c:containedbystate>
+         <c:containedbycountry>Great Britain</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">53.48</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-2.24</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6ea616da-f3bc-3e39-97ea-ab6779b55a62">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/Conviction"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/c779f78b-1355-327b-a7f3-0096906bfce8"/>
+         <c:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-04-09</c:date>
+         <c:datestring>three months ago</c:datestring>
+      </rdf:Description>
+   </rdf:RDF>

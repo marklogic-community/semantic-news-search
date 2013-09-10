@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-middle-east-23118403">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-middle-east-23118403"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Israeli-Palestinian peace negotiations could be "within reach with a little more work", says the US secretary of state after three days of talks.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-06-30T12:09:56</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68464000/jpg/_68464584_68463572.jpg"/>
+         <rnews:headline xml:lang="en-GB">Mid-East talks 'within reach' - US</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68466000/jpg/_68466505_018495231.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-middle-east-23118403"/>
+         <rnews:description xml:lang="en-GB">US Secretary of State John Kerry</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="15e8d988-cf47-037d-13fb-dd101711c9e5"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/DxDKoeS*lNoNP5E47aw7zA"
+                    rdf:about="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-06-30</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-middle-east-23118403"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 05:25:58.641"
+                    rdf:about="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|MHgGo4AmsOKWvIk3YFUKPVVKlGI=|kNUEPr/VMpkwj0oHZnbj5fr93Nk8sXQI+C7oV1NYkA3DAmWg5ynuDQ==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Politics"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Politics</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.999</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb/cat/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/War_Conflict"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>War_Conflict</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.607</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/3f8454b7-f2c1-2ceb-b162-2b6b0dfd1021">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/453e9489-cc05-3f29-b6aa-aabd09a1805b"/>
+         <c:name>Israel</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">31.7833</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">35.2167</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/fe9088e7-ea15-383e-9abb-75277adca47a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/510c02d6-b590-395d-b775-1aea15785d7a"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e"/>
+         <c:country rdf:resource="http://d.opencalais.com/genericHasher-1/039fa81f-55c9-36ec-bf1c-495ccc123c97"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/039fa81f-55c9-36ec-bf1c-495ccc123c97">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Palestinian Authority</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/039fa81f-55c9-36ec-bf1c-495ccc123c97"/>
+         <c:relevance>0.643</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/aaf442ba-d3d0-3f37-ada6-89540ccf7d78">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCommunication"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/2bb0d282-1d6a-3306-9b77-d6b7c03182a7"/>
+         <c:persondescription>reporters</c:persondescription>
+         <c:status>announced</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0d7547e4-cd3f-308d-975b-a2b99c6a0ccf">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/5f377654-ce6a-3f9a-84ea-92db02d0924a"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/346cf174-c715-3684-a1e1-e90e40381a12"/>
+         <c:country rdf:resource="http://d.opencalais.com/genericHasher-1/039fa81f-55c9-36ec-bf1c-495ccc123c97"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7b96026c-4376-36f1-aac2-474d6cb1ceed">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>Prime Minister</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7b96026c-4376-36f1-aac2-474d6cb1ceed"/>
+         <c:relevance>0.317</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/8e5af891-b1ad-36b8-88d9-a4c13c1de158">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonLocation"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/2bb0d282-1d6a-3306-9b77-d6b7c03182a7"/>
+         <c:locationstring>Tel Aviv</c:locationstring>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/bd915429-80a0-dcb6-5918-04fc258ef914">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/039fa81f-55c9-36ec-bf1c-495ccc123c97"/>
+         <c:name>Palestinian National Authority</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">31.9</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">35.2</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/a96a497f-477a-5421-ac9f-48619c376ec3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/4647bd58-e220-342e-846c-21cb8d0ec732"/>
+         <c:name>Tel Aviv,Israel</c:name>
+         <c:shortname>Tel Aviv</c:shortname>
+         <c:containedbycountry>Israel</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">32.0833</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">34.8</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/4647bd58-e220-342e-846c-21cb8d0ec732">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Tel Aviv</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/4647bd58-e220-342e-846c-21cb8d0ec732"/>
+         <c:relevance>0.268</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/453e9489-cc05-3f29-b6aa-aabd09a1805b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Israel</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/453e9489-cc05-3f29-b6aa-aabd09a1805b"/>
+         <c:relevance>0.673</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>President</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e"/>
+         <c:relevance>0.309</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/346cf174-c715-3684-a1e1-e90e40381a12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>negotiator</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/346cf174-c715-3684-a1e1-e90e40381a12"/>
+         <c:relevance>0.299</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/152649df-347e-e289-1a9e-acc883e07d17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:name>United States</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.4230003233</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-98.7372244786</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/f1d77aa8-f9b9-3ad1-b6a3-2d516d2d31c6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>secretary of state</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/f1d77aa8-f9b9-3ad1-b6a3-2d516d2d31c6"/>
+         <c:relevance>0.318</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/9b70f4e7-1e79-3133-a15f-5bcf49bc49c3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>West Bank</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/9b70f4e7-1e79-3133-a15f-5bcf49bc49c3"/>
+         <c:relevance>0.164</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/2bb0d282-1d6a-3306-9b77-d6b7c03182a7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>John Kerry</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>John Kerry</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/2bb0d282-1d6a-3306-9b77-d6b7c03182a7"/>
+         <c:relevance>0.787</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/cdfd0c6f-0290-dc85-bf6f-c2a57283903c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/fa036d87-d96f-3b72-970c-687b80072093"/>
+         <c:name>Abu Dhabi,United Arab Emirates</c:name>
+         <c:shortname>Abu Dhabi</c:shortname>
+         <c:containedbycountry>United Arab Emirates</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">24.47</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">54.38</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/5f377654-ce6a-3f9a-84ea-92db02d0924a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Saeb Erekat</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>Palestinian</c:nationality>
+         <c:commonname>Saeb Erekat</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/5f377654-ce6a-3f9a-84ea-92db02d0924a"/>
+         <c:relevance>0.314</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>United States</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:relevance>0.318</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/9cd0e5ea-c0da-3c39-8a69-833cd8f916a1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/a9c44c6c-d302-30d0-aca3-dc7a1eff258e"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/7b96026c-4376-36f1-aac2-474d6cb1ceed"/>
+         <c:country rdf:resource="http://d.opencalais.com/genericHasher-1/453e9489-cc05-3f29-b6aa-aabd09a1805b"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/a9c44c6c-d302-30d0-aca3-dc7a1eff258e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Benjamin Netanyahu</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>Israeli</c:nationality>
+         <c:commonname>Benjamin Netanyahu</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/a9c44c6c-d302-30d0-aca3-dc7a1eff258e"/>
+         <c:relevance>0.598</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/183b4eaa-eee1-37ac-bf32-51c47f56496f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonLocation"/>
+         <c:persongroup>reporters</c:persongroup>
+         <c:locationstring>Tel Aviv</c:locationstring>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0b4c75d7-f7bb-3d48-8889-bb64cad6ecd8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>AFP</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0b4c75d7-f7bb-3d48-8889-bb64cad6ecd8"/>
+         <c:relevance>0.126</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/510c02d6-b590-395d-b775-1aea15785d7a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Mahmoud Abbas</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>Palestinian</c:nationality>
+         <c:commonname>Mahmoud Abbas</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/510c02d6-b590-395d-b775-1aea15785d7a"/>
+         <c:relevance>0.510</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/fa036d87-d96f-3b72-970c-687b80072093">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Abu Dhabi</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f6b6ae4c-db82-3b4e-a869-b980eff2d9cb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/fa036d87-d96f-3b72-970c-687b80072093"/>
+         <c:relevance>0.315</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

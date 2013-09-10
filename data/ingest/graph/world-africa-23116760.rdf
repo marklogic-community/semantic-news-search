@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-africa-23116760">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-africa-23116760"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">US President Barack Obama says he is "humbled" to visit Robben Island jail, where Nelson Mandela was held, as the ex-leader remains critically ill.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-06-30T21:09:16</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68466000/jpg/_68466294_68464601.jpg"/>
+         <rnews:headline xml:lang="en-GB">Obama 'humbled' to see Mandela cell</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68467000/jpg/_68467500_68467499.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-africa-23116760"/>
+         <rnews:description xml:lang="en-GB">U.S. President Barack Obama U.S. peers out from Section B, prison cell No. 5, on Robben Island, South Africa, Sunday, June 30, 2013. </rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68466000/jpg/_68466894_27a5cfde-ddd5-4fba-ba3d-aceab047ff07.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-africa-23116760"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">President Barack Obama and First Lady Michelle Obama in a prison yard at Robben Island, 30 June 2013</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68467000/jpg/_68467333_49cafce9-d3d7-44a8-9aca-b9b7d30657ef.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-africa-23116760"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">Obamas in quarry on Robben Island, 30 June 2013</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68467000/jpg/_68467335_c9e94ec4-57d4-42c5-8249-fd884bff5848.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-africa-23116760"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">President Obama in Nelson Mandela's former cell on Robben Island, 20 June 2013</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68467000/jpg/_68467337_416d872a-e8b7-4623-a2a3-012c6517bcd2.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-africa-23116760"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">President Obama signs the visitors' book on Robben Island, 20 June 2013</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68467000/jpg/_68467329_3ce178d0-7caa-4bab-887e-abcc9c1ebe7f.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-africa-23116760"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">Note in visitor's book written by President Obama and signed by him and the first lady, 30 June 2013</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="d4c396f7-a26d-b10b-13fb-dce667845124"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/tJ0TQejgqio77IH4mXEipg"
+                    rdf:about="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-06-30</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-africa-23116760"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 06:23:07.896"
+                    rdf:about="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|ehooRnAVzgdf3mN/PNf+6JA/Ij8=|PsGCt9Fg+eLj6mpV6JHANvQbHoYFCZSo+ck+1OyN32DxeejLiYj+gA==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b278ef84-3acd-3a82-8555-9a19c680c553">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonTravel"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/cbc8c069-5e3f-3778-b9e5-e93f1c6d323a"/>
+         <c:locationorigin rdf:resource="http://d.opencalais.com/genericHasher-1/b0633c5d-e38d-36ac-a0e8-03c3c1e1edc8"/>
+         <c:locationdestination rdf:resource="http://d.opencalais.com/genericHasher-1/0695df78-4db2-3374-a80b-786bb3c9bcf9"/>
+         <c:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-06-28</c:date>
+         <c:datestring>on Friday</c:datestring>
+         <c:status>past</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/de1c8b12-6ff5-302f-9073-a52ecff8c9cb">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCommunication"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/cbc8c069-5e3f-3778-b9e5-e93f1c6d323a"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/ac1aaa7e-85a5-3313-960f-a20226affb6a"/>
+         <c:status>announced</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/3cbf7bea-9456-c862-d74e-6d495401c0ec">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/166bba73-96aa-3e6b-8dd0-00d759ecc5f7"/>
+         <c:name>Cape Town,Western Cape,South Africa</c:name>
+         <c:shortname>Cape Town</c:shortname>
+         <c:containedbystate>Western Cape</c:containedbystate>
+         <c:containedbycountry>South Africa</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-33.9766666667</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">18.4244444444</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e8eb36d7-f62a-315b-ba53-e59ec8bd5ddc">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>multi-billion-dollar electricity initiative</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e8eb36d7-f62a-315b-ba53-e59ec8bd5ddc"/>
+         <c:relevance>0.306</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/ed07875f-3aab-4eb7-0764-67cb441ba233">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7e9459a0-915e-3d06-bf07-b223e580c11e"/>
+         <c:name>Tanzania</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-5.69435651341</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">36.3223465517</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/067aa09f-4217-3235-ad11-2c73c6cfcc8a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Makgatho</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Makgatho</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/067aa09f-4217-3235-ad11-2c73c6cfcc8a"/>
+         <c:relevance>0.079</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7e9459a0-915e-3d06-bf07-b223e580c11e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Tanzania</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7e9459a0-915e-3d06-bf07-b223e580c11e"/>
+         <c:relevance>0.093</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b0633c5d-e38d-36ac-a0e8-03c3c1e1edc8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Senegal</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b0633c5d-e38d-36ac-a0e8-03c3c1e1edc8"/>
+         <c:relevance>0.105</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/736a403d-157b-3e80-86a7-acc404607cb2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>USD</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/736a403d-157b-3e80-86a7-acc404607cb2"/>
+         <c:relevance>0.475</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/4254e88a-d81c-3fe8-a227-38772deda1bc">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Region"/>
+         <c:name>sub-Saharan Africa</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/4254e88a-d81c-3fe8-a227-38772deda1bc"/>
+         <c:relevance>0.114</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/48ceafbe-263d-3d15-bb3e-ed52f35f3864">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>University of Cape Town</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>Yemeni</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/48ceafbe-263d-3d15-bb3e-ed52f35f3864"/>
+         <c:relevance>0.376</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/84dccb60-5afd-30dd-9d2d-5fcc1af70d0c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>GBP</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/84dccb60-5afd-30dd-9d2d-5fcc1af70d0c"/>
+         <c:relevance>0.114</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/57ce9ddc-df4a-3a03-ad6b-ce810f7ad612">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>electricity</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/57ce9ddc-df4a-3a03-ad6b-ce810f7ad612"/>
+         <c:relevance>0.114</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/19cc1d3f-0865-39b0-b3d6-b3739cf3e66a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Continent"/>
+         <c:name>Africa</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/19cc1d3f-0865-39b0-b3d6-b3739cf3e66a"/>
+         <c:relevance>0.144</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/531ba498-ac86-90f1-a720-34843b5fd7fd">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b0633c5d-e38d-36ac-a0e8-03c3c1e1edc8"/>
+         <c:name>Senegal</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">14.6943224868</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-15.5952978836</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/320e633d-75dd-3d85-8401-7b54faf6e5df">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>University of Cape Town</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/320e633d-75dd-3d85-8401-7b54faf6e5df"/>
+         <c:relevance>0.376</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/ffa6c3cd-aae7-318b-9cde-3c604fc4a582">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Mandla</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Mandla</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/ffa6c3cd-aae7-318b-9cde-3c604fc4a582"/>
+         <c:relevance>0.096</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/8f215a13-e846-3df8-b2a2-7dc60a271690">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>ANC MP</c:name>
+         <c:organizationtype>political party</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/8f215a13-e846-3df8-b2a2-7dc60a271690"/>
+         <c:relevance>0.070</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/43dd9f58-bf96-3e6e-ad1f-f1a5ccd1a7ac">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonTravel"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/cbc8c069-5e3f-3778-b9e5-e93f1c6d323a"/>
+         <c:locationdestination rdf:resource="http://d.opencalais.com/genericHasher-1/7e9459a0-915e-3d06-bf07-b223e580c11e"/>
+         <c:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-06-24</c:date>
+         <c:datestring>On Monday</c:datestring>
+         <c:status>future</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/bdcf1276-c1f7-34b8-8b66-b8e1807a47be">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonParty"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/ffa6c3cd-aae7-318b-9cde-3c604fc4a582"/>
+         <c:party>ANC</c:party>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/347b62ac-3020-3ad5-88ff-96a8039cc38d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/NaturalFeature"/>
+         <c:name>Robben Island</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/347b62ac-3020-3ad5-88ff-96a8039cc38d"/>
+         <c:relevance>0.396</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>president</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e"/>
+         <c:relevance>0.070</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/152649df-347e-e289-1a9e-acc883e07d17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:name>United States</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.4230003233</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-98.7372244786</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/617288f7-76aa-312d-9fdd-755a812fa28a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/FamilyRelation"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/ffa6c3cd-aae7-318b-9cde-3c604fc4a582"/>
+         <c:familyrelationtype>father</c:familyrelationtype>
+         <c:person_relative rdf:resource="http://d.opencalais.com/pershash-1/067aa09f-4217-3235-ad11-2c73c6cfcc8a"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/27a3d503-a2cf-f7d6-9c5f-51fb3e32ce0c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/ff9dd463-e097-38fa-87a9-d6a7eeb87115"/>
+         <c:name>Mvezo,South Africa</c:name>
+         <c:shortname>Mvezo</c:shortname>
+         <c:containedbycountry>South Africa</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-31.95</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.5167</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/d63d4068-23b7-3f88-8d01-2dd8fdb20e89">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Sunday Times</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/d63d4068-23b7-3f88-8d01-2dd8fdb20e89"/>
+         <c:relevance>0.062</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/cbc8c069-5e3f-3778-b9e5-e93f1c6d323a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Obama</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Barack Obama</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7/Relevance/17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/cbc8c069-5e3f-3778-b9e5-e93f1c6d323a"/>
+         <c:relevance>0.682</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ff9dd463-e097-38fa-87a9-d6a7eeb87115">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Mvezo</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7/Relevance/18">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/ff9dd463-e097-38fa-87a9-d6a7eeb87115"/>
+         <c:relevance>0.070</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e313c66b-12c7-3069-9a00-d7172883a196">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Mandela's Robben Island jail</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7/Relevance/19">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e313c66b-12c7-3069-9a00-d7172883a196"/>
+         <c:relevance>0.312</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>United States</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7/Relevance/20">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:relevance>0.372</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0695df78-4db2-3374-a80b-786bb3c9bcf9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>South Africa</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7/Relevance/21">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0695df78-4db2-3374-a80b-786bb3c9bcf9"/>
+         <c:relevance>0.660</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/8cdc9ac9-9922-3860-8153-1d0f3844e818">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Robert Kennedy</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Robert Kennedy</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7/Relevance/22">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/8cdc9ac9-9922-3860-8153-1d0f3844e818"/>
+         <c:relevance>0.200</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/af44a16a-5ab1-3aa1-a4b0-d73a64dba5bf">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/d63d4068-23b7-3f88-8d01-2dd8fdb20e89"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>SUNDAY TIMES LIMITED (THE)</c:name>
+         <c:shortname>Sunday Times</c:shortname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e5db5e72-ed2c-3202-8707-230a19fb166f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ArmedAttack"/>
+         <c:partyinvolved1>riot police</c:partyinvolved1>
+         <c:attacker>riot police</c:attacker>
+         <c:attacktype>skirmish</c:attacktype>
+         <c:status>confirmed</c:status>
+         <c:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d5c14fbe-65fc-3537-b1e0-b88c33929dda">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/FamilyRelation"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/ac1aaa7e-85a5-3313-960f-a20226affb6a"/>
+         <c:familyrelationtype>grandson</c:familyrelationtype>
+         <c:person_relative rdf:resource="http://d.opencalais.com/pershash-1/ffa6c3cd-aae7-318b-9cde-3c604fc4a582"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/ac1aaa7e-85a5-3313-960f-a20226affb6a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Nelson Mandela</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Nelson Mandela</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7/Relevance/23">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/ac1aaa7e-85a5-3313-960f-a20226affb6a"/>
+         <c:relevance>0.796</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/01829a30-186f-37a4-8c01-9852df0312d7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCommunication"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/ac1aaa7e-85a5-3313-960f-a20226affb6a"/>
+         <c:persondescription>first family</c:persondescription>
+         <c:status>announced</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/1afe9e52-5dc1-389f-998d-988c73b733f4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/ffa6c3cd-aae7-318b-9cde-3c604fc4a582"/>
+         <c:organization rdf:resource="http://d.opencalais.com/genericHasher-1/8f215a13-e846-3df8-b2a2-7dc60a271690"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/166bba73-96aa-3e6b-8dd0-00d759ecc5f7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Cape Town</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7/Relevance/24">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/166bba73-96aa-3e6b-8dd0-00d759ecc5f7"/>
+         <c:relevance>0.289</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/c814068b-bc92-07ac-d130-de362b2d6ddc">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0695df78-4db2-3374-a80b-786bb3c9bcf9"/>
+         <c:name>South Africa</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-29.8191423168</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">25.3498974783</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a67a1811-59bb-3377-98d6-9abc93a0106e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Date"/>
+         <c:name>2013-06-29</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7/Relevance/25">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/96d84a28-1561-3e41-886e-da2b836127d7"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a67a1811-59bb-3377-98d6-9abc93a0106e"/>
+         <c:relevance>0.289</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

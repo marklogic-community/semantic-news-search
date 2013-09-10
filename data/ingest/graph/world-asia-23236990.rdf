@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-asia-23236990">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-asia-23236990"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">North and South Korea start in-depth talks on reopening a jointly-run industrial zone in Kaesong, after work was halted in April.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-10T06:54:23</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68643000/jpg/_68643558_68643551.jpg"/>
+         <rnews:headline xml:lang="en-GB">Koreas hold more Kaesong talks</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68643000/jpg/_68643566_018605089-2.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-asia-23236990"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Suh Ho, the head of South Korea's working-level delegation, left, shakes hands with his North Korean counterpart Park Chol Su, right, before their meeting at the Kaesong Industrial District Management Committee in Kaesong, North Korea, 10 July 2013</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="be9eb7ce-2344-5523-13fc-7c7757937274"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/1NCspU3F189yj5teqjOZOg"
+                    rdf:about="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-10</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-asia-23236990"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-10 04:51:45.145"
+                    rdf:about="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|oXIuOtVJTeFBKd9TTssRDzEofmU=|RQTu3zhEIhqo/xkxg1PctqQZJggNHnqF1A7rZ/xf1INovQB30qq8MA==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Politics"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Politics</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.611</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5702e8ab-c15b-3c3a-bb62-a05c682ed1c4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Kaesong Industrial Complex</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/5702e8ab-c15b-3c3a-bb62-a05c682ed1c4"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.314</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/42281a73-bdf0-3787-8203-ee9da13c9cd4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>North Korea</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/42281a73-bdf0-3787-8203-ee9da13c9cd4"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.652</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/8fb46991-7bd3-33ef-a615-f80b96c8cd9f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Region"/>
+         <c:name>South Korea</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/8fb46991-7bd3-33ef-a615-f80b96c8cd9f"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.315</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0c6155d8-8426-39d1-92c3-bebf2b7f3736">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/ea013f22-1078-374a-b8d5-be9475fb9aa0"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/f034b85d-ddc0-3511-b8d2-6d2810e85538"/>
+         <c:country rdf:resource="http://d.opencalais.com/genericHasher-1/42281a73-bdf0-3787-8203-ee9da13c9cd4"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b289b0d6-bd1e-3c87-8b38-4e45820f9e9d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>official</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b289b0d6-bd1e-3c87-8b38-4e45820f9e9d"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.234</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/571b3021-91c1-395e-b7c8-ff10dfc31910">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Unification Ministry</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/571b3021-91c1-395e-b7c8-ff10dfc31910"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.234</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/f034b85d-ddc0-3511-b8d2-6d2810e85538">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>chief delegate</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/f034b85d-ddc0-3511-b8d2-6d2810e85538"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.093</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/17126376-4538-3f7d-b31d-bcb2c6472493">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>spokesman</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/17126376-4538-3f7d-b31d-bcb2c6472493"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.058</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/3c6cfbc2-415a-ad89-3733-819108cf892c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/51cc1098-eebf-3042-b55c-46117974d025"/>
+         <c:name>South Korea</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">36.4692974125</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">127.624277169</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/612ef539-8282-3c98-bcbb-b0dff1534c69">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Lucy Williamson</c:name>
+         <c:persontype>economic</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Lucy Williamson</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/612ef539-8282-3c98-bcbb-b0dff1534c69"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.148</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/96f694fa-08a1-3eb8-a680-4de2182601a5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Sun Ho</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Sun Ho</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/96f694fa-08a1-3eb8-a680-4de2182601a5"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.494</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/fef46be3-ec9e-d71c-98a7-7680b084a670">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a0a7b947-6a76-3bef-9877-23f42b3019c9"/>
+         <c:name>Pyongyang,North Korea</c:name>
+         <c:shortname>Pyongyang</c:shortname>
+         <c:containedbycountry>North Korea</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">39.0333</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">125.75</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/eae095fe-2544-3eed-9c61-0d0ca09d6dc3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>businessmen</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/eae095fe-2544-3eed-9c61-0d0ca09d6dc3"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.194</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e8eb6339-b561-32cf-b7bc-45b8870d05f0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>machinery makers</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e8eb6339-b561-32cf-b7bc-45b8870d05f0"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.058</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/fee2824f-9783-348d-9a7b-e5c2ec09513b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonLocation"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/612ef539-8282-3c98-bcbb-b0dff1534c69"/>
+         <c:locationstring>Seoul</c:locationstring>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/232bae48-f455-3897-a594-54e9c824e6cd">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ProductIssues"/>
+         <c:product rdf:resource="http://d.opencalais.com/genericHasher-1/bdfe1f2c-ae2f-3ab8-9de1-583be7f9478c"/>
+         <c:producttype>Other</c:producttype>
+         <c:status>known</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/35df0ff0-18b4-3f29-84b1-ffba456aec79">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Region"/>
+         <c:name>North Korea</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/35df0ff0-18b4-3f29-84b1-ffba456aec79"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.315</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e9a2c672-b088-3ee0-a339-652e20d61e28">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Kaesong complex</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e9a2c672-b088-3ee0-a339-652e20d61e28"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.657</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>BBC</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.148</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/4d5b323a-5e68-2017-b7d6-85abb142afe3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/07232f01-bcd1-38ab-8de6-e48ff801acb3"/>
+         <c:name>Seoul,South Korea</c:name>
+         <c:shortname>Seoul</c:shortname>
+         <c:containedbycountry>South Korea</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">37.5833333333</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">127.0</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/51cc1098-eebf-3042-b55c-46117974d025">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>South Korea</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/51cc1098-eebf-3042-b55c-46117974d025"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.623</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b6597b3e-311b-3937-8660-3a585e18d9be">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>correspondent</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b6597b3e-311b-3937-8660-3a585e18d9be"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.132</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/07232f01-bcd1-38ab-8de6-e48ff801acb3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Seoul</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71/Relevance/17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/07232f01-bcd1-38ab-8de6-e48ff801acb3"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.148</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/94b61f24-7b80-3042-ad86-dc2bf6c9ca50">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/612ef539-8282-3c98-bcbb-b0dff1534c69"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a0a7b947-6a76-3bef-9877-23f42b3019c9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Pyongyang</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71/Relevance/18">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a0a7b947-6a76-3bef-9877-23f42b3019c9"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.713</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/fa405453-5dfe-fe5a-a249-77dcb4542c37">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/42281a73-bdf0-3787-8203-ee9da13c9cd4"/>
+         <c:name>North Korea</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.2012273148</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">127.256506944</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/7a6a4835-2d42-388a-97e8-ef689d5745f0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>BRITISH BROADCASTING CORPORATION</c:name>
+         <c:shortname>BBC</c:shortname>
+         <c:ticker>BBC</c:ticker>
+         <c:symbol>TBBC.UL</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/ea013f22-1078-374a-b8d5-be9475fb9aa0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Park Chol-su</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>North korean</c:nationality>
+         <c:commonname>Park Chol-su</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71/Relevance/19">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/ea013f22-1078-374a-b8d5-be9475fb9aa0"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.113</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/bdfe1f2c-ae2f-3ab8-9de1-583be7f9478c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Product"/>
+         <c:name>actions</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71/Relevance/20">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9f3a91d1-c00b-3ed4-9fe8-58813a296f71"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/bdfe1f2c-ae2f-3ab8-9de1-583be7f9478c"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.104</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

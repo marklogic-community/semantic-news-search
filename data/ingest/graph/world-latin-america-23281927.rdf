@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-latin-america-23281927">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-latin-america-23281927"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Controversial new plans which include a ban of shirtless and standing fans at Rio de Janeiro's Maracana stadium are causing outcry in Brazil.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-12T00:32:46</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68687000/jpg/_68687169_68687157.jpg"/>
+         <rnews:headline xml:lang="en-GB">Brazil row over topless fan ban</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68687000/jpg/_68687162_68687157.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-latin-america-23281927"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</rnews:height>
+         <rnews:description xml:lang="en-GB">Brazil fans in Rio's Maracana stadium</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68687000/jpg/_68687177_68687176.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-latin-america-23281927"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Brazil fans celebrates at Rio's Maracana</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="59446b28-996a-f407-13fd-12806f71a813"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/BgXUiDWuBzWvm*N4FsPwSw"
+                    rdf:about="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-12</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-latin-america-23281927"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-12 00:33:48.807"
+                    rdf:about="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|vTNrRqikh2QXWVMd2tfC8H5q6RI=|UA3+KHCyatGzSKXZIy1Mrhl3S1EoPkq4C6jHNyVTOY7umERqDiXJWw==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Sports"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Sports</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.972</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/1076d1eb-4ea8-3d30-823a-db47764acc34">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Twitter</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/1076d1eb-4ea8-3d30-823a-db47764acc34"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.130</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/a4d00a40-3f49-374d-8733-6944e22cc19b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Vasco da Gama</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Vasco da Gama</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/a4d00a40-3f49-374d-8733-6944e22cc19b"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.066</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/81a8d3d4-503c-3aee-8bc7-6e962815b4e1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Joao Borba</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Joao Borba</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/81a8d3d4-503c-3aee-8bc7-6e962815b4e1"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.492</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>president</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.288</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ae5cf21a-cfeb-32b7-9bf1-9b56015f1589">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/SportsGame"/>
+         <c:name>football</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/ae5cf21a-cfeb-32b7-9bf1-9b56015f1589"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.353</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/4d71b178-4d48-3e16-ac43-8f7e22402554">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>botafogo</c:name>
+         <c:organizationtype>sports</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/4d71b178-4d48-3e16-ac43-8f7e22402554"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.066</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/6e5fa4d9-c48c-a921-c0a2-ce1e64c9ae6f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/fe313a08-88a6-33a7-980f-410dd8e740a6"/>
+         <c:name>Brazil</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-15.6777731062</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-47.4383649658</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6af6e36b-3c60-37b0-9eb2-958a890f434f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Brazilian league</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>Brazilian</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/6af6e36b-3c60-37b0-9eb2-958a890f434f"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.075</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/dae7d67f-ac39-3839-a623-0d437ad2b3ee">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCommunication"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/81a8d3d4-503c-3aee-8bc7-6e962815b4e1"/>
+         <c:organizationorcompany rdf:resource="http://d.opencalais.com/genericHasher-1/4be56c46-4f9c-3e0d-aa60-d4a9480d5f79"/>
+         <c:status>announced</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/736a403d-157b-3e80-86a7-acc404607cb2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>USD</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/736a403d-157b-3e80-86a7-acc404607cb2"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.312</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/6bdf995c-16ce-366d-885e-df25cb71368a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/4f9b6ad4-16cb-3011-9b22-3b83dd4d2a9c"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>EXTRA FILM(SPECTOR PHOTO)</c:name>
+         <c:shortname>EXTRA</c:shortname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/fe313a08-88a6-33a7-980f-410dd8e740a6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Brazil</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/fe313a08-88a6-33a7-980f-410dd8e740a6"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.321</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/421f1571-bae0-3ce3-930d-a4c9d15d8aa6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>David Butter</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>David Butter</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/421f1571-bae0-3ce3-930d-a4c9d15d8aa6"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.148</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3648a12a-fbb1-30aa-9b5f-ddb643a85040">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>social media</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3648a12a-fbb1-30aa-9b5f-ddb643a85040"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.168</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7ba903d5-db3e-3ccb-bfd2-f797a561fbab">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Maracana stadium</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7ba903d5-db3e-3ccb-bfd2-f797a561fbab"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.746</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/e551ceea-55a1-5874-99f1-06f1ce1d5997">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/822027a4-13f9-343c-a6a5-b7f0d4fc5854"/>
+         <c:name>Rio de Janeiro,Rio de Janeiro,Brazil</c:name>
+         <c:shortname>Rio de Janeiro</c:shortname>
+         <c:containedbystate>Rio de Janeiro</c:containedbystate>
+         <c:containedbycountry>Brazil</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-22.9083</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-43.2436</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/8b28abd7-1d20-35b7-8df0-a49602d55768">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Vasco da Gama</c:name>
+         <c:organizationtype>sports</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/8b28abd7-1d20-35b7-8df0-a49602d55768"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.066</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/9bb26018-f501-329e-b57d-5e1ec16f1bd0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/1076d1eb-4ea8-3d30-823a-db47764acc34"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>TWITTER, INC.</c:name>
+         <c:shortname>Twitter</c:shortname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/4f9b6ad4-16cb-3011-9b22-3b83dd4d2a9c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Extra</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/4f9b6ad4-16cb-3011-9b22-3b83dd4d2a9c"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.231</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/31ecd1f6-81ed-32b6-8143-df2dfb2056c4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/SportsEvent"/>
+         <c:name>World Cup</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/31ecd1f6-81ed-32b6-8143-df2dfb2056c4"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.302</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/822027a4-13f9-343c-a6a5-b7f0d4fc5854">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Rio de Janeiro</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/822027a4-13f9-343c-a6a5-b7f0d4fc5854"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.086</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/4be56c46-4f9c-3e0d-aa60-d4a9480d5f79">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Extra</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb/Relevance/17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/efae7ce9-b241-3c9f-b8e0-7c6cd854fdeb"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/4be56c46-4f9c-3e0d-aa60-d4a9480d5f79"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.231</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<es:job-bag xmlns:es="http://www.marklogic.com/enhanced-search#">
+   <html xmlns="http://www.w3.org/1999/xhtml"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:c="http://www.w3.org/ns/xproc-step"
+         xml:lang="en-GB"
+         xml:base="http://www.bbc.co.uk">
+      <head profile="http://dublincore.org/documents/dcq-html/"
+            resource="http://www.bbc.co.uk/news/world-us-canada-23323333"
+            typeof="rnews:NewsItem">
+         <meta property="rnews:description"
+               content="A US judge stays Georgia's execution of a convicted murderer, described by his lawyers as mentally disabled, over a law about the lethal drugs used."/>
+         <meta property="rnews:datePublished" content="2013-07-15T22:44:54"/>
+         <meta property="rnews:thumbnailUrl"
+               content="http://news.bbcimg.co.uk/media/images/68752000/jpg/_68752546_68752525.jpg"/>
+         <meta property="rnews:headline" content="US execution stayed due to drug law"/>
+         <meta name="CPS_SECTION_PATH" content="World/US and Canada"/>
+         <meta property="rnews:creator" content="http://www.bbc.co.uk#org"/>
+         <link rel="copyright"
+               href="http://www.bbc.co.uk/terms/"
+               title="Terms of Use"/>
+         <link rel="http://purl.org/dc/terms/source"
+               href="http://www.bbc.co.uk/news/world-us-canada-23323333"/>
+         <title>BBC News - Warren Hill execution stayed due to lethal drug
+law</title>
+      </head>
+      <body>
+         <div class="story-body">
+            <span class="story-date">
+               <span class="date">15 July 2013</span>
+               <span class="time-text">Last updated
+at</span>
+               <span class="time">23:44</span>
+            </span>
+            <h1 class="story-header">Warren Hill execution stayed due to lethal
+drug law</h1>
+            <div class="caption body-narrow-width">
+               <img src="http://news.bbcimg.co.uk/media/images/68752000/jpg/_68752530_68752525.jpg"
+                    width="304"
+                    height="171"
+                    alt="Death chamber at a US state prison file photo"/>
+               <span style="width:304px;">Prosecutors have changed their position on whether
+Warren Hill is mentally disabled</span>
+            </div>
+            <p class="introduction">A death row inmate said to be mentally
+disabled has won a temporary reprieve in the state of Georgia over
+a lethal injection state law, a judge said.</p>
+            <p>Warren Hill's stay of execution was granted hours before he was
+due to die.</p>
+            <p>Hill's lawyers challenged a law banning information about the
+lethal drug's manufacturer from becoming public.</p>
+            <p>Hill was convicted of killing fellow inmate Joseph Handspike in
+1990 while serving life for shooting dead his girlfriend Myra
+Wright, 18, in 1986.</p>
+            <p>Hill's lawyers are challenging the constitutionality of a new
+state law that keeps secret the identities of the lethal injection
+drug's manufacturer and of the physician who prescribes it.</p>
+            <p>Georgia has been forced to turn to an individual pharmacy for
+its lethal injection drug because European firms are refusing to
+supply their drugs to the US for use in capital punishment.</p>
+            <p>The state law was passed in Georgia in March, after the state's
+supply of sedatives expired.</p>
+            <p>This is the second time Hill's execution has been called off. He
+was given a temporary reprieve last year after his legal team
+argued he was mentally disabled.</p>
+            <p>Hill's lawyers filed documents saying the three doctors who
+evaluated the inmate 13 years ago - deeming him mentally fit at the
+time - have changed their opinions.</p>
+            <p>One doctor said his evaluation was very rushed, another said his
+earlier view was unreliable because of his lack of experience and a
+third doctor cited advances in the way mental handicaps are
+understood.</p>
+            <p>Hill's lawyers have appealed to the US Supreme Court on that
+issue.</p>
+            <p>His execution would be the 19th in the US this year.</p>
+         </div>
+      </body>
+   </html>
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+            xmlns:og="http://opengraphprotocol.org/schema/"
+            xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-us-canada-23323333">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23323333"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">A US judge stays Georgia's execution of a convicted murderer, described by his lawyers as mentally disabled, over a law about the lethal drugs used.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-15T22:44:54</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68752000/jpg/_68752546_68752525.jpg"/>
+         <rnews:headline xml:lang="en-GB">US execution stayed due to drug law</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68752000/jpg/_68752530_68752525.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23323333"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Death chamber at a US state prison file photo</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       c:allowDistribution="true"
+                       c:allowSearch="false"
+                       c:calaisRequestID="caa19a1d-cca1-5af1-3fe5-e2a5f545cd18"
+                       c:externalID="mluces"
+                       c:id="http://id.opencalais.com/rYl3QSnOpho899XXPFr21w"
+                       rdf:about="http://d.opencalais.com/dochash-1/8be42739-be04-322a-8d86-a955f66203a4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-15</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                     rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23323333"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       c:contentType="TEXT/HTML"
+                       c:emVer="7.1.1103.5"
+                       c:langIdVer="DefaultLangId"
+                       c:language="English"
+                       c:processingVer="CalaisJob01"
+                       c:submissionDate="2013-07-16 00:10:03.525"
+                       rdf:about="http://d.opencalais.com/dochash-1/8be42739-be04-322a-8d86-a955f66203a4/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8be42739-be04-322a-8d86-a955f66203a4"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|Z02WUg3A8sy7wu4iSi8CzP1peQ8=|L19avnUpFkYIAebidVsXetdF+/M5U22Yw4MrYZ7M3AVEGxeAwtcopg==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/8be42739-be04-322a-8d86-a955f66203a4/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8be42739-be04-322a-8d86-a955f66203a4"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/8be42739-be04-322a-8d86-a955f66203a4/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8be42739-be04-322a-8d86-a955f66203a4"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/SocialIssues"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Social Issues</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.993</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/8be42739-be04-322a-8d86-a955f66203a4/cat/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8be42739-be04-322a-8d86-a955f66203a4"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Law_Crime"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Law_Crime</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.882</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/a4c77254-5e80-3b52-be7f-f440f0674441">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonAttributes"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/fe5846cd-b611-3bfc-827f-0c0dc54a8130"/>
+         <c:age>18</c:age>
+         <c:gender>F</c:gender>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/9563325c-f4ef-3bae-b68d-4a95fce0f483">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>law banning information</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/8be42739-be04-322a-8d86-a955f66203a4/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8be42739-be04-322a-8d86-a955f66203a4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/9563325c-f4ef-3bae-b68d-4a95fce0f483"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.306</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/985abc02-af1d-348a-b757-06215249f918">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>physician</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/8be42739-be04-322a-8d86-a955f66203a4/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8be42739-be04-322a-8d86-a955f66203a4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/985abc02-af1d-348a-b757-06215249f918"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.264</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/e4fe5e61-0000-3b15-9d70-d8c317ea934f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>Georgia</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/8be42739-be04-322a-8d86-a955f66203a4/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8be42739-be04-322a-8d86-a955f66203a4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e4fe5e61-0000-3b15-9d70-d8c317ea934f"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.257</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/152649df-347e-e289-1a9e-acc883e07d17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8be42739-be04-322a-8d86-a955f66203a4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:name>United States</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.4230003233</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-98.7372244786</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/pershash-1/89c6c9ef-2aa1-36b0-a746-5ec9b8064c13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Warren Hill</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Warren Hill</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/8be42739-be04-322a-8d86-a955f66203a4/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8be42739-be04-322a-8d86-a955f66203a4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/89c6c9ef-2aa1-36b0-a746-5ec9b8064c13"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.881</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/76b55ac9-fea9-3f75-8124-f2e2f10149f2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/Conviction"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/89c6c9ef-2aa1-36b0-a746-5ec9b8064c13"/>
+         <c:charge>killing</c:charge>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/0bcb4f81-14d7-3698-a312-a23325ab79c5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>state law</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/8be42739-be04-322a-8d86-a955f66203a4/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8be42739-be04-322a-8d86-a955f66203a4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0bcb4f81-14d7-3698-a312-a23325ab79c5"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.298</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>United States</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/8be42739-be04-322a-8d86-a955f66203a4/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8be42739-be04-322a-8d86-a955f66203a4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.391</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/pershash-1/0a707461-923e-387e-8e01-00457625fbea">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Joseph Handspike</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Joseph Handspike</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/8be42739-be04-322a-8d86-a955f66203a4/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8be42739-be04-322a-8d86-a955f66203a4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/0a707461-923e-387e-8e01-00457625fbea"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.287</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/er/geo/provinceorstate/ralg-geo1/b9d4552f-76e4-000f-38b1-2d6d7ee32304">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/ProvinceOrState"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8be42739-be04-322a-8d86-a955f66203a4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e4fe5e61-0000-3b15-9d70-d8c317ea934f"/>
+         <c:name>Georgia,United States</c:name>
+         <c:shortname>Georgia</c:shortname>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">123456.0</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">123456.0</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/1706e014-e041-3187-a876-bcb1dc6c5bf1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>US Supreme Court</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>American</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/8be42739-be04-322a-8d86-a955f66203a4/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8be42739-be04-322a-8d86-a955f66203a4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/1706e014-e041-3187-a876-bcb1dc6c5bf1"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.087</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/32ce4577-4374-303d-8fd1-ad7d0bf3c793">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>lethal drug law</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/8be42739-be04-322a-8d86-a955f66203a4/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8be42739-be04-322a-8d86-a955f66203a4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/32ce4577-4374-303d-8fd1-ad7d0bf3c793"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.321</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/pershash-1/fe5846cd-b611-3bfc-827f-0c0dc54a8130">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Myra Wright</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Myra Wright</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/8be42739-be04-322a-8d86-a955f66203a4/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/8be42739-be04-322a-8d86-a955f66203a4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/fe5846cd-b611-3bfc-827f-0c0dc54a8130"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.287</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/b8e2e09f-0a64-3fd1-80de-f0c624f7d156">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCommunication"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/89c6c9ef-2aa1-36b0-a746-5ec9b8064c13"/>
+         <c:persondescription>legal team</c:persondescription>
+         <c:status>announced</c:status>
+      </rdf:Description>
+   </rdf:RDF>
+</es:job-bag>

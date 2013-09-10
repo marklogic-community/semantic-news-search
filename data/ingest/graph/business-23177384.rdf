@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/business-23177384">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/business-23177384"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">BA becomes the first UK airline to take delivery of an Airbus A380 superjumbo, the world's largest passenger aircraft.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-04T10:32:23</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68544000/jpg/_68544632_5hlxmcpg.jpg"/>
+         <rnews:headline xml:lang="en-GB">BA's first A380 arrives at Heathrow</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Business</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68543000/jpg/_68543908_5hlxmcpg.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/business-23177384"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</rnews:height>
+         <rnews:description xml:lang="en-GB">British Airways Airbus A380</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="6e2174d9-246b-dd2e-13fb-dd4b0d733e3f"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/LZPRsvCl1g3mJT0YgiPD5g"
+                    rdf:about="http://d.opencalais.com/dochash-1/11b8fd6c-09fa-3f2c-97c5-aaf885d5ace3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-04</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/business-23177384"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 06:30:00.166"
+                    rdf:about="http://d.opencalais.com/dochash-1/11b8fd6c-09fa-3f2c-97c5-aaf885d5ace3/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b8fd6c-09fa-3f2c-97c5-aaf885d5ace3"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|pEvOSrPr5aabI3U00Q0+27VfzYw=|kwmbxP+IdhoPOqDJeiBgcre+4RVCN0ZiDHf1AXbYsuPSgnr3UAcqRw==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/11b8fd6c-09fa-3f2c-97c5-aaf885d5ace3/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b8fd6c-09fa-3f2c-97c5-aaf885d5ace3"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/11b8fd6c-09fa-3f2c-97c5-aaf885d5ace3/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b8fd6c-09fa-3f2c-97c5-aaf885d5ace3"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Business_Finance"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Business_Finance</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.527</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/9616a23c-68ce-31ec-bba9-a60d3a8174dc">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b8fd6c-09fa-3f2c-97c5-aaf885d5ace3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/153250e5-46b6-3405-9864-2f9acf461a09"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>THE BOEING COMPANY</c:name>
+         <c:shortname>Boeing</c:shortname>
+         <c:ticker>BA</c:ticker>
+         <c:symbol>BA.N</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/47d99e9b-a2c9-3bb3-8c37-93bd00c050a2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Product"/>
+         <c:name>Airbus A350</c:name>
+         <c:producttype>Aircraft</c:producttype>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/11b8fd6c-09fa-3f2c-97c5-aaf885d5ace3/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b8fd6c-09fa-3f2c-97c5-aaf885d5ace3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/47d99e9b-a2c9-3bb3-8c37-93bd00c050a2"/>
+         <c:relevance>0.158</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6f6a5896-9c99-3df2-b89b-397e78d0876a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Product"/>
+         <c:name>A380</c:name>
+         <c:producttype>Aircraft</c:producttype>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/11b8fd6c-09fa-3f2c-97c5-aaf885d5ace3/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b8fd6c-09fa-3f2c-97c5-aaf885d5ace3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/6f6a5896-9c99-3df2-b89b-397e78d0876a"/>
+         <c:relevance>0.679</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/92d0fb98-6cb3-32f4-8d7d-560af8e94dfc">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Product"/>
+         <c:name>Airbus A380</c:name>
+         <c:producttype>Aircraft</c:producttype>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/11b8fd6c-09fa-3f2c-97c5-aaf885d5ace3/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b8fd6c-09fa-3f2c-97c5-aaf885d5ace3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/92d0fb98-6cb3-32f4-8d7d-560af8e94dfc"/>
+         <c:relevance>0.214</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/01f66c1c-fd29-356b-8e0e-f4e4c303c9ec">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Product"/>
+         <c:name>A380 superjumbo</c:name>
+         <c:producttype>Aircraft</c:producttype>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/11b8fd6c-09fa-3f2c-97c5-aaf885d5ace3/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b8fd6c-09fa-3f2c-97c5-aaf885d5ace3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/01f66c1c-fd29-356b-8e0e-f4e4c303c9ec"/>
+         <c:relevance>0.328</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/153250e5-46b6-3405-9864-2f9acf461a09">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Boeing</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/11b8fd6c-09fa-3f2c-97c5-aaf885d5ace3/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b8fd6c-09fa-3f2c-97c5-aaf885d5ace3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/153250e5-46b6-3405-9864-2f9acf461a09"/>
+         <c:relevance>0.158</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/14d13f7a-3038-3271-84c0-913d58cf911e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>EUR</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/11b8fd6c-09fa-3f2c-97c5-aaf885d5ace3/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b8fd6c-09fa-3f2c-97c5-aaf885d5ace3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/14d13f7a-3038-3271-84c0-913d58cf911e"/>
+         <c:relevance>0.079</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/c5c82ed7-183d-32ea-991a-bc9f6f89c8f4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Singapore Airlines</c:name>
+         <c:nationality>Singaporean</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/11b8fd6c-09fa-3f2c-97c5-aaf885d5ace3/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b8fd6c-09fa-3f2c-97c5-aaf885d5ace3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/c5c82ed7-183d-32ea-991a-bc9f6f89c8f4"/>
+         <c:relevance>0.133</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/66fd6265-aa26-3766-a789-a55950e54b39">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Product"/>
+         <c:name>Boeing Dreamliner</c:name>
+         <c:producttype>Aircraft</c:producttype>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/11b8fd6c-09fa-3f2c-97c5-aaf885d5ace3/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b8fd6c-09fa-3f2c-97c5-aaf885d5ace3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/66fd6265-aa26-3766-a789-a55950e54b39"/>
+         <c:relevance>0.294</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/84dccb60-5afd-30dd-9d2d-5fcc1af70d0c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>GBP</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/11b8fd6c-09fa-3f2c-97c5-aaf885d5ace3/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b8fd6c-09fa-3f2c-97c5-aaf885d5ace3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/84dccb60-5afd-30dd-9d2d-5fcc1af70d0c"/>
+         <c:relevance>0.270</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/4c187810-bed6-34c2-986d-6b7e25c3c3fb">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b8fd6c-09fa-3f2c-97c5-aaf885d5ace3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/d5d6de12-db55-339c-9c6e-05a0c9536b9d"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>AIRBUS S.A.S.</c:name>
+         <c:shortname>Airbus</c:shortname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/13de4e72-3b73-36eb-8424-20fdf24d781d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Heathrow airport</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/11b8fd6c-09fa-3f2c-97c5-aaf885d5ace3/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b8fd6c-09fa-3f2c-97c5-aaf885d5ace3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/13de4e72-3b73-36eb-8424-20fdf24d781d"/>
+         <c:relevance>0.355</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/8a665d27-e479-3fbe-9932-b15b28fdce02">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Product"/>
+         <c:name>Boeing 777</c:name>
+         <c:producttype>Aircraft</c:producttype>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/11b8fd6c-09fa-3f2c-97c5-aaf885d5ace3/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b8fd6c-09fa-3f2c-97c5-aaf885d5ace3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/8a665d27-e479-3fbe-9932-b15b28fdce02"/>
+         <c:relevance>0.158</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/d5d6de12-db55-339c-9c6e-05a0c9536b9d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Airbus</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/11b8fd6c-09fa-3f2c-97c5-aaf885d5ace3/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b8fd6c-09fa-3f2c-97c5-aaf885d5ace3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/d5d6de12-db55-339c-9c6e-05a0c9536b9d"/>
+         <c:relevance>0.504</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/4948370b-89cc-3503-a02e-3f9a36497072">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b8fd6c-09fa-3f2c-97c5-aaf885d5ace3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/c5c82ed7-183d-32ea-991a-bc9f6f89c8f4"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>SINGAPORE AIRLINES LIMITED</c:name>
+         <c:shortname>Singapore Air</c:shortname>
+         <c:ticker>SIAL</c:ticker>
+         <c:symbol>SIAL.SI</c:symbol>
+      </rdf:Description>
+   </rdf:RDF>

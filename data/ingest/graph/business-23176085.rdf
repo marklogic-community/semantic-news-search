@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/business-23176085">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/business-23176085"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Food giants Nestle and Danone say they will cut prices of some of their infant milk formula products in China, a day after Beijing announced a probe.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-04T05:38:13</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68538000/jpg/_68538778_164899150.jpg"/>
+         <rnews:headline xml:lang="en-GB">Baby milk firms to cut China prices</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Business</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68538000/jpg/_68538772_164899150.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/business-23176085"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">A Chinese mother looking at baby milk formula in a store in China</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="fa66ba69-96c9-7b65-13fb-ce6bc861a813"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/FF2jl7b8VvlORBPHabe9og"
+                    rdf:about="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-04</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/business-23176085"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 02:10:05.574"
+                    rdf:about="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|uGmQM8qrTLT6g6AC6dc7hn0n85w=|CaYP5uv5s9lU35cKGvghkS31VmZNWNZhqAm0o/nyENx2K9+Ph5ghPQ==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/84a34c48-25ac-327f-a805-7b81fd570f7d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Australia</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/84a34c48-25ac-327f-a805-7b81fd570f7d"/>
+         <c:relevance>0.060</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/241abae4-775e-3c09-aaca-7019f07aa7fe">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/9773f9d6-2b00-337a-949c-4bb6d6f57d19"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>ABBOTT LABORATORIES</c:name>
+         <c:shortname>Abbott LABS</c:shortname>
+         <c:ticker>ABT</c:ticker>
+         <c:symbol>ABT.N</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/8a7d7ba2-88ca-0f0e-a1ec-f975b026e8e1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3d1db47c-b851-32ab-af0b-0bffa4dad5d1"/>
+         <c:name>China</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">32.9042932784</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">110.467708512</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/fb2a54d6-3748-4c4c-a8ad-b2343237b89f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/84a34c48-25ac-327f-a805-7b81fd570f7d"/>
+         <c:name>Australia</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-32.34562</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">141.434598022</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/736a403d-157b-3e80-86a7-acc404607cb2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>USD</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/736a403d-157b-3e80-86a7-acc404607cb2"/>
+         <c:relevance>0.066</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b9c99c28-2fe0-3640-83aa-4e274b31dcfa">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/CompanyAffiliates"/>
+         <c:company_affiliate rdf:resource="http://d.opencalais.com/comphash-1/6f6f7649-2cfe-3c12-a55b-bb874506e87e"/>
+         <c:company_parent rdf:resource="http://d.opencalais.com/comphash-1/41067b96-e024-3486-b306-5b246fe8fcc4"/>
+         <c:affiliaterelationtype>unit</c:affiliaterelationtype>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a5359054-758f-3c20-ac97-d90fbc6a170e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Continent"/>
+         <c:name>Asia</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a5359054-758f-3c20-ac97-d90fbc6a170e"/>
+         <c:relevance>0.060</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/239e42c7-1238-3eb5-8ef0-29b19c02f41f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/6311e6d9-e99d-3b3d-b1e5-78f28f6cff4b"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/a12b43d5-d195-35ea-96a9-f710943bdb5a"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/19ea504d-eaca-3107-9ff5-e22abc1ccf04"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>United Kingdom</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16"/>
+         <c:relevance>0.060</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3d1db47c-b851-32ab-af0b-0bffa4dad5d1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>China</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3d1db47c-b851-32ab-af0b-0bffa4dad5d1"/>
+         <c:relevance>0.595</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a12b43d5-d195-35ea-96a9-f710943bdb5a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>analyst</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a12b43d5-d195-35ea-96a9-f710943bdb5a"/>
+         <c:relevance>0.125</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/6f6f7649-2cfe-3c12-a55b-bb874506e87e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Wyeth</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/6f6f7649-2cfe-3c12-a55b-bb874506e87e"/>
+         <c:relevance>0.334</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/41067b96-e024-3486-b306-5b246fe8fcc4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Nestle</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/41067b96-e024-3486-b306-5b246fe8fcc4"/>
+         <c:relevance>0.694</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/7ee29065-89bb-38b1-b586-07e9f6dcf598">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/64b22387-6e1f-3cfb-8c06-580ab4e9e50d"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>DANONE S.A.</c:name>
+         <c:shortname>Danone</c:shortname>
+         <c:ticker>DANO</c:ticker>
+         <c:symbol>DANO.PA</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/9773f9d6-2b00-337a-949c-4bb6d6f57d19">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Abbott Laboratories</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/9773f9d6-2b00-337a-949c-4bb6d6f57d19"/>
+         <c:relevance>0.242</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/19ea504d-eaca-3107-9ff5-e22abc1ccf04">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Kepler Cheuvreux</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/19ea504d-eaca-3107-9ff5-e22abc1ccf04"/>
+         <c:relevance>0.115</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/a4913d91-ab4c-3bb0-9498-f97b10ecd57d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Mead Johnson Nutrition</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/a4913d91-ab4c-3bb0-9498-f97b10ecd57d"/>
+         <c:relevance>0.242</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/64b22387-6e1f-3cfb-8c06-580ab4e9e50d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Danone</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/64b22387-6e1f-3cfb-8c06-580ab4e9e50d"/>
+         <c:relevance>0.687</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/89ecac0e-ae3d-3675-8efd-8edcd1de86b8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/a4913d91-ab4c-3bb0-9498-f97b10ecd57d"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>MEAD JOHNSON NUTRITION COMPANY</c:name>
+         <c:shortname>Mead Johnson</c:shortname>
+         <c:ticker>MJN</c:ticker>
+         <c:symbol>MJN.N</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/efd78cfb-d7a3-3426-bb5b-04470e3d8f7d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/6f6f7649-2cfe-3c12-a55b-bb874506e87e"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>WYETH LLC</c:name>
+         <c:shortname>Wyeth</c:shortname>
+         <c:ticker>PFEWY</c:ticker>
+         <c:symbol>PFEWY.UL</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/6311e6d9-e99d-3b3d-b1e5-78f28f6cff4b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Jon Cox</c:name>
+         <c:persontype>economic</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Jon Cox</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/6311e6d9-e99d-3b3d-b1e5-78f28f6cff4b"/>
+         <c:relevance>0.137</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/931d17f8-5204-381e-a691-5ea244501a55">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/41067b96-e024-3486-b306-5b246fe8fcc4"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>Nestle Ltd.</c:name>
+         <c:shortname>Nestle Schweiz</c:shortname>
+         <c:ticker>NESN</c:ticker>
+         <c:symbol>NESN.VX</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0b4c75d7-f7bb-3d48-8889-bb64cad6ecd8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>AFP</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0b4c75d7-f7bb-3d48-8889-bb64cad6ecd8"/>
+         <c:relevance>0.272</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/fa150cb2-e97a-33dd-8d89-475937f9e488">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/CompanyReorganization"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/6f6f7649-2cfe-3c12-a55b-bb874506e87e"/>
+         <c:status>planned</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/9cdc126f-6826-0cbd-df3a-00a4032f0e7e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16"/>
+         <c:name>United Kingdom</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">53.1142456495</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-2.57711368423</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/760a9076-851d-3421-890d-34da47e9baa7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>China's National Development and Reform Commission</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>Chinese</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/4af1cde1-06d1-3a10-b01c-350150fc90e1"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/760a9076-851d-3421-890d-34da47e9baa7"/>
+         <c:relevance>0.242</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

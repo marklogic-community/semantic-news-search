@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-23141479">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-23141479"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Rescue operations are under way after a 6.1 earthquake hit Indonesia's Aceh, flattening houses and killing at least 24 people.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-03T13:38:15</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68517000/jpg/_68517532_68515938.jpg"/>
+         <rnews:headline xml:lang="en-GB">Rescue push after Indonesia quake</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68515000/jpg/_68515937_018524671-2.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-23141479"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">An injured resident is evacuated to the local clinic after a strong earthquake hit in Bener Meriah district in Central Aceh, Indonesia, 2 July 2013.</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68496000/jpg/_68496573_indonesia.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-23141479"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">303</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">170</rnews:height>
+         <rnews:description xml:lang="en-GB">Map</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="8b42ec8b-0d8f-de15-13fb-dd13adb97348"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/ZKdv6g9rHzqXqqurj7-HAQ"
+                    rdf:about="http://d.opencalais.com/dochash-1/25b615e4-7cd5-3055-b159-809930431b53">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-03</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-23141479"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 05:26:13.339"
+                    rdf:about="http://d.opencalais.com/dochash-1/25b615e4-7cd5-3055-b159-809930431b53/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/25b615e4-7cd5-3055-b159-809930431b53"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|9SJPR7C9d/CM++qo6teJQEf7RJo=|OV2I4M6e02Cx9nB3cUOqS1NGr+Zz2ooSh6QjhCoTh/VKTzBcrV/3Wg==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/25b615e4-7cd5-3055-b159-809930431b53/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/25b615e4-7cd5-3055-b159-809930431b53"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/25b615e4-7cd5-3055-b159-809930431b53/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/25b615e4-7cd5-3055-b159-809930431b53"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Disaster_Accident"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Disaster_Accident</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.000</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/25b615e4-7cd5-3055-b159-809930431b53/cat/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/25b615e4-7cd5-3055-b159-809930431b53"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Environment"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Environment</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.000</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0fc0481d-61d8-3509-82dc-8e507d42e2ca">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/NaturalDisaster"/>
+         <c:location rdf:resource="http://d.opencalais.com/genericHasher-1/6eb094bc-17d2-38a7-b658-edce56e507cd"/>
+         <c:naturaldisaster>earthquake</c:naturaldisaster>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a0cebcb6-b141-34b2-b79a-6dda66090396">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Region"/>
+         <c:name>Indian Ocean</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/25b615e4-7cd5-3055-b159-809930431b53/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/25b615e4-7cd5-3055-b159-809930431b53"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a0cebcb6-b141-34b2-b79a-6dda66090396"/>
+         <c:relevance>0.100</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5591af47-c40e-3579-a652-7c16f03cc6d0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/NaturalFeature"/>
+         <c:name>Indian Ocean</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/25b615e4-7cd5-3055-b159-809930431b53/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/25b615e4-7cd5-3055-b159-809930431b53"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/5591af47-c40e-3579-a652-7c16f03cc6d0"/>
+         <c:relevance>0.100</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/52298d8c-c4c5-3b90-a98c-d9e57be144ca">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>local official</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/25b615e4-7cd5-3055-b159-809930431b53/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/25b615e4-7cd5-3055-b159-809930431b53"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/52298d8c-c4c5-3b90-a98c-d9e57be144ca"/>
+         <c:relevance>0.139</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/370cf07a-96ad-3304-bdbc-3a32a9715fe7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>disaster agency spokesman</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/25b615e4-7cd5-3055-b159-809930431b53/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/25b615e4-7cd5-3055-b159-809930431b53"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/370cf07a-96ad-3304-bdbc-3a32a9715fe7"/>
+         <c:relevance>0.276</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6513dc04-59a8-3230-a3d7-ef9b536f3806">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/MilitaryAction"/>
+         <c:action>Soldiers and police have been deployed</c:action>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d26ec7bc-3b27-3cb3-83f5-1f2c77cefb8f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/NaturalDisaster"/>
+         <c:location>the Indian Ocean</c:location>
+         <c:effect>killed some 230,000 people</c:effect>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/39bd3b20-c942-3870-b6e2-5ab68a3642bc">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/NaturalFeature"/>
+         <c:name>Sumatra island</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/25b615e4-7cd5-3055-b159-809930431b53/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/25b615e4-7cd5-3055-b159-809930431b53"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/39bd3b20-c942-3870-b6e2-5ab68a3642bc"/>
+         <c:relevance>0.330</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/31920b2e-1c01-38e1-8a7d-fb9e30666d21">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Indonesia</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/25b615e4-7cd5-3055-b159-809930431b53/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/25b615e4-7cd5-3055-b159-809930431b53"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/31920b2e-1c01-38e1-8a7d-fb9e30666d21"/>
+         <c:relevance>0.672</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b800b0a7-1198-3ce3-bcec-1484f91ab809">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/NaturalDisaster"/>
+         <c:effect>at least 24 people were killed and more than 200 injured</c:effect>
+         <c:naturaldisaster>earthquake</c:naturaldisaster>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/cda2c99f-bf5e-19f2-0d33-1299c15a4491">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/25b615e4-7cd5-3055-b159-809930431b53"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/31920b2e-1c01-38e1-8a7d-fb9e30666d21"/>
+         <c:name>Indonesia</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-3.25906772689</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">109.702752248</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c107eb3b-042e-39ae-86fd-1f69a3d6e7ce">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/57ee6ee6-38a5-353e-accc-b1fbce8588a8"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/370cf07a-96ad-3304-bdbc-3a32a9715fe7"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a9a4849e-3d06-3aee-b4d5-073aee3620bb">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/NaturalDisaster"/>
+         <c:location>Indonesia Aceh</c:location>
+         <c:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-03</c:date>
+         <c:datestring>3 July 2013</c:datestring>
+         <c:naturaldisaster>earthquake</c:naturaldisaster>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3fff88f3-f235-3058-b335-485bb5acab51">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/NaturalDisaster"/>
+         <c:effect>roads were blocked</c:effect>
+         <c:naturaldisaster>landslide</c:naturaldisaster>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d28bf5ed-3eef-369c-b81f-314f5bbecb4a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Indonesian air force</c:name>
+         <c:organizationtype>governmental military</c:organizationtype>
+         <c:nationality>Indonesian</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/25b615e4-7cd5-3055-b159-809930431b53/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/25b615e4-7cd5-3055-b159-809930431b53"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/d28bf5ed-3eef-369c-b81f-314f5bbecb4a"/>
+         <c:relevance>0.191</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/57ee6ee6-38a5-353e-accc-b1fbce8588a8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Sutopo Purwo Nugroho</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Sutopo Purwo Nugroho</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/25b615e4-7cd5-3055-b159-809930431b53/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/25b615e4-7cd5-3055-b159-809930431b53"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/57ee6ee6-38a5-353e-accc-b1fbce8588a8"/>
+         <c:relevance>0.574</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a55bed1c-cc09-3e5c-a117-3b7243e5c2d5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/NaturalDisaster"/>
+         <c:effect>more than 300 buildings have been damaged</c:effect>
+         <c:naturaldisaster>earthquake</c:naturaldisaster>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6eb094bc-17d2-38a7-b658-edce56e507cd">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>Aceh</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/25b615e4-7cd5-3055-b159-809930431b53/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/25b615e4-7cd5-3055-b159-809930431b53"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/6eb094bc-17d2-38a7-b658-edce56e507cd"/>
+         <c:relevance>0.164</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

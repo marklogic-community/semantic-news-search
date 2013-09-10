@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/business-23192857">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/business-23192857"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Rolls-Royce denies claims made by two former employees in a US lawsuit that it "cut corners on quality control requirements" and "lied to" customers.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-05T03:43:39</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68560000/jpg/_68560402_172749817.jpg"/>
+         <rnews:headline xml:lang="en-GB">Rolls-Royce denies cover-up claims</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Business</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68560000/jpg/_68560396_98834913.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/business-23192857"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Rolls-Royce engine</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="c158bd58-80cc-5608-13fb-dd6928d33e3f"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/c*bKZuX0RO3hec21Uk0lbQ"
+                    rdf:about="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-05</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/business-23192857"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 06:32:03.469"
+                    rdf:about="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|YFQHGQlXpXsVvxQWXm/KPWC9LpU=|MZvHeItFnmFoOH3dsGux51pRxJs4bZj9N6EHAqC122XEOmXlJdrw8w==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Law_Crime"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Law_Crime</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.000</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/f801d24f-b589-3d28-8ee5-8f4bbd09b529">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ProductIssues"/>
+         <c:product rdf:resource="http://d.opencalais.com/genericHasher-1/c7bd1f9d-9666-3858-9c63-f365f9c4f305"/>
+         <c:producttype>Other</c:producttype>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/230f54f0-634d-38c3-a0a2-51b7aec9becc"/>
+         <c:status>known</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b3c90e6f-0f00-3abd-9bc6-454f17a78420">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>district Judge</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b3c90e6f-0f00-3abd-9bc6-454f17a78420"/>
+         <c:relevance>0.168</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/15fa0e26-fa8e-35a2-8119-c27062f2fa33">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/PublishedMedium"/>
+         <c:name>the Financial Times</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/15fa0e26-fa8e-35a2-8119-c27062f2fa33"/>
+         <c:relevance>0.241</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/18e43bce-200d-394c-b807-72dcbcb940ad">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Keith Ramsey</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Keith Ramsey</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/18e43bce-200d-394c-b807-72dcbcb940ad"/>
+         <c:relevance>0.241</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/152649df-347e-e289-1a9e-acc883e07d17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:name>United States</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.4230003233</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-98.7372244786</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/53354ea5-f285-3d24-8cdd-89ed2dd62ae3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/02500657-84e5-3e9c-8f06-16bd8c347091"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>The Financial Times (Benelux) Ltd</c:name>
+         <c:shortname>The Financial Times</c:shortname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>United States</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:relevance>0.197</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7b739db2-ae45-303c-9e72-54b539f2b0d8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/0b9fd2e1-2c46-3a53-8203-0de6c11c4ed1"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/b3c90e6f-0f00-3abd-9bc6-454f17a78420"/>
+         <c:country rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/434fb2f5-7bfe-35af-84bb-d5cd335085fa">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>engine maker</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/434fb2f5-7bfe-35af-84bb-d5cd335085fa"/>
+         <c:relevance>0.241</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/5a6433fa-0a08-3578-9688-ab2db2e27c68">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Thomas McArtor</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Thomas McArtor</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/5a6433fa-0a08-3578-9688-ab2db2e27c68"/>
+         <c:relevance>0.241</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/679b6998-1ddd-3e35-8a2c-44587d147c2b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>Judge</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/679b6998-1ddd-3e35-8a2c-44587d147c2b"/>
+         <c:relevance>0.135</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/8ce83f41-24dd-36e0-9931-091e3dd0671a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>US government</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>American</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/8ce83f41-24dd-36e0-9931-091e3dd0671a"/>
+         <c:relevance>0.135</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/2912b02f-d5cf-365c-ae53-77a232856734">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/230f54f0-634d-38c3-a0a2-51b7aec9becc"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>ROLLS-ROYCE HOLDINGS PLC</c:name>
+         <c:shortname>Rolls-Royce Gp</c:shortname>
+         <c:ticker>RR</c:ticker>
+         <c:symbol>RR.L</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/02500657-84e5-3e9c-8f06-16bd8c347091">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>the Financial Times</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/02500657-84e5-3e9c-8f06-16bd8c347091"/>
+         <c:relevance>0.241</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/230f54f0-634d-38c3-a0a2-51b7aec9becc">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Rolls-Royce</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/230f54f0-634d-38c3-a0a2-51b7aec9becc"/>
+         <c:relevance>0.770</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a25f6f43-1dd2-3002-9be8-9064b03e4e01">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/PublishedMedium"/>
+         <c:name>the Daily Telegraph</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a25f6f43-1dd2-3002-9be8-9064b03e4e01"/>
+         <c:relevance>0.241</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/d3308856-4c19-35b2-8c46-68671eb5c552">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>the Daily Telegraph</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/d3308856-4c19-35b2-8c46-68671eb5c552"/>
+         <c:relevance>0.241</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/0b9fd2e1-2c46-3a53-8203-0de6c11c4ed1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>William T Lawrence</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>American</c:nationality>
+         <c:commonname>William Lawrence</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/0b9fd2e1-2c46-3a53-8203-0de6c11c4ed1"/>
+         <c:relevance>0.197</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/63536a8e-865c-3415-8974-fe1f8f2e9c2b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/0b9fd2e1-2c46-3a53-8203-0de6c11c4ed1"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/679b6998-1ddd-3e35-8a2c-44587d147c2b"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c7bd1f9d-9666-3858-9c63-f365f9c4f305">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Product"/>
+         <c:name>parts</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/298f3730-27e6-3e31-8e7a-acfcadb1bd48"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c7bd1f9d-9666-3858-9c63-f365f9c4f305"/>
+         <c:relevance>0.322</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

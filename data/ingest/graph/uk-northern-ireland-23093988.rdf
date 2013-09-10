@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/uk-northern-ireland-23093988">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/uk-northern-ireland-23093988"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">The leaked Anglo Irish Bank telephone conversations are damaging democracy, German Chancellor Angela Merkel says.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-06-28T08:15:38</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68436000/jpg/_68436336_68428709.jpg"/>
+         <rnews:headline xml:lang="en-GB">Anglo bank tapes 'contemptible'</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Northern Ireland</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68428000/jpg/_68428715_68428709.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/uk-northern-ireland-23093988"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Anglo Irish logo</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="882e817d-fcec-12aa-13fb-dccbf7e1b944"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/CLqrjRyW46CJkr6ZcQta3A"
+                    rdf:about="http://d.opencalais.com/dochash-1/26894d24-1e99-3221-9349-8eb78931b6cd">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-06-28</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/uk-northern-ireland-23093988"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 06:21:19.614"
+                    rdf:about="http://d.opencalais.com/dochash-1/26894d24-1e99-3221-9349-8eb78931b6cd/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26894d24-1e99-3221-9349-8eb78931b6cd"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|vdDDGLjPWCzDxGtAKVVzsDlfJ/Y=|CZsngdThnakWAdXO0PP8wdUHZqsooEuuDJEuW1jHrqiTNbC2wEpbqg==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26894d24-1e99-3221-9349-8eb78931b6cd/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26894d24-1e99-3221-9349-8eb78931b6cd"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26894d24-1e99-3221-9349-8eb78931b6cd/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26894d24-1e99-3221-9349-8eb78931b6cd"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Business_Finance"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Business_Finance</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.797</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/28ef36b3-5ae8-cb1f-5425-78f03408b512">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26894d24-1e99-3221-9349-8eb78931b6cd"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/28948b4c-c3a0-3d1d-87ec-0fe6eb6747e0"/>
+         <c:name>Germany</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">51.0</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9.0</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d3eabb8a-438c-359a-87ac-39da4e333ccc">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Brussels</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26894d24-1e99-3221-9349-8eb78931b6cd/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26894d24-1e99-3221-9349-8eb78931b6cd"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/d3eabb8a-438c-359a-87ac-39da4e333ccc"/>
+         <c:relevance>0.223</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/28948b4c-c3a0-3d1d-87ec-0fe6eb6747e0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Deutschland</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26894d24-1e99-3221-9349-8eb78931b6cd/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26894d24-1e99-3221-9349-8eb78931b6cd"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/28948b4c-c3a0-3d1d-87ec-0fe6eb6747e0"/>
+         <c:relevance>0.287</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6c8d4d6b-9026-39f0-8967-42d22a408453">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>bank</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26894d24-1e99-3221-9349-8eb78931b6cd/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26894d24-1e99-3221-9349-8eb78931b6cd"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/6c8d4d6b-9026-39f0-8967-42d22a408453"/>
+         <c:relevance>0.333</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6c46e431-81b9-3789-bb43-3b4548d80d58">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/PublishedMedium"/>
+         <c:name>the Irish Independent</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26894d24-1e99-3221-9349-8eb78931b6cd/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26894d24-1e99-3221-9349-8eb78931b6cd"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/6c46e431-81b9-3789-bb43-3b4548d80d58"/>
+         <c:relevance>0.257</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/16fab316-84bf-39d8-bc01-58ff9f24dcb3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/9a800332-1c6c-3b85-858e-df64f9c85a2e"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/0269fe17-3bfb-34e2-aeb5-2521158f5817"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b132985e-e159-34c7-a370-d4071a365c44">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>Bank executives</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26894d24-1e99-3221-9349-8eb78931b6cd/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26894d24-1e99-3221-9349-8eb78931b6cd"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b132985e-e159-34c7-a370-d4071a365c44"/>
+         <c:relevance>0.327</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0269fe17-3bfb-34e2-aeb5-2521158f5817">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>Chancellor</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26894d24-1e99-3221-9349-8eb78931b6cd/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26894d24-1e99-3221-9349-8eb78931b6cd"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0269fe17-3bfb-34e2-aeb5-2521158f5817"/>
+         <c:relevance>0.223</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/9a800332-1c6c-3b85-858e-df64f9c85a2e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Angela Merkel</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Angela Merkel</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26894d24-1e99-3221-9349-8eb78931b6cd/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26894d24-1e99-3221-9349-8eb78931b6cd"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/9a800332-1c6c-3b85-858e-df64f9c85a2e"/>
+         <c:relevance>0.733</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a787b752-e034-339d-98a3-926230a1a34c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCommunication"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/9a800332-1c6c-3b85-858e-df64f9c85a2e"/>
+         <c:persondescription>journalists</c:persondescription>
+         <c:status>announced</c:status>
+         <c:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-06-27</c:date>
+         <c:datestring>Thursday</c:datestring>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d85e1d77-b339-37c6-96b1-4243c3cdff03">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Ireland</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26894d24-1e99-3221-9349-8eb78931b6cd/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26894d24-1e99-3221-9349-8eb78931b6cd"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/d85e1d77-b339-37c6-96b1-4243c3cdff03"/>
+         <c:relevance>0.327</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/97657324-a56f-1ac3-c64b-1ba6c94852f2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26894d24-1e99-3221-9349-8eb78931b6cd"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/d85e1d77-b339-37c6-96b1-4243c3cdff03"/>
+         <c:name>Republic of Ireland</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">52.6463722222</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-7.48976333333</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/c0137620-9f59-7c2e-c1c7-834e05e733a0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26894d24-1e99-3221-9349-8eb78931b6cd"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/d3eabb8a-438c-359a-87ac-39da4e333ccc"/>
+         <c:name>Brussels,Brussels-Capital Region,Belgium</c:name>
+         <c:shortname>Brussels</c:shortname>
+         <c:containedbystate>Brussels-Capital Region</c:containedbystate>
+         <c:containedbycountry>Belgium</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">50.8410694286</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.35642242432</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/85ede130-8eb4-30bb-a5f8-7fae0cb07539">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>executive</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26894d24-1e99-3221-9349-8eb78931b6cd/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26894d24-1e99-3221-9349-8eb78931b6cd"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/85ede130-8eb4-30bb-a5f8-7fae0cb07539"/>
+         <c:relevance>0.287</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b6266543-b3c0-362e-a7f1-4dddf0ba792f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>European Union</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26894d24-1e99-3221-9349-8eb78931b6cd/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26894d24-1e99-3221-9349-8eb78931b6cd"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b6266543-b3c0-362e-a7f1-4dddf0ba792f"/>
+         <c:relevance>0.223</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/e901a730-16db-325d-a0b1-41ec48a4dbdb">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Irish Independent</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/26894d24-1e99-3221-9349-8eb78931b6cd/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/26894d24-1e99-3221-9349-8eb78931b6cd"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/e901a730-16db-325d-a0b1-41ec48a4dbdb"/>
+         <c:relevance>0.257</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-asia-22935071">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-asia-22935071"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Australian Adrian Bayley is jailed for the rape and murder of Irish woman Jill Meagher, with a minimum jail term of 35 years.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-06-19T03:34:17</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68251000/jpg/_68251751_63067715.jpg"/>
+         <rnews:headline xml:lang="en-GB">Australian jailed for Meagher murder</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/63067000/jpg/_63067720_63067715.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-asia-22935071"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">224</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">299</rnews:height>
+         <rnews:description xml:lang="en-GB">Jill Meagher</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="d0ae0e7f-ecd0-cbcf-13fb-dc7f9bd97348"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/3960-PWqODErHsFfTDj54g"
+                    rdf:about="http://d.opencalais.com/dochash-1/11b9bee9-1b98-342e-b632-bdbecb34555b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-06-19</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-asia-22935071"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 05:16:06.845"
+                    rdf:about="http://d.opencalais.com/dochash-1/11b9bee9-1b98-342e-b632-bdbecb34555b/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b9bee9-1b98-342e-b632-bdbecb34555b"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|AknnyLiIpZSBTNUSawz2/ozdEtY=|HsEf8fXrAg1kFiUxpJYxPDA1Dh1ySP0IcvP7ofJYPkF6rQkfxfHwXw==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/11b9bee9-1b98-342e-b632-bdbecb34555b/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b9bee9-1b98-342e-b632-bdbecb34555b"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/11b9bee9-1b98-342e-b632-bdbecb34555b/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b9bee9-1b98-342e-b632-bdbecb34555b"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Law_Crime"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Law_Crime</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.988</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/84a34c48-25ac-327f-a805-7b81fd570f7d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Australia</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/11b9bee9-1b98-342e-b632-bdbecb34555b/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b9bee9-1b98-342e-b632-bdbecb34555b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/84a34c48-25ac-327f-a805-7b81fd570f7d"/>
+         <c:relevance>0.418</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/9662ed3a-9325-313a-888f-09d5943d2e67">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Tom</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Tom</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/11b9bee9-1b98-342e-b632-bdbecb34555b/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b9bee9-1b98-342e-b632-bdbecb34555b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/9662ed3a-9325-313a-888f-09d5943d2e67"/>
+         <c:relevance>0.141</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a2ffb1a6-d36b-3922-b60d-408d13557865">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Melbourne</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/11b9bee9-1b98-342e-b632-bdbecb34555b/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b9bee9-1b98-342e-b632-bdbecb34555b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a2ffb1a6-d36b-3922-b60d-408d13557865"/>
+         <c:relevance>0.309</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/0f70d0fc-0274-3920-aacf-aeea1c72b826">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Geoffrey Nettle</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Geoffrey Nettle</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/11b9bee9-1b98-342e-b632-bdbecb34555b/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b9bee9-1b98-342e-b632-bdbecb34555b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/0f70d0fc-0274-3920-aacf-aeea1c72b826"/>
+         <c:relevance>0.257</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/b02390d0-a8a4-366f-a459-af48590797c8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b9bee9-1b98-342e-b632-bdbecb34555b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/e8504d27-7c98-393e-b082-af2826f0647b"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>ABC Radio Holdings, Inc</c:name>
+         <c:shortname>ABC Radio</c:shortname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/ea999c1c-d867-d4f2-2318-a7aa9985ddf1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b9bee9-1b98-342e-b632-bdbecb34555b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a2ffb1a6-d36b-3922-b60d-408d13557865"/>
+         <c:name>Melbourne,Victoria,Australia</c:name>
+         <c:shortname>Melbourne</c:shortname>
+         <c:containedbystate>Victoria</c:containedbystate>
+         <c:containedbycountry>Australia</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-37.78333</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">144.9667</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/fb2a54d6-3748-4c4c-a8ad-b2343237b89f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b9bee9-1b98-342e-b632-bdbecb34555b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/84a34c48-25ac-327f-a805-7b81fd570f7d"/>
+         <c:name>Australia</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-32.34562</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">141.434598022</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/e8504d27-7c98-393e-b082-af2826f0647b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>ABC Radio</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/11b9bee9-1b98-342e-b632-bdbecb34555b/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b9bee9-1b98-342e-b632-bdbecb34555b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/e8504d27-7c98-393e-b082-af2826f0647b"/>
+         <c:relevance>0.079</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/97657324-a56f-1ac3-c64b-1ba6c94852f2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b9bee9-1b98-342e-b632-bdbecb34555b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/d85e1d77-b339-37c6-96b1-4243c3cdff03"/>
+         <c:name>Republic of Ireland</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">52.6463722222</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-7.48976333333</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/65b3acb8-b7f0-358e-bfda-e844dc19b144">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/4597511b-4dd8-3160-aac4-c17e6a657eb4"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/e8504d27-7c98-393e-b082-af2826f0647b"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>past</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/beeb8694-cf72-3e61-9d25-497f089d982d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/Conviction"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/31e098f1-9297-3fee-b7f4-6e2b0debd350"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/41c3aae8-4ae7-3477-8045-72e696692388">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonRelation"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/4597511b-4dd8-3160-aac4-c17e6a657eb4"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/9662ed3a-9325-313a-888f-09d5943d2e67"/>
+         <c:personrelationtype>romantic</c:personrelationtype>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/4597511b-4dd8-3160-aac4-c17e6a657eb4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Jill Meagher</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Jill Meagher</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/11b9bee9-1b98-342e-b632-bdbecb34555b/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b9bee9-1b98-342e-b632-bdbecb34555b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/4597511b-4dd8-3160-aac4-c17e6a657eb4"/>
+         <c:relevance>0.816</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/be7dccb6-294e-3199-a070-ebe409384b8f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Louth</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Louth</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/11b9bee9-1b98-342e-b632-bdbecb34555b/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b9bee9-1b98-342e-b632-bdbecb34555b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/be7dccb6-294e-3199-a070-ebe409384b8f"/>
+         <c:relevance>0.309</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/30db214f-5053-3a16-9ef4-a19b36f9e667">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>UN Court</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/11b9bee9-1b98-342e-b632-bdbecb34555b/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b9bee9-1b98-342e-b632-bdbecb34555b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/30db214f-5053-3a16-9ef4-a19b36f9e667"/>
+         <c:relevance>0.254</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/2e9c5694-2dff-38b4-a798-05cb2b41e4dc">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/FamilyRelation"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/4597511b-4dd8-3160-aac4-c17e6a657eb4"/>
+         <c:familyrelationtype>husband</c:familyrelationtype>
+         <c:person_relative rdf:resource="http://d.opencalais.com/pershash-1/9662ed3a-9325-313a-888f-09d5943d2e67"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/679b6998-1ddd-3e35-8a2c-44587d147c2b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>judge</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/11b9bee9-1b98-342e-b632-bdbecb34555b/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b9bee9-1b98-342e-b632-bdbecb34555b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/679b6998-1ddd-3e35-8a2c-44587d147c2b"/>
+         <c:relevance>0.344</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/31e098f1-9297-3fee-b7f4-6e2b0debd350">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Adrian Bayley</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>Australian</c:nationality>
+         <c:commonname>Adrian Bayley</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/11b9bee9-1b98-342e-b632-bdbecb34555b/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b9bee9-1b98-342e-b632-bdbecb34555b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/31e098f1-9297-3fee-b7f4-6e2b0debd350"/>
+         <c:relevance>0.639</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d85e1d77-b339-37c6-96b1-4243c3cdff03">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Ireland</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/11b9bee9-1b98-342e-b632-bdbecb34555b/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b9bee9-1b98-342e-b632-bdbecb34555b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/d85e1d77-b339-37c6-96b1-4243c3cdff03"/>
+         <c:relevance>0.091</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/9c954f4a-fffe-3348-a14b-0aa3a52aafb5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/0f70d0fc-0274-3920-aacf-aeea1c72b826"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/679b6998-1ddd-3e35-8a2c-44587d147c2b"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/provinceorstate/ralg-geo1/dc2f5425-4607-bd1b-b190-af0e7d3d5a2f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/ProvinceOrState"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b9bee9-1b98-342e-b632-bdbecb34555b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/26bf4a02-0f9f-340e-a6fe-70478cd1cf1c"/>
+         <c:name>Victoria,Seychelles</c:name>
+         <c:shortname>Victoria</c:shortname>
+         <c:containedbycountry>Seychelles</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-4.63083333333</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">55.4619444444</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/26bf4a02-0f9f-340e-a6fe-70478cd1cf1c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>Victoria</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/11b9bee9-1b98-342e-b632-bdbecb34555b/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/11b9bee9-1b98-342e-b632-bdbecb34555b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/26bf4a02-0f9f-340e-a6fe-70478cd1cf1c"/>
+         <c:relevance>0.271</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

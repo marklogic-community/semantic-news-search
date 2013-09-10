@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-middle-east-23279275">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-middle-east-23279275"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Bomb and gun attacks across Iraq kill more than 30 people, many of them members of the security forces, in the past day, officials say.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-11T20:34:08</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68684000/jpg/_68684987_68684940.jpg"/>
+         <rnews:headline xml:lang="en-GB">Iraq hit by fresh wave of violence</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68684000/jpg/_68684937_68684936.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-middle-east-23279275"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Policeman walks past car destroyed in Kirkuk attack (11/07/13)</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="2149319b-ff8c-16ad-13fd-12929d2443e5"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/rCsp-bv0kvKidQBqfLDhZw"
+                    rdf:about="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-11</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-middle-east-23279275"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-12 00:35:03.250"
+                    rdf:about="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|ascErJdkndqUqbHDkZCHSYrGIXk=|Qy38sV6v3M4qqJlbEUzx38CQ/pt0aACe1CLuQGOZHNxNpdH6cCQJuQ==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/War_Conflict"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>War_Conflict</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.994</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc/cat/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Politics"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Politics</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.770</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/6b402fb6-bb80-383c-bfc6-c1dcdaa3d537">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Nouri Maliki</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Nouri Maliki</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/6b402fb6-bb80-383c-bfc6-c1dcdaa3d537"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.224</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/ba132910-37ea-397d-89f2-ad72a6ed432a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>the Associated Press</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/ba132910-37ea-397d-89f2-ad72a6ed432a"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.124</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/35392401-b4ba-35d1-89df-328acadbead0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/ba132910-37ea-397d-89f2-ad72a6ed432a"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>The Associated Press GmbH</c:name>
+         <c:shortname>The Associated</c:shortname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/18f83771-6b6a-6771-dfdc-5496744e4f7c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/06eac2c6-399e-3957-a8ff-4ed55583d615"/>
+         <c:name>Hawija,Iraq</c:name>
+         <c:shortname>Hawija</c:shortname>
+         <c:containedbycountry>Iraq</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">34.0166666667</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.3833333333</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e23c2052-62a6-3b92-b5e5-3918bee21285">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>nearby oil pipeline</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e23c2052-62a6-3b92-b5e5-3918bee21285"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.124</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a0c080b4-813b-391c-92b6-ec8dee532d4a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ArmedAttack"/>
+         <c:partyinvolved1>suicide bomber</c:partyinvolved1>
+         <c:attacker>suicide bomber</c:attacker>
+         <c:attacktype>explosion</c:attacktype>
+         <c:weaponused>explosives</c:weaponused>
+         <c:status>confirmed</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/de314681-e619-35c9-a1de-d7e24d7ee101">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Khaldiya</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/de314681-e619-35c9-a1de-d7e24d7ee101"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.105</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ec6a8666-3bfd-3889-a578-bc6b7fde38e4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCommunication"/>
+         <c:persondescription>local official</c:persondescription>
+         <c:organizationorcompany rdf:resource="http://d.opencalais.com/comphash-1/ba132910-37ea-397d-89f2-ad72a6ed432a"/>
+         <c:status>announced</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7b96026c-4376-36f1-aac2-474d6cb1ceed">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>Prime Minister</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7b96026c-4376-36f1-aac2-474d6cb1ceed"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.224</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/06eac2c6-399e-3957-a8ff-4ed55583d615">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Hawija</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/06eac2c6-399e-3957-a8ff-4ed55583d615"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.089</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3913400b-4772-3357-ad3f-ed09e0da4244">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Baghdad</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3913400b-4772-3357-ad3f-ed09e0da4244"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.323</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e023cc4f-2849-340a-b6bb-6f20c5de8ff5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Fallujah</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e023cc4f-2849-340a-b6bb-6f20c5de8ff5"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.105</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/994aee72-4946-c6b1-1edd-bbda13368274">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/46bd0aa2-9748-3df6-ac0d-4beb74b1626a"/>
+         <c:name>Ramadi,Al Anbar Governorate,Iraq</c:name>
+         <c:shortname>Ramadi</c:shortname>
+         <c:containedbystate>Al Anbar Governorate</c:containedbystate>
+         <c:containedbycountry>Iraq</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">33.4167</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">43.3</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/8ce7f3c1-e586-382e-b8ec-9050a6d7ac55">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Holiday"/>
+         <c:name>Ramadan</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/8ce7f3c1-e586-382e-b8ec-9050a6d7ac55"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.124</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/fa36ccaa-3402-3be8-993a-00a6a8fbfb2e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>United Nations</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/fa36ccaa-3402-3be8-993a-00a6a8fbfb2e"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.334</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6970d84d-53cb-3b52-9064-063fcda5a5fb">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Iraq</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/6970d84d-53cb-3b52-9064-063fcda5a5fb"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.602</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a275a806-a470-3124-906e-2b107573cc87">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>Anbar</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a275a806-a470-3124-906e-2b107573cc87"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.512</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/152649df-347e-e289-1a9e-acc883e07d17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:name>United States</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.4230003233</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-98.7372244786</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/52298d8c-c4c5-3b90-a98c-d9e57be144ca">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>local official</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/52298d8c-c4c5-3b90-a98c-d9e57be144ca"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.124</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>United States</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.076</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b2ff9b99-67cb-3700-8e08-9bd82575a0ae">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ArmedAttack"/>
+         <c:partyinvolved2>members</c:partyinvolved2>
+         <c:locationstring>Anbar</c:locationstring>
+         <c:status>confirmed</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7c89d550-6f3c-3be2-a8ee-1a580af457e6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/6b402fb6-bb80-383c-bfc6-c1dcdaa3d537"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/7b96026c-4376-36f1-aac2-474d6cb1ceed"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/19e999e6-cb6c-9cf7-e2fe-6983ae23530e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e023cc4f-2849-340a-b6bb-6f20c5de8ff5"/>
+         <c:name>Fallujah,Al Anbar Governorate,Iraq</c:name>
+         <c:shortname>Fallujah</c:shortname>
+         <c:containedbystate>Al Anbar Governorate</c:containedbystate>
+         <c:containedbycountry>Iraq</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">33.3525</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">43.7869444444</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/d3b1cee2-327c-fa35-7dab-f0289958c024">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/6970d84d-53cb-3b52-9064-063fcda5a5fb"/>
+         <c:name>Iraq</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">33.0</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.0</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/46bd0aa2-9748-3df6-ac0d-4beb74b1626a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Ramadi</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/46bd0aa2-9748-3df6-ac0d-4beb74b1626a"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.105</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ed95575a-7349-3635-b762-ae560372c78e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ArmedAttack"/>
+         <c:status>confirmed</c:status>
+         <c:casualties>wounding dozens of protesters</c:casualties>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/bd6bc85c-e87c-6868-9175-835486b87173">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d70eea73-a958-35bf-b707-72685a0906bc"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3913400b-4772-3357-ad3f-ed09e0da4244"/>
+         <c:name>Baghdad</c:name>
+         <c:shortname>Baghdad</c:shortname>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">33.319053445</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.3919754028</c:longitude>
+      </rdf:Description>
+   </rdf:RDF>

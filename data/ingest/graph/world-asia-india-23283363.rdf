@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-asia-india-23283363">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-asia-india-23283363"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Eleven people are drowned after a boat capsizes in the flooded Kosi river in the eastern Indian state of Bihar.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-12T07:12:10</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68688000/gif/_68688918_india_bihar_madhepura_12jul2013.cmp.gif"/>
+         <rnews:headline xml:lang="en-GB">Eleven drown in India boat capsize</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68688000/gif/_68688913_india_bihar_madhepura_12jul2013.cmp.gif">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-asia-india-23283363"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Madhepura map</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="19d8a7f7-7003-3011-13fd-2161ae345124"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/c1NPMqqbUYLuAw5-RAxBnA"
+                    rdf:about="http://d.opencalais.com/dochash-1/0fe7e5b0-8305-3847-8760-6e8a93447fae">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-12</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-asia-india-23283363"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-12 04:53:51.459"
+                    rdf:about="http://d.opencalais.com/dochash-1/0fe7e5b0-8305-3847-8760-6e8a93447fae/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0fe7e5b0-8305-3847-8760-6e8a93447fae"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|Pr/ZrEWGE1mx8EbTMQZ3hvhPvas=|jz51Hvk7eeC45U3/0zpWtNSnMKBjh7VaJxTvjdu07issVq5AwzP6hQ==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/0fe7e5b0-8305-3847-8760-6e8a93447fae/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0fe7e5b0-8305-3847-8760-6e8a93447fae"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/0fe7e5b0-8305-3847-8760-6e8a93447fae/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0fe7e5b0-8305-3847-8760-6e8a93447fae"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Disaster_Accident"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Disaster_Accident</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.000</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/0fe7e5b0-8305-3847-8760-6e8a93447fae/cat/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0fe7e5b0-8305-3847-8760-6e8a93447fae"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/HumanInterest"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Human Interest</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.538</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b859949e-c147-390b-b79d-eb2d41bc4317">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>Assam</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/0fe7e5b0-8305-3847-8760-6e8a93447fae/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0fe7e5b0-8305-3847-8760-6e8a93447fae"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b859949e-c147-390b-b79d-eb2d41bc4317"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.182</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/provinceorstate/ralg-geo1/991bf9e5-0ec4-c1f2-19f0-e90fb474fdc3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/ProvinceOrState"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0fe7e5b0-8305-3847-8760-6e8a93447fae"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b859949e-c147-390b-b79d-eb2d41bc4317"/>
+         <c:name>Assam,India</c:name>
+         <c:shortname>Assam</c:shortname>
+         <c:containedbycountry>India</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.0</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">93.0</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/provinceorstate/ralg-geo1/f67b8297-cb9f-b165-0c8a-ae1df1d5820f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/ProvinceOrState"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0fe7e5b0-8305-3847-8760-6e8a93447fae"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7ecf5570-48a6-3a24-96b2-18e1e079e8d1"/>
+         <c:name>Bihar,India</c:name>
+         <c:shortname>Bihar</c:shortname>
+         <c:containedbycountry>India</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">25.75</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">85.75</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/45e2e607-bb1b-3365-a2f7-0d7c7bd9a146">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>Madhepura</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/0fe7e5b0-8305-3847-8760-6e8a93447fae/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0fe7e5b0-8305-3847-8760-6e8a93447fae"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/45e2e607-bb1b-3365-a2f7-0d7c7bd9a146"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.310</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/bde4150d-ef7e-0f52-96bf-f45e0765af30">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0fe7e5b0-8305-3847-8760-6e8a93447fae"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e355776a-a549-3015-a96b-84707ac28005"/>
+         <c:name>Patna,Bihar,India</c:name>
+         <c:shortname>Patna</c:shortname>
+         <c:containedbystate>Bihar</c:containedbystate>
+         <c:containedbycountry>India</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">25.6155245318</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">85.1354598999</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/69b2e356-c1e7-3f3b-bab3-676f21d08e4d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>India</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/0fe7e5b0-8305-3847-8760-6e8a93447fae/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0fe7e5b0-8305-3847-8760-6e8a93447fae"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/69b2e356-c1e7-3f3b-bab3-676f21d08e4d"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.508</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/11a98374-ebec-8e0c-7a54-751d2161804d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0fe7e5b0-8305-3847-8760-6e8a93447fae"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/69b2e356-c1e7-3f3b-bab3-676f21d08e4d"/>
+         <c:name>India</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.7678895778</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">78.8717605778</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/provinceorstate/ralg-geo1/7e8ea662-28ba-b959-d554-b55671cc405a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/ProvinceOrState"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0fe7e5b0-8305-3847-8760-6e8a93447fae"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e907ef9d-295c-3f79-a8db-5aa7cb7dcf3f"/>
+         <c:name>Kerala,India</c:name>
+         <c:shortname>Kerala</c:shortname>
+         <c:containedbycountry>India</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.0</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">76.5</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e907ef9d-295c-3f79-a8db-5aa7cb7dcf3f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>Kerala</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/0fe7e5b0-8305-3847-8760-6e8a93447fae/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0fe7e5b0-8305-3847-8760-6e8a93447fae"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e907ef9d-295c-3f79-a8db-5aa7cb7dcf3f"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.114</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/1bcfed6e-f944-3604-83cf-8c08b67c5bb7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/NaturalDisaster"/>
+         <c:location rdf:resource="http://d.opencalais.com/genericHasher-1/b859949e-c147-390b-b79d-eb2d41bc4317"/>
+         <c:effect>108 people died after a ferry</c:effect>
+         <c:naturaldisaster>storm</c:naturaldisaster>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7ecf5570-48a6-3a24-96b2-18e1e079e8d1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>Bihar</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/0fe7e5b0-8305-3847-8760-6e8a93447fae/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0fe7e5b0-8305-3847-8760-6e8a93447fae"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7ecf5570-48a6-3a24-96b2-18e1e079e8d1"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.592</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e355776a-a549-3015-a96b-84707ac28005">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Patna</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/0fe7e5b0-8305-3847-8760-6e8a93447fae/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0fe7e5b0-8305-3847-8760-6e8a93447fae"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e355776a-a549-3015-a96b-84707ac28005"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.310</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/51881ee2-28be-3a75-93c8-fb50882411b9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/NaturalFeature"/>
+         <c:name>Ganges river</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/0fe7e5b0-8305-3847-8760-6e8a93447fae/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0fe7e5b0-8305-3847-8760-6e8a93447fae"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/51881ee2-28be-3a75-93c8-fb50882411b9"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.144</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b740b4e5-90ef-30e2-81d9-01f6a9fc4181">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>river bank</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/0fe7e5b0-8305-3847-8760-6e8a93447fae/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0fe7e5b0-8305-3847-8760-6e8a93447fae"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b740b4e5-90ef-30e2-81d9-01f6a9fc4181"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.310</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

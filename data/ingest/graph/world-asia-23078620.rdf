@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-asia-23078620">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-asia-23078620"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Burma awards lucrative mobile phone licences to Norwegian firm Telenor and Qatari firm Ooredoo, a government committee says.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-06-27T13:54:06</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68412000/jpg/_68412466_68411671.jpg"/>
+         <rnews:headline xml:lang="en-GB">Burma awards mobile contracts</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68411000/jpg/_68411670_68411669.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-asia-23078620"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Roadside phone booth Burma, 26 June 2013</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="989b8e6c-776d-8381-13fb-dc44c336d861"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/QtmJoDDIl8JunTx1f6JrTg"
+                    rdf:about="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-06-27</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-asia-23078620"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 06:12:05.811"
+                    rdf:about="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|m5Y+rhySolYRfMmt1eTl6wAyUPw=|abTh8rz+Rm6sj8LD8TDP7PSNwldIievrfKJt6teM5Sk1yZSRMY8qYw==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Business_Finance"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Business_Finance</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.951</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/1f57ff2d-f0f7-3d7a-b356-b4c5f3c5c7f4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/45e5b29b-ea4e-3df1-b097-c9398835a149"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>Marubeni Corporation</c:name>
+         <c:shortname>Marubeni</c:shortname>
+         <c:ticker>MARUB</c:ticker>
+         <c:symbol>8002.T</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/db9cdc19-01d5-3923-821a-debf9f0511bf">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>telecommunications law</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/db9cdc19-01d5-3923-821a-debf9f0511bf"/>
+         <c:relevance>0.111</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/10a6ba90-14b0-3dc0-80f9-2dcd79df6b64">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Technology"/>
+         <c:name>cellular telephone</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/10a6ba90-14b0-3dc0-80f9-2dcd79df6b64"/>
+         <c:relevance>0.569</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/60658b43-08c1-39ba-91ee-72fcec10dfb7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>telecommunications infrastructure</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/60658b43-08c1-39ba-91ee-72fcec10dfb7"/>
+         <c:relevance>0.293</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/a7aae4f0-bc2e-a0dd-fb8d-68ce32c9261f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/1392ceb5-2e55-3aa1-b7aa-e5bd21fd3c00"/>
+         <c:name>Myanmar</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">19.876064</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">96.0451826667</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/45e5b29b-ea4e-3df1-b097-c9398835a149">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Marubeni Corporation</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/45e5b29b-ea4e-3df1-b097-c9398835a149"/>
+         <c:relevance>0.094</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/578ed5a4-eecf-5a15-803a-bdc49f6152d6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/ed1c9b63-4b8e-311f-b8db-0f90ea812660"/>
+         <c:name>Japan</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">35.4111749285</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">135.833685568</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/bc5e2f67-2c6d-3446-a048-92d78aeb5eb2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Technology"/>
+         <c:name>mobile phones</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/bc5e2f67-2c6d-3446-a048-92d78aeb5eb2"/>
+         <c:relevance>0.308</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3579d855-910b-3882-b588-8049573f8b43">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/571604b4-e15b-3587-8690-ebac0d68708b"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/9a77bff8-3ad5-3065-9883-d2fabe57cbf9"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/5ff76cf0-2990-3f4d-aa97-bb8fa5940467"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/84dccb60-5afd-30dd-9d2d-5fcc1af70d0c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>GBP</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/84dccb60-5afd-30dd-9d2d-5fcc1af70d0c"/>
+         <c:relevance>0.162</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/9a77bff8-3ad5-3065-9883-d2fabe57cbf9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>financier</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/9a77bff8-3ad5-3065-9883-d2fabe57cbf9"/>
+         <c:relevance>0.274</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/c5c52945-7ba0-3222-9eb0-8c2a05fd5606">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/82ff2670-cabf-3b86-836c-1b53280d3e5a"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>Telenor Asia Pte Ltd</c:name>
+         <c:shortname>Telenor Asia</c:shortname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e1fd0a20-f464-39be-a88f-25038cc7f50c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>France</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e1fd0a20-f464-39be-a88f-25038cc7f50c"/>
+         <c:relevance>0.094</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ef7e1dc8-8266-3677-9dfb-e5658cd503e2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>mobile network</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/ef7e1dc8-8266-3677-9dfb-e5658cd503e2"/>
+         <c:relevance>0.153</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/aad6ba4d-5267-3b1b-a9b1-2dd3b4ab4ca7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/9ba6b1b0-b3ed-3bc0-bf0d-d7fb69f02403"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/c14241b6-5f57-315c-9d5e-aa617f57bfc1"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/82ff2670-cabf-3b86-836c-1b53280d3e5a"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ed1c9b63-4b8e-311f-b8db-0f90ea812660">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Japan</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/ed1c9b63-4b8e-311f-b8db-0f90ea812660"/>
+         <c:relevance>0.094</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/1eb8789b-55d7-3d19-a718-f30ea2c459f6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Serge Pun</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Serge Pun</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/1eb8789b-55d7-3d19-a718-f30ea2c459f6"/>
+         <c:relevance>0.274</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c14241b6-5f57-315c-9d5e-aa617f57bfc1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>head</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c14241b6-5f57-315c-9d5e-aa617f57bfc1"/>
+         <c:relevance>0.202</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/9ba6b1b0-b3ed-3bc0-bf0d-d7fb69f02403">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Sigve Brekke</c:name>
+         <c:persontype>economic</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Sigve Brekke</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/9ba6b1b0-b3ed-3bc0-bf0d-d7fb69f02403"/>
+         <c:relevance>0.202</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/e165d4f2-174b-66a7-d1a9-5cb204d296eb">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e1fd0a20-f464-39be-a88f-25038cc7f50c"/>
+         <c:name>France</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">46.0</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.0</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ef1c0763-5060-30dd-bc25-426573db5916">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Burma's parliament</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/ef1c0763-5060-30dd-bc25-426573db5916"/>
+         <c:relevance>0.111</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/4de6ed6f-df5e-3136-b329-3a096017d83a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/5ff76cf0-2990-3f4d-aa97-bb8fa5940467"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>Bharti Airtel Limited</c:name>
+         <c:shortname>Bharti Airtel</c:shortname>
+         <c:ticker>BRTI</c:ticker>
+         <c:symbol>BRTI.NS</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/1392ceb5-2e55-3aa1-b7aa-e5bd21fd3c00">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Myanmar</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/1392ceb5-2e55-3aa1-b7aa-e5bd21fd3c00"/>
+         <c:relevance>0.791</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/571604b4-e15b-3587-8690-ebac0d68708b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>George Soros</c:name>
+         <c:persontype>economic</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>George Soros</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/571604b4-e15b-3587-8690-ebac0d68708b"/>
+         <c:relevance>0.274</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/5ff76cf0-2990-3f4d-aa97-bb8fa5940467">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Bharti Airtel</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b/Relevance/17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/5ff76cf0-2990-3f4d-aa97-bb8fa5940467"/>
+         <c:relevance>0.274</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/82ff2670-cabf-3b86-836c-1b53280d3e5a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Telenor Asia</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b/Relevance/18">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/82ff2670-cabf-3b86-836c-1b53280d3e5a"/>
+         <c:relevance>0.220</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3a7b4423-ce76-39ca-83ac-cd9b402d3780">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>voice services</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b/Relevance/19">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/d376b75c-48c5-394f-8e5a-29e1d0e44d3b"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3a7b4423-ce76-39ca-83ac-cd9b402d3780"/>
+         <c:relevance>0.252</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/business-23097575">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/business-23097575"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">India doubles the price of natural gas, in an effort to kick-start investment in the country's domestic production.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-06-28T10:21:18</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68432000/jpg/_68432107_indiagasprices.jpg"/>
+         <rnews:headline xml:lang="en-GB">India doubles price of natural gas</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Business</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68429000/jpg/_68429753_indiagasprices.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/business-23097575"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">A roadside teashop owner makes tea next to LPG cylinders in New Delhi. </rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="9ac57140-8272-342e-13fb-cdff46c443e5"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/ufT7RQG15vXA2o*YRwQlrw"
+                    rdf:about="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-06-28</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/business-23097575"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 02:02:41.132"
+                    rdf:about="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|8KeRwsK1XSHYy93++OnrIKuVqwI=|dvMVeC64lXxQdiZLWWRzLfw7+8EVKpSY+iNZX6JlG8Z4/jm+iFLFLg==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Business_Finance"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Business_Finance</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.000</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/4697d292-67b6-3590-87e6-0c3d9db81dcd">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Ananth Kumar</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>Indian</c:nationality>
+         <c:commonname>Ananth Kumar</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/4697d292-67b6-3590-87e6-0c3d9db81dcd"/>
+         <c:relevance>0.195</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/02a52160-6a9c-37c0-a31d-9fae36b1f471">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>natural gas</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/02a52160-6a9c-37c0-a31d-9fae36b1f471"/>
+         <c:relevance>0.667</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/dd900a3b-7daa-3348-893d-980c4277c51b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Gurudas Dasgupta</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Gurudas Dasgupta</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/dd900a3b-7daa-3348-893d-980c4277c51b"/>
+         <c:relevance>0.062</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/fb47e5ec-cab9-3bbf-b4f8-b5a5ddb01841">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>liquid natural gas</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/fb47e5ec-cab9-3bbf-b4f8-b5a5ddb01841"/>
+         <c:relevance>0.155</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/11a98374-ebec-8e0c-7a54-751d2161804d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/69b2e356-c1e7-3f3b-bab3-676f21d08e4d"/>
+         <c:name>India</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.7678895778</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">78.8717605778</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/736a403d-157b-3e80-86a7-acc404607cb2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>USD</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/736a403d-157b-3e80-86a7-acc404607cb2"/>
+         <c:relevance>0.329</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a5359054-758f-3c20-ac97-d90fbc6a170e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Continent"/>
+         <c:name>Asia</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a5359054-758f-3c20-ac97-d90fbc6a170e"/>
+         <c:relevance>0.174</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/f28a38c7-1183-397c-a8c1-6ac71a1cb01c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>coal accounting</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/f28a38c7-1183-397c-a8c1-6ac71a1cb01c"/>
+         <c:relevance>0.137</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/57ce9ddc-df4a-3a03-ad6b-ce810f7ad612">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>electricity</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/57ce9ddc-df4a-3a03-ad6b-ce810f7ad612"/>
+         <c:relevance>0.309</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/21a466ef-ed7c-3954-b6f9-ea466e697242">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>state energy</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/21a466ef-ed7c-3954-b6f9-ea466e697242"/>
+         <c:relevance>0.272</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/9ddc2f74-9c66-3811-8cbe-0a2ce6a49680">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Reliance Industries</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/9ddc2f74-9c66-3811-8cbe-0a2ce6a49680"/>
+         <c:relevance>0.080</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/78a8b1f0-93d8-3b74-99b0-1b3a39f61568">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Communist Party of India</c:name>
+         <c:organizationtype>political party</c:organizationtype>
+         <c:nationality>Indian</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/78a8b1f0-93d8-3b74-99b0-1b3a39f61568"/>
+         <c:relevance>0.093</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/fb5c30a4-e310-369a-9c0f-8316f9395a79">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/9ddc2f74-9c66-3811-8cbe-0a2ce6a49680"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>RELIANCE INDUSTRIES LIMITED</c:name>
+         <c:shortname>RIL</c:shortname>
+         <c:ticker>RELI</c:ticker>
+         <c:symbol>RELI.NS</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/901a8a1b-426b-3892-9f6a-b90ad28db820">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>India's government</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>Indian</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/901a8a1b-426b-3892-9f6a-b90ad28db820"/>
+         <c:relevance>0.178</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/9826736c-2bdb-308a-bb4a-527c58e1a865">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>leader</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/9826736c-2bdb-308a-bb4a-527c58e1a865"/>
+         <c:relevance>0.062</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/20d68820-58b9-3350-8491-aaa017cffdb6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Mumbai Stock Exchange</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/20d68820-58b9-3350-8491-aaa017cffdb6"/>
+         <c:relevance>0.080</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/05b82c44-d34c-3625-b10b-2f6d5df05d2b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/CompanyAffiliates"/>
+         <c:company_affiliate rdf:resource="http://d.opencalais.com/comphash-1/9ddc2f74-9c66-3811-8cbe-0a2ce6a49680"/>
+         <c:company_parent rdf:resource="http://d.opencalais.com/comphash-1/20d68820-58b9-3350-8491-aaa017cffdb6"/>
+         <c:affiliaterelationtype>owned</c:affiliaterelationtype>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/1de07d1c-720a-33dc-8b1b-1678441293f6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>energy explorer</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/1de07d1c-720a-33dc-8b1b-1678441293f6"/>
+         <c:relevance>0.080</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5c74b172-ee87-3cd2-ab8e-44e24ca41cf2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>finance</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/5c74b172-ee87-3cd2-ab8e-44e24ca41cf2"/>
+         <c:relevance>0.195</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3e406e7a-4b30-37cd-b07c-50bc68f14517">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/4697d292-67b6-3590-87e6-0c3d9db81dcd"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/702fe523-c8a0-3dd8-99df-b9b7c769ef85"/>
+         <c:organization rdf:resource="http://d.opencalais.com/genericHasher-1/3500eb1d-25c0-3d61-ba33-8007c4cf0264"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/643aef9e-b171-3b7e-b7dd-9d92c21b700d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>gas producers</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43/Relevance/17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/643aef9e-b171-3b7e-b7dd-9d92c21b700d"/>
+         <c:relevance>0.488</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/31098c04-5593-3061-9097-90dbe6005b73">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>energy mix</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43/Relevance/18">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/31098c04-5593-3061-9097-90dbe6005b73"/>
+         <c:relevance>0.137</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/bce920bf-2b96-380d-8997-e00a44219cf5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>director , finance</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43/Relevance/19">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/bce920bf-2b96-380d-8997-e00a44219cf5"/>
+         <c:relevance>0.195</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/69b2e356-c1e7-3f3b-bab3-676f21d08e4d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>India</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43/Relevance/20">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/69b2e356-c1e7-3f3b-bab3-676f21d08e4d"/>
+         <c:relevance>0.685</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3500eb1d-25c0-3d61-ba33-8007c4cf0264">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Cabinet Committee on Economic Affairs</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43/Relevance/21">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3500eb1d-25c0-3d61-ba33-8007c4cf0264"/>
+         <c:relevance>0.287</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/19ed27d6-dd8b-3d89-aa8c-bbf2eafc6656">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonParty"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/dd900a3b-7daa-3348-893d-980c4277c51b"/>
+         <c:party>Communist Party of India</c:party>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/472bffa8-0a04-3b3b-8515-00f1f657c397">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>finance director at state-run Oil India</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43/Relevance/22">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/472bffa8-0a04-3b3b-8515-00f1f657c397"/>
+         <c:relevance>0.195</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/865ca36e-3e6d-3289-a595-4c7e0a40eec2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/dd900a3b-7daa-3348-893d-980c4277c51b"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/9826736c-2bdb-308a-bb4a-527c58e1a865"/>
+         <c:organization rdf:resource="http://d.opencalais.com/genericHasher-1/78a8b1f0-93d8-3b74-99b0-1b3a39f61568"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/702fe523-c8a0-3dd8-99df-b9b7c769ef85">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>director finance</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43/Relevance/23">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/64c1f8c3-06b1-3b31-a3a1-233a27110c43"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/702fe523-c8a0-3dd8-99df-b9b7c769ef85"/>
+         <c:relevance>0.195</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

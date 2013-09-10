@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-latin-america-23265799">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-latin-america-23265799"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Brazilian indigenous people in the Amazon region block one of the country's most important railways in a protest for better public services.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-11T01:33:32</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68663000/gif/_68663111_brazil_parauapebas_july13.gif"/>
+         <rnews:headline xml:lang="en-GB">Brazil indians block major railway</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68663000/jpg/_68663153_68663152.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-latin-america-23265799"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Anti-Belo Monte dam protest in Brasilia</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68662000/gif/_68662745_brazil_parauapebas_july13.gif">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-latin-america-23265799"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">map</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="6f414c09-28bd-ff96-13fc-d8174976d861"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/tyomZyxWSqMBPWMLNUdCBw"
+                    rdf:about="http://d.opencalais.com/dochash-1/45f6b419-de39-3aef-8184-ce5a00910aa0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-11</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-latin-america-23265799"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-11 07:33:00.695"
+                    rdf:about="http://d.opencalais.com/dochash-1/45f6b419-de39-3aef-8184-ce5a00910aa0/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/45f6b419-de39-3aef-8184-ce5a00910aa0"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|nAqeDHVjJ6IqqGnbji3VyLRJ/ks=|HmihOHtaneNJaagsrAjNo3X8Z58Z4Ugao/GiOX4+9h2s4y9FOxj5zg==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/45f6b419-de39-3aef-8184-ce5a00910aa0/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/45f6b419-de39-3aef-8184-ce5a00910aa0"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/45f6b419-de39-3aef-8184-ce5a00910aa0/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/45f6b419-de39-3aef-8184-ce5a00910aa0"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Environment"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Environment</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.737</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/d6cc7f1f-f612-32e9-ab4c-fbc3959837f0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/45f6b419-de39-3aef-8184-ce5a00910aa0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/3b1045e3-d1d7-3505-81a3-3cbe045bbbd7"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>AMAZON, INC.</c:name>
+         <c:shortname>Amazon</c:shortname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/933a45da-ff6d-3e00-83ac-b64b4b099e71">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/45f6b419-de39-3aef-8184-ce5a00910aa0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/c771db2f-ddec-30cf-a233-19e1840d6415"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.90000004</c:score>
+         <c:name>BELO MONTE DAM</c:name>
+         <c:shortname>BELO MONTE DAM</c:shortname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/cc7cd4d8-c856-3b18-8ccc-eec1e03a636d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/SportsEvent"/>
+         <c:name>the 2014 World Cup</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/45f6b419-de39-3aef-8184-ce5a00910aa0/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/45f6b419-de39-3aef-8184-ce5a00910aa0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/cc7cd4d8-c856-3b18-8ccc-eec1e03a636d"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.182</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/c771db2f-ddec-30cf-a233-19e1840d6415">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Belo Monte</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/45f6b419-de39-3aef-8184-ce5a00910aa0/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/45f6b419-de39-3aef-8184-ce5a00910aa0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/c771db2f-ddec-30cf-a233-19e1840d6415"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.113</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/6e5fa4d9-c48c-a921-c0a2-ce1e64c9ae6f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/45f6b419-de39-3aef-8184-ce5a00910aa0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/fe313a08-88a6-33a7-980f-410dd8e740a6"/>
+         <c:name>Brazil</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-15.6777731062</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-47.4383649658</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/439f9495-1e8f-3104-9b9e-cd4dce57079f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>poor public services</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/45f6b419-de39-3aef-8184-ce5a00910aa0/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/45f6b419-de39-3aef-8184-ce5a00910aa0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/439f9495-1e8f-3104-9b9e-cd4dce57079f"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.182</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/fe313a08-88a6-33a7-980f-410dd8e740a6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Brazil</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/45f6b419-de39-3aef-8184-ce5a00910aa0/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/45f6b419-de39-3aef-8184-ce5a00910aa0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/fe313a08-88a6-33a7-980f-410dd8e740a6"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.604</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a9aa8f85-8bbd-3ccd-abc2-892ea887e02a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>energy provision</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/45f6b419-de39-3aef-8184-ce5a00910aa0/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/45f6b419-de39-3aef-8184-ce5a00910aa0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a9aa8f85-8bbd-3ccd-abc2-892ea887e02a"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.100</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/41295ce1-042c-3762-8d95-1324fae93103">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>Maranhao</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/45f6b419-de39-3aef-8184-ce5a00910aa0/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/45f6b419-de39-3aef-8184-ce5a00910aa0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/41295ce1-042c-3762-8d95-1324fae93103"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.266</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ff023440-c071-31ef-bec6-5b81400069c9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/EnvironmentalIssue"/>
+         <c:environmentalissue>illegal logging</c:environmentalissue>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3c9f8111-6abb-346b-b6b4-4a788a5cd68a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Parauapebas</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/45f6b419-de39-3aef-8184-ce5a00910aa0/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/45f6b419-de39-3aef-8184-ce5a00910aa0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3c9f8111-6abb-346b-b6b4-4a788a5cd68a"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.224</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7fd3cdab-381b-3978-a842-2993cc149890">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Brazilian government</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>Brazilian</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/45f6b419-de39-3aef-8184-ce5a00910aa0/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/45f6b419-de39-3aef-8184-ce5a00910aa0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7fd3cdab-381b-3978-a842-2993cc149890"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.100</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/provinceorstate/ralg-geo1/f9395873-e89c-15ea-209f-756d3a728404">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/ProvinceOrState"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/45f6b419-de39-3aef-8184-ce5a00910aa0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/41295ce1-042c-3762-8d95-1324fae93103"/>
+         <c:name>Maranhão,Brazil</c:name>
+         <c:shortname>Maranhão</c:shortname>
+         <c:containedbycountry>Brazil</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-5.0</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-45.0</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/3b1045e3-d1d7-3505-81a3-3cbe045bbbd7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Amazon</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/45f6b419-de39-3aef-8184-ce5a00910aa0/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/45f6b419-de39-3aef-8184-ce5a00910aa0"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/3b1045e3-d1d7-3505-81a3-3cbe045bbbd7"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.170</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

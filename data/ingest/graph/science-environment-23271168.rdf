@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/science-environment-23271168">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/science-environment-23271168"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">A study of seismic record shows that earthquakes can be triggered at the sites of wastewater injection by quakes on the other side of the world.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-12T02:38:35</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68683000/jpg/_68683776_e3750065-seismograph-spl.jpg"/>
+         <rnews:headline xml:lang="en-GB">Distant quakes linked by wastewater</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Science and Environment</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68669000/jpg/_68669125_img_4946.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/science-environment-23271168"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">320</rnews:height>
+         <rnews:description xml:lang="en-GB">Fracking wastewater</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68683000/jpg/_68683770_e3750065-seismograph-spl.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/science-environment-23271168"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Seismograph</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="5bdc36ae-ac0d-2d87-13fd-215e10433e3f"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/baCkGwelZiakG4soKAMnow"
+                    rdf:about="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-12</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/science-environment-23271168"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-12 04:53:36.644"
+                    rdf:about="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|azRyCo10bNJrBx92RDizw5YtIW8=|EaWUmZdTU/AZUQ4FWXr1wcreGuQISxZ3kc+EdFg/d8nWCKsd5TajYw==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Environment"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Environment</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.956</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff/cat/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Disaster_Accident"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Disaster_Accident</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.891</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/84a1d40c-4275-329c-aaef-ed95059f50a7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Lamont-Doherty Earth Observatory</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/84a1d40c-4275-329c-aaef-ed95059f50a7"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.225</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b6607136-0945-32d7-b4fa-a99019467fd9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>Texas</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b6607136-0945-32d7-b4fa-a99019467fd9"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.285</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/4e31417f-0912-362e-b8c9-1aea70d89959">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>Oklahoma</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/4e31417f-0912-362e-b8c9-1aea70d89959"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.261</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/578ed5a4-eecf-5a15-803a-bdc49f6152d6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/ed1c9b63-4b8e-311f-b8db-0f90ea812660"/>
+         <c:name>Japan</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">35.4111749285</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">135.833685568</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/fd09093c-00c3-3d65-8475-b9f87c77bd9d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>lead author</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/fd09093c-00c3-3d65-8475-b9f87c77bd9d"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.225</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/f985d1ef-4703-34fa-bd77-f8d1065e179b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Richard Davies</c:name>
+         <c:persontype>entertainment</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Richard Davies</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/f985d1ef-4703-34fa-bd77-f8d1065e179b"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.105</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>United Kingdom</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.271</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/d7feb1b0-2f23-32d1-bee7-fea9390baf51">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Nicholas van der Elst</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Nicholas van der Elst</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/d7feb1b0-2f23-32d1-bee7-fea9390baf51"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.452</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ec325bc6-6e87-3bbf-9f5f-bb84fc6d7abe">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/f985d1ef-4703-34fa-bd77-f8d1065e179b"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/68cbfc21-4f67-3079-a374-e5621d7f15a5"/>
+         <c:organization rdf:resource="http://d.opencalais.com/genericHasher-1/b64e82dc-91b9-3d87-b5d4-ee36ead52154"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/9c29523b-122b-3bea-8b38-1e96027d5162">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Technology"/>
+         <c:name>fracturing</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/9c29523b-122b-3bea-8b38-1e96027d5162"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.271</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/33d20acf-9f02-3410-98ed-eedc9165cc7d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>BBC News</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/33d20acf-9f02-3410-98ed-eedc9165cc7d"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.274</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c787b333-56c4-3d9b-8b1b-ad1bd4ddd7e6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCommunication"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/d7feb1b0-2f23-32d1-bee7-fea9390baf51"/>
+         <c:organizationorcompany rdf:resource="http://d.opencalais.com/comphash-1/33d20acf-9f02-3410-98ed-eedc9165cc7d"/>
+         <c:status>announced</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3464e47d-a869-3783-8fdc-d17cb8f13c2e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>Ohio</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3464e47d-a869-3783-8fdc-d17cb8f13c2e"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.225</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/provinceorstate/ralg-geo1/c8ff68c4-bb14-b2db-4b27-924496d2fa2f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/ProvinceOrState"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/693b9b27-4f42-328f-8fcd-34d3f5c08cc5"/>
+         <c:name>Arkansas,United States</c:name>
+         <c:shortname>Arkansas</c:shortname>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">34.8</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-92.2</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/provinceorstate/ralg-geo1/4e995033-70d0-4e35-245c-2de99045b623">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/ProvinceOrState"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3464e47d-a869-3783-8fdc-d17cb8f13c2e"/>
+         <c:name>Ohio,United States</c:name>
+         <c:shortname>Ohio</c:shortname>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.5</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-82.5</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ed1c9b63-4b8e-311f-b8db-0f90ea812660">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Japan</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/ed1c9b63-4b8e-311f-b8db-0f90ea812660"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.174</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/54b583f9-8c35-33df-89c2-6537ea00657a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Columbia University</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/54b583f9-8c35-33df-89c2-6537ea00657a"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.225</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b64e82dc-91b9-3d87-b5d4-ee36ead52154">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Durham Energy Institute</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>British</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b64e82dc-91b9-3d87-b5d4-ee36ead52154"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.091</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b7c9078a-19d1-32d4-946e-98c17b7b0aba">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/NaturalDisaster"/>
+         <c:effect>cause other faults to slip</c:effect>
+         <c:naturaldisaster>earthquake</c:naturaldisaster>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/fd317045-cbdc-d260-54de-08112d6031b4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/537f7f73-aa05-3d35-95ca-31eb2a1eb5b4"/>
+         <c:name>Chile</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-35.1234449318</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-71.5719660819</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/78b9f68f-64d0-390f-87ff-83954ca802a1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCommunication"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/f985d1ef-4703-34fa-bd77-f8d1065e179b"/>
+         <c:organizationorcompany rdf:resource="http://d.opencalais.com/comphash-1/33d20acf-9f02-3410-98ed-eedc9165cc7d"/>
+         <c:status>announced</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5fc67ecf-e49d-3ab4-aaad-9cff97f00ffe">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>New York</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/5fc67ecf-e49d-3ab4-aaad-9cff97f00ffe"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.225</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/provinceorstate/ralg-geo1/e9e27c26-4013-8712-a5f0-97dcdc412c26">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/ProvinceOrState"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/4e31417f-0912-362e-b8c9-1aea70d89959"/>
+         <c:name>Oklahoma,United States</c:name>
+         <c:shortname>Oklahoma</c:shortname>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">35.5607802899</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-96.8460570462</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/152649df-347e-e289-1a9e-acc883e07d17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:name>United States</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.4230003233</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-98.7372244786</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/68cbfc21-4f67-3079-a374-e5621d7f15a5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>director</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/68cbfc21-4f67-3079-a374-e5621d7f15a5"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.091</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/provinceorstate/ralg-geo1/62914270-0a1c-1bcc-880e-6dbe9fb82eb9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/ProvinceOrState"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b6607136-0945-32d7-b4fa-a99019467fd9"/>
+         <c:name>Texas,United States</c:name>
+         <c:shortname>Texas</c:shortname>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">31.4484328889</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-97.7816569778</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>United States</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.308</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/537f7f73-aa05-3d35-95ca-31eb2a1eb5b4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Chile</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff/Relevance/17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/537f7f73-aa05-3d35-95ca-31eb2a1eb5b4"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.174</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/fd9f4a81-63da-3328-8939-f4f685e04e52">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>University of Durham</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff/Relevance/18">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/fd9f4a81-63da-3328-8939-f4f685e04e52"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.091</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/096a73ce-884f-33d7-9375-ac1c8ec74b16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>Colorado</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff/Relevance/19">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/096a73ce-884f-33d7-9375-ac1c8ec74b16"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.208</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/fe37ef09-faf2-3270-a797-674c14f737b4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>oil drilling</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff/Relevance/20">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/fe37ef09-faf2-3270-a797-674c14f737b4"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.315</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/12e3b989-e5d2-3cbc-8ef1-7ec4ce7b1cdb">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/NaturalDisaster"/>
+         <c:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-12</c:date>
+         <c:datestring>12 July 2013</c:datestring>
+         <c:naturaldisaster>earthquake</c:naturaldisaster>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/provinceorstate/ralg-geo1/2464781f-2743-853b-bb3a-0b37152c849e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/ProvinceOrState"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/5fc67ecf-e49d-3ab4-aaad-9cff97f00ffe"/>
+         <c:name>New York,United States</c:name>
+         <c:shortname>New York</c:shortname>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.3481810333</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-75.1889929444</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/693b9b27-4f42-328f-8fcd-34d3f5c08cc5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>Arkansas</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff/Relevance/21">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/693b9b27-4f42-328f-8fcd-34d3f5c08cc5"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.225</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/63e68c26-2d34-32c9-a039-7a82deaacdbb">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>quiet injection site</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff/Relevance/22">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/63e68c26-2d34-32c9-a039-7a82deaacdbb"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.114</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/9cdc126f-6826-0cbd-df3a-00a4032f0e7e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16"/>
+         <c:name>United Kingdom</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">53.1142456495</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-2.57711368423</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6ace82b9-9bd9-3d9e-bafc-af74c8aa7168">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Durham Energy Institute</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff/Relevance/23">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/6ace82b9-9bd9-3d9e-bafc-af74c8aa7168"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.091</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/972eb5b8-b41e-33e9-92c0-66de9c11d6e7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>University of Durham</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>British</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff/Relevance/24">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/972eb5b8-b41e-33e9-92c0-66de9c11d6e7"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.091</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d5f5430a-9983-31d1-bde5-36702a34ce92">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Columbia University, New York</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff/Relevance/25">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/d5f5430a-9983-31d1-bde5-36702a34ce92"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.225</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/provinceorstate/ralg-geo1/e088028d-cdce-c4fa-c28a-cf7a54cc36b7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/ProvinceOrState"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/e55f4b9d-f563-31a0-80e1-dabec7425aff"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/096a73ce-884f-33d7-9375-ac1c8ec74b16"/>
+         <c:name>Colorado,United States</c:name>
+         <c:shortname>Colorado</c:shortname>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">39.0473491002</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-105.465397491</c:longitude>
+      </rdf:Description>
+   </rdf:RDF>

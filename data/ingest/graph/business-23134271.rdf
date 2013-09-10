@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/business-23134271">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/business-23134271"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Steinway Musical Instruments, maker of famous pianos, agrees to be bought for $438m by private equity firm Kohlberg &amp; Co.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-01T15:33:33</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68486000/jpg/_68486287_53168278.jpg"/>
+         <rnews:headline xml:lang="en-GB">Piano maker Steinway sold for $438m</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Business</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68484000/jpg/_68484863_steinway.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/business-23134271"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</rnews:height>
+         <rnews:description xml:lang="en-GB">Solomon playing a Steinway</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="f7029c74-d102-49f3-13fb-dc8ab4a74539"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/eBMUYSfacqIan9f2Wn12gA"
+                    rdf:about="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-01</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/business-23134271"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 05:16:52.298"
+                    rdf:about="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|KxRoQrM3zHf4BDnXwxoZKoyyQdw=|QF1qNQduu9h4iYRkk16oBtQlVB0d6+Qf7KXwll9DyNWWnyi44ZsrYA==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Business_Finance"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Business_Finance</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.000</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/797c999a-d455-520d-e5cf-04ca7fb255c1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/56fc901f-59a3-3278-addc-b0fc69b283e7"/>
+         <c:name>Paris,France</c:name>
+         <c:shortname>Paris</c:shortname>
+         <c:containedbycountry>France</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.8742</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.346954</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/398f0f7f-7b2f-3363-bda4-f09b836ed062">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Germany</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/398f0f7f-7b2f-3363-bda4-f09b836ed062"/>
+         <c:relevance>0.127</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/1491b931-bfb3-3313-ae4a-1f4c0c08842a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Christopher Anderson</c:name>
+         <c:persontype>entertainment</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Christopher Anderson</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/1491b931-bfb3-3313-ae4a-1f4c0c08842a"/>
+         <c:relevance>0.097</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e303f197-6cd1-33ab-919c-e4fd45894f9c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/Acquisition"/>
+         <c:company_beingacquired rdf:resource="http://d.opencalais.com/comphash-1/9aa48641-7d8f-3093-8dbe-10d613989a05"/>
+         <c:status>planned</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/223dccd4-8129-357c-9e57-687c6bed2346">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>chairman and interim chief executive</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/223dccd4-8129-357c-9e57-687c6bed2346"/>
+         <c:relevance>0.209</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/4f795804-ec73-347d-94e4-057a7770c092">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/7679fecb-317f-3b8b-afb6-6a7fdb875d67"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>STEINWAY MUSICAL INSTRUMENTS, INC.</c:name>
+         <c:shortname>Steinway Musical</c:shortname>
+         <c:ticker>LVB</c:ticker>
+         <c:symbol>LVB.N</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/f226d6e1-3ff7-3b13-a4d8-153a62f28186">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>manufacturing facilities</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/f226d6e1-3ff7-3b13-a4d8-153a62f28186"/>
+         <c:relevance>0.127</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/736a403d-157b-3e80-86a7-acc404607cb2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>USD</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/736a403d-157b-3e80-86a7-acc404607cb2"/>
+         <c:relevance>0.266</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/8367e072-7d35-330b-93d5-544725737d84">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Michael Sweeney</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Michael Sweeney</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/8367e072-7d35-330b-93d5-544725737d84"/>
+         <c:relevance>0.209</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ad3fcc12-7f18-36dc-9540-1546901f0b0b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>artisanal manufacturing processes</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/ad3fcc12-7f18-36dc-9540-1546901f0b0b"/>
+         <c:relevance>0.097</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/7679fecb-317f-3b8b-afb6-6a7fdb875d67">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Steinway Musical Instruments</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/7679fecb-317f-3b8b-afb6-6a7fdb875d67"/>
+         <c:relevance>0.764</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/772e34ec-c3a3-352a-b8be-90618a1ba979">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Heinrich Engelhard Steinweg</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Heinrich Engelhard Steinweg</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/772e34ec-c3a3-352a-b8be-90618a1ba979"/>
+         <c:relevance>0.127</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b936e67f-7baa-3180-916e-38c7a620f99a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/8367e072-7d35-330b-93d5-544725737d84"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/223dccd4-8129-357c-9e57-687c6bed2346"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/9aa48641-7d8f-3093-8dbe-10d613989a05"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/39090cca-f12c-365e-8602-0f2d7b448db3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Hamburg</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/39090cca-f12c-365e-8602-0f2d7b448db3"/>
+         <c:relevance>0.127</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/28ef36b3-5ae8-cb1f-5425-78f03408b512">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/398f0f7f-7b2f-3363-bda4-f09b836ed062"/>
+         <c:name>Germany</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">51.0</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9.0</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7e40fa8a-95d1-3ea1-b6d3-efce1b079b61">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/BusinessRelation"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/7679fecb-317f-3b8b-afb6-6a7fdb875d67"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/9aa48641-7d8f-3093-8dbe-10d613989a05"/>
+         <c:businessrelationtype>agreement</c:businessrelationtype>
+         <c:status>known</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/4896220e-8795-34f5-903f-4b74170fbb25">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/CompanyFounded"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/9aa48641-7d8f-3093-8dbe-10d613989a05"/>
+         <c:year>1853</c:year>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/295e1647-93f5-3679-bb7e-52f47e9c6f3b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/4e1cfb7f-ef42-3f3f-96bf-ce70e453359f"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>ASTORIA FINANCIAL CORPORATION</c:name>
+         <c:shortname>Astoria</c:shortname>
+         <c:ticker>AF</c:ticker>
+         <c:symbol>AF.N</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/c99ae32d-323b-abc9-3813-406261bcb2a1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/39090cca-f12c-365e-8602-0f2d7b448db3"/>
+         <c:name>Hamburg,Germany</c:name>
+         <c:shortname>Hamburg</c:shortname>
+         <c:containedbycountry>Germany</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">53.5686111111</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.0386111111</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/505a0684-642e-32cd-bb45-f0869173b270">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/Acquisition"/>
+         <c:company_acquirer rdf:resource="http://d.opencalais.com/comphash-1/9aa48641-7d8f-3093-8dbe-10d613989a05"/>
+         <c:company_beingacquired rdf:resource="http://d.opencalais.com/comphash-1/7679fecb-317f-3b8b-afb6-6a7fdb875d67"/>
+         <c:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-01</c:date>
+         <c:datestring>1 July 2013</c:datestring>
+         <c:status>known</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/56fc901f-59a3-3278-addc-b0fc69b283e7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Paris</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/56fc901f-59a3-3278-addc-b0fc69b283e7"/>
+         <c:relevance>0.293</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/9aa48641-7d8f-3093-8dbe-10d613989a05">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Kohlberg &amp; Co</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/9aa48641-7d8f-3093-8dbe-10d613989a05"/>
+         <c:relevance>0.776</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/14d19cef-a3fa-36ce-9325-fa618610b656">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Henry E. Steinway</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Henry Steinway</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/14d19cef-a3fa-36ce-9325-fa618610b656"/>
+         <c:relevance>0.127</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/2cab8211-7f43-3d5e-abf5-865e4997f02f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/9aa48641-7d8f-3093-8dbe-10d613989a05"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>KOHLBERG &amp; CO., L.P.</c:name>
+         <c:shortname>KOHLBERG &amp; CO</c:shortname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/4e1cfb7f-ef42-3f3f-96bf-ce70e453359f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Astoria</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/9e928ecb-9b76-38d3-a312-1486a0880e74"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/4e1cfb7f-ef42-3f3f-96bf-ce70e453359f"/>
+         <c:relevance>0.127</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-us-canada-23236309">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23236309"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Investigators reach parts of the Quebec town levelled on Saturday when a runaway crude oil train exploded, as the toll of dead and missing rises to 50.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-08T23:35:03</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68620000/jpg/_68620323_68620264.jpg"/>
+         <rnews:headline xml:lang="en-GB">Searchers comb Quebec blast site</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68606000/jpg/_68606400_68606399.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23236309"/>
+         <rnews:description xml:lang="en-GB">A burnt tree stands near the remains of a train derailment in Lac Megantic, Quebec</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68590000/jpg/_68590479_68585833.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23236309"/>
+         <rnews:description xml:lang="en-GB">Smoke rises from railway cars that were carrying crude oil after derailing in downtown Lac Megantic</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68609000/jpg/_68609246_68609245.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23236309"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Fire from a train explosion is seen in Lac-Megantic on 6 July 2013</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68597000/jpg/_68597848_ec37066a-d7c3-4e01-8e9c-82aeb007eb5c.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23236309"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">Destroyed oil containers are seen after the train derailment in Lac-Megantic, Canada, 7 July 2013</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68597000/jpg/_68597850_7a8a2071-8153-4735-8fa2-f21b864843f9.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23236309"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">Firefighters work at the scene of the train derailment in Lac-Megantic, Canada, 7 July 2013</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68597000/jpg/_68597846_f102ee82-221c-4229-8e69-52c6744ebdf1.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23236309"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">Burned-out buildings are seen near the wreckage of the train derailment in Lac-Megantic, 7 July 2013</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68597000/jpg/_68597844_ac00ed91-744f-4d39-9852-26806b4bcbaf.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23236309"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">A woman comforts her friend outside the Polyvalente Montignac, the school sheltering people who were forced to leave their homes after the explosion, in Lac-Megantic, 7 July 2013</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68597000/jpg/_68597842_02fab64d-e060-4f18-97de-41b8ddaa20d3.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23236309"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">People attend a Mass dedicated to the victims of the train disaster at a church near Lac-Megantic, Canada, 7 July 2013</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68590000/jpg/_68590641_canada_train_blast624.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23236309"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">460</rnews:height>
+         <rnews:description xml:lang="en-GB">map of lac-megantic and rail route</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="58424309-e7f2-f3d1-3fc1-4368b71a8137"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/N2bO4QkhsgHJE7iGXeOr0w"
+                    rdf:about="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-08 22:29:48.861</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23236309"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 22:29:47.831"
+                    rdf:about="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|D1tMINl8oQm3GCbKLtOnAmhAucE=|HcJveKRPU5jIFE+vR/fXJPmCadESRpKa4+FaBJgNs+uRGgM2jOFs4A==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Disaster_Accident"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Disaster_Accident</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.000</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/ba132910-37ea-397d-89f2-ad72a6ed432a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>the Associated Press</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/ba132910-37ea-397d-89f2-ad72a6ed432a"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.217</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/35392401-b4ba-35d1-89df-328acadbead0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/ba132910-37ea-397d-89f2-ad72a6ed432a"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>The Associated Press GmbH</c:name>
+         <c:shortname>The Associated</c:shortname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/953e0507-4765-355d-a468-3b34f0bd6824">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ManMadeDisaster"/>
+         <c:effect>forcing the evacuation of 2,000 people</c:effect>
+         <c:manmadedisaster>explosion</c:manmadedisaster>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/252165c1-0c59-3312-906a-f00c7db554ab">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>driver</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/252165c1-0c59-3312-906a-f00c7db554ab"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.099</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/provinceorstate/ralg-geo1/867124ce-d6db-e517-7595-39c8c5d79dcc">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/ProvinceOrState"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/eddcb23b-3ced-3105-b434-5e2643bc8b0d"/>
+         <c:name>Québec</c:name>
+         <c:shortname>Québec</c:shortname>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">53.0</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-71.0</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/8ec91bb9-a36b-3d90-9b65-2962a4e20643">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCommunication"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/893bd513-fd2f-30b3-899e-ef047b95a5b9"/>
+         <c:organizationorcompany rdf:resource="http://d.opencalais.com/genericHasher-1/5cadfa8f-5575-3a73-9533-0c51f72b36ba"/>
+         <c:status>announced</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7b96026c-4376-36f1-aac2-474d6cb1ceed">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>Prime Minister</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7b96026c-4376-36f1-aac2-474d6cb1ceed"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.302</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/512a8b47-f381-3bbd-83db-a457b3f23df6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Benoit Richard</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Benoit Richard</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/512a8b47-f381-3bbd-83db-a457b3f23df6"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.488</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6200525e-f7f4-3e9a-a5ce-00caf300b522">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>device</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/6200525e-f7f4-3e9a-a5ce-00caf300b522"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.055</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/17126376-4538-3f7d-b31d-bcb2c6472493">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>spokesman</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/17126376-4538-3f7d-b31d-bcb2c6472493"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.116</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d88e37db-81fb-33d4-b393-47a62590eeeb">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonAttributes"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/893bd513-fd2f-30b3-899e-ef047b95a5b9"/>
+         <c:age>27</c:age>
+         <c:gender>F</c:gender>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/eddcb23b-3ced-3105-b434-5e2643bc8b0d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>Quebec</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/eddcb23b-3ced-3105-b434-5e2643bc8b0d"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.336</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/4acb5eae-468e-3f7d-866d-5e094739ef75">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/NaturalFeature"/>
+         <c:name>St Lawrence River</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/4acb5eae-468e-3f7d-866d-5e094739ef75"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.107</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/4ac3087a-1ade-377b-b248-1c3f26c9a6b9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Saint John</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/4ac3087a-1ade-377b-b248-1c3f26c9a6b9"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.051</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7561906f-e1b3-3c84-b2b0-caa78789322d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>crude oil</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7561906f-e1b3-3c84-b2b0-caa78789322d"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.154</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b389e0df-8ae5-32bf-b56b-dbba175c6bc3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>New Brunswick</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b389e0df-8ae5-32bf-b56b-dbba175c6bc3"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.051</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/d08c23ae-2d48-37a7-892d-bea615528015">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>CBC</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/d08c23ae-2d48-37a7-892d-bea615528015"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.193</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>BBC</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.302</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/77436482-e27d-442c-7cc5-1d21abee239f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/5c47db4a-5804-3cad-bafd-04e8c7fe05e5"/>
+         <c:name>Saint-Georges,Canada</c:name>
+         <c:shortname>Saint-Georges</c:shortname>
+         <c:containedbycountry>Canada</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.4282323534</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-58.4814691544</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c3291734-6475-30be-8cc9-a993ef9b1c2d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/512a8b47-f381-3bbd-83db-a457b3f23df6"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/992c55e5-b5f7-3866-b334-0d65db9e62b0"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/c2aadac2-ca30-ca8a-adfb-e331ae180d28">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/243ebc43-e0ad-3a07-9bc7-2d6d599052f4"/>
+         <c:name>Canada</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">56.757746527</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-86.4195625771</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/provinceorstate/ralg-geo1/71935789-6a7e-21f2-5f9b-c9216db2f0f6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/ProvinceOrState"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b389e0df-8ae5-32bf-b56b-dbba175c6bc3"/>
+         <c:name>New Brunswick,Canada</c:name>
+         <c:shortname>New Brunswick</c:shortname>
+         <c:containedbycountry>Canada</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">46.5</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-66.75</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/bfe65ac3-763c-3c1a-9cfe-a4c12f3c03ca">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>search teams</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/bfe65ac3-763c-3c1a-9cfe-a4c12f3c03ca"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.310</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/243ebc43-e0ad-3a07-9bc7-2d6d599052f4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Canada</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/243ebc43-e0ad-3a07-9bc7-2d6d599052f4"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.584</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/2796dd8a-9995-3c59-8bf3-1dc0ef58f577">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/107083bc-4548-3f81-99e5-b3b3bbbab0c7"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/7b96026c-4376-36f1-aac2-474d6cb1ceed"/>
+         <c:country rdf:resource="http://d.opencalais.com/genericHasher-1/243ebc43-e0ad-3a07-9bc7-2d6d599052f4"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/provinceorstate/ralg-geo1/a146bdce-cbb7-857d-0971-bb89b3b90953">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/ProvinceOrState"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/24972414-7420-31e3-a46a-6ec7e4af6c31"/>
+         <c:name>North Dakota,United States</c:name>
+         <c:shortname>North Dakota</c:shortname>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">47.5</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-100.5</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a07351b2-d4aa-3f5d-9a5b-9799abd78f74">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/5aae3467-2900-3e42-9118-1ba0ba0c0439"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/9be2910a-d5c4-347b-a02d-3897d381beb7"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/24972414-7420-31e3-a46a-6ec7e4af6c31">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>North Dakota</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/24972414-7420-31e3-a46a-6ec7e4af6c31"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.051</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/5aae3467-2900-3e42-9118-1ba0ba0c0439">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Genevieve Guilbault</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Genevieve Guilbault</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219/Relevance/17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/5aae3467-2900-3e42-9118-1ba0ba0c0439"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.252</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5c47db4a-5804-3cad-bafd-04e8c7fe05e5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Saint-Georges</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219/Relevance/18">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/5c47db4a-5804-3cad-bafd-04e8c7fe05e5"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.107</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/107083bc-4548-3f81-99e5-b3b3bbbab0c7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Stephen Harper</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>Canadian</c:nationality>
+         <c:commonname>Stephen Harper</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219/Relevance/19">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/107083bc-4548-3f81-99e5-b3b3bbbab0c7"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.302</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/65f3d273-efad-18f1-2f19-0073d97a8957">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/4ac3087a-1ade-377b-b248-1c3f26c9a6b9"/>
+         <c:name>St. John,North Dakota,United States</c:name>
+         <c:shortname>St. John</c:shortname>
+         <c:containedbystate>North Dakota</c:containedbystate>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.9438888889</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-99.7108333333</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/bc6ad1ac-2073-33ee-819d-514d4ef4fbbe">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Montreal</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219/Relevance/20">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/bc6ad1ac-2073-33ee-819d-514d4ef4fbbe"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.226</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/6f6b4fc1-6c42-f1d0-2a6e-353f8c5d0065">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/bc6ad1ac-2073-33ee-819d-514d4ef4fbbe"/>
+         <c:name>Montreal,Québec,Canada</c:name>
+         <c:shortname>Montreal</c:shortname>
+         <c:containedbystate>Québec</c:containedbystate>
+         <c:containedbycountry>Canada</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">45.5080555556</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-73.555</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/cfb5a5fb-d24c-36db-be5d-02d4e26eb8fb">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>transportation safety board</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219/Relevance/21">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/cfb5a5fb-d24c-36db-be5d-02d4e26eb8fb"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.055</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/31ec6404-85fe-33f5-af02-cb37fec6b170">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>oil</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219/Relevance/22">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/31ec6404-85fe-33f5-af02-cb37fec6b170"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.116</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/893bd513-fd2f-30b3-899e-ef047b95a5b9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Anne-Julie Huot</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Anne-Julie Huot</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219/Relevance/23">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/893bd513-fd2f-30b3-899e-ef047b95a5b9"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.250</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7cc8f69f-5cec-3ffe-b197-e8b221db0139">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>fears oil</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219/Relevance/24">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7cc8f69f-5cec-3ffe-b197-e8b221db0139"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.107</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/cb4c7b9f-1970-3534-8b48-d1eb6c6a2d78">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Nantes</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219/Relevance/25">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/cb4c7b9f-1970-3534-8b48-d1eb6c6a2d78"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.108</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/f0d980c0-d4c1-3447-a584-a60640a7d271">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Paul Adams</c:name>
+         <c:persontype>economic</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Paul Adams</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219/Relevance/26">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/f0d980c0-d4c1-3447-a584-a60640a7d271"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.302</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/d0690af9-a318-38ab-baa9-1163864ba4a3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/d08c23ae-2d48-37a7-892d-bea615528015"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>COMPAGNIE GENERALE DE BATIMENT ET DE CONSTRUCTION CBC S.A.</c:name>
+         <c:shortname>CBC S.A.</c:shortname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/806197a9-3e7b-33ec-9fa8-103f45fb6649">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>spokeswoman</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219/Relevance/27">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/806197a9-3e7b-33ec-9fa8-103f45fb6649"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.252</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d14be7b7-bdab-3153-9c43-3c0e5215bb8a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>engineer</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219/Relevance/28">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/d14be7b7-bdab-3153-9c43-3c0e5215bb8a"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.077</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/992c55e5-b5f7-3866-b334-0d65db9e62b0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>police spokesman</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219/Relevance/29">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/992c55e5-b5f7-3866-b334-0d65db9e62b0"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.281</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/7a6a4835-2d42-388a-97e8-ef689d5745f0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>BRITISH BROADCASTING CORPORATION</c:name>
+         <c:shortname>BBC</c:shortname>
+         <c:ticker>BBC</c:ticker>
+         <c:symbol>TBBC.UL</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/95f9401b-e24a-30ca-85fc-4e18a7660f84">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/f0d980c0-d4c1-3447-a584-a60640a7d271"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b1662412-2098-345c-8f21-59d74e853c2c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ManMadeDisaster"/>
+         <c:location rdf:resource="http://d.opencalais.com/genericHasher-1/cb4c7b9f-1970-3534-8b48-d1eb6c6a2d78"/>
+         <c:manmadedisaster>fire</c:manmadedisaster>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/bad80311-f8d7-36c4-b373-4ba3ebca0b16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>search efforts</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219/Relevance/30">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/bad80311-f8d7-36c4-b373-4ba3ebca0b16"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.289</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e80a5d90-9872-3771-a235-8aebe04b59ac">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>oil-filled cars</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219/Relevance/31">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e80a5d90-9872-3771-a235-8aebe04b59ac"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.136</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5cadfa8f-5575-3a73-9533-0c51f72b36ba">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>the Associated Press</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219/Relevance/32">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/5cadfa8f-5575-3a73-9533-0c51f72b36ba"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.217</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/9be2910a-d5c4-347b-a02d-3897d381beb7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>spokeswoman for Quebec's coroner's office</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219/Relevance/33">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/cd7d6e4a-33c7-3ed2-b817-17a9e1e0d219"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/9be2910a-d5c4-347b-a02d-3897d381beb7"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.252</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

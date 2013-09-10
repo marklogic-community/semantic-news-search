@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-africa-23218617">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-africa-23218617"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Reforms needed to ensure fair elections in Zimbabwe later this month have not been introduced, says PM Morgan Tsvangirai, as he launches his campaign.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-07T16:19:53</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68596000/jpg/_68596095_68595862.jpg"/>
+         <rnews:headline xml:lang="en-GB">Tsvangirai rues lack of reforms</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68599000/jpg/_68599986_68599985.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-africa-23218617"/>
+         <rnews:description xml:lang="en-GB">Morgan Tsvangirai </rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68555000/jpg/_68555014_zim.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-africa-23218617"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</rnews:height>
+         <rnews:description xml:lang="en-GB">Robert Mugabe (on left) and Morgan Tsvangirai in Harare on 22 May 2013</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="817fcd19-517a-f62e-13fb-dd2249c6d861"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/46X7kKuJdgQ-uaqZ*pNunA"
+                    rdf:about="http://d.opencalais.com/dochash-1/331911cf-4da6-37e6-9e8b-2f4a6c4a1c52">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-07</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-africa-23218617"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 06:27:13.180"
+                    rdf:about="http://d.opencalais.com/dochash-1/331911cf-4da6-37e6-9e8b-2f4a6c4a1c52/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/331911cf-4da6-37e6-9e8b-2f4a6c4a1c52"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|Fekg4+sl0yk92aHzUmn+oTYhYz0=|Chp1N11pRfqTrlyQwEkYbLgGLUx6fDdkdjhD2jcsQSQaLbSOgJd6MA==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/331911cf-4da6-37e6-9e8b-2f4a6c4a1c52/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/331911cf-4da6-37e6-9e8b-2f4a6c4a1c52"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/331911cf-4da6-37e6-9e8b-2f4a6c4a1c52/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/331911cf-4da6-37e6-9e8b-2f4a6c4a1c52"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Politics"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Politics</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.000</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/fff3814f-3cf4-3c51-b548-1b3270e01500">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Zimbabwe</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/331911cf-4da6-37e6-9e8b-2f4a6c4a1c52/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/331911cf-4da6-37e6-9e8b-2f4a6c4a1c52"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/fff3814f-3cf4-3c51-b548-1b3270e01500"/>
+         <c:relevance>0.320</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/86c3925e-6054-3e7b-9e92-62798198e626">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCommunication"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/3951384c-cd5e-3273-88f6-0ff5855f1c1a"/>
+         <c:persondescription>supporters</c:persondescription>
+         <c:status>announced</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d0e48739-24f9-3b08-a8f7-8eca23bb30ee">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonLocation"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/3951384c-cd5e-3273-88f6-0ff5855f1c1a"/>
+         <c:locationstring>Harare</c:locationstring>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/35047726-5f46-ed50-e2e1-4e68c0f7cddf">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/331911cf-4da6-37e6-9e8b-2f4a6c4a1c52"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/caee847f-97ae-34f2-8a8c-a5451e8d5184"/>
+         <c:name>Harare,Zimbabwe</c:name>
+         <c:shortname>Harare</c:shortname>
+         <c:containedbycountry>Zimbabwe</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-17.8513888889</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">31.0477777778</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d49608d8-c494-3e33-92f0-b385bcd3da4a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/VotingResult"/>
+         <c:politicalevent rdf:resource="http://d.opencalais.com/genericHasher-1/3cad3cf7-3a0a-3eca-99fb-3bf4b388e817"/>
+         <c:winningcandidate rdf:resource="http://d.opencalais.com/pershash-1/3951384c-cd5e-3273-88f6-0ff5855f1c1a"/>
+         <c:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2008-00-00</c:date>
+         <c:datestring>2008</c:datestring>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/3951384c-cd5e-3273-88f6-0ff5855f1c1a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Tsvangirai</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Tsvangirai</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/331911cf-4da6-37e6-9e8b-2f4a6c4a1c52/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/331911cf-4da6-37e6-9e8b-2f4a6c4a1c52"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/3951384c-cd5e-3273-88f6-0ff5855f1c1a"/>
+         <c:relevance>0.514</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3cad3cf7-3a0a-3eca-99fb-3bf4b388e817">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/PoliticalEvent"/>
+         <c:name>presidential election</c:name>
+         <c:politicaleventtype>Voting</c:politicaleventtype>
+         <c:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2008-00-00</c:date>
+         <c:datestring>2008</c:datestring>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/331911cf-4da6-37e6-9e8b-2f4a6c4a1c52/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/331911cf-4da6-37e6-9e8b-2f4a6c4a1c52"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3cad3cf7-3a0a-3eca-99fb-3bf4b388e817"/>
+         <c:relevance>0.148</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/17d72583-6396-3fcc-8058-54f3de3641c0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Constitutional Court</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/331911cf-4da6-37e6-9e8b-2f4a6c4a1c52/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/331911cf-4da6-37e6-9e8b-2f4a6c4a1c52"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/17d72583-6396-3fcc-8058-54f3de3641c0"/>
+         <c:relevance>0.085</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ddafdf61-addc-3492-8f21-8933c8c36178">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCommunication"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/3951384c-cd5e-3273-88f6-0ff5855f1c1a"/>
+         <c:persondescription>crowd</c:persondescription>
+         <c:status>announced</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5e1fecc2-efc4-3d54-a25f-bd9fd79ca02f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/e9c0ce57-5520-3ac2-b6df-36ecfb62983f"/>
+         <c:organization rdf:resource="http://d.opencalais.com/genericHasher-1/b973f632-d01a-3308-adea-5d6b10989bad"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7118950c-c257-3ade-8c76-b63d5f58af50">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>mining</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/331911cf-4da6-37e6-9e8b-2f4a6c4a1c52/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/331911cf-4da6-37e6-9e8b-2f4a6c4a1c52"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7118950c-c257-3ade-8c76-b63d5f58af50"/>
+         <c:relevance>0.209</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/4620db58-6ba5-34cd-aab9-ea7969d2e7a9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>manufacturing</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/331911cf-4da6-37e6-9e8b-2f4a6c4a1c52/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/331911cf-4da6-37e6-9e8b-2f4a6c4a1c52"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/4620db58-6ba5-34cd-aab9-ea7969d2e7a9"/>
+         <c:relevance>0.209</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/9826736c-2bdb-308a-bb4a-527c58e1a865">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>leader</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/331911cf-4da6-37e6-9e8b-2f4a6c4a1c52/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/331911cf-4da6-37e6-9e8b-2f4a6c4a1c52"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/9826736c-2bdb-308a-bb4a-527c58e1a865"/>
+         <c:relevance>0.209</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/caee847f-97ae-34f2-8a8c-a5451e8d5184">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Harare</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/331911cf-4da6-37e6-9e8b-2f4a6c4a1c52/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/331911cf-4da6-37e6-9e8b-2f4a6c4a1c52"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/caee847f-97ae-34f2-8a8c-a5451e8d5184"/>
+         <c:relevance>0.231</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/e9c0ce57-5520-3ac2-b6df-36ecfb62983f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Robert Mugabe</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Robert Mugabe</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/331911cf-4da6-37e6-9e8b-2f4a6c4a1c52/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/331911cf-4da6-37e6-9e8b-2f4a6c4a1c52"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/e9c0ce57-5520-3ac2-b6df-36ecfb62983f"/>
+         <c:relevance>0.685</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b973f632-d01a-3308-adea-5d6b10989bad">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Zanu-PF party</c:name>
+         <c:organizationtype>political party</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/331911cf-4da6-37e6-9e8b-2f4a6c4a1c52/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/331911cf-4da6-37e6-9e8b-2f4a6c4a1c52"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b973f632-d01a-3308-adea-5d6b10989bad"/>
+         <c:relevance>0.287</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>president</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/331911cf-4da6-37e6-9e8b-2f4a6c4a1c52/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/331911cf-4da6-37e6-9e8b-2f4a6c4a1c52"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e"/>
+         <c:relevance>0.339</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/81d36cb0-c4dd-31af-a97b-947736840192">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Movement for Democratic Change (MDC)</c:name>
+         <c:organizationtype>political party</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/331911cf-4da6-37e6-9e8b-2f4a6c4a1c52/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/331911cf-4da6-37e6-9e8b-2f4a6c4a1c52"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/81d36cb0-c4dd-31af-a97b-947736840192"/>
+         <c:relevance>0.209</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/161598c2-1165-3e86-a4a0-3f5ccb300fc5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>maternity healthcare fees</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/331911cf-4da6-37e6-9e8b-2f4a6c4a1c52/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/331911cf-4da6-37e6-9e8b-2f4a6c4a1c52"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/161598c2-1165-3e86-a4a0-3f5ccb300fc5"/>
+         <c:relevance>0.188</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/f1fe9b1d-be00-3e09-8015-6492894b5910">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonLocation"/>
+         <c:persongroup>supporters</c:persongroup>
+         <c:locationstring>Harare</c:locationstring>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0d70a20a-177b-3c29-9781-4396a4b79c28">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonParty"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/e9c0ce57-5520-3ac2-b6df-36ecfb62983f"/>
+         <c:party>Zimbabwe African National Union-Patriotic Front</c:party>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/f5a65b13-e37f-89a3-ab7c-29e319dcda03">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/331911cf-4da6-37e6-9e8b-2f4a6c4a1c52"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/fff3814f-3cf4-3c51-b548-1b3270e01500"/>
+         <c:name>Zimbabwe</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-18.8639806685</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30.3338919603</c:longitude>
+      </rdf:Description>
+   </rdf:RDF>

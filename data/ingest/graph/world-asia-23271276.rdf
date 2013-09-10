@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-asia-23271276">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-asia-23271276"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Indonesian police search for dozens of inmates who broke out of a Sumatra jail during a riot that left at least five people dead.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-12T07:25:31</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68687000/jpg/_68687445_018621345.jpg"/>
+         <rnews:headline xml:lang="en-GB">Five dead in Indonesia prison break</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68689000/jpg/_68689129_68689128.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-asia-23271276"/>
+         <rnews:description xml:lang="en-GB">Aftermath of riot</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68687000/jpg/_68687439_018621345.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-asia-23271276"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Police officers and soldiers outside Tanjung Gusta prison, set ablaze by inmates during a prison riot in Medan, North Sumatra, Indonesia on 11 July 2013</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="9131c4c6-e2c0-79a7-13fd-20fa02c6d861"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/olcpbpna*Fgw4fFwMeJRkg"
+                    rdf:about="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-12</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-asia-23271276"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-12 04:46:46.828"
+                    rdf:about="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|RB5mSnLtpF9KIGvHJsLELh0TaGA=|INeYb0VqPF35gvUq9uGTZ1gjkL9GgAKwlw3XE4BIDkipUQ8oNJtN/A==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/f065d87c-97d9-3fb8-a546-8f36d4930e06">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>Bali</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/f065d87c-97d9-3fb8-a546-8f36d4930e06"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.077</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/806c8e5b-bbd3-3969-9034-9bc636bd7d67">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ManMadeDisaster"/>
+         <c:effect>they had died in a building</c:effect>
+         <c:manmadedisaster>fire</c:manmadedisaster>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/40e81db0-c0fd-30a7-b218-943faf0358ba">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ManMadeDisaster"/>
+         <c:location rdf:resource="http://d.opencalais.com/genericHasher-1/8d035db8-2994-312a-8715-4d45ffa32357"/>
+         <c:manmadedisaster>fire</c:manmadedisaster>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/55c4882f-25ce-3375-a6fe-431e96616007">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>International Centre for Prison Studies</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/55c4882f-25ce-3375-a6fe-431e96616007"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.088</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/31920b2e-1c01-38e1-8a7d-fb9e30666d21">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Indonesia</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/31920b2e-1c01-38e1-8a7d-fb9e30666d21"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.716</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0f16cde6-b67c-357f-ae35-9207c511a140">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Tanjung Gusta prison</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0f16cde6-b67c-357f-ae35-9207c511a140"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.321</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/cda2c99f-bf5e-19f2-0d33-1299c15a4491">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/31920b2e-1c01-38e1-8a7d-fb9e30666d21"/>
+         <c:name>Indonesia</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-3.25906772689</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">109.702752248</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>United Kingdom</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.088</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b34320d6-76b8-3087-9ee0-dbb6bd9c04dc">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/452bb5ba-3d7b-303c-8f31-720f724b174c"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/17126376-4538-3f7d-b31d-bcb2c6472493"/>
+         <c:provinceorstate rdf:resource="http://d.opencalais.com/genericHasher-1/82333fb0-c946-3f2f-abaa-d45f8258e579"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/51e01f22-9ca9-37a3-a863-4801d6e3ba3a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/NaturalFeature"/>
+         <c:name>Bali island</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/51e01f22-9ca9-37a3-a863-4801d6e3ba3a"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.077</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/17126376-4538-3f7d-b31d-bcb2c6472493">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>spokesman</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/17126376-4538-3f7d-b31d-bcb2c6472493"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.129</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/6eba4400-3f69-0dbf-f3a0-70e34021f3d3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/8d035db8-2994-312a-8715-4d45ffa32357"/>
+         <c:name>Jakarta,Indonesia</c:name>
+         <c:shortname>Jakarta</c:shortname>
+         <c:containedbycountry>Indonesia</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-6.1333</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">106.75</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/b1e40cda-4cec-91fb-3aa8-30f4bd026a27">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/eb944277-68f1-3c3f-9a14-a3d54edd9461"/>
+         <c:name>Medan,North Sumatra,Indonesia</c:name>
+         <c:shortname>Medan</c:shortname>
+         <c:containedbystate>North Sumatra</c:containedbystate>
+         <c:containedbycountry>Indonesia</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.58833333333</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">98.6769444444</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/provinceorstate/ralg-geo1/d0665525-5996-bbb7-5a8e-b46f2b8caaba">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/ProvinceOrState"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/82333fb0-c946-3f2f-abaa-d45f8258e579"/>
+         <c:name>North Sumatra,Indonesia</c:name>
+         <c:shortname>North Sumatra</c:shortname>
+         <c:containedbycountry>Indonesia</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.0</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">99.0</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/452bb5ba-3d7b-303c-8f31-720f724b174c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Heru Prakoso</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Heru Prakoso</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/452bb5ba-3d7b-303c-8f31-720f724b174c"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.115</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>BBC</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.290</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/8d035db8-2994-312a-8715-4d45ffa32357">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Jakarta</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/8d035db8-2994-312a-8715-4d45ffa32357"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.290</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/995813fa-ce69-39b1-a5db-29a9aa7bf9fc">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>warden</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/995813fa-ce69-39b1-a5db-29a9aa7bf9fc"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.290</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b6597b3e-311b-3937-8660-3a585e18d9be">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>correspondent</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b6597b3e-311b-3937-8660-3a585e18d9be"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.273</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/992c55e5-b5f7-3866-b334-0d65db9e62b0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>police spokesman</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/992c55e5-b5f7-3866-b334-0d65db9e62b0"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.254</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/9cdc126f-6826-0cbd-df3a-00a4032f0e7e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16"/>
+         <c:name>United Kingdom</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">53.1142456495</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-2.57711368423</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3c633ac6-7365-3059-b4f2-bc8c19408089">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Prison Studies</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3c633ac6-7365-3059-b4f2-bc8c19408089"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.088</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/7a6a4835-2d42-388a-97e8-ef689d5745f0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/35f4ba16-782b-3ca0-8d1e-91ff16d3b99f"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>BRITISH BROADCASTING CORPORATION</c:name>
+         <c:shortname>BBC</c:shortname>
+         <c:ticker>BBC</c:ticker>
+         <c:symbol>TBBC.UL</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/82333fb0-c946-3f2f-abaa-d45f8258e579">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>North Sumatra</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/82333fb0-c946-3f2f-abaa-d45f8258e579"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.169</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/eb944277-68f1-3c3f-9a14-a3d54edd9461">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Medan</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3278ee2f-b0a1-3d2d-b338-fc919d2d1e18"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/eb944277-68f1-3c3f-9a14-a3d54edd9461"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.588</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

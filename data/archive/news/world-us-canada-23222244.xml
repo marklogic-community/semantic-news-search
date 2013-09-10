@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<es:job-bag xmlns:es="http://www.marklogic.com/enhanced-search#">
+   <html xmlns="http://www.w3.org/1999/xhtml"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:c="http://www.w3.org/ns/xproc-step"
+         xml:lang="en-GB"
+         xml:base="http://www.bbc.co.uk">
+      <head profile="http://dublincore.org/documents/dcq-html/"
+            resource="http://www.bbc.co.uk/news/world-us-canada-23222244"
+            typeof="rnews:NewsItem">
+         <meta property="rnews:description"
+               content="An air taxi crashes on take-off at Soldotna airport in the US state of Alaska, killing all 10 people aboard, officials say."/>
+         <meta property="rnews:datePublished" content="2013-07-08T04:01:28"/>
+         <meta property="rnews:thumbnailUrl"
+               content="http://news.bbcimg.co.uk/media/images/68600000/jpg/_68600066_68599952.jpg"/>
+         <meta property="rnews:headline" content="Ten die in Alaska plane crash"/>
+         <meta name="CPS_SECTION_PATH" content="World/US and Canada"/>
+         <meta property="rnews:creator" content="http://www.bbc.co.uk#org"/>
+         <link rel="copyright"
+               href="http://www.bbc.co.uk/terms/"
+               title="Terms of Use"/>
+         <link rel="http://purl.org/dc/terms/source"
+               href="http://www.bbc.co.uk/news/world-us-canada-23222244"/>
+         <title>BBC News - Ten killed in Alaska air taxi crash</title>
+      </head>
+      <body>
+         <div class="story-body">
+            <span class="story-date">
+               <span class="date">8 July 2013</span>
+               <span class="time-text">Last updated
+at</span>
+               <span class="time">05:01</span>
+            </span>
+            <h1 class="story-header">Ten killed in Alaska air taxi crash</h1>
+            <div class="caption body-narrow-width">
+               <img src="http://news.bbcimg.co.uk/media/images/68599000/jpg/_68599957_68599952.jpg"
+                    width="304"
+                    height="171"
+                    alt="Police and emergency crews stand near the plane wreckage at Soldotna airport. Photo: 7 July 2013"/>
+               <span style="width:304px;">The cause of the crash is being
+investigated</span>
+            </div>
+            <p class="introduction">An air taxi has crashed in the US state of
+Alaska, killing all 10 people aboard, officials say.</p>
+            <p>The accident happened on Sunday at the Soldotna airport, south
+of Anchorage, as the plane took off.</p>
+            <p>The fixed-wing aircraft was engulfed in flames before
+firefighters could reach it, a local official was quoted as saying
+by the Associated Press.</p>
+            <p>The cause of the crash is being investigated by the National
+Transportation Safety Board.</p>
+            <p>The NTSB says the plane involved was a de Havilland Otter Air
+Taxi.</p>
+         </div>
+      </body>
+   </html>
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+            xmlns:og="http://opengraphprotocol.org/schema/"
+            xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-us-canada-23222244">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23222244"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">An air taxi crashes on take-off at Soldotna airport in the US state of Alaska, killing all 10 people aboard, officials say.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-08T04:01:28</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68600000/jpg/_68600066_68599952.jpg"/>
+         <rnews:headline xml:lang="en-GB">Ten die in Alaska plane crash</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68599000/jpg/_68599957_68599952.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23222244"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Police and emergency crews stand near the plane wreckage at Soldotna airport. Photo: 7 July 2013</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       c:allowDistribution="true"
+                       c:allowSearch="false"
+                       c:calaisRequestID="b2db0061-7de6-3a13-fbdd-7f7255c153a3"
+                       c:externalID="mluces"
+                       c:id="http://id.opencalais.com/V8zLRfQn4FI0wnwpkz4X7g"
+                       rdf:about="http://d.opencalais.com/dochash-1/12a02b71-cecb-3f76-928c-30db8101cfd2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-08</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                     rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23222244"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       c:contentType="TEXT/HTML"
+                       c:emVer="7.1.1103.5"
+                       c:langIdVer="DefaultLangId"
+                       c:language="English"
+                       c:processingVer="CalaisJob01"
+                       c:submissionDate="2013-07-08 05:33:34.757"
+                       rdf:about="http://d.opencalais.com/dochash-1/12a02b71-cecb-3f76-928c-30db8101cfd2/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/12a02b71-cecb-3f76-928c-30db8101cfd2"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|957hfOPMe7h0ZtD3GOR6iEOdd4Y=|b5gcMsjCZK/N5PffNlqi8tk5pR4PwyeXYi0rEBaOJgkCh+Qqte8/Aw==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/12a02b71-cecb-3f76-928c-30db8101cfd2/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/12a02b71-cecb-3f76-928c-30db8101cfd2"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/12a02b71-cecb-3f76-928c-30db8101cfd2/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/12a02b71-cecb-3f76-928c-30db8101cfd2"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Disaster_Accident"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Disaster_Accident</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.000</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/a22e9509-a603-37e2-bb18-039efdc1ce44">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Soldotna airport</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/12a02b71-cecb-3f76-928c-30db8101cfd2/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/12a02b71-cecb-3f76-928c-30db8101cfd2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a22e9509-a603-37e2-bb18-039efdc1ce44"/>
+         <c:relevance>0.347</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/35392401-b4ba-35d1-89df-328acadbead0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/12a02b71-cecb-3f76-928c-30db8101cfd2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/ba132910-37ea-397d-89f2-ad72a6ed432a"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>The Associated Press GmbH</c:name>
+         <c:shortname>The Associated</c:shortname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/comphash-1/ba132910-37ea-397d-89f2-ad72a6ed432a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>the Associated Press</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/12a02b71-cecb-3f76-928c-30db8101cfd2/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/12a02b71-cecb-3f76-928c-30db8101cfd2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/ba132910-37ea-397d-89f2-ad72a6ed432a"/>
+         <c:relevance>0.292</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/b85618e6-c3bd-3243-9f1d-68f107ce1bd7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/12a02b71-cecb-3f76-928c-30db8101cfd2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/7736882c-81f4-3c8e-8e56-1a04e1e32d8f"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>ALASKA AIR GROUP, INC.</c:name>
+         <c:shortname>Alaska Air Group</c:shortname>
+         <c:ticker>ALK</c:ticker>
+         <c:symbol>ALK.N</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/52298d8c-c4c5-3b90-a98c-d9e57be144ca">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>local official</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/12a02b71-cecb-3f76-928c-30db8101cfd2/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/12a02b71-cecb-3f76-928c-30db8101cfd2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/52298d8c-c4c5-3b90-a98c-d9e57be144ca"/>
+         <c:relevance>0.292</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/64940518-3757-36af-b858-4da4d6e17a8b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>National Transportation Safety Board</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/12a02b71-cecb-3f76-928c-30db8101cfd2/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/12a02b71-cecb-3f76-928c-30db8101cfd2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/64940518-3757-36af-b858-4da4d6e17a8b"/>
+         <c:relevance>0.308</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/7942a56f-91c4-3fd2-b510-19082d1d69b3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Anchorage</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/12a02b71-cecb-3f76-928c-30db8101cfd2/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/12a02b71-cecb-3f76-928c-30db8101cfd2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7942a56f-91c4-3fd2-b510-19082d1d69b3"/>
+         <c:relevance>0.347</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/comphash-1/7736882c-81f4-3c8e-8e56-1a04e1e32d8f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Alaska air</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/12a02b71-cecb-3f76-928c-30db8101cfd2/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/12a02b71-cecb-3f76-928c-30db8101cfd2"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/7736882c-81f4-3c8e-8e56-1a04e1e32d8f"/>
+         <c:relevance>0.368</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>
+</es:job-bag>

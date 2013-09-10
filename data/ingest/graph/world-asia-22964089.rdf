@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-asia-22964089">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-asia-22964089"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">High levels of a toxic radioactive isotope, strontium-90, have been found in groundwater at Japan's Fukushima nuclear plant, its operator says.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-06-19T09:32:04</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68251000/jpg/_68251953_68007671.jpg"/>
+         <rnews:headline xml:lang="en-GB">Toxic substance in Fukushima water</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68007000/jpg/_68007670_017771308-1.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-asia-22964089"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">File photo: IAEA inspectors at the Fukushima Dai-ichi nuclear power plant, 17 April 2013 </rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="2db9f824-2715-8e31-3fbc-da58ab1a8137"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/OG5YqSeR5vq3eRiUQ*w1wQ"
+                    rdf:about="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-06-19</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-asia-22964089"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 01:56:33.579"
+                    rdf:about="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|sVFSIkPVRpu+so/3jP7UfpVPC4w=|SCa27ymRyNw3XDRBekDIbRmWADwpgMrTj+kJDZELiEPUfUMU5Jx9/g==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Disaster_Accident"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Disaster_Accident</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.000</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4/cat/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Environment"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Environment</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.991</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/aafecaf3-4cc4-3411-b4d8-2411e498d6e3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Toshihiko Fukuda</c:name>
+         <c:persontype>economic</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Toshihiko Fukuda</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/aafecaf3-4cc4-3411-b4d8-2411e498d6e3"/>
+         <c:relevance>0.445</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a7f6463f-8774-323a-b057-6e3e9a8f5912">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>by-product</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a7f6463f-8774-323a-b057-6e3e9a8f5912"/>
+         <c:relevance>0.255</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b289b0d6-bd1e-3c87-8b38-4e45820f9e9d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>official</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/b289b0d6-bd1e-3c87-8b38-4e45820f9e9d"/>
+         <c:relevance>0.238</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/7a9499de-165e-3208-a8e7-ed4f704fb60e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Tokyo Electric Power Company</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/7a9499de-165e-3208-a8e7-ed4f704fb60e"/>
+         <c:relevance>0.741</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/e1fdc812-7fae-3c81-a4cc-b844efdeab1c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Michiaki Furukawa</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Michiaki Furukawa</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/e1fdc812-7fae-3c81-a4cc-b844efdeab1c"/>
+         <c:relevance>0.139</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a6b59e27-2627-3b14-896c-060598a8eab3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Fukushima power plant</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a6b59e27-2627-3b14-896c-060598a8eab3"/>
+         <c:relevance>0.086</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/dff80780-2b91-3df9-8a76-804e6d5abaf0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>Nuclear chemist</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/dff80780-2b91-3df9-8a76-804e6d5abaf0"/>
+         <c:relevance>0.122</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7d5ed9d9-fadc-3ba0-9563-9b2e8b0418f6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Fukushima nuclear plant</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7d5ed9d9-fadc-3ba0-9563-9b2e8b0418f6"/>
+         <c:relevance>0.320</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/477e03e9-5c52-37b9-ab93-3f5fc83e1e94">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Furukawa</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/477e03e9-5c52-37b9-ab93-3f5fc83e1e94"/>
+         <c:relevance>0.122</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/c61a945d-e168-3f49-aab3-46f4abaa7419">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/477e03e9-5c52-37b9-ab93-3f5fc83e1e94"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>FURUKAWA ELECTRIC CO., LTD.</c:name>
+         <c:shortname>Furukawa Elec</c:shortname>
+         <c:ticker>FRKWA</c:ticker>
+         <c:symbol>5801.T</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/6c40365f-8af6-3e47-9d3c-02411b7b700e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/aafecaf3-4cc4-3411-b4d8-2411e498d6e3"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/b289b0d6-bd1e-3c87-8b38-4e45820f9e9d"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/7a9499de-165e-3208-a8e7-ed4f704fb60e"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/843e0b82-9766-3c92-b6ee-d69fb7b86914">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ProductIssues"/>
+         <c:product rdf:resource="http://d.opencalais.com/genericHasher-1/3a9e111a-f489-3c5a-b427-d98d19625bef"/>
+         <c:producttype>Other</c:producttype>
+         <c:status>announced</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7c159173-cff4-30b0-86c3-59b1788fd66d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ProductIssues"/>
+         <c:product rdf:resource="http://d.opencalais.com/genericHasher-1/3a9e111a-f489-3c5a-b427-d98d19625bef"/>
+         <c:producttype>Other</c:producttype>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/7a9499de-165e-3208-a8e7-ed4f704fb60e"/>
+         <c:status>rumored</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/4dbfaab6-f8cb-3678-8e0e-bf467e075aa6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Reuters</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/4dbfaab6-f8cb-3678-8e0e-bf467e075aa6"/>
+         <c:relevance>0.122</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/88446e21-a637-3945-9f3a-7d61e75249b2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/7a9499de-165e-3208-a8e7-ed4f704fb60e"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>Tokyo Electric Power Company, Incorporated</c:name>
+         <c:shortname>Tokyo Elec Power</c:shortname>
+         <c:ticker>TEPCO</c:ticker>
+         <c:symbol>9501.T</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/dbea25c4-97f0-30cf-9802-66cdda48876d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/4dbfaab6-f8cb-3678-8e0e-bf467e075aa6"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>THOMSON REUTERS GROUP LIMITED</c:name>
+         <c:shortname>Thmsn Reuters</c:shortname>
+         <c:ticker>TRIGP</c:ticker>
+         <c:symbol>TRIGP.UL</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/9d9925f8-fb8f-3457-93c5-79b85ba54c19">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/NaturalDisaster"/>
+         <c:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-00-00</c:date>
+         <c:datestring>2011</c:datestring>
+         <c:naturaldisaster>tsunami</c:naturaldisaster>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d9b44c23-4d78-3155-8b6a-f6d21fce17c5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCommunication"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/e1fdc812-7fae-3c81-a4cc-b844efdeab1c"/>
+         <c:organizationorcompany rdf:resource="http://d.opencalais.com/genericHasher-1/32b43f2f-2d2f-3999-86e7-cd0cc859bb92"/>
+         <c:status>announced</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/bec2e02e-a0cd-3fc3-9cc7-a2d5f85d9803">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Facility"/>
+         <c:name>Fukushima plant</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/bec2e02e-a0cd-3fc3-9cc7-a2d5f85d9803"/>
+         <c:relevance>0.238</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a61799ab-adfa-3619-827c-f0831a75ce0f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/e1fdc812-7fae-3c81-a4cc-b844efdeab1c"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/dff80780-2b91-3df9-8a76-804e6d5abaf0"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/7a9499de-165e-3208-a8e7-ed4f704fb60e"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/90426928-4cf5-32cb-b515-4a9478376848">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/CompanyFounded"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/7a9499de-165e-3208-a8e7-ed4f704fb60e"/>
+         <c:year>2011</c:year>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/32b43f2f-2d2f-3999-86e7-cd0cc859bb92">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Reuters</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/32b43f2f-2d2f-3999-86e7-cd0cc859bb92"/>
+         <c:relevance>0.122</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3a9e111a-f489-3c5a-b427-d98d19625bef">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Product"/>
+         <c:name>water</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/ff9f6046-1680-3e18-827e-d3c6329271c4"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3a9e111a-f489-3c5a-b427-d98d19625bef"/>
+         <c:relevance>0.561</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

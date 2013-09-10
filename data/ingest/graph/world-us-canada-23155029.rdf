@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-us-canada-23155029">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23155029"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Two people are arrested in British Columbia accused of plotting to plant a bomb outside the provincial legislature on Canada Day, police say.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-02T19:40:46</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68513000/jpg/_68513628_68513537.jpg"/>
+         <rnews:headline xml:lang="en-GB">Two held in 'Canada Day bomb plot'</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68513000/jpg/_68513542_68513537.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23155029"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</rnews:height>
+         <rnews:description xml:lang="en-GB">Pressure cookers to be used as explosive devices, in Victoria, British Columbia 1 July 2013</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68511000/jpg/_68511522_de28.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23155029"/>
+         <rnews:description xml:lang="en-GB">Royal Canadian Mounted Police Assistant Commissioner James Malitzia</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="9d400f3c-3f33-de64-13fb-ce54003443e5"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/ah-LTGaFl2q*n-dDUv6taw"
+                    rdf:about="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-02</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23155029"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 02:08:28.163"
+                    rdf:about="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|vNRBqRe7HOrrw9KwXA2v/5sGY8g=|FTGbfuYOAkmSa3w9ko5trfqYN6sz01zXhenFS+ajXJzQMno3e/z70g==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/5b9b786a-8e70-36bd-8fe1-728963134d09">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonLocation"/>
+         <c:persongroup>two canadians</c:persongroup>
+         <c:locationstring>Surrey</c:locationstring>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0f4e48d2-9f7d-369f-be38-9b77dd763ef4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Holiday"/>
+         <c:name>Canada's national day</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0f4e48d2-9f7d-369f-be38-9b77dd763ef4"/>
+         <c:relevance>0.310</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/4bcb2ac2-2aab-3da0-96fb-f39c5cb8e967">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>Assistant Commissioner</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/4bcb2ac2-2aab-3da0-96fb-f39c5cb8e967"/>
+         <c:relevance>0.624</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/b2606b76-1a4e-324c-9e23-e702b766600d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/9430653a-d5a9-3b06-8dbd-bd5fcd63531d"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/4bcb2ac2-2aab-3da0-96fb-f39c5cb8e967"/>
+         <c:organization rdf:resource="http://d.opencalais.com/genericHasher-1/c73c7d8a-2d71-3668-93bd-59a94876a28f"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/9430653a-d5a9-3b06-8dbd-bd5fcd63531d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>James Malizia</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>James Malizia</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/9430653a-d5a9-3b06-8dbd-bd5fcd63531d"/>
+         <c:relevance>0.277</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3a950849-354e-3610-9f3c-dbeac8e584cb">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>al-Qaeda</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3a950849-354e-3610-9f3c-dbeac8e584cb"/>
+         <c:relevance>0.320</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e8c84ae5-550c-3df4-8600-4c38487131a2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Holiday"/>
+         <c:name>Canada Day</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e8c84ae5-550c-3df4-8600-4c38487131a2"/>
+         <c:relevance>0.323</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c73c7d8a-2d71-3668-93bd-59a94876a28f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Royal Canadian Mounted Police</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>Canadian</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c73c7d8a-2d71-3668-93bd-59a94876a28f"/>
+         <c:relevance>0.678</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/provinceorstate/ralg-geo1/3aed4040-e159-ee95-1efa-1f0b61ad883a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/ProvinceOrState"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7f26701c-5bf7-3c64-b02f-079b6d789e30"/>
+         <c:name>British Columbia,Canada</c:name>
+         <c:shortname>British Columbia</c:shortname>
+         <c:containedbycountry>Canada</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">54.9</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-124.5</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/4b1e178f-e7e9-3bc0-99ed-12c5069aa375">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Abbotsford</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/4b1e178f-e7e9-3bc0-99ed-12c5069aa375"/>
+         <c:relevance>0.255</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/4bd2b5f0-515b-ca0e-8698-3c8cace21ac2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/aace28ec-e4e2-3ad0-9a59-806a900252a9"/>
+         <c:name>Boston,Massachusetts,United States</c:name>
+         <c:shortname>Boston</c:shortname>
+         <c:containedbystate>Massachusetts</c:containedbystate>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.3583</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-71.0603</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/56cc50d6-cb8f-387e-af4e-789ee036425b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Amanda Marie Korody</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Amanda Marie Korody</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/56cc50d6-cb8f-387e-af4e-789ee036425b"/>
+         <c:relevance>0.320</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/09990805-c713-3478-8cf9-7240d89e8502">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/ArmedAttack"/>
+         <c:attacktype>bombing</c:attacktype>
+         <c:locationstring>Boston</c:locationstring>
+         <c:status>confirmed</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7f26701c-5bf7-3c64-b02f-079b6d789e30">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>British Columbia</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7f26701c-5bf7-3c64-b02f-079b6d789e30"/>
+         <c:relevance>0.355</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/aace28ec-e4e2-3ad0-9a59-806a900252a9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Boston</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/aace28ec-e4e2-3ad0-9a59-806a900252a9"/>
+         <c:relevance>0.156</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/b6559288-4f40-e780-c5dd-84a02970fef7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/ecb084c9-4790-3d3e-bcfb-9074274e83cc"/>
+         <c:name>Surrey,British Columbia,Canada</c:name>
+         <c:shortname>Surrey</c:shortname>
+         <c:containedbystate>British Columbia</c:containedbystate>
+         <c:containedbycountry>Canada</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">49.1833</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-122.85</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/40223595-a28a-3a43-a90c-0da296a3aace">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>John Stewart Nuttall</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>John Stewart Nuttall</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/40223595-a28a-3a43-a90c-0da296a3aace"/>
+         <c:relevance>0.320</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c10a1438-626f-3130-89dd-45d9820de64a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/SportsEvent"/>
+         <c:name>the Boston marathon</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c10a1438-626f-3130-89dd-45d9820de64a"/>
+         <c:relevance>0.156</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/ecb084c9-4790-3d3e-bcfb-9074274e83cc">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Surrey</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/ecb084c9-4790-3d3e-bcfb-9074274e83cc"/>
+         <c:relevance>0.357</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/c2aadac2-ca30-ca8a-adfb-e331ae180d28">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/243ebc43-e0ad-3a07-9bc7-2d6d599052f4"/>
+         <c:name>Canada</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">56.757746527</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-86.4195625771</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7c48fd80-8998-3d20-b073-b4e475e86984">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/bffb95a5-230f-3e36-b7f9-cf9e2622e919"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/4bcb2ac2-2aab-3da0-96fb-f39c5cb8e967"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/243ebc43-e0ad-3a07-9bc7-2d6d599052f4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Canada</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/243ebc43-e0ad-3a07-9bc7-2d6d599052f4"/>
+         <c:relevance>0.310</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/bffb95a5-230f-3e36-b7f9-cf9e2622e919">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Wayne Rideout</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Wayne Rideout</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/3bd6175c-f8ab-3b74-972d-177061d72f6c"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/bffb95a5-230f-3e36-b7f9-cf9e2622e919"/>
+         <c:relevance>0.118</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

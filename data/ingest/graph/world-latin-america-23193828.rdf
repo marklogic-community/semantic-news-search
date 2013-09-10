@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-latin-america-23193828">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-latin-america-23193828"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">US airlines cancel flights into and out of Mexico City for a second day over fears that ash from a rumbling volcano could affect their planes.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-06T04:43:49</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68562000/jpg/_68562461_68561395.jpg"/>
+         <rnews:headline xml:lang="en-GB">Volcano causes Mexico flight chaos</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68562000/jpg/_68562713_68561395.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-latin-america-23193828"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</rnews:height>
+         <rnews:description xml:lang="en-GB">Ash spew from Mexico's Popocatepetl volcano, seen from San Mateo Ozolco, in the Mexican central state of Puebla, on 4 July</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68581000/jpg/_68581469_018566478-1.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-latin-america-23193828"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">Passengers wait for their flights at Mexico City airport</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="45fba21c-8f1b-a68e-13fb-ce7b5261a813"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/H6ypqZnZXOOLvvLiq2mi4Q"
+                    rdf:about="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-06</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/world-latin-america-23193828"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 02:11:09.237"
+                    rdf:about="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|IDbCfhgSg4JU4k3XYYu5krl29yE=|LZJZH/I/ltL/Wta0E0Tu4WNcJzIY3LorRygAmfbUvVeEgKbhzIATaA==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Disaster_Accident"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Disaster_Accident</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.000</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3/cat/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Environment"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Environment</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.766</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d9dac85b-975d-3e65-a16b-5231524c8e17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Denver</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/d9dac85b-975d-3e65-a16b-5231524c8e17"/>
+         <c:relevance>0.200</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/9c147196-160d-8555-537a-06b783fe54af">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/874eaab9-7b66-36e3-9650-8de7a5001cf9"/>
+         <c:name>Los Angeles,California,United States</c:name>
+         <c:shortname>Los Angeles</c:shortname>
+         <c:containedbystate>California</c:containedbystate>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">34.0522</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-118.2428</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/56e164a8-ee81-df99-79ad-56dc584d26dd">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/82b8c016-34f7-3d31-9a9e-3b44a6ef2f08"/>
+         <c:name>Dallas,Texas,United States</c:name>
+         <c:shortname>Dallas</c:shortname>
+         <c:containedbystate>Texas</c:containedbystate>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">32.7833</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-96.8</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/e027bd07-9c21-37c2-986d-5b90ab8e42af">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>unnamed airport official</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/e027bd07-9c21-37c2-986d-5b90ab8e42af"/>
+         <c:relevance>0.266</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/4edfc924-721a-bb77-4d54-47bade86ea5d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/92956dc3-4c11-340f-b4b5-1266cd1c7c5c"/>
+         <c:name>Mexico</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">19.0</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-99.0</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/effe8b02-34f6-3739-a0ac-fbf4c275d53d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>American Airlines</c:name>
+         <c:nationality>American</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/effe8b02-34f6-3739-a0ac-fbf4c275d53d"/>
+         <c:relevance>0.157</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/c3bcb598-80bb-dc63-35c3-de52c6d11eb4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c3e43ffe-26e8-38bf-a500-c5c1c7e486c3"/>
+         <c:name>Houston,Texas,United States</c:name>
+         <c:shortname>Houston</c:shortname>
+         <c:containedbystate>Texas</c:containedbystate>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">29.7631</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-95.3631</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/87f988ed-a4cf-3df8-b0ff-32234b462f7a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/NaturalDisaster"/>
+         <c:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-06</c:date>
+         <c:datestring>6 July 2013</c:datestring>
+         <c:naturaldisaster>volcanic eruption</c:naturaldisaster>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/243d973f-731e-3093-8d66-f0ae53b97eba">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/effe8b02-34f6-3739-a0ac-fbf4c275d53d"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>AMERICAN AIRLINES, INC.</c:name>
+         <c:shortname>American Airl</c:shortname>
+         <c:ticker>AAMRQA</c:ticker>
+         <c:symbol>AAMRQA.UL</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/aff31fe5-a3c4-3842-9e42-f60f0dd8fa2b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Mexico City</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/aff31fe5-a3c4-3842-9e42-f60f0dd8fa2b"/>
+         <c:relevance>0.157</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/aa7dd5b3-114e-3baa-a4ee-6d83338a4dcc">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCommunication"/>
+         <c:persondescription>unnamed airport official</c:persondescription>
+         <c:organizationorcompany rdf:resource="http://d.opencalais.com/genericHasher-1/0b4c75d7-f7bb-3d48-8889-bb64cad6ecd8"/>
+         <c:status>announced</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/852533b7-4dec-3634-bbe2-24ba9d05621f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>Mexico's National Disaster Prevention Centre</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>Mexican</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/852533b7-4dec-3634-bbe2-24ba9d05621f"/>
+         <c:relevance>0.077</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/38dcc202-d7d0-3727-883c-2c4bf095835d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/9b80642e-83c5-398a-9102-96f4596ccc25"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/17126376-4538-3f7d-b31d-bcb2c6472493"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/effe8b02-34f6-3739-a0ac-fbf4c275d53d"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/9cbbc490-ad15-5129-7eb5-ebaf9973749b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/aff31fe5-a3c4-3842-9e42-f60f0dd8fa2b"/>
+         <c:name>Mexico City,Delegaciones del Distrito Federal,Mexico</c:name>
+         <c:shortname>Mexico City</c:shortname>
+         <c:containedbystate>Delegaciones del Distrito Federal</c:containedbystate>
+         <c:containedbycountry>Mexico</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">19.13</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-99.4</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/17126376-4538-3f7d-b31d-bcb2c6472493">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>spokesman</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/17126376-4538-3f7d-b31d-bcb2c6472493"/>
+         <c:relevance>0.310</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/9ec97839-80b4-324d-8504-7dc95245fae6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Jorge Andres Gomez</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Jorge Andres Gomez</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/9ec97839-80b4-324d-8504-7dc95245fae6"/>
+         <c:relevance>0.245</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/2288944a-c675-3dac-ad3a-076cfa33216d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>United Airlines</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/2288944a-c675-3dac-ad3a-076cfa33216d"/>
+         <c:relevance>0.407</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/f84ac2d3-720a-35f1-b53f-4bb84e94e981">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/NaturalDisaster"/>
+         <c:effect>take precautions</c:effect>
+         <c:naturaldisaster>volcanic eruption</c:naturaldisaster>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/1eb93d07-54ab-6795-ca9d-cb847945b9aa">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/d9dac85b-975d-3e65-a16b-5231524c8e17"/>
+         <c:name>Denver,Colorado,United States</c:name>
+         <c:shortname>Denver</c:shortname>
+         <c:containedbystate>Colorado</c:containedbystate>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">39.7392</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-104.9842</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/92956dc3-4c11-340f-b4b5-1266cd1c7c5c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Mexico</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/92956dc3-4c11-340f-b4b5-1266cd1c7c5c"/>
+         <c:relevance>0.321</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/f56085b1-a0c8-3f0a-9113-5eaf41af58fc">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/MusicAlbum"/>
+         <c:name>Delta</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/f56085b1-a0c8-3f0a-9113-5eaf41af58fc"/>
+         <c:relevance>0.407</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/81f3c716-86b3-3eff-992b-be0e3d55af0f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/9ec97839-80b4-324d-8504-7dc95245fae6"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/17126376-4538-3f7d-b31d-bcb2c6472493"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/3dffde87-79be-32b9-b7f7-2e92114e8481">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Phoenix</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3dffde87-79be-32b9-b7f7-2e92114e8481"/>
+         <c:relevance>0.200</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/04a917be-f0c9-3cc2-904e-94dadc168f5e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/2325b4b0-2b06-38a0-8e0c-8b822db2bbf2"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>Delta for Construction &amp; Rebuilding</c:name>
+         <c:shortname>DELTA</c:shortname>
+         <c:symbol>DCRC.CA</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/2735e2aa-ba3d-351b-bd9b-effc62c1a90b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/NaturalFeature"/>
+         <c:name>Popocatepetl volcano</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/2735e2aa-ba3d-351b-bd9b-effc62c1a90b"/>
+         <c:relevance>0.361</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/03ff2f32-7d79-3042-a299-2010505bc8fc">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Chicago</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/03ff2f32-7d79-3042-a299-2010505bc8fc"/>
+         <c:relevance>0.200</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/b0dfbe09-9b57-0fa7-e789-ccfc8a6f650a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/03ff2f32-7d79-3042-a299-2010505bc8fc"/>
+         <c:name>Chicago,Illinois,United States</c:name>
+         <c:shortname>Chicago</c:shortname>
+         <c:containedbystate>Illinois</c:containedbystate>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41.85</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-87.65</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/82b8c016-34f7-3d31-9a9e-3b44a6ef2f08">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Dallas</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/82b8c016-34f7-3d31-9a9e-3b44a6ef2f08"/>
+         <c:relevance>0.200</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/2325b4b0-2b06-38a0-8e0c-8b822db2bbf2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Delta</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/2325b4b0-2b06-38a0-8e0c-8b822db2bbf2"/>
+         <c:relevance>0.318</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c3e43ffe-26e8-38bf-a500-c5c1c7e486c3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Houston</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c3e43ffe-26e8-38bf-a500-c5c1c7e486c3"/>
+         <c:relevance>0.200</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/906a61ec-079d-3aee-a684-c142bb0b123d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/860a6230-7081-39fa-8cf3-6596c377916e"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>US AIRWAYS GROUP, INC.</c:name>
+         <c:shortname>US Airways Group</c:shortname>
+         <c:ticker>LCC</c:ticker>
+         <c:symbol>LCC.N</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/b85618e6-c3bd-3243-9f1d-68f107ce1bd7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/0c1d0ad4-dfc7-3e20-b7ad-983693d6104e"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>ALASKA AIR GROUP, INC.</c:name>
+         <c:shortname>Alaska Air Group</c:shortname>
+         <c:ticker>ALK</c:ticker>
+         <c:symbol>ALK.N</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/0b4c75d7-f7bb-3d48-8889-bb64cad6ecd8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>AFP</c:name>
+         <c:organizationtype>N/A</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3/Relevance/17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/0b4c75d7-f7bb-3d48-8889-bb64cad6ecd8"/>
+         <c:relevance>0.266</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/0f1bf0a2-6afe-a031-a2e1-2e32ae25b9aa">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/3dffde87-79be-32b9-b7f7-2e92114e8481"/>
+         <c:name>Phoenix,Arizona,United States</c:name>
+         <c:shortname>Phoenix</c:shortname>
+         <c:containedbystate>Arizona</c:containedbystate>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">33.4483</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-112.0733</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/874eaab9-7b66-36e3-9650-8de7a5001cf9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Los Angeles</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3/Relevance/18">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/874eaab9-7b66-36e3-9650-8de7a5001cf9"/>
+         <c:relevance>0.200</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/d1cbe671-b291-3b59-92c0-593d934e1df6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/2288944a-c675-3dac-ad3a-076cfa33216d"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>UNITED CONTINENTAL HOLDINGS, INC.</c:name>
+         <c:shortname>UAL</c:shortname>
+         <c:ticker>UAL</c:ticker>
+         <c:symbol>UAL.N</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/0c1d0ad4-dfc7-3e20-b7ad-983693d6104e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Alaska Airlines</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3/Relevance/19">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/0c1d0ad4-dfc7-3e20-b7ad-983693d6104e"/>
+         <c:relevance>0.223</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/860a6230-7081-39fa-8cf3-6596c377916e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>US Airways</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3/Relevance/20">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/860a6230-7081-39fa-8cf3-6596c377916e"/>
+         <c:relevance>0.223</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/9b80642e-83c5-398a-9102-96f4596ccc25">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Matt Miller</c:name>
+         <c:persontype>economic</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Matt Miller</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3/Relevance/21">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c0c0e5fd-12e7-3a9f-9013-388d970c18e3"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/9b80642e-83c5-398a-9102-96f4596ccc25"/>
+         <c:relevance>0.157</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>

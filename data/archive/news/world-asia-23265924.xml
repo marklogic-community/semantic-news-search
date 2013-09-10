@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<es:job-bag xmlns:es="http://www.marklogic.com/enhanced-search#">
+   <html xmlns="http://www.w3.org/1999/xhtml"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:c="http://www.w3.org/ns/xproc-step"
+         xml:lang="en-GB"
+         xml:base="http://www.bbc.co.uk">
+      <head profile="http://dublincore.org/documents/dcq-html/"
+            resource="http://www.bbc.co.uk/news/world-asia-23265924"
+            typeof="rnews:NewsItem">
+         <meta property="rnews:description"
+               content="A man who crashed his car into the gates of the US embassy in Canberra is charged and ordered to undergo a mental health evaluation."/>
+         <meta property="rnews:datePublished" content="2013-07-11T03:21:59"/>
+         <meta property="rnews:thumbnailUrl"
+               content="http://news.bbcimg.co.uk/media/images/68663000/jpg/_68663235_018610095.jpg"/>
+         <meta property="rnews:headline" content="Charges over Canberra embassy crash"/>
+         <meta name="CPS_SECTION_PATH" content="World/Asia"/>
+         <meta property="rnews:creator" content="http://www.bbc.co.uk#org"/>
+         <link rel="copyright"
+               href="http://www.bbc.co.uk/terms/"
+               title="Terms of Use"/>
+         <link rel="http://purl.org/dc/terms/source"
+               href="http://www.bbc.co.uk/news/world-asia-23265924"/>
+         <title>BBC News - Australian charged over US Canberra embassy
+crash</title>
+      </head>
+      <body>
+         <div class="story-body">
+            <span class="story-date">
+               <span class="date">11 July 2013</span>
+               <span class="time-text">Last updated
+at</span>
+               <span class="time">04:21</span>
+            </span>
+            <h1 class="story-header">Australian charged over US Canberra
+embassy crash</h1>
+            <div class="caption body-narrow-width">
+               <img src="http://news.bbcimg.co.uk/media/images/68647000/jpg/_68647187_018610095.jpg"
+                    width="304"
+                    height="171"
+                    alt="A bomb disposal robot is seen near a car driven by a man who crashed it into the gates of the US embassy in Canberra on 10 July 2013"/>
+               <span style="width:304px;">A prosecutor said Mr Richardson drove
+straight at the US embassy gates</span>
+            </div>
+            <p class="introduction">A man has been charged after crashing his
+car into the gates of the US embassy in the Australian capital,
+Canberra.</p>
+            <p>Adrian Richardson, 30, has been charged with damaging a
+diplomatic residence following the incident, which happened on
+Wednesday evening.</p>
+            <p>He has also been ordered to undergo a mental health
+evaluation.</p>
+            <p>The incident caused a security scare, with fire-fighters,
+police, ambulances and the bomb squad called to the scene.</p>
+            <p>A prosecutor told a court hearing in Canberra on Thursday that
+Mr Richardson turned off his lights, revved his engine and drove
+straight at the gates of the embassy compound.</p>
+            <p>The crash caused ''significant damage to the gate and breached
+the perimeter of the embassy'', prosecutor Katrina Musgrove
+said.</p>
+            <p>Mr Richardson, who was not injured, had left an adult mental
+health facility where he had been a resident shortly before the
+incident, she said.</p>
+            <p>He will face court at a later date.</p>
+         </div>
+      </body>
+   </html>
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+            xmlns:og="http://opengraphprotocol.org/schema/"
+            xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-asia-23265924">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-asia-23265924"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">A man who crashed his car into the gates of the US embassy in Canberra is charged and ordered to undergo a mental health evaluation.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-11T03:21:59</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68663000/jpg/_68663235_018610095.jpg"/>
+         <rnews:headline xml:lang="en-GB">Charges over Canberra embassy crash</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68647000/jpg/_68647187_018610095.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-asia-23265924"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">A bomb disposal robot is seen near a car driven by a man who crashed it into the gates of the US embassy in Canberra on 10 July 2013</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       c:allowDistribution="true"
+                       c:allowSearch="false"
+                       c:calaisRequestID="21f6d6d3-8b09-c4d9-13fc-d7cb39e37274"
+                       c:externalID="mluces"
+                       c:id="http://id.opencalais.com/hDaujSBYcSbI15CiBa5I0w"
+                       rdf:about="http://d.opencalais.com/dochash-1/46bff14a-4147-3bd2-8b26-0fa5b559f132">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-11</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                     rdf:resource="http://www.bbc.co.uk/news/world-asia-23265924"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       c:contentType="TEXT/HTML"
+                       c:emVer="7.1.1103.5"
+                       c:langIdVer="DefaultLangId"
+                       c:language="English"
+                       c:processingVer="CalaisJob01"
+                       c:submissionDate="2013-07-11 07:27:49.150"
+                       rdf:about="http://d.opencalais.com/dochash-1/46bff14a-4147-3bd2-8b26-0fa5b559f132/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/46bff14a-4147-3bd2-8b26-0fa5b559f132"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|6czAzpd+Nzb6srONgmiANR85jxs=|dWQMNIy0IgwGKETt716OPn5rCIsYCU3ada7Rt+ONF2+L6RrTVmzVJw==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/46bff14a-4147-3bd2-8b26-0fa5b559f132/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/46bff14a-4147-3bd2-8b26-0fa5b559f132"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/46bff14a-4147-3bd2-8b26-0fa5b559f132/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/46bff14a-4147-3bd2-8b26-0fa5b559f132"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Law_Crime"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Law_Crime</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.868</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/pershash-1/60f4d702-5963-364b-bcc6-53513b308c24">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Adrian Richardson</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Adrian Richardson</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/46bff14a-4147-3bd2-8b26-0fa5b559f132/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/46bff14a-4147-3bd2-8b26-0fa5b559f132"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/60f4d702-5963-364b-bcc6-53513b308c24"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.820</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/599a5a55-896d-312d-b1a8-739435604cbb">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>prosecutor</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/46bff14a-4147-3bd2-8b26-0fa5b559f132/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/46bff14a-4147-3bd2-8b26-0fa5b559f132"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/599a5a55-896d-312d-b1a8-739435604cbb"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.257</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/a86e5ff6-42e5-33d4-9962-eaa0070792e4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonAttributes"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/60f4d702-5963-364b-bcc6-53513b308c24"/>
+         <c:age>30</c:age>
+         <c:gender>M</c:gender>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/48bd7031-71c5-3679-8e7f-84a1511f4074">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/927b82b0-5294-30c5-83f2-0df76413ee75"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/599a5a55-896d-312d-b1a8-739435604cbb"/>
+         <c:careertype>political</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/aab5d3fa-d2cf-3bdc-a042-b125f5da73d5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>US Canberra embassy</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>American</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/46bff14a-4147-3bd2-8b26-0fa5b559f132/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/46bff14a-4147-3bd2-8b26-0fa5b559f132"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/aab5d3fa-d2cf-3bdc-a042-b125f5da73d5"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.534</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/pershash-1/927b82b0-5294-30c5-83f2-0df76413ee75">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Katrina Musgrove</c:name>
+         <c:persontype>political</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Katrina Musgrove</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/46bff14a-4147-3bd2-8b26-0fa5b559f132/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/46bff14a-4147-3bd2-8b26-0fa5b559f132"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/927b82b0-5294-30c5-83f2-0df76413ee75"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.213</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/a74144af-3493-3882-9e36-66157e8cc8ab">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/Indictment"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/60f4d702-5963-364b-bcc6-53513b308c24"/>
+         <c:charge>damaging a diplomatic residence</c:charge>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/59de9f92-be25-e8c4-d6b9-5b66944f58a7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/46bff14a-4147-3bd2-8b26-0fa5b559f132"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/2b368bf9-b597-36a6-97df-0b7e4ca36a33"/>
+         <c:name>Canberra</c:name>
+         <c:shortname>Canberra</c:shortname>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-35.2828</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">149.1314</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/2b368bf9-b597-36a6-97df-0b7e4ca36a33">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Canberra</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/46bff14a-4147-3bd2-8b26-0fa5b559f132/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/46bff14a-4147-3bd2-8b26-0fa5b559f132"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/2b368bf9-b597-36a6-97df-0b7e4ca36a33"/>
+         <c:relevance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.216</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>
+</es:job-bag>

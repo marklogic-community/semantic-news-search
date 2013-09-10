@@ -1,0 +1,252 @@
+<export><workspace name="Enhanced Search"><query name="Headlines" focus="false" active="true" mode="sparql">PREFIX rnews: &lt;http://iptc.org/std/rNews/2011-10-07#&gt;
+
+# @title All News Item headlines in descending date order.
+# @author Philip A. R. Fennell
+
+SELECT $s $headline $date
+WHERE {
+ $s a rnews:NewsItem ;
+      rnews:headline $headline ;
+      rnews:datePublished $date .
+} ORDER BY DESC($date)</query><query name="Describe This" focus="false" active="true" mode="sparql"># @title Describe something.
+# @author Philip A. R. Fennell
+
+DESCRIBE &lt;http://www.bbc.co.uk/news/world-asia-22965046&gt;</query><query name="Date Order" focus="false" active="true" mode="sparql">PREFIX rnews: &lt;http://iptc.org/std/rNews/2011-10-07#&gt;
+
+# @title Return all News Item subject IRIs and their publication date in descending date order.
+# @author Philip A. R. Fennell
+
+SELECT $s $date
+WHERE {
+ $s a rnews:NewsItem ;
+      rnews:datePublished $date .
+} ORDER BY DESC($date)
+</query><query name="Positions" focus="false" active="true" mode="sparql">PREFIX rnews: &lt;http://iptc.org/std/rNews/2011-10-07#&gt;
+PREFIX oc:    &lt;http://s.opencalais.com/1/pred/&gt;
+PREFIX e:   &lt;http://s.opencalais.com/1/type/em/e/&gt;
+
+# @title All Person's Position name in alphabetical order.
+# @author Philip A. R. Fennell
+
+SELECT DISTINCT $s $name
+WHERE {
+ $s a e:Position ;
+      oc:name $name .
+} ORDER BY ($name)
+
+
+</query><query name="Presidents" focus="false" active="true" mode="sparql">PREFIX rnews: &lt;http://iptc.org/std/rNews/2011-10-07#&gt;
+PREFIX oc:    &lt;http://s.opencalais.com/1/pred/&gt;
+PREFIX e:   &lt;http://s.opencalais.com/1/type/em/e/&gt;
+
+# @title All people who have a position name of 'President'.
+# @author Philip A. R. Fennell
+
+SELECT DISTINCT $personName
+WHERE {
+  $Position a e:Position ;
+      oc:name "President" .
+  $position oc:position $s1 ;
+      oc:status "current" ;
+      oc:person $president .
+  $president oc:name $personName .
+} ORDER BY ($personName)
+
+</query><query name="Cities &amp; Countries" focus="false" active="true" mode="sparql">PREFIX rnews: &lt;http://iptc.org/std/rNews/2011-10-07#&gt;
+PREFIX oc:    &lt;http://s.opencalais.com/1/pred/&gt;
+PREFIX e:     &lt;http://s.opencalais.com/1/type/em/e/&gt;
+PREFIX geo:   &lt;http://s.opencalais.com/1/type/er/Geo/&gt;
+
+# @title All cities sorted by containing country and name.
+# @author Philip A. R. Fennell
+
+SELECT DISTINCT $countryName $cityName
+WHERE {
+  $City a geo:City ;
+      oc:shortname $cityName ;
+      oc:containedbycountry $countryName .
+} ORDER BY $countryName $cityName
+</query><query name="People" focus="false" active="true" mode="sparql">PREFIX rnews: &lt;http://iptc.org/std/rNews/2011-10-07#&gt;
+PREFIX oc:    &lt;http://s.opencalais.com/1/pred/&gt;
+PREFIX e:     &lt;http://s.opencalais.com/1/type/em/e/&gt;
+PREFIX geo:   &lt;http://s.opencalais.com/1/type/er/Geo/&gt;
+
+# @title All persons along with their type.
+# @author Philip A. R. Fennell
+
+SELECT DISTINCT $personName $type
+WHERE {
+  $s a e:Person ;
+      oc:name $personName ;
+      oc:persontype $type .
+} ORDER BY ($personName)
+</query><query name="NewsItem Categories" focus="false" active="true" mode="sparql">PREFIX cat:   &lt;http://s.opencalais.com/1/type/cat/&gt;
+PREFIX e:     &lt;http://s.opencalais.com/1/type/em/e/&gt;
+PREFIX geo:   &lt;http://s.opencalais.com/1/type/er/Geo/&gt;
+PREFIX bbc:   &lt;http://www.bbc.co.uk/news/&gt;
+PREFIX oc:    &lt;http://s.opencalais.com/1/pred/&gt;
+PREFIX owl:   &lt;http://www.w3.org/2002/07/owl#&gt;
+PREFIX rnews: &lt;http://iptc.org/std/rNews/2011-10-07#&gt;
+
+# @title OpenCalais categories for a News Item.
+# @author Philip A. R. Fennell
+
+SELECT DISTINCT $category
+WHERE {
+  bbc:world-asia-22965046 a rnews:NewsItem ;
+        rnews:headline $headline .
+  $di owl:sameAs bbc:world-asia-22965046 .
+  $cat  oc:docId $di ;    
+      a cat:DocCat ;
+      oc:categoryName $category .
+  
+} ORDER BY ($headline)</query><query name="Category Score = 1.0" focus="false" active="true" mode="sparql">PREFIX cat:   &lt;http://s.opencalais.com/1/type/cat/&gt;
+PREFIX e:     &lt;http://s.opencalais.com/1/type/em/e/&gt;
+PREFIX geo:   &lt;http://s.opencalais.com/1/type/er/Geo/&gt;
+PREFIX bbc:   &lt;http://www.bbc.co.uk/news/&gt;
+PREFIX oc:    &lt;http://s.opencalais.com/1/pred/&gt;
+PREFIX owl:   &lt;http://www.w3.org/2002/07/owl#&gt;
+PREFIX rnews: &lt;http://iptc.org/std/rNews/2011-10-07#&gt;
+
+# @title Most highly scored News Item categories.
+# @author Philip A. R. Fennell
+
+SELECT DISTINCT $categoryName $score
+Where {
+  $Cat a cat:DocCat ;
+        oc:categoryName $categoryName ;
+        oc:score $score .
+    FILTER ($score = 1.0)
+} ORDER BY DESC($categoryName)</query><query name="Organisations" focus="false" active="true" mode="sparql">PREFIX cat:   &lt;http://s.opencalais.com/1/type/cat/&gt;
+PREFIX e:     &lt;http://s.opencalais.com/1/type/em/e/&gt;
+PREFIX geo:   &lt;http://s.opencalais.com/1/type/er/Geo/&gt;
+PREFIX bbc:   &lt;http://www.bbc.co.uk/news/&gt;
+PREFIX oc:    &lt;http://s.opencalais.com/1/pred/&gt;
+PREFIX owl:   &lt;http://www.w3.org/2002/07/owl#&gt;
+PREFIX rnews: &lt;http://iptc.org/std/rNews/2011-10-07#&gt;
+
+# @title Return Organizations and their type.
+# @author Philip A. R. Fennell
+
+SELECT DISTINCT $organizationName $type
+WHERE {
+  $Organization a e:Organization ;
+      oc:name $organizationName ;
+      oc:organizationtype $type .
+} ORDER BY ($organizationName)
+</query><query name="Sandbox" focus="false" active="false" mode="xquery">xquery version "1.0-ml";
+
+(:~
+ : Test sandbox for calling the enhanced search lib-metadata functions.
+ : @author Philip A. R. Fennell
+ :)
+
+import module namespace sem = "http://marklogic.com/semantics" at
+    "/MarkLogic/semantics.xqy";
+    
+import module namespace es = "http://marklogic.com/use-cases/enhanced-search" at
+    "lib/lib-metadata.xqy";
+    
+es:newsItemSubjects('http://www.bbc.co.uk/news/world-asia-22965046', 0.0)</query><query name="NewsItem Subjects" focus="false" active="true" mode="sparql">PREFIX cat:   &lt;http://s.opencalais.com/1/type/cat/&gt;
+PREFIX e:     &lt;http://s.opencalais.com/1/type/em/e/&gt;
+PREFIX geo:   &lt;http://s.opencalais.com/1/type/er/Geo/&gt;
+PREFIX bbc:   &lt;http://www.bbc.co.uk/news/&gt;
+PREFIX oc:    &lt;http://s.opencalais.com/1/pred/&gt;
+PREFIX owl:   &lt;http://www.w3.org/2002/07/owl#&gt;
+PREFIX rdf:   &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#&gt;
+PREFIX rnews: &lt;http://iptc.org/std/rNews/2011-10-07#&gt;
+
+# @title All subjects for a given News Item.
+# @author Philip A. R. Fennell
+
+CONSTRUCT {
+  $subject oc:name $name ;
+           rdf:type $type .
+}
+FROM &lt;http://www.bbc.co.uk/news/graph&gt;
+WHERE {
+  SELECT DISTINCT $subject $name $type
+  WHERE {
+    $DocInfo owl:sameAs &lt;http://www.bbc.co.uk/news/world-asia-22965046&gt; .
+    $thing oc:docId $DocInfo ;
+           oc:subject $subject .
+    $subject oc:name $name ;
+             rdf:type $type .
+  } ORDER BY $type
+}
+</query><query name="Subjects Filtered by Relevance" focus="true" active="true" mode="sparql">PREFIX cat:   &lt;http://s.opencalais.com/1/type/cat/&gt;
+PREFIX e:     &lt;http://s.opencalais.com/1/type/em/e/&gt;
+PREFIX fn:    &lt;http://www.w3.org/2005/xpath-functions#&gt;
+PREFIX geo:   &lt;http://s.opencalais.com/1/type/er/Geo/&gt;
+PREFIX bbc:   &lt;http://www.bbc.co.uk/news/&gt;
+PREFIX oc:    &lt;http://s.opencalais.com/1/pred/&gt;
+PREFIX owl:   &lt;http://www.w3.org/2002/07/owl#&gt;
+PREFIX rdf:   &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#&gt;
+PREFIX rnews: &lt;http://iptc.org/std/rNews/2011-10-07#&gt;
+PREFIX sys:   &lt;http://s.opencalais.com/1/type/sys/&gt;
+PREFIX xs:    &lt;http://www.w3.org/2001/XMLSchema#&gt;
+
+# @title Return News Item subjects filtered by relevance (greater than or equal to 0.2).
+# This query requires that all relevance triples have a xs:double datatype.
+# @author Philip A. R. Fennell
+
+CONSTRUCT {
+  $subject oc:name $name ; 
+           rdf:type $type .
+}
+FROM &lt;http://www.bbc.co.uk/news/graph&gt;
+WHERE {
+  SELECT DISTINCT $subject $name $type $rel
+  WHERE {
+    $DocInfo owl:sameAs &lt;http://www.bbc.co.uk/news/world-asia-22965046&gt; .
+    $thing1 oc:docId $DocInfo ;
+            oc:relevance $relevance ;
+            oc:subject $subject .
+    $subject oc:name $name ;
+             rdf:type $type .
+    FILTER ($relevance &gt;= 0.2)
+  }  ORDER BY DESC($relevance)
+}
+</query><query name="Add Datatype" focus="false" active="false" mode="xquery">xquery version "1.0-ml";
+
+(:~
+ : Adds the xs:double datatype to all relevance triples in the 
+ : &lt;http://www.bbc.co.uk/news/graph&gt; graph.
+ : @author Philip A. R. Fennell
+ :)
+
+import module namespace sem = "http://marklogic.com/semantics" at
+    "/MarkLogic/semantics.xqy";
+
+let $type as sem:iri := sem:iri('http://www.w3.org/2001/XMLSchema#double')
+let $property as sem:iri := sem:iri('http://s.opencalais.com/1/pred/relevance')
+return
+  for $triple in collection('http://www.bbc.co.uk/news/graph')/sem:triples/sem:triple
+  where $triple/sem:predicate/data() eq $property
+  return
+    xdmp:node-replace($triple/sem:object/@datatype, attribute datatype {$type})</query><query name="Export People" focus="false" active="false" mode="xquery">xquery version "1.0-ml";
+
+(:~
+ : Extracts all the triples describing People.
+ : @author Philip A. R. Fennell
+ :)
+
+import module namespace sem = "http://marklogic.com/semantics" at
+  "MarkLogic/semantics.xqy";
+
+let $result as item()* := sem:sparql(
+&lt;query&gt;&lt;![CDATA[
+PREFIX rnews: &lt;http://iptc.org/std/rNews/2011-10-07#&gt;
+PREFIX oc:    &lt;http://s.opencalais.com/1/pred/&gt;
+PREFIX e:     &lt;http://s.opencalais.com/1/type/em/e/&gt;
+PREFIX geo:   &lt;http://s.opencalais.com/1/type/er/Geo/&gt;
+
+DESCRIBE $s
+WHERE {
+  $s a e:Person .
+}
+]]&gt;&lt;/query&gt;,
+(),
+())
+return
+  xdmp:save('/Users/pfennell/Projects/MarkLogic/users/pfennell/use-cases/enhanced-search/tmp/people.rdf', sem:rdf-serialize($result, 'rdfxml'))</query></workspace></export>

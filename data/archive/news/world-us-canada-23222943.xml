@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<es:job-bag xmlns:es="http://www.marklogic.com/enhanced-search#">
+   <html xmlns="http://www.w3.org/1999/xhtml"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:c="http://www.w3.org/ns/xproc-step"
+         xml:lang="en-GB"
+         xml:base="http://www.bbc.co.uk">
+      <head profile="http://dublincore.org/documents/dcq-html/"
+            resource="http://www.bbc.co.uk/news/world-us-canada-23222943"
+            typeof="rnews:NewsItem">
+         <meta property="rnews:description"
+               content="The wife of US Secretary of State John Kerry, Teresa Heinz Kerry, is taken to hospital in Boston and reported to be in a critical condition."/>
+         <meta property="rnews:datePublished" content="2013-07-08T07:14:40"/>
+         <meta property="rnews:thumbnailUrl"
+               content="http://news.bbcimg.co.uk/media/images/68601000/jpg/_68601351_68601290.jpg"/>
+         <meta property="rnews:headline" content="John Kerry's wife taken to hospital"/>
+         <meta name="CPS_SECTION_PATH" content="World/US and Canada"/>
+         <meta property="rnews:creator" content="http://www.bbc.co.uk#org"/>
+         <link rel="copyright"
+               href="http://www.bbc.co.uk/terms/"
+               title="Terms of Use"/>
+         <link rel="http://purl.org/dc/terms/source"
+               href="http://www.bbc.co.uk/news/world-us-canada-23222943"/>
+         <title>BBC News - John Kerry's wife in 'critical condition' in
+hospital</title>
+      </head>
+      <body>
+         <div class="story-body">
+            <span class="story-date">
+               <span class="date">8 July 2013</span>
+               <span class="time-text">Last updated
+at</span>
+               <span class="time">08:14</span>
+            </span>
+            <h1 class="story-header">John Kerry's wife in 'critical condition'
+in hospital</h1>
+            <div class="caption body-width">
+               <img src="http://news.bbcimg.co.uk/media/images/68601000/jpg/_68601295_68601290.jpg"
+                    width="464"
+                    height="261"
+                    alt="John Kerry with Teresa Heinz Kerry in 2008"/>
+               <span style="width:464px;">Teresa Heinz Kerry is John Kerry's second
+wife</span>
+            </div>
+            <p class="introduction">The wife of US
+Secretary of State John Kerry has been taken to hospital in Boston
+where she is reported to be in a critical condition.</p>
+            <p>Teresa Heinz Kerry, 74, became ill during a family holiday in
+Nantucket, Massachusetts, on Sunday.</p>
+            <p>Her condition was stabilised at the local hospital before she
+was transferred to a hospital in Boston, Mr Kerry's spokesman
+said.</p>
+            <p>Mr Kerry is reported to have travelled with his wife to
+Boston.</p>
+            <p>"The family is grateful for the outpouring of support it has
+received and aware of the interest in her condition, but they ask
+for privacy at this time," Mr Kerry's spokesman Glen Johnson
+said.</p>
+            <p>Born to a Portuguese family in Mozambique, Teresa Heinz Kerry is
+a former UN interpreter and widow of Senator John Heinz, heir to
+the ketchup company fortune, who died in 1991.</p>
+            <p>She married Mr Kerry in 1995. It was a second marriage for both
+of them.</p>
+            <p>Ms Heinz Kerry revealed in 2009 that she had been treated for
+breast cancer.</p>
+         </div>
+         <div class="story-feature related narrow">
+            <h2>Related Stories</h2>
+            <ul class="related-links-list">
+               <li>
+                  <a class="story"
+                     rel="published-1359995426183"
+                     href="/news/world-us-canada-21325975">Kerry begins at state
+department</a>
+               </li>
+               <li>
+                  <a class="story"
+                     rel="published-1098361290000"
+                     href="/1/hi/world/americas/3762894.stm">Mrs Kerry sorry for Mrs Bush
+slur</a>
+               </li>
+            </ul>
+         </div>
+      </body>
+   </html>
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+            xmlns:og="http://opengraphprotocol.org/schema/"
+            xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/world-us-canada-23222943">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23222943"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">The wife of US Secretary of State John Kerry, Teresa Heinz Kerry, is taken to hospital in Boston and reported to be in a critical condition.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-08T07:14:40</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68601000/jpg/_68601351_68601290.jpg"/>
+         <rnews:headline xml:lang="en-GB">John Kerry's wife taken to hospital</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">World</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68601000/jpg/_68601295_68601290.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23222943"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</rnews:height>
+         <rnews:description xml:lang="en-GB">John Kerry with Teresa Heinz Kerry in 2008</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       c:allowDistribution="true"
+                       c:allowSearch="false"
+                       c:calaisRequestID="8c92cfe9-b2a4-afc2-13fb-dd7ff2e45cd1"
+                       c:externalID="mluces"
+                       c:id="http://id.opencalais.com/S5uECt04zc-TcM9bPzMfyw"
+                       rdf:about="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-08</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                     rdf:resource="http://www.bbc.co.uk/news/world-us-canada-23222943"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       c:contentType="TEXT/HTML"
+                       c:emVer="7.1.1103.5"
+                       c:langIdVer="DefaultLangId"
+                       c:language="English"
+                       c:processingVer="CalaisJob01"
+                       c:submissionDate="2013-07-08 05:33:36.814"
+                       rdf:about="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|GTHu8plnSHoKIfcGnReU1T4qyjM=|WkjbsgZBfSpb7U9mQFfUwM8e8qmO2ezgqO7UFIT1sew6Cc3E5j5f2Q==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/HumanInterest"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Human Interest</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.000</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240/cat/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Politics"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Politics</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.972</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/ae82307a-b019-6bce-148c-ae466863e4c5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/51375aa4-9af2-321e-bf21-797a453ab467"/>
+         <c:name>Mozambique</c:name>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-18.9296435672</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">35.3243532164</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/7aa042dc-f08e-30d3-9d22-2a5676065362">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonRelation"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/0bad7a09-2412-3514-9982-a4991394bb19"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/2bb0d282-1d6a-3306-9b77-d6b7c03182a7"/>
+         <c:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1995-00-00</c:date>
+         <c:datestring>in 1995</c:datestring>
+         <c:personrelationtype>romantic</c:personrelationtype>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/er/geo/provinceorstate/ralg-geo1/5c5159b9-d2c3-3b97-85d3-5b4e3692f320">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/ProvinceOrState"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7acdcb17-60d8-35c2-ad99-3b224d74f25f"/>
+         <c:name>Massachusetts,United States</c:name>
+         <c:shortname>Massachusetts</c:shortname>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.3</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-71.8</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/61532e7e-0a03-3526-9440-67e9f54403ce">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/FamilyRelation"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/0bad7a09-2412-3514-9982-a4991394bb19"/>
+         <c:familyrelationtype>husband</c:familyrelationtype>
+         <c:person_relative rdf:resource="http://d.opencalais.com/pershash-1/2bb0d282-1d6a-3306-9b77-d6b7c03182a7"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/949b85af-a9f2-5d8d-49c8-151dd91f201f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c44736da-23a0-3d98-b9a4-54eb366acaa0"/>
+         <c:name>Nantucket,Massachusetts,United States</c:name>
+         <c:shortname>Nantucket</c:shortname>
+         <c:containedbystate>Massachusetts</c:containedbystate>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41.2833</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-70.1</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/pershash-1/a0f8695b-10a6-3994-a488-29cbb7c330ca">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>John Heinz</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>John Heinz</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/a0f8695b-10a6-3994-a488-29cbb7c330ca"/>
+         <c:relevance>0.183</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/c44736da-23a0-3d98-b9a4-54eb366acaa0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Nantucket</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c44736da-23a0-3d98-b9a4-54eb366acaa0"/>
+         <c:relevance>0.318</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/83cfdb28-975e-3e77-916e-0527e9d0cbed">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/EmploymentRelation"/>
+         <c:person_employer rdf:resource="http://d.opencalais.com/pershash-1/2bb0d282-1d6a-3306-9b77-d6b7c03182a7"/>
+         <c:person_employee rdf:resource="http://d.opencalais.com/pershash-1/6b744c0f-1d9c-3a31-b835-91e33bd8dbaa"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/17126376-4538-3f7d-b31d-bcb2c6472493"/>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/pershash-1/0bad7a09-2412-3514-9982-a4991394bb19">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Teresa Heinz Kerry</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Teresa Heinz Kerry</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/0bad7a09-2412-3514-9982-a4991394bb19"/>
+         <c:relevance>0.665</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/4bd2b5f0-515b-ca0e-8698-3c8cace21ac2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/aace28ec-e4e2-3ad0-9a59-806a900252a9"/>
+         <c:name>Boston,Massachusetts,United States</c:name>
+         <c:shortname>Boston</c:shortname>
+         <c:containedbystate>Massachusetts</c:containedbystate>
+         <c:containedbycountry>United States</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.3583</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-71.0603</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/17126376-4538-3f7d-b31d-bcb2c6472493">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>spokesman</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/17126376-4538-3f7d-b31d-bcb2c6472493"/>
+         <c:relevance>0.350</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/dee2f08a-28bd-395f-8510-ee5ed7cb2031">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonLocation"/>
+         <c:persongroup>a portuguese family</c:persongroup>
+         <c:locationstring>Mozambique</c:locationstring>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/aace28ec-e4e2-3ad0-9a59-806a900252a9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Boston</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/aace28ec-e4e2-3ad0-9a59-806a900252a9"/>
+         <c:relevance>0.325</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/fa36ccaa-3402-3be8-993a-00a6a8fbfb2e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Organization"/>
+         <c:name>United Nations</c:name>
+         <c:organizationtype>governmental civilian</c:organizationtype>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/fa36ccaa-3402-3be8-993a-00a6a8fbfb2e"/>
+         <c:relevance>0.183</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/51375aa4-9af2-321e-bf21-797a453ab467">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country"/>
+         <c:name>Mozambique</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/51375aa4-9af2-321e-bf21-797a453ab467"/>
+         <c:relevance>0.183</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/b9ac60ce-7d9d-32a4-bb08-b94f7bbe80dd">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonAttributes"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/0bad7a09-2412-3514-9982-a4991394bb19"/>
+         <c:age>74</c:age>
+         <c:gender>F</c:gender>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/pershash-1/2bb0d282-1d6a-3306-9b77-d6b7c03182a7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>John Kerry</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>John Kerry</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/2bb0d282-1d6a-3306-9b77-d6b7c03182a7"/>
+         <c:relevance>0.712</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/7acdcb17-60d8-35c2-ad99-3b224d74f25f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/ProvinceOrState"/>
+         <c:name>Massachusetts</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7acdcb17-60d8-35c2-ad99-3b224d74f25f"/>
+         <c:relevance>0.318</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/a9fe0d21-6c7b-3404-8a91-7fdc5260e723">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/0bad7a09-2412-3514-9982-a4991394bb19"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/c08645f2-b41a-3cbb-a631-87da6f4dd606"/>
+         <c:organization rdf:resource="http://d.opencalais.com/genericHasher-1/fa36ccaa-3402-3be8-993a-00a6a8fbfb2e"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>past</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/d8395dc6-bc7b-3fd8-8cee-3454012708bc">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/MedicalCondition"/>
+         <c:name>breast cancer</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/d8395dc6-bc7b-3fd8-8cee-3454012708bc"/>
+         <c:relevance>0.089</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/7c3f2845-d090-348e-926a-2924baad9e45">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/6b744c0f-1d9c-3a31-b835-91e33bd8dbaa"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/7c05f90b-c7a0-31d6-b3a5-3ea38dafed1e"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/c08645f2-b41a-3cbb-a631-87da6f4dd606">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>interpreter</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c08645f2-b41a-3cbb-a631-87da6f4dd606"/>
+         <c:relevance>0.194</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/pershash-1/6b744c0f-1d9c-3a31-b835-91e33bd8dbaa">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Glen Johnson</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Glen Johnson</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/6b744c0f-1d9c-3a31-b835-91e33bd8dbaa"/>
+         <c:relevance>0.224</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/pershash-1/82aa32d8-dd05-3265-afeb-b8995ab20cec">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Heinz Kerry</c:name>
+         <c:persontype>N/A</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Heinz Kerry</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/82aa32d8-dd05-3265-afeb-b8995ab20cec"/>
+         <c:relevance>0.099</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/genericHasher-1/7c05f90b-c7a0-31d6-b3a5-3ea38dafed1e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>Mr Kerry's spokesman</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                       rdf:about="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/c7d43892-d216-3bbf-addc-caa87c6c7240"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7c05f90b-c7a0-31d6-b3a5-3ea38dafed1e"/>
+         <c:relevance>0.224</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>
+</es:job-bag>

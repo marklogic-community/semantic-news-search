@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:rnews="http://iptc.org/std/rNews/2011-10-07#"
+         xmlns:es="http://www.marklogic.com/enhanced-search#">
+      <rdf:Description rdf:about="http://www.bbc.co.uk/news/business-23222327">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#NewsItem"/>
+         <rnews:identifier rdf:resource="http://www.bbc.co.uk/news/business-23222327"/>
+         <rnews:usageTerms rdf:resource="http://www.bbc.co.uk/terms/"/>
+         <rnews:description xml:lang="en-GB">Shares of Taiwanese mobile phone maker HTC plunge to a seven-and-a-half year low, as its profit continues to slide amid increased competition.</rnews:description>
+         <rnews:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-08T08:12:43</rnews:datePublished>
+         <rnews:thumbnailUrl rdf:resource="http://news.bbcimg.co.uk/media/images/68602000/jpg/_68602259_htcone_silver.jpg"/>
+         <rnews:headline xml:lang="en-GB">HTC shares at seven and half year low</rnews:headline>
+         <rnews:articleSection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Business</rnews:articleSection>
+         <rnews:creator rdf:resource="http://www.bbc.co.uk#org"/>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://news.bbcimg.co.uk/media/images/68601000/jpg/_68601983_htcone_silver.jpg">
+         <rdf:type rdf:resource="http://iptc.org/std/rNews/2011-10-07#ImageObject"/>
+         <rnews:associatedArticle rdf:resource="http://www.bbc.co.uk/news/business-23222327"/>
+         <rnews:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</rnews:width>
+         <rnews:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rnews:height>
+         <rnews:description xml:lang="en-GB">HTC One</rnews:description>
+         <rnews:encodingFormat rdf:resource="http://cv.iptc.org/newscodes/format/JPEG_Baseline"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:allowDistribution="true"
+                    c:allowSearch="false"
+                    c:calaisRequestID="f62a7d74-8d01-a73c-13fb-dd896ef33e3f"
+                    c:externalID="mluces"
+                    c:id="http://id.opencalais.com/n418hzEuSZUAsPsGqPSOIA"
+                    rdf:about="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo"/>
+         <c:docDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-08</c:docDate>
+         <c:submitter>ml</c:submitter>
+         <owl:sameAs xmlns:owl="http://www.w3.org/2002/07/owl#"
+                  rdf:resource="http://www.bbc.co.uk/news/business-23222327"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    c:contentType="TEXT/HTML"
+                    c:emVer="7.1.1103.5"
+                    c:langIdVer="DefaultLangId"
+                    c:language="English"
+                    c:processingVer="CalaisJob01"
+                    c:submissionDate="2013-07-08 06:34:15.663"
+                    rdf:about="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20/meta">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20"/>
+         <c:submitterCode>c2b78ae4-093d-1686-b3f0-28ae1ba30b6e</c:submitterCode>
+         <c:signature>digestalg-1|X1HrymDUJuCbjtSg5ZaoBf9JieQ=|jq04ytRx51GbXyhCqc2ut6TIwGgSLdtRflCF032R9t2ilzOY2zPRFg==</c:signature>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20/lid/DefaultLangId">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20"/>
+         <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/English"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20/cat/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/cat/DocCat"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20"/>
+         <c:category rdf:resource="http://d.opencalais.com/cat/Calais/Business_Finance"/>
+         <c:classifierName>Calais</c:classifierName>
+         <c:categoryName>Business_Finance</c:categoryName>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.000</c:score>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/67269149-338d-3b31-b438-75a7862a9c9f">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Nomura Securities</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20/Relevance/1">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/67269149-338d-3b31-b438-75a7862a9c9f"/>
+         <c:relevance>0.153</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/10a6ba90-14b0-3dc0-80f9-2dcd79df6b64">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Technology"/>
+         <c:name>cellular telephone</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20/Relevance/2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/10a6ba90-14b0-3dc0-80f9-2dcd79df6b64"/>
+         <c:relevance>0.089</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c98890e2-da8f-3090-869a-dfad043a8bb8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/CompanyEarningsAnnouncement"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/49a34402-e108-3e76-8768-d959c0174b17"/>
+         <c:quarter>Q2</c:quarter>
+         <c:financialmetric>EARNINGS</c:financialmetric>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/23d07771-c50b-315b-8050-3cdaf47ac0d0">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/705cd5cf-93e1-323c-8d4e-1ea3200d37e4"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>APPLE INC.</c:name>
+         <c:shortname>Apple</c:shortname>
+         <c:ticker>AAPL</c:ticker>
+         <c:symbol>AAPL.OQ</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/736a403d-157b-3e80-86a7-acc404607cb2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>USD</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20/Relevance/3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/736a403d-157b-3e80-86a7-acc404607cb2"/>
+         <c:relevance>0.355</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/45481637-e63d-3e81-9a2b-d40770e014aa">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/CompanyCompetitor"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/49a34402-e108-3e76-8768-d959c0174b17"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/705cd5cf-93e1-323c-8d4e-1ea3200d37e4"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/c021d644-16e9-3060-96fe-b3be0cd4ae1e">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Samsung</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20/Relevance/4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/c021d644-16e9-3060-96fe-b3be0cd4ae1e"/>
+         <c:relevance>0.365</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/a38125c3-3ae3-3500-ad15-e25d53490cc5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/c021d644-16e9-3060-96fe-b3be0cd4ae1e"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>Samsung C&amp;T Corporation</c:name>
+         <c:shortname>Samsung C&amp;T</c:shortname>
+         <c:ticker>SAMCO</c:ticker>
+         <c:symbol>000830.KS</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d9029f75-a2b9-32b1-bec9-780805fd7ce3">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/CompanyCompetitor"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/49a34402-e108-3e76-8768-d959c0174b17"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/c021d644-16e9-3060-96fe-b3be0cd4ae1e"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/84dccb60-5afd-30dd-9d2d-5fcc1af70d0c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>GBP</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20/Relevance/5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/84dccb60-5afd-30dd-9d2d-5fcc1af70d0c"/>
+         <c:relevance>0.289</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/1c8590bb-a9a8-3d88-84e3-af3f15ccade5">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/PersonCareer"/>
+         <c:person rdf:resource="http://d.opencalais.com/pershash-1/6656c74e-0898-3778-9ed6-a4666e997a85"/>
+         <c:position rdf:resource="http://d.opencalais.com/genericHasher-1/a12b43d5-d195-35ea-96a9-f710943bdb5a"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/67269149-338d-3b31-b438-75a7862a9c9f"/>
+         <c:careertype>professional</c:careertype>
+         <c:status>current</c:status>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/47c48f67-e8c8-34f1-9afe-06002c089b14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/r/CompanyTechnology"/>
+         <c:company rdf:resource="http://d.opencalais.com/comphash-1/c021d644-16e9-3060-96fe-b3be0cd4ae1e"/>
+         <c:technology rdf:resource="http://d.opencalais.com/genericHasher-1/10a6ba90-14b0-3dc0-80f9-2dcd79df6b64"/>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/eda544ed-2116-3421-af90-cdfe577f4a5c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>early leader in the Android smartphone sector</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20/Relevance/6">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/eda544ed-2116-3421-af90-cdfe577f4a5c"/>
+         <c:relevance>0.238</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a12b43d5-d195-35ea-96a9-f710943bdb5a">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Position"/>
+         <c:name>analyst</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20/Relevance/7">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a12b43d5-d195-35ea-96a9-f710943bdb5a"/>
+         <c:relevance>0.341</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/d096312d-b60f-3983-a37d-4023f3a7063b">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Technology"/>
+         <c:name>Android</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20/Relevance/8">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/d096312d-b60f-3983-a37d-4023f3a7063b"/>
+         <c:relevance>0.238</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/geo/city/ralg-geo1/f65381d0-4c7f-2ed4-d593-c85f377c908d">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/City"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/9b732f65-0eb5-3bcc-af49-b23579915138"/>
+         <c:name>Taipei,Taiwan</c:name>
+         <c:shortname>Taipei</c:shortname>
+         <c:containedbycountry>Taiwan</c:containedbycountry>
+         <c:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">25.0333333333</c:latitude>
+         <c:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">121.533333333</c:longitude>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/49a34402-e108-3e76-8768-d959c0174b17">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>HTC</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20/Relevance/9">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/49a34402-e108-3e76-8768-d959c0174b17"/>
+         <c:relevance>0.745</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/9b732f65-0eb5-3bcc-af49-b23579915138">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/City"/>
+         <c:name>Taipei</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20/Relevance/10">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/9b732f65-0eb5-3bcc-af49-b23579915138"/>
+         <c:relevance>0.153</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/pershash-1/6656c74e-0898-3778-9ed6-a4666e997a85">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person"/>
+         <c:name>Peter Liao</c:name>
+         <c:persontype>economic</c:persontype>
+         <c:nationality>N/A</c:nationality>
+         <c:commonname>Peter Liao</c:commonname>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20/Relevance/11">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20"/>
+         <c:subject rdf:resource="http://d.opencalais.com/pershash-1/6656c74e-0898-3778-9ed6-a4666e997a85"/>
+         <c:relevance>0.153</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/e0ffbb30-d4a4-3f21-a6b7-f27120a29cfb">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/49a34402-e108-3e76-8768-d959c0174b17"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>HTC Corporation</c:name>
+         <c:shortname>HTC</c:shortname>
+         <c:ticker>HTCCO</c:ticker>
+         <c:symbol>2498.TW</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/9ab3008f-519c-330e-a370-fca5d78db498">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency"/>
+         <c:name>TWD</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20/Relevance/12">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/9ab3008f-519c-330e-a370-fca5d78db498"/>
+         <c:relevance>0.289</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/7400f6bd-87be-3a1e-bf4c-8e01dd40cfc2">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/IndustryTerm"/>
+         <c:name>mobile phone maker</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20/Relevance/13">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/7400f6bd-87be-3a1e-bf4c-8e01dd40cfc2"/>
+         <c:relevance>0.089</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/er/company/ralg-tr1r/993992e3-c9f4-3274-bc77-ac33f1ff3b71">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Company"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/67269149-338d-3b31-b438-75a7862a9c9f"/>
+         <c:score rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</c:score>
+         <c:name>Nomura Securities Co., Ltd.</c:name>
+         <c:shortname>Nomura Secs</c:shortname>
+         <c:ticker>NMHLDA</c:ticker>
+         <c:symbol>NMHLDA.UL</c:symbol>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/a3a38f2a-bc87-3ddf-838a-aab8db5be28c">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/OperatingSystem"/>
+         <c:name>Android</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20/Relevance/14">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/a3a38f2a-bc87-3ddf-838a-aab8db5be28c"/>
+         <c:relevance>0.238</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/genericHasher-1/c2742ea7-b237-30d6-8e86-6eb88c3ac6b4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Technology"/>
+         <c:name>smartphone</c:name>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20/Relevance/15">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20"/>
+         <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/c2742ea7-b237-30d6-8e86-6eb88c3ac6b4"/>
+         <c:relevance>0.394</c:relevance>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/comphash-1/705cd5cf-93e1-323c-8d4e-1ea3200d37e4">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company"/>
+         <c:name>Apple</c:name>
+         <c:nationality>N/A</c:nationality>
+      </rdf:Description>
+      <rdf:Description xmlns:c="http://s.opencalais.com/1/pred/"
+                    rdf:about="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20/Relevance/16">
+         <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo"/>
+         <c:docId rdf:resource="http://d.opencalais.com/dochash-1/0a0cbc25-2cbd-346c-8447-ae3c2ae13d20"/>
+         <c:subject rdf:resource="http://d.opencalais.com/comphash-1/705cd5cf-93e1-323c-8d4e-1ea3200d37e4"/>
+         <c:relevance>0.292</c:relevance>
+      </rdf:Description>
+   </rdf:RDF>
