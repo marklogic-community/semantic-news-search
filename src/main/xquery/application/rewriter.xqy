@@ -1,16 +1,11 @@
-xquery version "1.0-ml" encoding "utf-8";
+xquery version "1.0-ml";
 
-(:~
- : Simple URL re-writer.
- : @author	Philip A. R. Fennell
- :)
-
-declare default function namespace "http://www.w3.org/2005/xpath-functions";
-
-
-let $debug := xdmp:log(concat('[XQuery][News] path = ', xdmp:get-request-path()))
+let $path     := xdmp:get-request-path(),
+    $orig-url := xdmp:get-request-url()
 return
-  if (matches(xdmp:get-request-path(), '^/$')) then
-    xdmp:get-request-url()
+  (: Hide files we don't want to serve up :)
+  if (starts-with($path,'/lib') or
+      starts-with($path,'README.txt')) then
+    "/notfound.xqy"
   else
-    concat(xdmp:get-request-path(), '.xqy', substring-after(xdmp:get-request-url(), xdmp:get-request-path()))
+    xdmp:get-request-url()

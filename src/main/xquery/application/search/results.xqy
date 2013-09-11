@@ -1,4 +1,4 @@
 xquery version "1.0-ml";
 import module namespace render="http://marklogic.com/sem-app/render" at "/lib/render.xqy";
 
-render:full-page()
+render:page-region("results")
