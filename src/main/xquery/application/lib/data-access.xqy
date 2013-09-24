@@ -4,6 +4,9 @@ module namespace data="http://marklogic.com/sem-app/data";
 import module namespace search = "http://marklogic.com/appservices/search"
     at "/MarkLogic/appservices/search/search.xqy";
 
+import module namespace infobox = "http://marklogic.com/sem-app/infobox"
+    at "/lib/infobox.xqy";
+
 declare default function namespace "http://www.w3.org/2005/xpath-functions";
 
 (: The string query :)
@@ -27,17 +30,19 @@ declare variable $ctsQuery as cts:query := cts:query(search:parse($q, $options))
 
 (: Used for highlighting search results;
    returns the "OR", rather than the "AND", of the given sub-queries :)
-declare variable $matchesAnyQuery as cts:query :=
-    let $ctsQueryXML := <_>{$ctsQuery}</_>/node(),
+declare function data:matchesAnyQuery($baseQuery as cts:query) as cts:query {
+    let $ctsQueryXML := <_>{$baseQuery}</_>/node(),
         $queriesXML  := if ($ctsQueryXML/self::cts:and-query) then $ctsQueryXML/*
                                                               else $ctsQueryXML,
         $queries := for $query in $queriesXML return cts:query($query)
-    return cts:or-query($queries);
+    return cts:or-query($queries)
+};
 
 declare private variable $page-length := 10;
 
 declare function data:get($region) {
-  if ($region eq 'results') then data:results($q, $p)
+       if ($region eq 'results') then data:results($q, $p)
+  else if ($region eq 'infobox') then $infobox:data
   else ()
 };
 
@@ -55,6 +60,6 @@ declare private function data:start-index($page-length as xs:integer,
 };
 
 declare function data:highlight($node) {
-  cts:highlight($node, $matchesAnyQuery, <strong>{$cts:text}</strong>)
+  cts:highlight($node, data:matchesAnyQuery($ctsQuery), <strong>{$cts:text}</strong>)
 };
 

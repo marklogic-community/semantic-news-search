@@ -1,1 +1,28 @@
 /* styles will go here */
+
+#infobox {
+  float: right;
+  margin-left: 50px;
+  margin-right: 50px;
+  width: 300px
+}
+ 
+#infobox * {
+  padding:0;
+  margin:0
+}
+
+#infobox dl {
+  width:100%;
+  overflow:hidden;
+}
+#infobox dt {
+  float:left;
+  width:40%;
+  font-weight: bold;
+}
+#infobox dd {
+  float:left;
+  width:60%;
+}
+#infobox img { width: 300px }

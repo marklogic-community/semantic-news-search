@@ -18,6 +18,11 @@
   <xdmp:import-module href="/lib/data-access.xqy" namespace="http://marklogic.com/sem-app/data"/>
   <xdmp:import-module href="/MarkLogic/appservices/search/search.xqy" namespace="http://marklogic.com/appservices/search"/>
 
+  <!-- Apparently, MarkLogic is only happy if we import this here (it's insufficient to import it in the included stylesheet) -->
+  <xdmp:import-module href="/lib/infobox.xqy" namespace="http://marklogic.com/sem-app/infobox"/>
+
+  <xsl:include href="infobox.xsl"/>
+
   <xsl:variable name="q" select="xdmp:get-request-field('q','')"/>
 
   <!-- These are lazily evaluated -->
