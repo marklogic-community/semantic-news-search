@@ -19,6 +19,15 @@ declare private variable $p := xs:integer(xdmp:get-request-field("p","1"));
 declare variable $options :=
   <options xmlns="http://marklogic.com/appservices/search">
     <additional-query>{cts:collection-query("http://www.bbc.co.uk/news/content")}</additional-query>
+
+    <!-- This custom constraint uses SPARQL to expand the given query terms -->
+    <constraint name="org">
+      <custom facet="false">
+        <parse apply="parse" ns="http://marklogic.com/sem-app/org-constraint"
+                             at="/lib/org-constraint.xqy" />
+      </custom>
+    </constraint>
+
     <transform-results apply="snippet"/>
     <extract-metadata>
       <qname elem-ns="http://www.w3.org/1999/xhtml" elem-name="title"/>
