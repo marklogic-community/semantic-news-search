@@ -2,6 +2,15 @@
 
    If you type "org:military" for example, it will expand
    the query to search for all the known military organizations.
+
+   The available organization types we know about from the
+   OpenCalais-supplied data are as follows:
+
+    * political party
+    * governmental civilian
+    * governmental military
+    * sports
+    * central bank
 :)
 xquery version "1.0-ml";
 
