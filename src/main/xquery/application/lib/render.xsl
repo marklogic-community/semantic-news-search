@@ -28,7 +28,7 @@
   <!-- These are lazily evaluated -->
   <xsl:variable name="results" select="data:get('results')"/>
 
-  <xsl:variable name="facet-names" select="()"/> <!-- no facets yet -->
+  <xsl:variable name="facet-names" select="('cat')"/>
 
   <!-- Total result count -->
   <xsl:template match="mt:result-count">
@@ -156,9 +156,7 @@
           <xsl:function name="my:data-elements">
             <xsl:param name="item-name" as="xs:string"/>
             <xsl:sequence select="if ($item-name eq 'result')         then $results/search:result
-(:
-                             else if ($item-name = $facet-names)      then data:facet-values($item-name, $facet-start, $facet-limit)
-:)
+                             else if ($item-name = $facet-names)      then my:facet-values($results, $item-name)
                              else ()"/>
           </xsl:function>
 
@@ -186,7 +184,7 @@
 
           <xsl:template mode="facet-field" match="@*[. eq 'name']">
             <xsl:param name="data" tunnel="yes"/>
-            <xsl:value-of select="$data/@name"/>
+            <xsl:value-of select="$data"/>
           </xsl:template>
 
 

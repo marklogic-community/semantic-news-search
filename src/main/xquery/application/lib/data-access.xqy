@@ -28,6 +28,19 @@ declare variable $options :=
       </custom>
     </constraint>
 
+    <!-- This constraint uses a combination query to find documents
+         in a category represented by OpenCalais-supplied triples.
+
+         And it uses a field (path) range index to facet on the RDF values. -->
+    <constraint name="cat">
+      <custom facet="true">
+        <fragment-scope>properties</fragment-scope>
+        <parse        apply="parse"  ns="http://marklogic.com/sem-app/cat-constraint" at="/lib/cat-constraint.xqy"/>
+        <start-facet  apply="start"  ns="http://marklogic.com/sem-app/cat-constraint" at="/lib/cat-constraint.xqy"/>
+        <finish-facet apply="finish" ns="http://marklogic.com/sem-app/cat-constraint" at="/lib/cat-constraint.xqy"/>
+      </custom>
+    </constraint>
+
     <transform-results apply="snippet"/>
     <extract-metadata>
       <qname elem-ns="http://www.w3.org/1999/xhtml" elem-name="title"/>

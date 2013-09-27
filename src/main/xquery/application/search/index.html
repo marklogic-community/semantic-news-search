@@ -22,6 +22,19 @@
       <mt:infobox/>
     </div>
 
+    <div id="facets">
+      <div class="accordion" id="category" mt:expanded-class="hasSelection">
+        <div class="title">Category</div>
+        <ul>
+          <li mt:repeating="cat" replace:data-q="{mt:q}" mt:selected-class="on">
+            <div class="name"  mt:field="name"></div>
+            <div class="count" mt:field="count"></div>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+
     <!-- Let's enable this when we're ready to make it work
     <div id="sortbar">
       <div class="fieldname">Currently Sorting By</div>
