@@ -2,81 +2,84 @@
 <html xmlns:mt="http://marklogic.com/sem-app/templates" xmlns:replace="http://marklogic.com/sem-app/replace-att">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <title>News Search: Results</title>
-  <link id="stylesheet" type="text/css" rel="stylesheet" href="/css/style.css" />
+  <title>Semantic News Search: Results</title>
+  <link id="stylesheet" type="text/css" rel="stylesheet" href="/css/style.css"/>
 </head>
 
 <body>
-  <div id="wrapper">
-
-    <h1>News Search</h1>
+  <div id="header">
+    <h1>Semantic News Search</h1>
 
     <div id="searchbar">
       <form id="search" action="/search/" method="get">
         <input type="text" placeholder="SEARCH" name="q" mt:value="" id="search"/>
+        <input type="submit" value="Search"/>
       </form>
-      <input type="submit" value="Search"/>
-    </div>
 
-    <div mt:page-region="infobox" id="infobox">
-      <mt:infobox/>
-    </div>
-
-    <div id="facets">
-      <div class="accordion" id="category" mt:expanded-class="hasSelection">
-        <div class="title">Category</div>
-        <ul>
-          <li mt:repeating="cat" replace:data-q="{mt:q}" mt:selected-class="on">
-            <div class="name"  mt:field="name"></div>
-            <div class="count" mt:field="count"></div>
-          </li>
-        </ul>
-      </div>
-    </div>
-
-
-    <!-- Let's enable this when we're ready to make it work
-    <div id="sortbar">
-      <div class="fieldname">Currently Sorting By</div>
-      <div class="select-style">
-        <select id="sortbox" mt:sortbox="yes">
-          <option value="relevance"     mt:selected="selected">Relevance</option>
-          <option value="date-forward"  mt:selected="selected">Date, forward</option>
-          <option value="date-backward" mt:selected="selected">Date, backward</option>
-        </select>
-      </div>
-    </div>
-    -->
-
-    <div mt:page-region="results" id="resultsPane">
-     
-      <!-- If we want to have facets... (this needs changing)
-      <div id="facets">
-        <div class="accordion" id="what" mt:expanded-class="hasSelection">
-          <div class="title">What List?</div>
-          <ul mt:page-region="list">
-            <li mt:repeating="list" replace:data-q="{mt:q}" mt:selected-class="on">
-              <div class="name"  mt:field="name"></div>
-              <div class="count" mt:field="count"></div>
-            </li>
-          </ul>
+      <!-- Let's enable this when we're ready to make it work
+      <div id="sortbar">
+        <div class="fieldname">Currently Sorting By</div>
+        <div class="select-style">
+          <select id="sortbox" mt:sortbox="yes">
+            <option value="relevance"     mt:selected="selected">Relevance</option>
+            <option value="date-forward"  mt:selected="selected">Date, forward</option>
+            <option value="date-backward" mt:selected="selected">Date, backward</option>
+          </select>
         </div>
       </div>
       -->
-
-      <div id="results">
-        <ul>
-          <li mt:repeating="result" replace:data-id="{mt:id}">
-            <div class="title" mt:field="title"></div>
-            <div class="excerpt" mt:field="excerpt"></div>
-          </li>
-        </ul>
-      </div>
-
-
     </div>
-
   </div>
+
+  <div class="colmask threecol">
+    <div class="colmid">
+      <div class="colleft">
+        <div class="col1">
+
+          <div mt:page-region="results" id="resultsPane">
+            <div id="results">
+              <ul>
+                <li mt:repeating="result" replace:data-id="{mt:id}">
+                  <div class="title" mt:field="title"></div>
+                  <div class="excerpt" mt:field="excerpt"></div>
+                </li>
+              </ul>
+            </div>
+          </div>
+
+        </div>
+        <div class="col2">
+
+          <div id="facets">
+            <div class="accordion" id="category" mt:expanded-class="hasSelection">
+              <div class="title">Category</div>
+              <ul>
+                <li mt:repeating="cat" replace:data-q="{mt:q}" mt:selected-class="on">
+                  <div class="name"  mt:field="name"></div>
+                  <div class="count" mt:field="count"></div>
+                </li>
+              </ul>
+            </div>
+          </div>
+
+        </div>
+        <div class="col3">
+
+          <div mt:page-region="infobox" id="infobox">
+            <mt:infobox/>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="footer">
+    <p>This sample application illustrates MarkLogic 7's new semantic search capabilities.</p>
+  </div>
+
+
+
 
 </body>
 </html>
