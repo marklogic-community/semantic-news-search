@@ -52,9 +52,18 @@
 
           <div id="facets">
             <div class="accordion" id="category" mt:expanded-class="hasSelection">
-              <div class="title">Category</div>
+              <div class="title">Article Category</div>
               <ul>
                 <li mt:repeating="cat" replace:data-q="{mt:q}" mt:selected-class="on">
+                  <div class="name"  mt:field="name"></div>
+                  <div class="count" mt:field="count"></div>
+                </li>
+              </ul>
+            </div>
+            <div class="accordion" id="category" mt:expanded-class="hasSelection">
+              <div class="title">Types of organizations mentioned</div>
+              <ul>
+                <li mt:repeating="org" replace:data-q="{mt:q}" mt:selected-class="on">
                   <div class="name"  mt:field="name"></div>
                   <div class="count" mt:field="count"></div>
                 </li>

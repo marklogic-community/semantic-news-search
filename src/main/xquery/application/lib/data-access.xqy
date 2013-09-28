@@ -20,31 +20,28 @@ declare variable $options :=
   <options xmlns="http://marklogic.com/appservices/search">
     <additional-query>{cts:collection-query("http://www.bbc.co.uk/news/content")}</additional-query>
 
-    <!-- This custom constraint uses SPARQL to expand the given query terms -->
-    <constraint name="org">
-      <custom facet="false">
-        <parse apply="parse" ns="http://marklogic.com/sem-app/org-constraint"
-                             at="/lib/org-constraint.xqy" />
-      </custom>
-    </constraint>
+    <!-- Both of the constraints below use a combination query to find
+         documents in a category represented by OpenCalais-supplied triples.
 
-    <!-- This constraint uses a combination query to find documents
-         in a category represented by OpenCalais-supplied triples.
+         They use field (path) range indexes to facet on the RDF values.
+    -->
+    {
+      ("cat","org") !
+      <constraint name="{.}">
+        <custom facet="true">
+          <fragment-scope>properties</fragment-scope>
+          <parse        apply="parse"  ns="http://marklogic.com/sem-app/facet-lib" at="/lib/facet-lib.xqy"/>
+          <start-facet  apply="start"  ns="http://marklogic.com/sem-app/facet-lib" at="/lib/facet-lib.xqy"/>
+          <finish-facet apply="finish" ns="http://marklogic.com/sem-app/facet-lib" at="/lib/facet-lib.xqy"/>
+        </custom>
+      </constraint>
+    }
 
-         And it uses a field (path) range index to facet on the RDF values. -->
-    <constraint name="cat">
-      <custom facet="true">
-        <fragment-scope>properties</fragment-scope>
-        <parse        apply="parse"  ns="http://marklogic.com/sem-app/cat-constraint" at="/lib/cat-constraint.xqy"/>
-        <start-facet  apply="start"  ns="http://marklogic.com/sem-app/cat-constraint" at="/lib/cat-constraint.xqy"/>
-        <finish-facet apply="finish" ns="http://marklogic.com/sem-app/cat-constraint" at="/lib/cat-constraint.xqy"/>
-      </custom>
-    </constraint>
+    <!-- Expand the result highlighting by expanding the query via SPARQL -->
+    <transform-results apply="expanded-snippet"
+                       ns="http://marklogic.com/sem-app/snippet"
+                       at="/lib/snippet.xqy"/>
 
-    <transform-results apply="snippet"/>
-    <extract-metadata>
-      <qname elem-ns="http://www.w3.org/1999/xhtml" elem-name="title"/>
-    </extract-metadata>
     <return-query>true</return-query>
   </options>;
 
@@ -84,4 +81,3 @@ declare private function data:start-index($page-length as xs:integer,
 declare function data:highlight($node) {
   cts:highlight($node, data:matchesAnyQuery($ctsQuery), <strong>{$cts:text}</strong>)
 };
-

@@ -28,7 +28,7 @@
   <!-- These are lazily evaluated -->
   <xsl:variable name="results" select="data:get('results')"/>
 
-  <xsl:variable name="facet-names" select="('cat')"/>
+  <xsl:variable name="facet-names" select="('cat','org')"/>
 
   <!-- Total result count -->
   <xsl:template match="mt:result-count">
@@ -196,7 +196,7 @@
 
           <xsl:template mode="result-field" match="@*[. eq 'title']">
             <xsl:param name="data" tunnel="yes"/>
-            <xsl:copy-of select="data:highlight($data/search:metadata/xhtml:title)/node()"/>
+            <xsl:copy-of select="data:highlight(doc($data/@uri)//xhtml:title)/node()"/>
           </xsl:template>
 
           <xsl:template mode="result-field" match="@*[. eq 'excerpt']">
