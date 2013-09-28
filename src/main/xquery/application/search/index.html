@@ -40,7 +40,11 @@
             <div id="results">
               <ul>
                 <li mt:repeating="result" replace:data-id="{mt:id}">
-                  <div class="title" mt:field="title"></div>
+                  <div>
+                    <a replace:href="{mt:articleLink}">
+                      <span class="title" mt:field="title"></span>
+                    </a>
+                  </div>
                   <div class="excerpt" mt:field="excerpt"></div>
                 </li>
               </ul>

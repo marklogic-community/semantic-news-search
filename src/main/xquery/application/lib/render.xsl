@@ -238,12 +238,16 @@
   </xsl:template>
 
           <!-- Replace {mt:q} with the $q link value of the modified search -->
-          <xsl:template mode="var-value" match="*[@mt:repeating = $facet-names]">
+          <xsl:template mode="var-value" match="*"> <!--[@mt:repeating = $facet-names]">-->
             <xsl:param name="var-name"/>
             <xsl:param name="data" tunnel="yes"/>
             <xsl:choose>
               <xsl:when test="$var-name eq 'q'">
                 <xsl:apply-templates mode="search-q" select="$data"/>
+              </xsl:when>
+              <!-- Article link -->
+              <xsl:when test="$var-name eq 'articleLink'">
+                <xsl:value-of select="doc($data/@uri)/*:html/*:head/@resource"/>
               </xsl:when>
             </xsl:choose>
           </xsl:template>
