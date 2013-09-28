@@ -63,6 +63,10 @@
 
     <!-- Process the corresponding config children -->
     <xsl:apply-templates mode="infobox" select="$infobox-configs[@type is $infobox-type]/*"/>
+
+    <xsl:if test="$infobox:data/*">
+      <p><a href="/search/infobox.xqy?q={$data:q}&amp;format=xml">View RDF triples</a></p>
+    </xsl:if>
   </xsl:template>
 
           <!-- Render property lists as definition lists -->
