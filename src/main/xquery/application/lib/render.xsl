@@ -30,6 +30,18 @@
 
   <xsl:variable name="facet-names" select="('cat','org')"/>
 
+  <!-- Show the query used to find these results -->
+  <xsl:template match="mt:query-used">
+    <!-- show the query as XML
+    <xsl:variable name="query-doc">
+      <xsl:copy-of select="$data:ctsQuery"/>
+    </xsl:variable>
+    <xsl:value-of select="xdmp:quote($query-doc/*)"/>
+    -->
+    <!-- Show the query constructors -->
+    <xsl:value-of select="$data:ctsQuery"/>
+  </xsl:template>
+
   <!-- Total result count -->
   <xsl:template match="mt:result-count">
     <xsl:value-of select="$results/@total"/>
@@ -258,10 +270,35 @@
             <xsl:variable name="selected" select="my:is-constraint-selected(.)"/>
             <xsl:variable name="this-constraint" select="my:this-constraint(.)"/>
 
-            <xsl:variable name="new-q" select="if ($selected) then my:remove-constraints($data:q, $this-constraint, $data:options)
+            <!-- CHANGEME delete this element -->
+            <xsl:variable name="new-q" select="if ($selected) then search:remove-constraint($data:q, $this-constraint, $workaround-options)
                                                               else concat($data:q,' ', $this-constraint)"/>
+            <!-- CHANGEME un-comment this element
+            <xsl:variable name="new-q" select="if ($selected) then search:remove-constraint($data:q, $this-constraint, $data:options)
+                                                              else concat($data:q,' ', $this-constraint)"/>
+            -->
             <xsl:value-of select="encode-for-uri($new-q)"/>
           </xsl:template>
+
+
+                  <!-- CHANGEME delete this cluster of elements -->
+                  <xsl:variable name="workaround-options" as="element()">
+                    <xsl:apply-templates mode="workaround-options" select="$data:options"/>
+                  </xsl:variable>
+                          <xsl:template mode="workaround-options" match="search:custom/@facet | search:start-facet | search:finish-facet"/>
+                          <xsl:template mode="workaround-options" match="search:parse/@ns">
+                            <xsl:attribute name="ns" select="'http://marklogic.com/sem-app/workaround'"/>
+                          </xsl:template>
+                          <xsl:template mode="workaround-options" match="search:parse/@at">
+                            <xsl:attribute name="at" select="'/lib/workaround-lib.xqy'"/>
+                          </xsl:template>
+                          <xsl:template mode="workaround-options" match="@* | node()">
+                            <xsl:copy>
+                              <xsl:apply-templates mode="#current" select="@* | node()"/>
+                            </xsl:copy>
+                          </xsl:template>
+
+
 
                   <xsl:function name="my:this-constraint" as="xs:string">
                     <xsl:param name="fv" as="element(search:facet-value)"/>
@@ -279,12 +316,14 @@
 
                   <xsl:function name="my:current-constraints" as="xs:string*">
                     <xsl:param name="response" as="element(search:response)"/>
-                    <xsl:variable name="constraint-text"
-                                  select="for $c in $response/search:query//@qtextpre[contains(.,':')]/..
+                    <xsl:variable name="constraints"
+                                  select="$response/search:query//@qtextconst/string(),
+
+                                          for $c in $response/search:query//@qtextpre[contains(.,':')]/..
                                           return string-join(($c//@qtextpre,
                                                               $c/*:value,
                                                               $c//@qtextpost),'')"/>
-                    <xsl:sequence select="$constraint-text"/>
+                    <xsl:sequence select="$constraints"/>
                   </xsl:function>
 
                   <!-- Remove constraints recursively, in case someone tries to enter two constraints -->
@@ -292,6 +331,7 @@
                     <xsl:param name="q" as="xs:string"/>
                     <xsl:param name="constraints" as="xs:string*"/>
                     <xsl:param name="options" as="element(search:options)"/>
+<xsl:value-of select="xdmp:log(concat('removing: ',$constraints))"/>
                     <xsl:choose>
                       <xsl:when test="not($constraints)">
                         <xsl:sequence select="$q"/>

@@ -33,14 +33,18 @@ declare function facet:parse(
 as schema-element(cts:query)
 {
   let $facet-name := substring-before($constraint-qtext,':'),
-      $prop-name := if ($facet-name eq 'cat') then 'categoryName'
-               else if ($facet-name eq 'org') then 'organizationtype'
-               else ()
+      $prop-value := string($right),
+      $prop-name  := if ($facet-name eq 'cat') then 'categoryName'
+                else if ($facet-name eq 'org') then 'organizationtype'
+                else (),
+      $delim := if (contains($prop-value,' ')) then '"' else ''
   return
-    cts:properties-query(
-      cts:triple-range-query((), sem:iri("http://s.opencalais.com/1/pred/"||$prop-name), string($right))
-    )
-    ! <_>{.}</_>/* (: return as XML :)
+
+    <cts:properties-query qtextconst="{$facet-name}:{$delim}{$prop-value}{$delim}">
+    {
+      cts:triple-range-query((), sem:iri("http://s.opencalais.com/1/pred/"||$prop-name), $prop-value)
+    }
+    </cts:properties-query>
 };
 
 

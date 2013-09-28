@@ -2,7 +2,8 @@
 
 #infobox img { width: 100% }
 
-#results ul {
+#results ul,
+#facets ul {
   list-style-type: none;
 }
 
@@ -11,4 +12,10 @@
   padding: 10px;
   margin: 0 -8px;
 
+}
+
+#facets li.on a {
+	color:#fff;
+	background:#369;
+	text-decoration:none;
 }

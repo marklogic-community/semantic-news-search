@@ -3,6 +3,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <title>Semantic News Search: Results</title>
+  <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
   <link id="stylesheet" type="text/css" rel="stylesheet" href="/css/style.css"/>
 </head>
 
@@ -12,7 +13,7 @@
 
     <div id="searchbar">
       <form id="search" action="/search/" method="get">
-        <input type="text" placeholder="SEARCH" name="q" mt:value="" id="search"/>
+        <input type="text" placeholder="SEARCH" name="q" mt:value="" id="searchbox"/>
         <input type="submit" value="Search"/>
       </form>
 
@@ -37,6 +38,8 @@
         <div class="col1">
 
           <div mt:page-region="results" id="resultsPane">
+            <div>Query used:</div>
+            <tt><mt:query-used/></tt>
             <div id="results">
               <ul>
                 <li mt:repeating="result" replace:data-id="{mt:id}">
@@ -49,27 +52,32 @@
                 </li>
               </ul>
             </div>
+            <p><a href="#" onclick="window.location = '/search/results.xqy?format=xml&amp;q='+$('#searchbox').val();">View XML results</a></p>
           </div>
 
         </div>
         <div class="col2">
 
           <div id="facets">
-            <div class="accordion" id="category" mt:expanded-class="hasSelection">
+            <div class="accordion" id="categories">
               <div class="title">Article Category</div>
               <ul>
                 <li mt:repeating="cat" replace:data-q="{mt:q}" mt:selected-class="on">
-                  <div class="name"  mt:field="name"></div>
-                  <div class="count" mt:field="count"></div>
+                  <a replace:href="/search/?q={mt:q}">
+                    <span class="name" mt:field="name"></span> 
+                  </a>
+                  (<span class="count" mt:field="count"></span>)
                 </li>
               </ul>
             </div>
-            <div class="accordion" id="category" mt:expanded-class="hasSelection">
+            <div class="accordion" id="orgtypes">
               <div class="title">Types of organizations mentioned</div>
               <ul>
                 <li mt:repeating="org" replace:data-q="{mt:q}" mt:selected-class="on">
-                  <div class="name"  mt:field="name"></div>
-                  <div class="count" mt:field="count"></div>
+                  <a replace:href="/search/?q={mt:q}">
+                    <span class="name" mt:field="name"></span> 
+                  </a>
+                  (<span class="count" mt:field="count"></span>)
                 </li>
               </ul>
             </div>
