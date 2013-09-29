@@ -15,19 +15,23 @@ declare variable $q := xdmp:get-request-field("q","");
 (: The desired page number :)
 declare private variable $p := xs:integer(xdmp:get-request-field("p","1"));
 
+(: Where all the facets are configured :)
+declare variable $facet-configs :=
+  xdmp:document-get(xdmp:modules-root()||"config/facets.xml")/facets/facet;
+
 (: Options node for the Search API :)
 declare variable $options :=
   <options xmlns="http://marklogic.com/appservices/search">
     <additional-query>{cts:collection-query("http://www.bbc.co.uk/news/content")}</additional-query>
 
-    <!-- Both of the constraints below use a combination query to find
-         documents in a category represented by OpenCalais-supplied triples.
+    <!-- Each constraint below uses a combination query to find documents with
+         an associated property represented by OpenCalais-supplied triples.
 
          They use field (path) range indexes to facet on the RDF values.
     -->
     {
-      ("cat","org") !
-      <constraint name="{.}">
+      $facet-configs !
+      <constraint name="{@name}">
         <custom facet="true">
           <fragment-scope>properties</fragment-scope>
           <parse        apply="parse"  ns="http://marklogic.com/sem-app/facet-lib" at="/lib/facet-lib.xqy"/>

@@ -1,4 +1,4 @@
-(: This module implements the "cat" and "org" custom constraints.
+(: This module implements the triples-based custom constraints.
 
    If you type "cat:Sports" for example, it will use a
    triple-range-query to find all documents in the "Sports"
@@ -9,8 +9,9 @@
    document's properties fragment.
 
    We also facet on these values through the use of
-   a path range index, named via the "category" and "orgtype"
-   field definitions.
+   path range indexes.
+
+   All facets are configured in application/config/facets.xml
 :)
 xquery version "1.0-ml";
 
@@ -18,6 +19,9 @@ module namespace facet = "http://marklogic.com/sem-app/facet-lib";
 
 import module namespace search = "http://marklogic.com/appservices/search"
        at "/MarkLogic/appservices/search/search.xqy";
+
+import module namespace data = "http://marklogic.com/sem-app/data"
+       at "/lib/data-access.xqy";
 
 declare default function namespace "http://www.w3.org/2005/xpath-functions";
 
@@ -32,17 +36,15 @@ declare function facet:parse(
   $right as schema-element(cts:query))
 as schema-element(cts:query)
 {
-  let $facet-name := substring-before($constraint-qtext,':'),
-      $prop-value := string($right),
-      $prop-name  := if ($facet-name eq 'cat') then 'categoryName'
-                else if ($facet-name eq 'org') then 'organizationtype'
-                else (),
-      $delim := if (contains($prop-value,' ')) then '"' else ''
+  let $facet-name   := substring-before($constraint-qtext,':'),
+      $rdf-property := $data:facet-configs[@name eq $facet-name]/@rdf-property/string(),
+      $prop-value   := string($right),
+      $delim        := if (contains($prop-value,' ')) then '"' else ''
   return
 
     <cts:properties-query qtextconst="{$facet-name}:{$delim}{$prop-value}{$delim}">
     {
-      cts:triple-range-query((), sem:iri("http://s.opencalais.com/1/pred/"||$prop-name), $prop-value)
+      cts:triple-range-query((), sem:iri($rdf-property), $prop-value)
     }
     </cts:properties-query>
 };
@@ -60,9 +62,8 @@ declare function facet:start(
 as item()*
 {
   let $facet-name := $constraint/@name,
-      $index-name := if ($facet-name eq 'cat') then 'category'
-                else if ($facet-name eq 'org') then 'orgtype'
-                else ()
+      $index-name := $data:facet-configs[@name eq $facet-name]/@index-name/string()
+
   for $val in cts:field-values($index-name, (), ($facet-options, "concurrent"), $query, $quality-weight, $forests)
   return
     <value name="{$val}" count="{cts:frequency($val)}"/>

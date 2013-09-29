@@ -42,7 +42,7 @@
             <tt><mt:query-used/></tt>
             <div id="results">
               <ul>
-                <li mt:repeating="result" replace:data-id="{mt:id}">
+                <li mt:repeating="result">
                   <div>
                     <a replace:href="{mt:articleLink}">
                       <span class="title" mt:field="title"></span>
@@ -59,21 +59,10 @@
         <div class="col2">
 
           <div id="facets">
-            <div class="accordion" id="categories">
-              <div class="title">Article Category</div>
+            <div mt:repeating="facet">
+              <div class="title" mt:field="facet-display"></div>
               <ul>
-                <li mt:repeating="cat" replace:data-q="{mt:q}" mt:selected-class="on">
-                  <a replace:href="/search/?q={mt:q}">
-                    <span class="name" mt:field="name"></span> 
-                  </a>
-                  (<span class="count" mt:field="count"></span>)
-                </li>
-              </ul>
-            </div>
-            <div class="accordion" id="orgtypes">
-              <div class="title">Types of organizations mentioned</div>
-              <ul>
-                <li mt:repeating="org" replace:data-q="{mt:q}" mt:selected-class="on">
+                <li mt:repeating="facet-value" replace:data-q="{mt:q}" mt:selected-class="on">
                   <a replace:href="/search/?q={mt:q}">
                     <span class="name" mt:field="name"></span> 
                   </a>
@@ -98,9 +87,6 @@
   <div id="footer">
     <p>This sample application illustrates MarkLogic 7's new semantic search capabilities.</p>
   </div>
-
-
-
 
 </body>
 </html>

@@ -28,8 +28,6 @@
   <!-- These are lazily evaluated -->
   <xsl:variable name="results" select="data:get('results')"/>
 
-  <xsl:variable name="facet-names" select="('cat','org')"/>
-
   <!-- Show the query used to find these results -->
   <xsl:template match="mt:query-used">
     <!-- show the query as XML
@@ -153,8 +151,9 @@
 
   <!-- Render repeating items -->
   <xsl:template match="*[@mt:repeating]" priority="1">
+    <xsl:param name="data" tunnel="yes"/>
     <xsl:variable name="html-prototype" select="."/>
-    <xsl:for-each select="my:data-elements(@mt:repeating)">
+    <xsl:for-each select="my:data-elements(@mt:repeating, $data)">
       <xsl:apply-templates mode="repeating" select="$html-prototype">
         <xsl:with-param name="data" select="." tunnel="yes"/>
         <xsl:with-param name="pos"  select="position()" tunnel="yes"/>
@@ -167,8 +166,10 @@
 
           <xsl:function name="my:data-elements">
             <xsl:param name="item-name" as="xs:string"/>
+            <xsl:param name="parent-data" as="item()*"/>
             <xsl:sequence select="if ($item-name eq 'result')         then $results/search:result
-                             else if ($item-name = $facet-names)      then my:facet-values($results, $item-name)
+                             else if ($item-name eq 'facet')          then $data:facet-configs
+                             else if ($item-name eq 'facet-value')    then my:facet-values($results, $parent-data/@name)
                              else ()"/>
           </xsl:function>
 
@@ -183,9 +184,16 @@
           </xsl:template>
 
 
+  <xsl:template mode="content" match="*[@mt:repeating eq 'facet']
+                                    //*[@mt:field     eq 'facet-display']">
+    <xsl:param name="data" tunnel="yes"/>
+    <xsl:value-of select="$data/@display"/>
+  </xsl:template>
+
   <!-- Render facet fields -->
-  <xsl:template mode="content" match="*[@mt:repeating = $facet-names]
-                                       //*[@mt:field]">
+  <xsl:template mode="content" match="*[@mt:repeating eq 'facet-value']
+                                       //*[@mt:field]"
+                               priority="1">
     <xsl:apply-templates mode="facet-field" select="@mt:field"/>
   </xsl:template>
 
@@ -250,7 +258,7 @@
   </xsl:template>
 
           <!-- Replace {mt:q} with the $q link value of the modified search -->
-          <xsl:template mode="var-value" match="*"> <!--[@mt:repeating = $facet-names]">-->
+          <xsl:template mode="var-value" match="*">
             <xsl:param name="var-name"/>
             <xsl:param name="data" tunnel="yes"/>
             <xsl:choose>

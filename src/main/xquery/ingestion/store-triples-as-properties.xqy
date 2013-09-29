@@ -1,10 +1,8 @@
-(: This script copies all the article category triples
+(: This script copies all the facet-related triples
    associated with each document to that document's
    properties fragment.
 
    This effectively enables us to facet on RDF data.
-
-   This script is idempotent (safe to run more than once).
 
    NOTE: it will overwrite the document's properties,
    so the assumption is that no other properties
@@ -17,61 +15,46 @@ import module namespace sem="http://marklogic.com/semantics"
 
 declare option xdmp:mapping "false";
 
-declare private variable $sparql-prefixes :=
-"
-  PREFIX c:   <http://s.opencalais.com/1/pred/>
-  PREFIX e:   <http://s.opencalais.com/1/type/em/e/>
-  PREFIX owl: <http://www.w3.org/2002/07/owl#>
-";
+(: Get all the facet info from our application config :)
+declare variable $facet-configs :=
+  xdmp:document-get(xdmp:modules-root()||"application/config/facets.xml")
+  /facets/facet;
 
-(: Use SPARQL to find the specific triples we're interested in. :)
-declare function local:category-triples($doc-id) {
-  sem:sparql($sparql-prefixes||"
+(: For the given document id, run the SPARQL query
+   associated with each configured facet, binding
+   the $facetProperty and $docId variables (effectively,
+   via regex-replacement, which performs much better).
+:)
+declare function local:triples($doc-id) {
+  $facet-configs !
+  (
+    let $sparql-src :=
+      if (sparql)
+      then sparql
+      else let $id := @sparql-idref
+           return //sparql[@id eq $id]
 
-    CONSTRUCT {
-      ?DocCat c:categoryName ?cat .
-    }
-    FROM <http://www.bbc.co.uk/news/graph>
-    WHERE {
-     ?DocInfo owl:sameAs <"||$doc-id||"> .
-     ?DocCat c:docId ?DocInfo ;
-             c:categoryName ?cat .
-    }
+    let $sparql := ../sparql-prefixes||$sparql-src
+    let $sparql := replace($sparql,"\$facetProperty","<"||@rdf-property||">")
+    let $sparql := replace($sparql,"\$docId",        "<"||$doc-id||">")
 
-  ")
+    return
+      sem:sparql($sparql)
+  )
 };
 
-declare function local:orgtype-triples($doc-id) {
-  sem:sparql($sparql-prefixes||"
-
-    CONSTRUCT {
-      ?org c:organizationtype ?orgtype .
-    }
-    FROM <http://www.bbc.co.uk/news/graph>
-    WHERE {
-      ?DocInfo owl:sameAs <"||$doc-id||"> .
-
-      ?RelevanceInfo c:docId ?DocInfo ;
-                     c:subject ?org .
-
-      ?org a e:Organization ;
-           c:organizationtype ?orgtype .
-    }
-
-  ")
-};
 
 (: For each document in the collection... :)
-collection("http://www.bbc.co.uk/news/content")[3] !
+collection("http://www.bbc.co.uk/news/content") !
 (
   let $uri     := document-uri(.),
       $doc-id  := /*:html/*:head/@resource/string(),
-      $triples := (local:category-triples($doc-id),
-                   local:orgtype-triples($doc-id)),
+      $triples := local:triples($doc-id),
       $xml     := sem:rdf-serialize($triples,"triplexml")
   return
     (: Load the triples into the properties fragment :)
     ( xdmp:log("Setting properties for ("||position()||" of "||last()||") "||$uri),
+      (:xdmp:log(xdmp:quote($xml)),:)
       xdmp:document-set-properties($uri, $xml)
     )
 )

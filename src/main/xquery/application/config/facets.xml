@@ -1,0 +1,93 @@
+<!-- This file centralizes the configuration of triples-based
+     facets, including all aspects from loading the relevant triples
+     into document properties, to creating the needed indexes, to
+     rendering the facet names, to configuring which queries
+     can be expanded.
+-->
+<facets>
+  <facet name="cat"
+         display="Article Category"
+         index-name="category"
+         type="string"
+         collation="http://marklogic.com/collation/"
+         rdf-property="http://s.opencalais.com/1/pred/categoryName">
+
+    <!-- What triples to store with the document properties.
+         This SPARQL query will get run once for each document
+         (at build time). -->
+    <sparql><![CDATA[
+
+      CONSTRUCT {
+        ?DocCat $facetProperty ?cat .
+      }
+      FROM <http://www.bbc.co.uk/news/graph>
+      WHERE {
+       ?DocInfo owl:sameAs $docId .
+       ?DocCat c:docId ?DocInfo ;
+               $facetProperty ?cat .
+      }
+    
+    ]]></sparql>
+  </facet>
+
+  <facet name="org"
+         display="Types of organizations mentioned"
+         index-name="orgtype"
+         type="string"
+         collation="http://marklogic.com/collation/"
+         rdf-property  ="http://s.opencalais.com/1/pred/organizationtype"
+         expandable-via="http://s.opencalais.com/1/pred/name">
+
+    <sparql id="relevance-based"><![CDATA[
+
+      CONSTRUCT {
+        ?thing $facetProperty ?thingtype .
+      }
+      FROM <http://www.bbc.co.uk/news/graph>
+      WHERE {
+        ?DocInfo owl:sameAs $docId .
+
+        ?RelevanceInfo c:docId ?DocInfo ;
+                       c:subject ?thing .
+
+        ?thing $facetProperty ?thingtype .
+      }
+
+    ]]></sparql>
+  </facet>
+
+  <facet name="product"
+         display="Product types mentioned"
+         index-name="producttype"
+         type="string"
+         collation="http://marklogic.com/collation/"
+         rdf-property  ="http://s.opencalais.com/1/pred/producttype"
+         expandable-via="http://s.opencalais.com/1/pred/name"
+         sparql-idref="relevance-based"/>
+
+  <facet name="person"
+         display="Types of people mentioned"
+         index-name="persontype"
+         type="string"
+         collation="http://marklogic.com/collation/"
+         rdf-property  ="http://s.opencalais.com/1/pred/persontype"
+         expandable-via="http://s.opencalais.com/1/pred/name"
+         sparql-idref="relevance-based"/>
+
+  <facet name="event"
+         display="Types of political events mentioned"
+         index-name="politicaleventtype"
+         type="string"
+         collation="http://marklogic.com/collation/"
+         rdf-property  ="http://s.opencalais.com/1/pred/politicaleventtype"
+         expandable-via="http://s.opencalais.com/1/pred/name"
+         sparql-idref="relevance-based"/>
+
+  <sparql-prefixes><![CDATA[
+
+    PREFIX c:   <http://s.opencalais.com/1/pred/>
+    PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+  ]]></sparql-prefixes>
+
+</facets>

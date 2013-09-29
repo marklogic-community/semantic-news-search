@@ -23,16 +23,12 @@ import module namespace sem = "http://marklogic.com/semantics"
 import module namespace search = "http://marklogic.com/appservices/search"
        at "/MarkLogic/appservices/search/search.xqy";
 
+import module namespace data = "http://marklogic.com/sem-app/data"
+       at "/lib/data-access.xqy";
+
 declare default function namespace "http://www.w3.org/2005/xpath-functions";
 
 declare option xdmp:mapping "false";
-
-
-(: The properties that will trigger a query expansion. So far we just have one. :)
-declare private variable $props-to-expand := ("http://s.opencalais.com/1/pred/organizationtype");
-
-(: The property that signifies the name of each instance :)
-declare private variable $instance-name-prop := "http://s.opencalais.com/1/pred/name";
 
 
 (: This is the function that the Search API calls to retrieve
@@ -54,12 +50,14 @@ declare function snip:expanded-snippet(
    expandable predicates appear in the original.
 :)
 declare function snip:expand($query) {
-  let $triple-constraints := $query//cts:triple-range-query
-                                     [cts:predicate = $props-to-expand],
-
-      $word-queries := $triple-constraints
-                     ! snip:instances(cts:predicate, cts:object)
-                     ! cts:word-query(.)
+  let $word-queries :=
+    for $facet in $data:facet-configs[@expandable-via]
+    let $triple-constraints := $query//cts:triple-range-query
+                                     [cts:predicate = $facet/@rdf-property]
+    return
+        $triple-constraints
+      ! snip:instances(cts:predicate, cts:object, $facet/@expandable-via)
+      ! cts:word-query(.)
   return
     <cts:or-query>
       {$query, $word-queries}
@@ -71,13 +69,13 @@ declare function snip:expand($query) {
    instance names (e.g. "Free Syrian Army") for the given
    facet value (e.g. org:"governmental military").
 :)
-declare function snip:instances($facet, $value) {
+declare function snip:instances($facet, $value, $expand-prop) {
   sem:sparql("
 
     SELECT DISTINCT ?instanceName
     WHERE {
       ?instance <"||$facet||"> '"||$value||"' ;
-                <"||$instance-name-prop||"> ?instanceName .
+                <"||$expand-prop||"> ?instanceName .
     }
 
   ")
