@@ -49,6 +49,12 @@
                     </a>
                   </div>
                   <div class="excerpt" mt:field="excerpt"></div>
+                  <div class="categories">
+                    <span>Categories: </span>
+                    <span mt:repeating="category" mt:selected-class="category_on">
+                      <a replace:href="/search/?q={mt:q}" mt:field="name"></a>
+                    </span>
+                  </div>
                 </li>
               </ul>
             </div>

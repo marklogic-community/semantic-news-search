@@ -7,6 +7,9 @@ import module namespace search = "http://marklogic.com/appservices/search"
 import module namespace infobox = "http://marklogic.com/sem-app/infobox"
     at "/lib/infobox.xqy";
 
+import module namespace meta = "http://marklogic.com/sem-app/metadata"
+    at "/lib/metadata.xqy";
+
 declare default function namespace "http://www.w3.org/2005/xpath-functions";
 
 (: The string query :)
@@ -64,12 +67,15 @@ declare function data:matchesAnyQuery($baseQuery as cts:query) as cts:query {
 declare private variable $page-length := 10;
 
 declare function data:get($region) {
-       if ($region eq 'results') then data:results($q, $p)
+       if ($region eq 'results') then $data:results
   else if ($region eq 'infobox') then $infobox:data
   else ()
 };
 
+declare variable $data:results := data:results($q,$p);
+
 declare function data:results($q,$p) {
+xdmp:log(xdmp:quote($options)),
   search:search($q,
                 $options,
                 data:start-index($page-length,$p),
@@ -84,4 +90,15 @@ declare private function data:start-index($page-length as xs:integer,
 
 declare function data:highlight($node) {
   cts:highlight($node, data:matchesAnyQuery($ctsQuery), <strong>{$cts:text}</strong>)
+};
+
+(: Get the metadata to display for a given document :)
+(:
+declare function data:metadata($uri) {
+  meta:data($uri)
+};
+:)
+
+declare function data:categories($uri) {
+  meta:categories($uri, $results)
 };

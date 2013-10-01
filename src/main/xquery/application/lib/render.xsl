@@ -170,6 +170,8 @@
             <xsl:sequence select="if ($item-name eq 'result')         then $results/search:result
                              else if ($item-name eq 'facet')          then $data:facet-configs
                              else if ($item-name eq 'facet-value')    then my:facet-values($results, $parent-data/@name)
+                             else if ($item-name eq 'category')       then data:categories($parent-data/@uri)
+(:                             else if ($item-name eq 'metadata')       then data:metadata($parent-data/@uri) :)
                              else ()"/>
           </xsl:function>
 
@@ -192,50 +194,58 @@
 
   <!-- Render facet fields -->
   <xsl:template mode="content" match="*[@mt:repeating eq 'facet-value']
-                                       //*[@mt:field]"
-                               priority="1">
-    <xsl:apply-templates mode="facet-field" select="@mt:field"/>
+                                    //*[@mt:field     eq 'count']">
+    <xsl:param name="data" tunnel="yes"/>
+    <xsl:value-of select="$data/@count"/>
   </xsl:template>
 
-          <xsl:template mode="facet-field" match="@*[. eq 'count']">
-            <xsl:param name="data" tunnel="yes"/>
-            <xsl:value-of select="$data/@count"/>
-          </xsl:template>
+  <xsl:template mode="content" match="*[@mt:repeating eq 'facet-value']
+                                    //*[@mt:field     eq 'name']">
+    <xsl:param name="data" tunnel="yes"/>
+    <xsl:value-of select="$data"/>
+  </xsl:template>
 
-          <xsl:template mode="facet-field" match="@*[. eq 'name']">
-            <xsl:param name="data" tunnel="yes"/>
-            <xsl:value-of select="$data"/>
-          </xsl:template>
+  <xsl:template mode="content" match="*[@mt:repeating eq 'category']
+                                    //*[@mt:field     eq 'name']">
+    <xsl:param name="data" tunnel="yes"/>
+    <xsl:value-of select="$data"/>
+  </xsl:template>
 
 
 
   <!-- Render result fields -->
-  <xsl:template mode="content" match="*[@mt:repeating eq 'result']//*[@mt:field]">
-    <xsl:apply-templates mode="result-field" select="@mt:field"/>
+  <xsl:template mode="content" match="*[@mt:repeating eq 'result']
+                                    //*[@mt:field     eq 'title']">
+    <xsl:param name="data" tunnel="yes"/>
+    <xsl:copy-of select="data:highlight(doc($data/@uri)//xhtml:title)/node()"/>
   </xsl:template>
 
-          <xsl:template mode="result-field" match="@*[. eq 'title']">
-            <xsl:param name="data" tunnel="yes"/>
-            <xsl:copy-of select="data:highlight(doc($data/@uri)//xhtml:title)/node()"/>
+  <xsl:template mode="content" match="*[@mt:repeating eq 'result']
+                                    //*[@mt:field     eq 'excerpt']">
+    <xsl:param name="data" tunnel="yes"/>
+    <xsl:apply-templates mode="snippet" select="$data/search:snippet"/>
+  </xsl:template>
+
+          <xsl:template mode="snippet" match="search:match">
+            <xsl:if test="preceding-sibling::search:match and not(starts-with(.,'...'))">...</xsl:if>
+            <span>
+              <xsl:apply-templates mode="#current"/>
+            </span>
           </xsl:template>
 
-          <xsl:template mode="result-field" match="@*[. eq 'excerpt']">
-            <xsl:param name="data" tunnel="yes"/>
-            <xsl:apply-templates mode="snippet" select="$data/search:snippet"/>
+          <xsl:template mode="snippet #default" match="search:highlight">
+            <strong>
+              <xsl:apply-templates mode="#current"/>
+            </strong>
           </xsl:template>
 
-                  <xsl:template mode="snippet" match="search:match">
-                    <xsl:if test="preceding-sibling::search:match and not(starts-with(.,'...'))">...</xsl:if>
-                    <span>
-                      <xsl:apply-templates mode="#current"/>
-                    </span>
-                  </xsl:template>
 
-                  <xsl:template mode="snippet #default" match="search:highlight">
-                    <strong>
-                      <xsl:apply-templates mode="#current"/>
-                    </strong>
-                  </xsl:template>
+  <!--
+  <xsl:template match="mt:result-metadata">
+    <xsl:param name="data" tunnel="yes"/>
+    <xsl:value-of select="xdmp:quote($data)"/>
+  </xsl:template>
+  -->
 
 
 
@@ -273,6 +283,9 @@
           </xsl:template>
 
 
+          <xsl:template mode="search-q" match="category">
+            <xsl:apply-templates mode="search-q" select="my:facet-values($results, 'cat')[@name eq current()]"/>
+          </xsl:template>
 
           <xsl:template mode="search-q" match="search:facet-value">
             <xsl:variable name="selected" select="my:is-constraint-selected(.)"/>

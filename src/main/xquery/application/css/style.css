@@ -14,8 +14,25 @@
 
 }
 
-#facets li.on a {
+.on a {
 	color:#fff;
 	background:#369;
 	text-decoration:none;
+}
+
+.categories a {
+  /*
+  text-decoration: none;
+  */
+}
+.category_on a {
+	/*color:#fff;*/
+  /*
+  font-weight: bold;
+  */
+	text-decoration:none;
+
+  /* For now, disable "turn off this facet" from here; non-intuitive */
+  pointer-events: none;
+  cursor: default;
 }
