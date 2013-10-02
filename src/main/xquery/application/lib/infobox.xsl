@@ -100,6 +100,11 @@
                     </dd>
                   </xsl:template>
 
+                          <!-- Render just the last part of IRIs that appear as objects -->
+                          <xsl:template mode="render-object" match="sem:object[not(@*)]">
+                            <xsl:value-of select="translate(tokenize(.,'/')[last()],'_',' ')"/>
+                          </xsl:template>
+
                           <!-- The "year" format doesn't always appear as advertised (might include a full dateTime) -->
                           <xsl:template mode="render-object" match="sem:object[@datatype eq '&xs;gYear']">
                             <xsl:value-of select="substring(.,1,4)"/> 
