@@ -46,6 +46,6 @@ return
   $entities
 ! map:get(., "s")
 ! concat(., ".rdf")
-! (try { (xdmp:log(concat("Loading ",.)),
+! (try { (xdmp:log(concat("Loading ",.))),
           sem:rdf-load(., ("rdfxml","graph=http://marklogic.com/sem-app/sameAsLinks")) }
    catch($e) {xdmp:log($e)})
