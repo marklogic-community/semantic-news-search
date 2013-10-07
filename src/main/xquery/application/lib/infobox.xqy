@@ -26,51 +26,45 @@ declare option xdmp:mapping "false";
    Instead, allow it to match anything the user types. :)
 declare private variable $infobox:query := data:matchesAnyQuery(cts:query(search:parse($data:q)));
 
-(: Use SPARQL to get a list of all candidate resources, based on the resource types we support :)
-declare private variable $infobox:candidate-resource-iris as xs:string* :=
-  sem:sparql("
- 
+(: Use SPARQL to find all the resources among the object types we support
+   for infoboxes, i.e. companies and countries, whose name matches one of the
+   user's query terms. :)
+declare private variable $infobox:matching-infobox-iris as sem:iri* :=
+  let $sparql := "
+
+    PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+    PREFIX cts: <http://marklogic.com/cts#>
+    PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+    PREFIX dbp: <http://dbpedia.org/property/>
+    PREFIX dbo: <http://dbpedia.org/ontology/>
+
     SELECT DISTINCT ?s
     FROM <http://marklogic.com/sem-app/dbpedia>
     WHERE
     {
-      { ?s a <http://dbpedia.org/ontology/Country> }
+      { ?s a dbo:Country }
       UNION
-      { ?s a <http://dbpedia.org/ontology/Company> }
+      { ?s a dbo:Company } .
+
+      { ?s dbp:commonName  ?name FILTER cts:contains(?name,"||$infobox:query||") }
+      UNION
+      { ?s dbp:companyName ?name FILTER cts:contains(?name,"||$infobox:query||") }
+      UNION
+      { ?s rdfs:label      ?name FILTER cts:contains(?name,"||$infobox:query||") } .
     }
-  ")
+
+  "
+  return
+    sem:sparql($sparql)
   ! map:get(.,"s")
+  ! sem:iri(.)
 ;
 
-(: These are the fields we'll apply the user's search to :)
-declare private variable $infobox:name-properties :=
-  ("http://dbpedia.org/property/commonName",
-   "http://dbpedia.org/property/companyName",
-   sem:curie-expand("rdfs:label"))
-;
+(: Since we're currently only displaying one infobox at a time, just pick the first matching one. :)
+declare private variable $infobox:iri := $infobox:matching-infobox-iris[1];
 
-(: Pick the first result returned from cts:search (relevance order) :)
-declare private variable $infobox:iri := 
-  (: Search only the DBPedia triples pertaining to the resource's names :)
-  cts:search(collection("http://marklogic.com/sem-app/dbpedia")
-                        //sem:triple[sem:subject    = $infobox:candidate-resource-iris]
-                                    [sem:predicate  = $infobox:name-properties]
-                        /sem:object,
-             $infobox:query)
-   [1] (: get the subject IRI for the first-matching triple :)
-  /parent::sem:triple
-  /sem:subject
-  /string(.)
-;
-
-(: Use SPARQL DESCRIBE to get back all the triples pertaining to the chosen resource :)
-declare private variable $infobox:triples as sem:triple* :=
-  sem:sparql("
-
-    DESCRIBE <"||$infobox:iri||">
-
-  ")
-;
+(: Get back all the relevant triples pertaining to the chosen resource :)
+declare private variable $infobox:triples as sem:triple* := sem:describe($infobox:iri);
 
 (: Return the triples in XML format, for rendering purposes :)
 declare variable $infobox:data as element() :=
