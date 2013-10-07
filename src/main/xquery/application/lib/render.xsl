@@ -25,6 +25,11 @@
 
   <xsl:variable name="q" select="xdmp:get-request-field('q','')"/>
 
+  <xsl:variable name="page-number-given" select="xdmp:get-request-field('p','')"/>
+  <xsl:variable name="page-number"
+                select="if ($page-number-given castable as xs:positiveInteger) then xs:integer($page-number-given) else 1"
+                as="xs:integer"/>
+
   <!-- These are lazily evaluated -->
   <xsl:variable name="results" select="data:get('results')"/>
 
@@ -77,6 +82,30 @@
     <xsl:attribute name="value">
       <xsl:value-of select="$data:q"/> 
     </xsl:attribute>
+  </xsl:template>
+
+  <xsl:template match="mt:pagination">
+    <xsl:for-each select="$results">
+      <form class="pagination" action="/search/" method="get">
+        <div>
+          <xsl:if test="$page-number gt 1">
+            <a class="prev" href="/search/?q={encode-for-uri($q)}&amp;p={$page-number - 1}">&#171;</a>
+            <xsl:text> </xsl:text>
+          </xsl:if>
+          <label>
+            <xsl:text>Page </xsl:text>
+            <input name="p" type="text" value="{$page-number}" size="4"/>
+            <input name="q" type="hidden" value="{$q}"/>
+            <xsl:text> of </xsl:text>
+            <xsl:value-of select="ceiling(@total div @page-length)"/>
+          </label>
+          <xsl:if test="@total gt (@start + @page-length - 1)">
+            <xsl:text> </xsl:text>
+            <a class="next" href="/search/?q={encode-for-uri($q)}&amp;p={$page-number + 1}">&#187;</a>
+          </xsl:if>
+        </div>
+      </form>
+    </xsl:for-each>
   </xsl:template>
 
   <!-- Post-process the facet lists to auto-expand when a descendant value is selected -->
