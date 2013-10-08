@@ -303,35 +303,10 @@
             <xsl:variable name="selected" select="my:is-constraint-selected(.)"/>
             <xsl:variable name="this-constraint" select="my:this-constraint(.)"/>
 
-            <!-- CHANGEME delete this element -->
-            <xsl:variable name="new-q" select="if ($selected) then search:remove-constraint($data:q, $this-constraint, $workaround-options)
-                                                              else concat($data:q,' ', $this-constraint)"/>
-            <!-- CHANGEME un-comment this element
             <xsl:variable name="new-q" select="if ($selected) then search:remove-constraint($data:q, $this-constraint, $data:options)
                                                               else concat($data:q,' ', $this-constraint)"/>
-            -->
             <xsl:value-of select="encode-for-uri($new-q)"/>
           </xsl:template>
-
-
-                  <!-- CHANGEME delete this cluster of elements -->
-                  <xsl:variable name="workaround-options" as="element()">
-                    <xsl:apply-templates mode="workaround-options" select="$data:options"/>
-                  </xsl:variable>
-                          <xsl:template mode="workaround-options" match="search:custom/@facet | search:start-facet | search:finish-facet"/>
-                          <xsl:template mode="workaround-options" match="search:parse/@ns">
-                            <xsl:attribute name="ns" select="'http://marklogic.com/sem-app/workaround'"/>
-                          </xsl:template>
-                          <xsl:template mode="workaround-options" match="search:parse/@at">
-                            <xsl:attribute name="at" select="'/lib/workaround-lib.xqy'"/>
-                          </xsl:template>
-                          <xsl:template mode="workaround-options" match="@* | node()">
-                            <xsl:copy>
-                              <xsl:apply-templates mode="#current" select="@* | node()"/>
-                            </xsl:copy>
-                          </xsl:template>
-
-
 
                   <xsl:function name="my:this-constraint" as="xs:string">
                     <xsl:param name="fv" as="element(search:facet-value)"/>
