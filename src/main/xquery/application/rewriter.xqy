@@ -5,6 +5,7 @@ let $path     := xdmp:get-request-path(),
 return
   (: Hide files we don't want to serve up :)
   if (starts-with($path,'/lib') or
+      starts-with($path,'/config') or
       starts-with($path,'README.txt')) then
     "/notfound.xqy"
   else

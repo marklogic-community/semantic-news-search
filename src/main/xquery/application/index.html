@@ -2,22 +2,23 @@
 <html xmlns:mt="http://marklogic.com/sem-app/templates" xmlns:replace="http://marklogic.com/sem-app/replace-att">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <title>News Search</title>
-  <link id="stylesheet" type="text/css" rel="stylesheet" href="/css/style.css" />
+  <title>Semantic News Search: Results</title>
+  <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+  <link id="stylesheet" type="text/css" rel="stylesheet" href="/css/style.css"/>
 </head>
 
 <body>
-  <div id="wrapper">
-
-    <h1>News Search</h1>
+  <div id="header">
+    <h1>Semantic News Search</h1>
 
     <div id="searchbar">
       <form id="search" action="/search/" method="get">
-        <input type="text" placeholder="SEARCH" name="q" mt:value="" id="search"/>
+        <input type="text" placeholder="SEARCH" name="q" mt:value="" id="searchbox"/>
+        <input type="submit" value="Search"/>
       </form>
-      <input type="submit" value="Search"/>
     </div>
 
   </div>
+
 </body>
 </html>

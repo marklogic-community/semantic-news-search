@@ -1,3 +1,11 @@
+<!-- This stylesheet handles the rendering of the .html templates.
+     It replaces tags and attributes in the "mt" namespace
+     with the dynamic data they reference. For example, an element
+     with mt:repeating="result" will get repeated once for each
+     search result, and each element inside it annotated with
+     mt:field="title" will get populated with the title of that
+     particular search result.
+-->
 <xsl:stylesheet version="2.0"
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
   xmlns:xs="http://www.w3.org/2001/XMLSchema"
@@ -23,12 +31,6 @@
 
   <xsl:include href="infobox.xsl"/>
 
-  <xsl:variable name="q" select="xdmp:get-request-field('q','')"/>
-
-  <xsl:variable name="page-number-given" select="xdmp:get-request-field('p','')"/>
-  <xsl:variable name="page-number"
-                select="if ($page-number-given castable as xs:positiveInteger) then xs:integer($page-number-given) else 1"
-                as="xs:integer"/>
 
   <!-- These are lazily evaluated -->
   <xsl:variable name="results" select="data:get('results')"/>
@@ -49,15 +51,6 @@
   <xsl:template match="mt:result-count">
     <xsl:value-of select="$results/@total"/>
   </xsl:template>
-
-  <!-- Pre-select the relevant sort option -->
-<!--
-  <xsl:template match="select[@mt:sortbox eq 'yes']/option/@mt:selected">
-    <xsl:if test="../@value eq $data:current-sort-order">
-      <xsl:attribute name="selected" select="'selected'"/>
-    </xsl:if>
-  </xsl:template>
--->
 
 
   <!-- Let the next rule copy @class when @mt:selected-class is also present -->
@@ -88,20 +81,20 @@
     <xsl:for-each select="$results">
       <form class="pagination" action="/search/" method="get">
         <div>
-          <xsl:if test="$page-number gt 1">
-            <a class="prev" href="/search/?q={encode-for-uri($q)}&amp;p={$page-number - 1}">&#171;</a>
+          <xsl:if test="$data:p gt 1">
+            <a class="prev" href="/search/?q={encode-for-uri($data:q)}&amp;p={$data:p - 1}">&#171;</a>
             <xsl:text> </xsl:text>
           </xsl:if>
           <label>
             <xsl:text>Page </xsl:text>
-            <input name="p" type="text" value="{$page-number}" size="4"/>
-            <input name="q" type="hidden" value="{$q}"/>
+            <input name="p" type="text" value="{$data:p}" size="4"/>
+            <input name="q" type="hidden" value="{$data:q}"/>
             <xsl:text> of </xsl:text>
             <xsl:value-of select="ceiling(@total div @page-length)"/>
           </label>
           <xsl:if test="@total gt (@start + @page-length - 1)">
             <xsl:text> </xsl:text>
-            <a class="next" href="/search/?q={encode-for-uri($q)}&amp;p={$page-number + 1}">&#187;</a>
+            <a class="next" href="/search/?q={encode-for-uri($data:q)}&amp;p={$data:p + 1}">&#187;</a>
           </xsl:if>
         </div>
       </form>
@@ -200,7 +193,6 @@
                              else if ($item-name eq 'facet')          then $data:facet-configs
                              else if ($item-name eq 'facet-value')    then my:facet-values($results, $parent-data/@name)
                              else if ($item-name eq 'category')       then data:categories($parent-data/@uri)
-(:                             else if ($item-name eq 'metadata')       then data:metadata($parent-data/@uri) :)
                              else ()"/>
           </xsl:function>
 
@@ -267,15 +259,6 @@
               <xsl:apply-templates mode="#current"/>
             </strong>
           </xsl:template>
-
-
-  <!--
-  <xsl:template match="mt:result-metadata">
-    <xsl:param name="data" tunnel="yes"/>
-    <xsl:value-of select="xdmp:quote($data)"/>
-  </xsl:template>
-  -->
-
 
 
   <!-- Replace attribute templates of the form {mt:var} -->
@@ -375,25 +358,6 @@
                                                               $c//@qtextpost),'')"/>
                     <xsl:sequence select="$constraints"/>
                   </xsl:function>
-
-                  <!-- Remove constraints recursively, in case someone tries to enter two constraints -->
-                  <xsl:function name="my:remove-constraints" as="xs:string">
-                    <xsl:param name="q" as="xs:string"/>
-                    <xsl:param name="constraints" as="xs:string*"/>
-                    <xsl:param name="options" as="element(search:options)"/>
-<xsl:value-of select="xdmp:log(concat('removing: ',$constraints))"/>
-                    <xsl:choose>
-                      <xsl:when test="not($constraints)">
-                        <xsl:sequence select="$q"/>
-                      </xsl:when>
-                      <xsl:otherwise>
-                        <xsl:variable name="new-q" select="search:remove-constraint($q, $constraints[1], $options)"/>
-                        <xsl:sequence select="if (count($constraints) gt 1) then my:remove-constraints($new-q,$constraints[position() gt 1],$options)
-                                                                            else $new-q"/>
-                      </xsl:otherwise>
-                    </xsl:choose>
-                  </xsl:function>
-
 
 
   <!-- Boilerplate, default copy behavior -->

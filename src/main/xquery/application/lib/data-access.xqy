@@ -16,7 +16,7 @@ declare default function namespace "http://www.w3.org/2005/xpath-functions";
 declare variable $q := xdmp:get-request-field("q","");
 
 (: The desired page number :)
-declare private variable $p := xs:integer(xdmp:get-request-field("p","1"));
+declare variable $p := xs:integer(xdmp:get-request-field("p","1"));
 
 (: Where all the facets are configured :)
 declare variable $facet-configs :=
@@ -91,13 +91,6 @@ declare private function data:start-index($page-length as xs:integer,
 declare function data:highlight($node) {
   cts:highlight($node, data:matchesAnyQuery($ctsQuery), <strong>{$cts:text}</strong>)
 };
-
-(: Get the metadata to display for a given document :)
-(:
-declare function data:metadata($uri) {
-  meta:data($uri)
-};
-:)
 
 declare function data:categories($uri) {
   meta:categories($uri, $results)

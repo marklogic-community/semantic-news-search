@@ -51,7 +51,7 @@ as schema-element(cts:query)
 
 
 (: This function tells the Search API the source of the
-   constraint's facet values: the "category" field range index.
+   constraint's facet values, e.g. the "category" field range index.
 :)
 declare function facet:start(
   $constraint as element(search:constraint),

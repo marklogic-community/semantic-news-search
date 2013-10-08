@@ -24,7 +24,9 @@ declare function meta:categories($uri, $results) {
     for $c in $categories order by $c/@name return $c
 };
 
-(:
+(: Here's how you might do the same thing using SPARQL,
+   e.g. when the desired property values aren't already stored
+   in the document's properties fragment.
 declare function meta:categories($uri, $results) {
 
 let $doc-id := doc($uri)/*:html/*:head/@resource/string()
@@ -51,32 +53,5 @@ let $categories :=
     )
   return
     for $c in $categories order by $c/@name return $c
-};
-:)
-
-
-(:
-declare function meta:data($uri) {
-  let $doc-id := doc($uri)/*:html/*:head/@resource/string()
-  return
-    sem:sparql("
-
-PREFIX c:   <http://s.opencalais.com/1/pred/>
-PREFIX r:   <http://s.opencalais.com/1/type/er/>
-PREFIX owl: <http://www.w3.org/2002/07/owl#>
-
-SELECT DISTINCT ?equiv
-WHERE {
-  ?DocInfo owl:sameAs <"||$doc-id||"> .
-
-  ?thing c:docId ?DocInfo ;
-         owl:sameAs ?equiv .
-
-  ?thing a ?type . FILTER (sameTerm(?type,r:Company) || sameTerm(?type,r:Country) 
-}
-")
-! map:get(., "equiv")
-! (if (starts-with(.,"http://dbpedia.org")) then . else ())
-! <thing></thing>
 };
 :)
