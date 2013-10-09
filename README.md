@@ -1,5 +1,4 @@
-Semantic News Search
-====================
+# Semantic News Search
 
 This sample application illustrates some uses of MarkLogic 7's
 new semantic search capabilities, including support for the SPARQL
@@ -9,8 +8,7 @@ For installation instructions, see "Installation steps" at the
 end of this document.
 
 
-Project overview
-----------------
+## Project overview
 
 The project consists of a MarkLogic search application enhanced
 with some RDF-based features:
@@ -28,8 +26,51 @@ MarkLogic's triple store. For infobox data, we used RDF from
 DBpedia.org, identified via OpenCalais-supplied sameAs links.
 
 
-Installation steps
-------------------
+## How the infobox works
+When the user types "ireland", for example, not only will all
+articles mentioning "ireland" be returned in the results, but an
+infobox containing some facts about the country of Ireland will
+be displayed on the right-hand side of the page.
+
+### Getting the data
+
+Once the pre-archived data has been loaded ([steps 1-3](#installation-steps)
+in the installation steps), we additionally need to associate the 
+OpenCalais-identified entities with corresponding DBpedia resources.
+Since our infobox will support both countries and companies, we use
+SPARQL to find all the currently (non-DBpedia) resources of those types,
+and then go to opencalais.com to retrieve further information about them.
+
+Once we have those sameAs links loaded, we can now pull in the necessary
+data from DBpedia.org.
+
+Each step in this two-step process uses the [sem:sparql()](http://docs.marklogic.com/sem:sparql)
+function, as well as the [sem:rdf-load()](http://docs.marklogic.com/sem:rdf-load) function:
+
+  1. [load-opencalais-sameAs-links.xqy](src/main/xquery/ingestion/load-opencalais-sameAs-links.xqy)
+  2. [load-dbpedia-data.xqy](src/main/xquery/ingestion/load-dbpedia-data.xqy)
+
+
+### Generating the infobox
+
+Once the data has been loaded, we use SPARQL to find the relevant
+infobox resource based on what the user typed into the search box.
+The SPARQL used in this module is an example of how you can use
+the [cts:contains()](http://docs.marklogic.com/cts:contains) function
+in a SPARQL FILTER expression, as well as the use of
+[sem:describe()](http://docs.marklogic.com/sem:describe) to return
+the triples relevant to the resource's infobox:
+
+  * [infobox.xqy](src/main/xquery/application/lib/infobox.xqy)
+
+Once the triples are returned (in XML format), their display
+is configured, depending on which type of resource is being
+rendered (a company or a country), and implemented, in this XSLT module:
+
+  * [infobox.xsl](src/main/xquery/application/lib/infobox.xsl)
+
+
+## Installation steps
 
 1. Configure database & servers using the packaging config.
 
@@ -69,7 +110,7 @@ Installation steps
 7. Test the app at http://localhost:8021/search. Faceting
    should now work.
 
-Steps to load the infobox data:
+### Loading the infobox data
 
 1. Fetch sameAs links from opencalais.com, by invoking this script:
    http://localhost:8023/ingestion/load-opencalais-sameAs-links.xqy
