@@ -2,8 +2,11 @@ Semantic News Search
 ====================
 
 This sample application illustrates some uses of MarkLogic 7's
-new semantic search capabilities. For installation instructions,
-see "Installation steps" at the end of this document.
+new semantic search capabilities, including support for the SPARQL
+RDF query language.
+
+For installation instructions, see "Installation steps" at the
+end of this document.
 
 
 Project overview
@@ -21,15 +24,19 @@ the OpenCalais web service to automatically identify article
 categories, as well as entities mentioned inside each article
 (such as countries, companies, people, cities, etc.). All such
 RDF metadata returned from the web service was then loaded into
-MarkLogic's triple store. (For details on how this data was prepared,
-see https://github.com/marklogic/semantic-news-search/blob/master/docs/documentation.txt)
+MarkLogic's triple store. For infobox data, we used RDF from
+DBpedia.org, identified via OpenCalais-supplied sameAs links.
 
 
 Installation steps
 ------------------
 
-1. Configure database & servers using the packaging config:
-   enhanced-search/config/enhanced-search-package.zip
+1. Configure database & servers using the packaging config.
+
+   Go to MarkLogic Server's [Configuration Manager page](http://localhost:8002),
+   click the "Import" tab, and browse to the packaging config
+   [zip file](config/enhanced-search-package.zip) provided in this project.
+   Then review and apply the imported server configuration changes.
 
 2. Load the pre-processed BBC documents using mlcp:
 
