@@ -27,16 +27,6 @@ import module namespace sem = "http://marklogic.com/semantics"
 ! map:get(., "entity")
 
 (: STEP 2: fetch and load the RDF from opencalais.com :)
-(: NOTE: d.opencalais.com seems to be intermittently unavailable;
-         try again later if necessary.
-         
-         Also, maddeningly, not all the sameAs links, particularly
-         the dbpedia.org ones, appear in every request. This too
-         is intermittent. You might want to run the script when
-         it appears that opencalais.com is actually returning
-         dbpedia.org sameAs links. Refresh this page as a test:
-         http://d.opencalais.com/er/company/ralg-tr1r/9bb26018-f501-329e-b57d-5e1ec16f1bd0.html
-         :)
 ! concat(., ".rdf")
 ! (try { (xdmp:log(concat("Loading ",.))),
           sem:rdf-load(., ("rdfxml","graph=http://marklogic.com/sem-app/sameAsLinks")) }
