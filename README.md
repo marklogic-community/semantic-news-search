@@ -1,7 +1,32 @@
-semantic-news-search
+Semantic News Search
 ====================
 
+This sample application illustrates some uses of MarkLogic 7's
+new semantic search capabilities. For installation instructions,
+see "Installation steps" at the end of this document.
+
+
+Project overview
+----------------
+
+The project consists of a MarkLogic search application enhanced
+with some RDF-based features:
+
+  * RDF-based infobox generation for countries and companies
+  * RDF-based search term expansion
+  * Display of RDF metadata associated with each search result
+
+The data set consists of articles from BBC World News. We used
+the OpenCalais web service to automatically identify article
+categories, as well as entities mentioned inside each article
+(such as countries, companies, people, cities, etc.). All such
+RDF metadata returned from the web service was then loaded into
+MarkLogic's triple store. (For details on how this data was prepared,
+see https://github.com/marklogic/semantic-news-search/blob/master/docs/documentation.txt)
+
+
 Installation steps
+------------------
 
 1. Configure database & servers using the packaging config:
    enhanced-search/config/enhanced-search-package.zip
