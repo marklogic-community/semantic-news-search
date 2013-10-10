@@ -50,7 +50,6 @@ function, as well as the [sem:rdf-load()](http://docs.marklogic.com/sem:rdf-load
   1. [load-opencalais-sameAs-links.xqy](src/main/xquery/ingestion/load-opencalais-sameAs-links.xqy)
   2. [load-dbpedia-data.xqy](src/main/xquery/ingestion/load-dbpedia-data.xqy)
 
-
 ### Generating the infobox
 
 Once the data has been loaded, we use SPARQL to find the relevant
@@ -132,6 +131,49 @@ to retrieve all the values for the given facet:
 
 The Search API combines the triple-range-query with the rest of the user's
 query, effectively making a combination query (full-text + RDF).
+
+
+## RDF-based search term expansion
+
+All of the facets except the "category" facet follow a similar pattern:
+"organization type", "person type", "product type", and "political event type".
+They categorize documents based on certain types of entities that they mention.
+For example, producttype:Aircraft will return all documents mentioning
+various specific aircrafts.
+
+The idea of RDF-based term expansion is that you could run a SPARQL query
+in order to leverage semantic information to expand the user's original query.
+In this case, we are expanding specific constraints for highlighting purposes only.
+For example, "Boeing 777" and "Air Force One" will automatically be highlighted
+in the search results even though the documents themselves do not mark up
+these phrases. We are using the triple store to augment the display of the results.
+
+You could expand a user's query via SPARQL to expand the range of documents
+that would be returned from a search, but in this case, since the documents
+are already categorized by facet, we are expanding the query only for the purpose
+of highlighting entities in the results. This is all done in a custom snippeting
+function in the following module:
+
+  * [lib/snippet.xqy](src/main/xquery/application/lib/snippet.xqy)
+
+The above script uses SPARQL to find a list of all instances of the given
+type (e.g. aircraft), constructing from that result a union of word queries
+that is then combined with the user's original query for highlighting purposes.
+This too is configured by [facets.xml](src/main/xquery/application/config/facets).
+
+
+## Displaying metadata in search results
+
+In addition to finding documents based on SPARQL queries, we can display additional
+metadata for each result based on a SPARQL query. In the case of this application,
+we are only displaying the category for each document. Since it has already
+been associated with the document via its properties, the code makes use of that
+fact. However, the alternative SPARQL-based implementation is also included
+(commented-out) to illustrate how this would be done in general, particularly when
+the metadata is not stored with the document and thus must be retrieved from the
+RDF graph.
+
+  * [lib/metadata.xqy](src/main/xquery/application/lib/metadata.xqy)
 
 
 ## Installation steps
