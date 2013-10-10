@@ -61,13 +61,77 @@ in a SPARQL FILTER expression, as well as the use of
 [sem:describe()](http://docs.marklogic.com/sem:describe) to return
 the triples relevant to the resource's infobox:
 
-  * [infobox.xqy](src/main/xquery/application/lib/infobox.xqy)
+  * [lib/infobox.xqy](src/main/xquery/application/lib/infobox.xqy)
 
 Once the triples are returned (in XML format), their display
 is configured, depending on which type of resource is being
 rendered (a company or a country), and implemented, in this XSLT module:
 
-  * [infobox.xsl](src/main/xquery/application/lib/infobox.xsl)
+  * [lib/infobox.xsl](src/main/xquery/application/lib/infobox.xsl)
+
+
+## RDF-based faceting
+
+In order to efficiently support result faceting on values appearing in an RDF graph,
+we automatically store the triples containing the values we want to facet on
+with the documents to which they apply. This also allows us to combine triple queries
+with other kinds of queries (such as word searches).
+
+### Storing triples with documents
+
+We need only store certain triples with the documents themselves, not the
+entire graph. To determine which triples to copy to the document (or its
+properties fragment, which is what this application does), we run a SPARQL
+query. The following module, which needs to run as a one-time process (in
+[step 5 below](#installation-steps)), calls [sem:sparql()](http://docs.marklogic.com/sem:sparql)
+to retrieve the relevant triples and then
+[xdmp:document-set-properties()](http://docs.marklogic.com/xdmp:document-set-properties)
+to store those triples with the document to which they apply:
+
+  * [store-triples-as-properties.xqy](src/main/xquery/ingestion/store-triples-as-properties.xqy)
+
+In order to enable reuse of the above script, the SPARQL queries themselves
+are configured in a separate config file, on which the application code also
+depends:
+
+  * [config/facets.xml](src/main/xquery/application/config/facets.xml)
+
+Each SPARQL query is run once for each document to find all the triples
+that use the RDF property we want to facet on (e.g. organizationtype).
+In each case, the $facetProperty and $docId SPARQL variables are replaced
+before passing the SPARQL query to [sem:sparql()](http://docs.marklogic.com/sem:sparql).
+
+Then, in order to support faceting on these values, we create a (field path)
+range index for each one (in [step 6 below](#installation-steps)). This too is
+done automatically, as configured by
+[facets.xml](src/main/xquery/application/config/facets.xml):
+
+  * [create-field-indexes.xqy](src/main/xquery/ingestion/create-field-indexes.xqy)
+
+Once the triples are copied and the indexes are created, the data is
+ready to be used by the app.
+ 
+### Using the Search API to facet on RDF values
+
+To facet on triples, we configure a custom constraint in the Search API
+options, one for each facet configured in
+[facets.xml](src/main/xquery/application/config/facets.xml). This is
+done in the `$options` variable definition in the following module:
+
+  * [lib/data-access.xqy](src/main/xquery/application/lib/data-access.xqy)
+
+Since it is a custom constraint, we need to write some XQuery to define
+what cts query is generated when the user enters (or clicks on) the
+given facet/constraint. The following module configures the behavior. It
+uses a [cts:triple-range-query()](http://docs.marklogic.com/cts:triple-range-query)
+to find documents matching the constraint, and it uses
+[cts:field-values()](http://docs.marklogic.com/cts:field-values)
+to retrieve all the values for the given facet:
+
+  * [lib/facet-lib.xqy](src/main/xquery/application/lib/facet-lib.xqy)
+
+The Search API combines the triple-range-query with the rest of the user's
+query, effectively making a combination query (full-text + RDF).
 
 
 ## Installation steps
