@@ -159,14 +159,14 @@ function in the following module:
 The above script uses SPARQL to find a list of all instances of the given
 type (e.g. aircraft), constructing from that result a union of word queries
 that is then combined with the user's original query for highlighting purposes.
-This too is configured by [facets.xml](src/main/xquery/application/config/facets).
+This too is configured by [facets.xml](src/main/xquery/application/config/facets.xml).
 
 
 ## Displaying metadata in search results
 
 In addition to finding documents based on SPARQL queries, we can display additional
 metadata for each result based on a SPARQL query. In the case of this application,
-we are only displaying the category for each document. Since it has already
+we are only displaying the categories for each document. Since they have already
 been associated with the document via its properties, the code makes use of that
 fact. However, the alternative SPARQL-based implementation is also included
 (commented-out) to illustrate how this would be done in general, particularly when
